@@ -3169,6 +3169,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "NewJeans Danielle",
+        img: "Danielle.jpg",
+        opts: {
+            group: ["NewJeans"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Kep1er Dayeon",
         img: "AL2O2Ru.jpeg",
         opts: {
