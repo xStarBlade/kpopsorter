@@ -3321,6 +3321,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "NewJeans Haerin",
+        img: "Ql6R9uT.png",
+        opts: {
+            group: ["NewJeans],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Nmixx Haewon",
         img: "dG6TDai.jpeg",
         opts: {
