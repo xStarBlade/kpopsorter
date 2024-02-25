@@ -3043,6 +3043,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "cignature Belle",
+        img: "A01bORf.jpg",
+        opts: {
+            group: ["cignature"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "BIBI",
         img: "MZYVjcB.jpeg",
         opts: {
@@ -3099,6 +3107,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "cignature Chaesol",
+        img: "VnqV3zY.png",
+        opts: {
+            group: ["cignature"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "CLASS:y Chaewon",
         img: "bBK9diE.png",
         opts: {
@@ -3124,7 +3140,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "cignature Chloe",
-        img: "UBDrA3z.jpeg",
+        img: "DBpKfwG.png",
         opts: {
             group: ["cignature"],
             gen: ["gen4"]
@@ -3236,7 +3252,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "cignature Dohee",
-        img: "GsC1rbA.jpeg",
+        img: "OoPAsbO.png",
         opts: {
             group: ["cignature"],
             gen: ["gen4"]
@@ -3567,6 +3583,14 @@ dataSet[dataSetVersion].characterData = [
         img: "Kpwpbas.jpeg",
         opts: {
             group: ["Weeekly"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "cignature Jeewon",
+        img: "YcQy1O7.png",
+        opts: {
+            group: ["cignature"],
             gen: ["gen4"]
         }
     },
@@ -4156,7 +4180,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "cignature Seline",
-        img: "P9L2iM6.jpeg",
+        img: "n1jyYqv.png",
         opts: {
             group: ["cignature"],
             gen: ["gen4"]
@@ -4164,7 +4188,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "cignature Semi",
-        img: "u2J7BeX.jpeg",
+        img: "a59eBqA.png",
         opts: {
             group: ["cignature"],
             gen: ["gen4"]
