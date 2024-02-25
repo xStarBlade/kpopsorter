@@ -3027,18 +3027,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "BIBI",
-        img: "MZYVjcB.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen4"]
-        }
-    },
-    {
         name: "Nmixx Bae",
         img: "4v7fawb.jpeg",
         opts: {
             group: ["Nmixx"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "NeonPunch Baekah",
+        img: "jb766sk.jpg",
+        opts: {
+            group: ["NeonPunch"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "BIBI",
+        img: "MZYVjcB.jpeg",
+        opts: {
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -3195,6 +3203,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "NeonPunch Dayeon",
+        img: "PFLLdqZ.jpg",
+        opts: {
+            group: ["NeonPunch"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Secret Number Denise",
         img: "KfSxnem.jpeg",
         opts: {
@@ -3223,6 +3239,14 @@ dataSet[dataSetVersion].characterData = [
         img: "GsC1rbA.jpeg",
         opts: {
             group: ["cignature"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "NeonPunch Dohee",
+        img: "CCxRN9i.jpg",
+        opts: {
+            group: ["NeonPunch"],
             gen: ["gen4"]
         }
     },
@@ -3495,6 +3519,14 @@ dataSet[dataSetVersion].characterData = [
         img: "SoY7pdM.jpeg",
         opts: {
             group: ["LOONA"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "NeonPunch Iaan",
+        img: "yqaQQC8.jpg",
+        opts: {
+            group: ["NeonPunch"],
             gen: ["gen4"]
         }
     },
@@ -3839,6 +3871,14 @@ dataSet[dataSetVersion].characterData = [
         img: "ghR9CsQ.jpeg",
         opts: {
             group: ["Cherry Bullet"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "NeonPunch May",
+        img: "9JZTOoZ.jpg",
+        opts: {
+            group: ["NeonPunch"],
             gen: ["gen4"]
         }
     },
