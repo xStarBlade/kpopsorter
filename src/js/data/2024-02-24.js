@@ -267,10 +267,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "DalShabet Ahyoung",
+        name: "Dal★Shabet Ahyoung",
         img: "u05uzw4.jpeg",
         opts: {
-            group: ["DalShabet"],
+            group: ["Dal★Shabet"],
             gen: ["gen2"]
         }
     },
