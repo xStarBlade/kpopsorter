@@ -3159,6 +3159,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "tripleS Chaewon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Fromis 9 Chaeyoung",
         img: "fRgO8rH.jpeg",
         opts: {
@@ -3227,6 +3235,14 @@ dataSet[dataSetVersion].characterData = [
         img: "6XoXRLX.jpeg",
         opts: {
             group: ["bugAboo"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "tripleS Dahyun",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
             gen: ["gen4"]
         }
     },
@@ -3503,6 +3519,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "tripleS Hayeon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Fromis 9 Hayoung",
         img: "j7D1QPu.jpeg",
         opts: {
@@ -3563,6 +3587,14 @@ dataSet[dataSetVersion].characterData = [
         img: "AmEu3MQ.png",
         opts: {
             group: ["CLASS:y"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "tripleS Hyerin",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
             gen: ["gen4"]
         }
     },
@@ -3751,10 +3783,34 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "tripleS Jiwoo",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "tripleS Jiyeon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "IZ*ONE Jo Yuri",
         img: "yuA83rb.jpeg",
         opts: {
             group: ["IZ*ONE"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "tripleS Joobin",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
             gen: ["gen4"]
         }
     },
@@ -3779,6 +3835,14 @@ dataSet[dataSetVersion].characterData = [
         img: "0UCxUoQ.jpeg",
         opts: {
             group: ["Rocket Punch"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "tripleS Kaede",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
             gen: ["gen4"]
         }
     },
@@ -3851,6 +3915,14 @@ dataSet[dataSetVersion].characterData = [
         img: "aNCymZr.jpeg",
         opts: {
             group: ["Cherry Bullet"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "tripleS Kotone",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
             gen: ["gen4"]
         }
     },
@@ -3967,6 +4039,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "tripleS Lynn",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Kep1er Mashiro",
         img: "QiAFTGI.jpeg",
         opts: {
@@ -3987,6 +4067,14 @@ dataSet[dataSetVersion].characterData = [
         img: "9JZTOoZ.jpg",
         opts: {
             group: ["NeonPunch"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "tripleS Mayu",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
             gen: ["gen4"]
         }
     },
@@ -4143,6 +4231,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "tripleS Nien",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Aespa Ningning",
         img: "zvTRLPD.jpeg",
         opts: {
@@ -4295,6 +4391,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "tripleS Seoah",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "H1-KEY Seoi",
         img: "sV3B4VD.jpeg",
         opts: {
@@ -4347,6 +4451,14 @@ dataSet[dataSetVersion].characterData = [
         img: "ysrCJoA.jpeg",
         opts: {
             group: ["Weeekly"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "tripleS Shion",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
             gen: ["gen4"]
         }
     },
@@ -4415,6 +4527,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "tripleS Sohyun",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Tri.be SongSun",
         img: "gPXlpkp.png",
         opts: {
@@ -4447,6 +4567,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "tripleS Soomin",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "woo!ah! Sora",
         img: "IcM5rvi.jpeg",
         opts: {
@@ -4475,6 +4603,14 @@ dataSet[dataSetVersion].characterData = [
         img: "KP9mD0a.jpeg",
         opts: {
             group: ["Billlie"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "tripleS Sullin",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
             gen: ["gen4"]
         }
     },
@@ -4591,6 +4727,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "tripleS Xinyu",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "IZ*ONE YENA",
         img: "Iu3kw6J.jpeg",
         opts: {
@@ -4627,6 +4771,14 @@ dataSet[dataSetVersion].characterData = [
         img: "pvfUDf0.jpeg",
         opts: {
             group: ["Rocket Punch"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "tripleS Yeonji",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
             gen: ["gen4"]
         }
     },
@@ -4699,6 +4851,14 @@ dataSet[dataSetVersion].characterData = [
         img: "mJi6Ydw.jpeg",
         opts: {
             group: ["Kep1er"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "tripleS Yubin",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["tripleS"],
             gen: ["gen4"]
         }
     },
