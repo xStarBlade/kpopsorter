@@ -4749,7 +4749,31 @@ dataSet[dataSetVersion].characterData = [
             group: ["Secret Number"],
             gen: ["gen4"]
         }
-    }
+    },
+    {
+        name: "UNIS Elisia",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "UNIS Gehlee",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "UNIS Hyeonju",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
     {
         name: "ILLIT Iroha",
         img: "Ql6R9uT.jpeg",
@@ -4757,7 +4781,15 @@ dataSet[dataSetVersion].characterData = [
             group: ["ILLIT"],
             gen: ["gen5"]
         }
-    }
+    },
+    {
+        name: "UNIS Kotoko",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
     {
         name: "ILLIT Minju",
         img: "Ql6R9uT.jpeg",
@@ -4765,7 +4797,7 @@ dataSet[dataSetVersion].characterData = [
             group: ["ILLIT"],
             gen: ["gen5"]
         }
-    }
+    },
     {
         name: "ILLIT Mokah",
         img: "Ql6R9uT.jpeg",
@@ -4773,7 +4805,23 @@ dataSet[dataSetVersion].characterData = [
             group: ["ILLIT"],
             gen: ["gen5"]
         }
-    }
+    },
+    {
+        name: "UNIS Nana",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "UNIS Seowon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
     {
         name: "ILLIT Wonhee",
         img: "Ql6R9uT.jpeg",
@@ -4781,7 +4829,15 @@ dataSet[dataSetVersion].characterData = [
             group: ["ILLIT"],
             gen: ["gen5"]
         }
-    }
+    },
+    {
+        name: "UNIS Yoona",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
     {
         name: "ILLIT Yunah",
         img: "Ql6R9uT.jpeg",
@@ -4789,5 +4845,13 @@ dataSet[dataSetVersion].characterData = [
             group: ["ILLIT"],
             gen: ["gen5"]
         }
-    }
+    },
+    {
+        name: "UNIS Yunha",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
 ];
