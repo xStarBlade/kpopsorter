@@ -4751,6 +4751,54 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "BabyMonster Asa",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["BabyMonster"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "BabyMonster Ahyeon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["BabyMonster"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "BabyMonster Chiquita",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["BabyMonster"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "QWER Chodan",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["QWER"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "VIV Dana",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["VIV"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Young Posse Doeun",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Young Posse"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "UNIS Elisia",
         img: "Ql6R9uT.jpeg",
         opts: {
@@ -4767,10 +4815,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "QWER Hina",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["QWER"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "UNIS Hyeonju",
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "VVUP Hyunny",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["VVUP"],
             gen: ["gen5"]
         }
     },
@@ -4783,10 +4847,50 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Young Posse Jiana",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Young Posse"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Young Posse Jieun",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Young Posse"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Candy Shop Julia",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Candy Shop"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "VVUP Kim",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["VVUP"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "UNIS Kotoko",
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "QWER Magenta",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["QWER"],
             gen: ["gen5"]
         }
     },
@@ -4815,10 +4919,122 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "VIV Nagomi",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["VIV"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "VVUP Paan",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["VVUP"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "BabyMonster Pharita",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["BabyMonster"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "BabyMonster Rami",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["BabyMonster"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "BabyMonster Rora",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["BabyMonster"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "BabyMonster Ruka",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["BabyMonster"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Candy Shop Sarang",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Candy Shop"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "UNIS Seowon",
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "QWER Siyeon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["QWER"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Candy Shop Soram",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Candy Shop"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "VVUP Suhyeon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["VVUP"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Candy Shop Sui",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Candy Shop"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Young Posse Sunhye",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Young Posse"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "VIV Tzuling",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["VIV"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "VIV Vella",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["VIV"],
             gen: ["gen5"]
         }
     },
@@ -4831,10 +5047,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Young Posse Yeonjung",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Young Posse"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "UNIS Yoona",
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Candy Shop Yuina",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Candy Shop"],
             gen: ["gen5"]
         }
     },
@@ -4851,6 +5083,14 @@ dataSet[dataSetVersion].characterData = [
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "VIV Yume",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["VIV"],
             gen: ["gen5"]
         }
     },
