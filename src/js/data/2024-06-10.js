@@ -26,6 +26,7 @@ dataSet[dataSetVersion].options = [
       {name: "Brave Girls", key: "Brave Girls"},
       {name: "Brown Eyed Girls", key: "Brown Eyed Girls"},
       {name: "bugAboo", key: "bugAboo"},
+      {name: "Busters β", key: "Busters β"},
       {name: "Busters", key: "Busters"},
       {name: "Candy Shop", key: "Candy Shop"},
       {name: "Cherry Bullet", key: "Cherry Bullet"},
@@ -1759,10 +1760,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Busters Chaeyeon",
+        name: "Busters β Chaeyeon",
         img: "PoRJPyp.jpeg",
         opts: {
-            group: ["Busters"],
+            group: ["Busters β"],
             gen: ["gen3"]
         }
     },
@@ -2071,10 +2072,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Busters Hyungseo",
+        name: "Busters β Hyungseo",
         img: "76eOWOk.png",
         opts: {
-            group: ["Busters"],
+            group: ["Busters β"],
             gen: ["gen3"]
         }
     },
@@ -2191,10 +2192,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Busters Jisoo",
+        name: "Busters β Jisoo",
         img: "feiCXXG.png",
         opts: {
-            group: ["Busters"],
+            group: ["Busters β"],
             gen: ["gen3"]
         }
     },
@@ -2383,18 +2384,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Busters Minji",
-        img: "7edXXtP.jpeg",
-        opts: {
-            group: ["Busters"],
-            gen: ["gen3"]
-        }
-    },
-    {
-        name: "Busters Minjung",
+        name: "Busters β Minjung",
         img: "qA8QcCK.png",
         opts: {
-            group: ["Busters"],
+            group: ["Busters β"],
             gen: ["gen3"]
         }
     },
@@ -2571,14 +2564,6 @@ dataSet[dataSetVersion].characterData = [
         img: "jSqz3aa.jpeg",
         opts: {
             group: ["Weki Meki"],
-            gen: ["gen3"]
-        }
-    },
-    {
-        name: "Busters Seira",
-        img: "31YFjob.jpeg",
-        opts: {
-            group: ["Busters"],
             gen: ["gen3"]
         }
     },
@@ -3535,6 +3520,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "PRIMROSE Hayun",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["PRIMROSE"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "LOONA Heejin",
         img: "WVsI25A.jpeg",
         opts: {
@@ -3691,6 +3684,14 @@ dataSet[dataSetVersion].characterData = [
         img: "y5TmZTG.jpeg",
         opts: {
             group: ["(G)I-dle"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Busters Jieun",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Busters"],
             gen: ["gen4"]
         }
     },
@@ -4095,6 +4096,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Busters Minji",
+        img: "7edXXtP.jpeg",
+        opts: {
+            group: ["Busters"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "NewJeans Minji",
         img: "WlQor8p.jpeg",
         opts: {
@@ -4191,10 +4200,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "PRIMROSE Nahyun",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["PRIMROSE"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "IZ*ONE Nako",
         img: "3Ql89jt.png",
         opts: {
             group: ["IZ*ONE"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Busters Nami",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Busters"],
             gen: ["gen4"]
         }
     },
@@ -4263,10 +4288,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "bugAboo Rainie",
-        img: "JV1pmC0.jpeg",
+        name: "PRIMROSE Rainie",
+        img: "Ql6R9uT.jpeg",
         opts: {
-            group: ["bugAboo"],
+            group: ["PRIMROSE"],
             gen: ["gen4"]
         }
     },
@@ -4315,6 +4340,14 @@ dataSet[dataSetVersion].characterData = [
         img: "nhfmbG5.png",
         opts: {
             group: ["ILY:1"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "PRIMROSE Ruby",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["PRIMROSE"],
             gen: ["gen4"]
         }
     },
@@ -4371,6 +4404,14 @@ dataSet[dataSetVersion].characterData = [
         img: "itxLiZW.jpeg",
         opts: {
             group: ["StayC"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Busters Seira",
+        img: "31YFjob.jpeg",
+        opts: {
+            group: ["Busters"],
             gen: ["gen4"]
         }
     },
@@ -4671,6 +4712,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Busters Takara",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Busters"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Billlie Tsuki",
         img: "dmrJFz9.jpeg",
         opts: {
@@ -4875,6 +4924,14 @@ dataSet[dataSetVersion].characterData = [
         img: "vAir9sK.jpeg",
         opts: {
             group: ["IZ*ONE"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Kep1er Yujin",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Kep1er"],
             gen: ["gen4"]
         }
     },
