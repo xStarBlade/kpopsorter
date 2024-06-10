@@ -3079,6 +3079,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "CLASS:y Boeun",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["CLASS:y"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "DreamNote Boni",
         img: "8JLrlbY.jpeg",
         opts: {
@@ -3351,6 +3359,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "LIMELIGHT Gaeun",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["LIMELIGHT"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Nature Gaga",
         img: "pO2yzmX.png",
         opts: {
@@ -3567,6 +3583,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "CLASS:y Hyungseo",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["CLASS:y"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "LOONA Hyunjin",
         img: "SoY7pdM.jpeg",
         opts: {
@@ -3659,6 +3683,14 @@ dataSet[dataSetVersion].characterData = [
         img: "M8fWt8Q.jpeg",
         opts: {
             group: ["Fromis 9"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "CLASS:y Jimin",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["CLASS:y"],
             gen: ["gen4"]
         }
     },
@@ -4175,6 +4207,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "CLASS:y Riwon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["CLASS:y"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "ILY:1 Rona",
         img: "nhfmbG5.png",
         opts: {
@@ -4267,6 +4307,14 @@ dataSet[dataSetVersion].characterData = [
         img: "zzBu01U.jpeg",
         opts: {
             group: ["GWSN"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "CLASS:y Seonyou",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["CLASS:y"],
             gen: ["gen4"]
         }
     },
