@@ -199,24 +199,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Cocona",
-        img: "Ql6R9uT.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen1"]
-        }
-    },
-    {
         name: "Gummy",
         img: "31YllBl.png",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "Kim Yeji",
-        img: "Ql6R9uT.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen1"]
@@ -271,32 +255,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Rothy",
-        img: "Ql6R9uT.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "Suzanne",
-        img: "Ql6R9uT.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen4"]
-        }
-    },
-    {
         name: "Yangpa",
         img: "1QKactI.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "Youha",
-        img: "Ql6R9uT.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen1"]
@@ -2567,10 +2527,18 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Blackpink Ros\u00e9",
+        name: "Blackpink Rose",
         img: "P0NEqEM.jpeg",
         opts: {
             group: ["Blackpink"],
+            gen: ["gen3"]
+        }
+    },
+    {
+        name: "Rothy",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["soloist"],
             gen: ["gen3"]
         }
     },
@@ -3095,6 +3063,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "KISS OF LIFE Belle",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["KISS OF LIFE"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "BIBI",
         img: "MZYVjcB.jpeg",
         opts: {
@@ -3227,6 +3203,14 @@ dataSet[dataSetVersion].characterData = [
         img: "t8Jbyq1.jpeg",
         opts: {
             group: ["LOONA"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Cocona",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -3459,6 +3443,14 @@ dataSet[dataSetVersion].characterData = [
         img: "eVUb6VA.jpeg",
         opts: {
             group: ["DreamNote"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "KISS OF LIFE Haneul",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["KISS OF LIFE"],
             gen: ["gen4"]
         }
     },
@@ -3743,6 +3735,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "KISS OF LIFE Julie",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["KISS OF LIFE"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Rocket Punch Juri",
         img: "0UCxUoQ.jpeg",
         opts: {
@@ -3795,6 +3795,14 @@ dataSet[dataSetVersion].characterData = [
         img: "SQe9B3t.jpeg",
         opts: {
             group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Kim Yeji",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -4075,6 +4083,14 @@ dataSet[dataSetVersion].characterData = [
         img: "z5JYUNc.jpeg",
         opts: {
             group: ["woo!ah!"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "KISS OF LIFE Natty",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["KISS OF LIFE"],
             gen: ["gen4"]
         }
     },
@@ -4463,6 +4479,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Suzanne",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["soloist"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Billlie Tsuki",
         img: "dmrJFz9.jpeg",
         opts: {
@@ -4607,6 +4631,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Youha",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["soloist"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "DreamNote Youi",
         img: "htfKw3r.jpeg",
         opts: {
@@ -4716,6 +4748,46 @@ dataSet[dataSetVersion].characterData = [
         opts: {
             group: ["Secret Number"],
             gen: ["gen4"]
+        }
+    }
+    {
+        name: "ILLIT Iroha",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ILLIT"],
+            gen: ["gen5"]
+        }
+    }
+    {
+        name: "ILLIT Minju",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ILLIT"],
+            gen: ["gen5"]
+        }
+    }
+    {
+        name: "ILLIT Mokah",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ILLIT"],
+            gen: ["gen5"]
+        }
+    }
+    {
+        name: "ILLIT Wonhee",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ILLIT"],
+            gen: ["gen5"]
+        }
+    }
+    {
+        name: "ILLIT Yunah",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ILLIT"],
+            gen: ["gen5"]
         }
     }
 ];
