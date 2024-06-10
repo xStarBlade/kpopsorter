@@ -4751,6 +4751,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Geenius Andamiro",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Geenius"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BabyMonster Asa",
         img: "Ql6R9uT.jpeg",
         opts: {
@@ -4887,10 +4895,42 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ReScene Liv",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ReScene"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "QWER Magenta",
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["QWER"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "ReScene May",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ReScene"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Geenius Mika",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Geenius"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "ReScene Minami",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ReScene"],
             gen: ["gen5"]
         }
     },
@@ -4983,6 +5023,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Geenius Sion",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Geenius"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "QWER Siyeon",
         img: "Ql6R9uT.jpeg",
         opts: {
@@ -5047,10 +5095,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ReScene Woni",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ReScene"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Young Posse Yeonjung",
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["Young Posse"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Geenius Yeyoung",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Geenius"],
             gen: ["gen5"]
         }
     },
@@ -5091,6 +5155,22 @@ dataSet[dataSetVersion].characterData = [
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["VIV"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Zena",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ReScene"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Geenius Zoe",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Geenius"],
             gen: ["gen5"]
         }
     },
