@@ -11,6 +11,7 @@ dataSet[dataSetVersion].options = [
       {name: "2NE1", key: "2NE1"},
       {name: "4Minute", key: "4Minute"},
       {name: "9Muses", key: "9Muses"},
+      {name: "ADYA", key: "ADYA"},
       {name: "Aespa", key: "Aespa"},
       {name: "After School", key: "After School"},
       {name: "Alice", key: "Alice"},
@@ -18,6 +19,7 @@ dataSet[dataSetVersion].options = [
       {name: "Apink", key: "Apink"},
       {name: "April", key: "April"},
       {name: "As One", key: "As One"},
+      {name: "BabyMonster", key: "BabyMonster"},
       {name: "BESTie", key: "BESTie"},
       {name: "Billlie", key: "Billlie"},
       {name: "Blackpink", key: "Blackpink"},
@@ -25,6 +27,7 @@ dataSet[dataSetVersion].options = [
       {name: "Brown Eyed Girls", key: "Brown Eyed Girls"},
       {name: "bugAboo", key: "bugAboo"},
       {name: "Busters", key: "Busters"},
+      {name: "Candy Shop", key: "Candy Shop"},
       {name: "Cherry Bullet", key: "Cherry Bullet"},
       {name: "Cignature", key: "Cignature"},
       {name: "CLASS:y", key: "CLASS:y"},
@@ -42,6 +45,7 @@ dataSet[dataSetVersion].options = [
       {name: "Fiestar", key: "Fiestar"},
       {name: "Fromis 9", key: "Fromis 9"},
       {name: "(G)I-dle", key: "(G)I-dle"},
+      {name: "Geenius", key: "Geenius"},
       {name: "GFriend", key: "GFriend"},
       {name: "Girl's Day", key: "Girl's Day"},
       {name: "Girls' Generation", key: "Girls' Generation"},
@@ -51,7 +55,8 @@ dataSet[dataSetVersion].options = [
       {name: "H1-KEY", key: "H1-KEY"},
       {name: "Hellovenus", key: "Hellovenus"},
       {name: "I.O.I", key: "I.O.I"},
-      {name: "I'LL-IT", key: "I'LL-IT"},
+      {name: "ICHILLIN", key: "ICHILLIN"},
+      {name: "ILLIT", key: "ILLIT"},
       {name: "ILY:1", key: "ILY:1"},
       {name: "ITZY", key: "ITZY"},
       {name: "IVE", key: "IVE"},
@@ -68,6 +73,7 @@ dataSet[dataSetVersion].options = [
       {name: "LIMELIGHT", key: "LIMELIGHT"},
       {name: "LOONA", key: "LOONA"},
       {name: "Lovelyz", key: "Lovelyz"},
+      {name: "Majors", key: "Majors"},
       {name: "Mamamoo", key: "Mamamoo"},
       {name: "mimiirose", key: "mimiirose"},
       {name: "Miss A", key: "Miss A"},
@@ -85,7 +91,9 @@ dataSet[dataSetVersion].options = [
       {name: "QWER", key: "QWER"},
       {name: "Rainbow", key: "Rainbow"},
       {name: "Red Velvet", key: "Red Velvet"},
+      {name: "ReScene", key: "ReScene"},
       {name: "Rocket Punch", key: "Rocket Punch"},
+      {name: "Rothy", key: "Rothy"},
       {name: "S.E.S.", key: "S.E.S."},
       {name: "Secret", key: "Secret"},
       {name: "Secret Number", key: "Secret Number"},
@@ -100,6 +108,10 @@ dataSet[dataSetVersion].options = [
       {name: "Tri.be", key: "Tri.be"},
       {name: "tripleS", key: "tripleS"},
       {name: "Twice", key: "Twice"},
+      {name: "UNI.T", key: "UNI.T"},
+      {name: "UNIS", key: "UNIS"},
+      {name: "VIV", key: "VIV"},
+      {name: "VVUP", key: "VVUP"},
       {name: "Weeekly", key: "Weeekly"},
       {name: "Weki Meki", key: "Weki Meki"},
       {name: "WJSN", key: "WJSN"},
@@ -107,7 +119,7 @@ dataSet[dataSetVersion].options = [
       {name: "woo!ah!", key: "woo!ah!"},
       {name: "X:IN", key: "X:IN"},
       {name: "XG", key: "XG"},
-      {name: "UNI.T", key: "UNI.T"},
+      {name: "Young Posse", key: "Young Posse"},
       {name: "Soloists", key: "soloist"}
     ]
   },
@@ -123,8 +135,48 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
     {
+        name: "As One Crystal",
+        img: "EGYUvjY.jpeg",
+        opts: {
+            group: ["As One"],
+            gen: ["gen1"]
+        }
+    },
+    {
+        name: "As One Min",
+        img: "hoFNepH.jpeg",
+        opts: {
+            group: ["As One"],
+            gen: ["gen1"]
+        }
+    },
+    {
+        name: "PAPAYA Go Naeun",
+        img: "69gH9za.jpeg",
+        opts: {
+            group: ["PAPAYA"],
+            gen: ["gen1"]
+        }
+    },
+    {
         name: "S.E.S. Bada",
         img: "EJAI9ha.jpeg",
+        opts: {
+            group: ["S.E.S."],
+            gen: ["gen1"]
+        }
+    },
+    {
+        name: "S.E.S. Eugene",
+        img: "qFgTDvT.jpeg",
+        opts: {
+            group: ["S.E.S."],
+            gen: ["gen1"]
+        }
+    },
+    {
+        name: "S.E.S. Shoo",
+        img: "gf48iHk.png",
         opts: {
             group: ["S.E.S."],
             gen: ["gen1"]
@@ -147,26 +199,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "As One Crystal",
-        img: "EGYUvjY.jpeg",
+        name: "Cocona",
+        img: "Ql6R9uT.jpeg",
         opts: {
-            group: ["As One"],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "S.E.S. Eugene",
-        img: "qFgTDvT.jpeg",
-        opts: {
-            group: ["S.E.S."],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "PAPAYA Go Naeun",
-        img: "69gH9za.jpeg",
-        opts: {
-            group: ["PAPAYA"],
+            group: ["soloist"],
             gen: ["gen1"]
         }
     },
@@ -179,10 +215,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Jaurim Kim Yuna",
-        img: "cJaGs9h.jpeg",
+        name: "Kim Yeji",
+        img: "Ql6R9uT.jpeg",
         opts: {
-            group: ["Jaurim"],
+            group: ["soloist"],
             gen: ["gen1"]
         }
     },
@@ -227,14 +263,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "As One Min",
-        img: "hoFNepH.jpeg",
-        opts: {
-            group: ["As One"],
-            gen: ["gen1"]
-        }
-    },
-    {
         name: "Park Jiyoon",
         img: "MZGbDVJ.jpeg",
         opts: {
@@ -243,16 +271,32 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "S.E.S. Shoo",
-        img: "gf48iHk.png",
+        name: "Rothy",
+        img: "Ql6R9uT.jpeg",
         opts: {
-            group: ["S.E.S."],
+            group: ["soloist"],
             gen: ["gen1"]
+        }
+    },
+    {
+        name: "Suzanne",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["soloist"],
+            gen: ["gen4"]
         }
     },
     {
         name: "Yangpa",
         img: "1QKactI.jpeg",
+        opts: {
+            group: ["soloist"],
+            gen: ["gen1"]
+        }
+    },
+    {
+        name: "Youha",
+        img: "Ql6R9uT.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen1"]
