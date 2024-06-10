@@ -3056,6 +3056,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "LAPILLUS Bessie",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["LAPILLUS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "BIBI",
         img: "MZYVjcB.jpeg",
         opts: {
@@ -3156,6 +3164,14 @@ dataSet[dataSetVersion].characterData = [
         img: "fRgO8rH.jpeg",
         opts: {
             group: ["Fromis 9"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "LAPILLUS Chanty",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["LAPILLUS"],
             gen: ["gen4"]
         }
     },
@@ -3420,6 +3436,14 @@ dataSet[dataSetVersion].characterData = [
         img: "Ql6R9uT.png",
         opts: {
             group: ["NewJeans"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "LAPILLUS Haeun",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["LAPILLUS"],
             gen: ["gen4"]
         }
     },
@@ -4472,10 +4496,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "LAPILLUS Seowon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["LAPILLUS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Fromis 9 Seoyeon",
         img: "Xrfy3lS.jpeg",
         opts: {
             group: ["Fromis 9"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "LAPILLUS Shana",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["LAPILLUS"],
             gen: ["gen4"]
         }
     },
@@ -4908,6 +4948,14 @@ dataSet[dataSetVersion].characterData = [
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "LAPILLUS Yue",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["LAPILLUS"],
             gen: ["gen4"]
         }
     },
