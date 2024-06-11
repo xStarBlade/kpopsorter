@@ -3384,6 +3384,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "CSR Duna",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["CSR"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "X:IN E.Sha",
         img: "Ql6R9uT.jpeg",
         opts: {
@@ -3452,6 +3460,14 @@ dataSet[dataSetVersion].characterData = [
         img: "pO2yzmX.png",
         opts: {
             group: ["Nature"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "CSR Geumhee",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["CSR"],
             gen: ["gen4"]
         }
     },
@@ -4600,6 +4616,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "CSR Seoyeon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["CSR"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Fromis 9 Seoyeon",
         img: "Xrfy3lS.jpeg",
         opts: {
@@ -4632,6 +4656,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "MAJORS Shinye",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["MAJORS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "tripleS Shion",
         img: "Ql6R9uT.jpeg",
         opts: {
@@ -4652,6 +4684,14 @@ dataSet[dataSetVersion].characterData = [
         img: "4BQ1fOw.jpeg",
         opts: {
             group: ["StayC"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "CSR Sihyeon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["CSR"],
             gen: ["gen4"]
         }
     },
@@ -4756,6 +4796,14 @@ dataSet[dataSetVersion].characterData = [
         img: "IcM5rvi.jpeg",
         opts: {
             group: ["woo!ah!"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "CSR Sua",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["CSR"],
             gen: ["gen4"]
         }
     },
@@ -4936,7 +4984,15 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE YENA",
+        name: "CSR Yeham",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["CSR"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "IZ*ONE Yena",
         img: "Iu3kw6J.jpeg",
         opts: {
             group: ["IZ*ONE"],
@@ -5116,6 +5172,14 @@ dataSet[dataSetVersion].characterData = [
         img: "BuRyLZf.jpeg",
         opts: {
             group: ["soloist"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "CSR Yuna",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["CSR"],
             gen: ["gen4"]
         }
     },
