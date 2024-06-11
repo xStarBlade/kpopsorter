@@ -1736,6 +1736,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Laysha Bitna",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Laysha"],
+            gen: ["gen3"]
+        }
+    },
+    {
         name: "WJSN Bona",
         img: "tKXYTSD.jpeg",
         opts: {
@@ -1748,6 +1756,14 @@ dataSet[dataSetVersion].characterData = [
         img: "J7WKqXB.jpeg",
         opts: {
             group: ["Alice"],
+            gen: ["gen3"]
+        }
+    },
+    {
+        name: "Laysha Chaejin",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Laysha"],
             gen: ["gen3"]
         }
     },
@@ -1976,6 +1992,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Laysha Goeun",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Laysha"],
+            gen: ["gen3"]
+        }
+    },
+    {
         name: "Pristin Gyeongwon",
         img: "nXrXa18.png",
         opts: {
@@ -2124,6 +2148,14 @@ dataSet[dataSetVersion].characterData = [
         img: "n1MFrpZ.jpeg",
         opts: {
             group: ["Twice"],
+            gen: ["gen3"]
+        }
+    },
+    {
+        name: "Laysha Jian",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Laysha"],
             gen: ["gen3"]
         }
     },
