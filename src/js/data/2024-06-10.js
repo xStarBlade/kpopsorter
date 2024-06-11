@@ -3721,6 +3721,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "NewJeans Hyein",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["NewJeans"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Craxy Hyejin",
         img: "Ql6R9uT.jpeg",
         opts: {
