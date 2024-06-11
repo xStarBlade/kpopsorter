@@ -3048,6 +3048,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "X:IN Aria",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["X:IN"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Nature Aurora",
         img: "yDQiKNB.jpeg",
         opts: {
@@ -3360,6 +3368,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "X:IN E.Sha",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["X:IN"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Everglow E:U",
         img: "JWAmY6N.jpeg",
         opts: {
@@ -3524,6 +3540,14 @@ dataSet[dataSetVersion].characterData = [
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["KISS OF LIFE"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "X:IN Hannah",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["X:IN"],
             gen: ["gen4"]
         }
     },
@@ -4324,6 +4348,22 @@ dataSet[dataSetVersion].characterData = [
         img: "zvTRLPD.jpeg",
         opts: {
             group: ["Aespa"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "X:IN Nizz",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["X:IN"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "X:IN Nova",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["X:IN"],
             gen: ["gen4"]
         }
     },
