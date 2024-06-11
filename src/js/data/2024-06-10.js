@@ -3176,6 +3176,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ICHILLIN Chaerin",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ICHILLIN"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "ITZY Chaeryeong",
         img: "ktFMVRd.jpeg",
         opts: {
@@ -3252,6 +3260,14 @@ dataSet[dataSetVersion].characterData = [
         img: "6VjYFLa.jpeg",
         opts: {
             group: ["mimiirose"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "ICHILLIN Chowon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ICHILLIN"],
             gen: ["gen4"]
         }
     },
@@ -3388,6 +3404,14 @@ dataSet[dataSetVersion].characterData = [
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["CSR"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "ICHILLIN E.ji",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ICHILLIN"],
             gen: ["gen4"]
         }
     },
@@ -3784,6 +3808,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ICHILLIN Jackie",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ICHILLIN"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Weeekly Jaehee",
         img: "Kpwpbas.jpeg",
         opts: {
@@ -3920,6 +3952,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ICHILLIN Jiyoon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ICHILLIN"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "IZ*ONE Jo Yuri",
         img: "yuA83rb.jpeg",
         opts: {
@@ -3932,6 +3972,14 @@ dataSet[dataSetVersion].characterData = [
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "ICHILLIN Joonie",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ICHILLIN"],
             gen: ["gen4"]
         }
     },
@@ -5004,6 +5052,14 @@ dataSet[dataSetVersion].characterData = [
         img: "v34n03f.jpeg",
         opts: {
             group: ["ITZY"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "ICHILLIN Yeju",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ICHILLIN"],
             gen: ["gen4"]
         }
     },
