@@ -34,6 +34,7 @@ dataSet[dataSetVersion].options = [
       {name: "CLASS:y", key: "CLASS:y"},
       {name: "CLC", key: "CLC"},
       {name: "Crayon Pop", key: "Crayon Pop"},
+      {name: "Craxy", key: "Craxy"},
       {name: "CSR", key: "CSR"},
       {name: "Dal★Shabet", key: "Dal★Shabet"},
       {name: "Davichi", key: "Davichi"},
@@ -3160,6 +3161,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ADYA Chaeeun",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ADYA"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Kep1er Chaehyun",
         img: "3iFkhIT.jpeg",
         opts: {
@@ -3712,6 +3721,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Craxy Hyejin",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Craxy"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "CLASS:y Hyeju",
         img: "AmEu3MQ.png",
         opts: {
@@ -4012,6 +4029,14 @@ dataSet[dataSetVersion].characterData = [
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Craxy Karin",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Craxy"],
             gen: ["gen4"]
         }
     },
@@ -4616,6 +4641,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ADYA Sena",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ADYA"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "tripleS Seoah",
         img: "Ql6R9uT.jpeg",
         opts: {
@@ -4656,6 +4689,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ADYA Seowon",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ADYA"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "LAPILLUS Seowon",
         img: "Ql6R9uT.jpeg",
         opts: {
@@ -4676,6 +4717,14 @@ dataSet[dataSetVersion].characterData = [
         img: "Xrfy3lS.jpeg",
         opts: {
             group: ["Fromis 9"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "ADYA Seungchae",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ADYA"],
             gen: ["gen4"]
         }
     },
@@ -4936,6 +4985,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Craxy Swan",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Craxy"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Purple Kiss Swan",
         img: "nu2C9mE.jpeg",
         opts: {
@@ -5092,6 +5149,14 @@ dataSet[dataSetVersion].characterData = [
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "ADYA Yeonsu",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["ADYA"],
             gen: ["gen4"]
         }
     },
@@ -5645,6 +5710,14 @@ dataSet[dataSetVersion].characterData = [
         opts: {
             group: ["ReScene"],
             gen: ["gen5"]
+        }
+    },
+    {
+        name: "Craxy Wooah",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Craxy"],
+            gen: ["gen4"]
         }
     },
     {
