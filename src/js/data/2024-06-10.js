@@ -3024,6 +3024,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "MAJORS Aki",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["MAJORS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Everglow Aisha",
         img: "rJa57AJ.jpeg",
         opts: {
@@ -3100,6 +3108,14 @@ dataSet[dataSetVersion].characterData = [
         img: "Ql6R9uT.jpeg",
         opts: {
             group: ["LAPILLUS"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "MAJORS Bian",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["MAJORS"],
             gen: ["gen4"]
         }
     },
@@ -3708,6 +3724,14 @@ dataSet[dataSetVersion].characterData = [
         img: "yqaQQC8.jpg",
         opts: {
             group: ["NeonPunch"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "MAJORS Ida",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["MAJORS"],
             gen: ["gen4"]
         }
     },
@@ -4808,6 +4832,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "MAJORS Suzy",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["MAJORS"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Purple Kiss Swan",
         img: "nu2C9mE.jpeg",
         opts: {
@@ -4844,6 +4876,14 @@ dataSet[dataSetVersion].characterData = [
         img: "uZywcNI.jpeg",
         opts: {
             group: ["Nature"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Majors Vita",
+        img: "Ql6R9uT.jpeg",
+        opts: {
+            group: ["Majors"],
             gen: ["gen4"]
         }
     },
