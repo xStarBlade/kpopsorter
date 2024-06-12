@@ -95,7 +95,6 @@ dataSet[dataSetVersion].options = [
       {name: "Red Velvet", key: "Red Velvet"},
       {name: "ReScene", key: "ReScene"},
       {name: "Rocket Punch", key: "Rocket Punch"},
-      {name: "Rothy", key: "Rothy"},
       {name: "S.E.S.", key: "S.E.S."},
       {name: "Secret", key: "Secret"},
       {name: "Secret Number", key: "Secret Number"},
