@@ -3088,10 +3088,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "cignature Belle",
+        name: "Cignature Belle",
         img: "A01bORf.jpg",
         opts: {
-            group: ["cignature"],
+            group: ["Cignature"],
             gen: ["gen4"]
         }
     },
@@ -3200,10 +3200,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "cignature Chaesol",
+        name: "Cignature Chaesol",
         img: "yslGnxy.jpeg",
         opts: {
-            group: ["cignature"],
+            group: ["Cignature"],
             gen: ["gen4"]
         }
     },
@@ -3248,10 +3248,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "cignature Chloe",
+        name: "Cignature Chloe",
         img: "FUvn8H4.jpeg",
         opts: {
-            group: ["cignature"],
+            group: ["Cignature"],
             gen: ["gen4"]
         }
     },
@@ -3384,10 +3384,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "cignature Dohee",
+        name: "Cignature Dohee",
         img: "wSQvUzn.jpeg",
         opts: {
-            group: ["cignature"],
+            group: ["Cignature"],
             gen: ["gen4"]
         }
     },
@@ -3848,10 +3848,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "cignature Jeewon",
+        name: "Cignature Jeewon",
         img: "T7Vi5qG.jpeg",
         opts: {
-            group: ["cignature"],
+            group: ["Cignature"],
             gen: ["gen4"]
         }
     },
@@ -4640,18 +4640,18 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "cignature Seline",
+        name: "Cignature Seline",
         img: "4sVbU3e.jpeg",
         opts: {
-            group: ["cignature"],
+            group: ["Cignature"],
             gen: ["gen4"]
         }
     },
     {
-        name: "cignature Semi",
+        name: "Cignature Semi",
         img: "bVA8iUN.jpeg",
         opts: {
-            group: ["cignature"],
+            group: ["Cignature"],
             gen: ["gen4"]
         }
     },
