@@ -5473,7 +5473,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Iroha",
-        img: "Ql6R9uT.jpeg",
+        img: "C0o9UV0.jpeg",
         opts: {
             group: ["ILLIT"],
             gen: ["gen5"]
@@ -5561,7 +5561,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Minju",
-        img: "Ql6R9uT.jpeg",
+        img: "HuBUFRd.jpeg",
         opts: {
             group: ["ILLIT"],
             gen: ["gen5"]
@@ -5569,7 +5569,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Mokah",
-        img: "Ql6R9uT.jpeg",
+        img: "VObJfa5.jpeg",
         opts: {
             group: ["ILLIT"],
             gen: ["gen5"]
@@ -5713,7 +5713,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Wonhee",
-        img: "Ql6R9uT.jpeg",
+        img: "ejTA8jD.jpeg",
         opts: {
             group: ["ILLIT"],
             gen: ["gen5"]
@@ -5769,7 +5769,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Yunah",
-        img: "Ql6R9uT.jpeg",
+        img: "8H5H1vN.jpeg",
         opts: {
             group: ["ILLIT"],
             gen: ["gen5"]
