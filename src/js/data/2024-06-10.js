@@ -3097,7 +3097,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KISS OF LIFE Belle",
-        img: "Ql6R9uT.jpeg",
+        img: "Jguc3nV.jpeg",
         opts: {
             group: ["KISS OF LIFE"],
             gen: ["gen4"]
@@ -3601,7 +3601,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KISS OF LIFE Haneul",
-        img: "Ql6R9uT.jpeg",
+        img: "azE5ie4.jpeg",
         opts: {
             group: ["KISS OF LIFE"],
             gen: ["gen4"]
@@ -4025,7 +4025,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KISS OF LIFE Julie",
-        img: "Ql6R9uT.jpeg",
+        img: "IMMl5qA.jpeg",
         opts: {
             group: ["KISS OF LIFE"],
             gen: ["gen4"]
@@ -4441,7 +4441,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KISS OF LIFE Natty",
-        img: "Ql6R9uT.jpeg",
+        img: "50ZgPlg.jpeg",
         opts: {
             group: ["KISS OF LIFE"],
             gen: ["gen4"]
