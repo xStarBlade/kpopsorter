@@ -3601,7 +3601,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KISS OF LIFE Haneul",
-        img: "azE5ie4.jpeg",
+        img: "w2UTkqT.jpeg",
         opts: {
             group: ["KISS OF LIFE"],
             gen: ["gen4"]
