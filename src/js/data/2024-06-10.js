@@ -1738,7 +1738,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Laysha Bitna",
-        img: "Ql6R9uT.jpeg",
+        img: "JdzKhix.jpeg",
         opts: {
             group: ["Laysha"],
             gen: ["gen3"]
@@ -1762,7 +1762,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Laysha Chaejin",
-        img: "Ql6R9uT.jpeg",
+        img: "5SZ8fgC.jpeg",
         opts: {
             group: ["Laysha"],
             gen: ["gen3"]
@@ -1994,7 +1994,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Laysha Goeun",
-        img: "Ql6R9uT.jpeg",
+        img: "Tr1jVqE.jpeg",
         opts: {
             group: ["Laysha"],
             gen: ["gen3"]
@@ -2154,7 +2154,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Laysha Jian",
-        img: "Ql6R9uT.jpeg",
+        img: "F847uwF.jpeg",
         opts: {
             group: ["Laysha"],
             gen: ["gen3"]
