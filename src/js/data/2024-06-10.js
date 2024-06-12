@@ -2562,7 +2562,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Rothy",
-        img: "Ql6R9uT.jpeg",
+        img: "UqQv6yn.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen3"]
@@ -3306,7 +3306,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Cocona",
-        img: "Ql6R9uT.jpeg",
+        img: "6xcvecN.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen4"]
@@ -4098,7 +4098,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kim Yeji",
-        img: "Ql6R9uT.jpeg",
+        img: "h4Y1196.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen4"]
@@ -5010,7 +5010,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Suzanne",
-        img: "Ql6R9uT.jpeg",
+        img: "hLLTFI6.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen4"]
@@ -5218,7 +5218,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Youha",
-        img: "Ql6R9uT.jpeg",
+        img: "NUG0C12.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen4"]
