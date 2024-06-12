@@ -147,7 +147,7 @@ img.left, img.right {
 }
 
 .sorter > .image {
-  width: 20vw;
+  width: 33.6vw;
   height: 33.6vw;
   margin: auto;
   grid-row: 1 / 7;
