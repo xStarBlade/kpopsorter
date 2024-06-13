@@ -3161,7 +3161,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ADYA Chaeeun",
-        img: "Ql6R9uT.jpeg",
+        img: "wOKid0w.jpeg",
         opts: {
             group: ["ADYA"],
             gen: ["gen4"]
@@ -4657,7 +4657,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ADYA Sena",
-        img: "Ql6R9uT.jpeg",
+        img: "O5zdPQi.jpeg",
         opts: {
             group: ["ADYA"],
             gen: ["gen4"]
@@ -4705,7 +4705,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ADYA Seowon",
-        img: "Ql6R9uT.jpeg",
+        img: "hiwLteZ.jpeg",
         opts: {
             group: ["ADYA"],
             gen: ["gen4"]
@@ -4737,7 +4737,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ADYA Seungchae",
-        img: "Ql6R9uT.jpeg",
+        img: "xOfMwLo.jpeg",
         opts: {
             group: ["ADYA"],
             gen: ["gen4"]
@@ -5169,7 +5169,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ADYA Yeonsu",
-        img: "Ql6R9uT.jpeg",
+        img: "EFnds4k.jpeg",
         opts: {
             group: ["ADYA"],
             gen: ["gen4"]
