@@ -3129,7 +3129,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLASS:y Boeun",
-        img: "Ql6R9uT.jpeg",
+        img: "XmMBzs6.jpeg",
         opts: {
             group: ["CLASS:y"],
             gen: ["gen4"]
@@ -3737,7 +3737,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLASS:y Hyeju",
-        img: "AmEu3MQ.png",
+        img: "ncU6XAU.jpeg",
         opts: {
             group: ["CLASS:y"],
             gen: ["gen4"]
@@ -3769,7 +3769,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLASS:y Hyungseo",
-        img: "Ql6R9uT.jpeg",
+        img: "1wQ1yi9.jpeg",
         opts: {
             group: ["CLASS:y"],
             gen: ["gen4"]
@@ -3897,7 +3897,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLASS:y Jimin",
-        img: "Ql6R9uT.jpeg",
+        img: "DtghmKC.jpeg",
         opts: {
             group: ["CLASS:y"],
             gen: ["gen4"]
@@ -4553,7 +4553,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLASS:y Riwon",
-        img: "Ql6R9uT.jpeg",
+        img: "hAbnQAg.jpeg",
         opts: {
             group: ["CLASS:y"],
             gen: ["gen4"]
@@ -4689,7 +4689,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLASS:y Seonyou",
-        img: "Ql6R9uT.jpeg",
+        img: "X1eCUDn.jpeg",
         opts: {
             group: ["CLASS:y"],
             gen: ["gen4"]
