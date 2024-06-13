@@ -5465,7 +5465,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "VVUP Hyunny",
-        img: "Ql6R9uT.jpeg",
+        img: "F81taPZ.jpeg",
         opts: {
             group: ["VVUP"],
             gen: ["gen5"]
@@ -5505,7 +5505,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "VVUP Kim",
-        img: "Ql6R9uT.jpeg",
+        img: "Ef9A4WL.jpeg",
         opts: {
             group: ["VVUP"],
             gen: ["gen5"]
@@ -5593,7 +5593,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "VVUP Paan",
-        img: "Ql6R9uT.jpeg",
+        img: "5UUaTGO.jpeg",
         opts: {
             group: ["VVUP"],
             gen: ["gen5"]
@@ -5672,14 +5672,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "VVUP Suhyeon",
-        img: "Ql6R9uT.jpeg",
-        opts: {
-            group: ["VVUP"],
-            gen: ["gen5"]
-        }
-    },
-    {
         name: "Candy Shop Sui",
         img: "Ql6R9uT.jpeg",
         opts: {
@@ -5692,6 +5684,14 @@ dataSet[dataSetVersion].characterData = [
         img: "GJhDon4.jpeg",
         opts: {
             group: ["Young Posse"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "VVUP Suyeon",
+        img: "NP9C2oAT.jpeg",
+        opts: {
+            group: ["VVUP"],
             gen: ["gen5"]
         }
     },
