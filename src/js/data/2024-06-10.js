@@ -5377,7 +5377,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Geenius Andamiro",
-        img: "Ql6R9uT.jpeg",
+        img: "TVsNNXN.jpeg",
         opts: {
             group: ["Geenius"],
             gen: ["gen5"]
@@ -5409,7 +5409,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "QWER Chodan",
-        img: "Ql6R9uT.jpeg",
+        img: "byzu5K7.jpeg",
         opts: {
             group: ["QWER"],
             gen: ["gen5"]
@@ -5449,7 +5449,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "QWER Hina",
-        img: "Ql6R9uT.jpeg",
+        img: "64zDgy6.jpeg",
         opts: {
             group: ["QWER"],
             gen: ["gen5"]
@@ -5529,7 +5529,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "QWER Magenta",
-        img: "Ql6R9uT.jpeg",
+        img: "RF7hqUU.jpeg",
         opts: {
             group: ["QWER"],
             gen: ["gen5"]
@@ -5545,7 +5545,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Geenius Mika",
-        img: "Ql6R9uT.jpeg",
+        img: "NLrJoKT.jpeg",
         opts: {
             group: ["Geenius"],
             gen: ["gen5"]
@@ -5649,7 +5649,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Geenius Sion",
-        img: "Ql6R9uT.jpeg",
+        img: "izovpNH.jpeg",
         opts: {
             group: ["Geenius"],
             gen: ["gen5"]
@@ -5657,7 +5657,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "QWER Siyeon",
-        img: "Ql6R9uT.jpeg",
+        img: "5Y8ilTb.jpeg",
         opts: {
             group: ["QWER"],
             gen: ["gen5"]
@@ -5745,7 +5745,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Geenius Yeyoung",
-        img: "Ql6R9uT.jpeg",
+        img: "1aDkGZf.jpeg",
         opts: {
             group: ["Geenius"],
             gen: ["gen5"]
@@ -5801,7 +5801,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Geenius Zoe",
-        img: "Ql6R9uT.jpeg",
+        img: "PJWcCQW.jpeg",
         opts: {
             group: ["Geenius"],
             gen: ["gen5"]
