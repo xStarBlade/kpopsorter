@@ -5417,7 +5417,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "VIV Dana",
-        img: "Ql6R9uT.jpeg",
+        img: "x3JZ1d7.jpeg",
         opts: {
             group: ["VIV"],
             gen: ["gen5"]
@@ -5585,7 +5585,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "VIV Nagomi",
-        img: "Ql6R9uT.jpeg",
+        img: "ELMicZy.jpeg",
         opts: {
             group: ["VIV"],
             gen: ["gen5"]
@@ -5697,7 +5697,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "VIV Tzuling",
-        img: "Ql6R9uT.jpeg",
+        img: "30HE2FP.jpeg",
         opts: {
             group: ["VIV"],
             gen: ["gen5"]
@@ -5705,7 +5705,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "VIV Vella",
-        img: "Ql6R9uT.jpeg",
+        img: "JtSDonR.jpeg",
         opts: {
             group: ["VIV"],
             gen: ["gen5"]
@@ -5785,7 +5785,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "VIV Yume",
-        img: "Ql6R9uT.jpeg",
+        img: "8Atm03E.jpeg",
         opts: {
             group: ["VIV"],
             gen: ["gen5"]
