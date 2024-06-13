@@ -5497,7 +5497,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Candy Shop Julia",
-        img: "Ql6R9uT.jpeg",
+        img: "5bzRzG7.jpeg",
         opts: {
             group: ["Candy Shop"],
             gen: ["gen5"]
@@ -5633,7 +5633,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Candy Shop Sarang",
-        img: "Ql6R9uT.jpeg",
+        img: "zihaQCh.jpeg",
         opts: {
             group: ["Candy Shop"],
             gen: ["gen5"]
@@ -5665,7 +5665,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Candy Shop Soram",
-        img: "Ql6R9uT.jpeg",
+        img: "qVWIHTZ.jpeg",
         opts: {
             group: ["Candy Shop"],
             gen: ["gen5"]
@@ -5673,7 +5673,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Candy Shop Sui",
-        img: "Ql6R9uT.jpeg",
+        img: "E5IWdrm.jpeg",
         opts: {
             group: ["Candy Shop"],
             gen: ["gen5"]
@@ -5761,7 +5761,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Candy Shop Yuina",
-        img: "Ql6R9uT.jpeg",
+        img: "4dpADmt.jpeg",
         opts: {
             group: ["Candy Shop"],
             gen: ["gen5"]
