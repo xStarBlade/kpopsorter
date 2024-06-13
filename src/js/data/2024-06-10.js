@@ -5385,7 +5385,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Asa",
-        img: "Ql6R9uT.jpeg",
+        img: "tO2XDKG.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
@@ -5393,7 +5393,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Ahyeon",
-        img: "Ql6R9uT.jpeg",
+        img: "PicOV6l.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
@@ -5401,7 +5401,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Chiquita",
-        img: "Ql6R9uT.jpeg",
+        img: "xVsGtcL.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
@@ -5601,7 +5601,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Pharita",
-        img: "Ql6R9uT.jpeg",
+        img: "5hQZpwd.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
@@ -5609,7 +5609,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Rami",
-        img: "Ql6R9uT.jpeg",
+        img: "JOjl7nz.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
@@ -5617,7 +5617,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Rora",
-        img: "Ql6R9uT.jpeg",
+        img: "Yt8lSx3.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
@@ -5625,7 +5625,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Ruka",
-        img: "Ql6R9uT.jpeg",
+        img: "V0yg7FU.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
