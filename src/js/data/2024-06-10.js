@@ -3665,7 +3665,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "PRIMROSE Hayun",
-        img: "Ql6R9uT.jpeg",
+        img: "pDhVPxV.jpeg",
         opts: {
             group: ["PRIMROSE"],
             gen: ["gen4"]
@@ -4409,7 +4409,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "PRIMROSE Nahyun",
-        img: "Ql6R9uT.jpeg",
+        img: "SfQeLB4.jpeg",
         opts: {
             group: ["PRIMROSE"],
             gen: ["gen4"]
@@ -4513,7 +4513,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "PRIMROSE Rainie",
-        img: "Ql6R9uT.jpeg",
+        img: "jgSbQGb.jpeg",
         opts: {
             group: ["PRIMROSE"],
             gen: ["gen4"]
@@ -4569,7 +4569,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "PRIMROSE Ruby",
-        img: "Ql6R9uT.jpeg",
+        img: "525Veg2.jpeg",
         opts: {
             group: ["PRIMROSE"],
             gen: ["gen4"]
