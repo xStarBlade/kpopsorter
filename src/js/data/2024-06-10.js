@@ -3337,7 +3337,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Danielle",
-        img: "5zFpXcm.jpg",
+        img: "e8CJKLH.jpg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
@@ -3545,7 +3545,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Haerin",
-        img: "Ql6R9uT.png",
+        img: "nfHOWRO.png",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
@@ -3617,7 +3617,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Hanni",
-        img: "BAQpf6d.jpeg",
+        img: "eFKlvEU.jpeg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
@@ -3721,7 +3721,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Hyein",
-        img: "Ql6R9uT.jpeg",
+        img: "u5AeCO0.jpeg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
@@ -4313,7 +4313,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Minji",
-        img: "WlQor8p.jpeg",
+        img: "C9ur0Zu.jpeg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
@@ -5521,7 +5521,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ReScene Liv",
-        img: "Ql6R9uT.jpeg",
+        img: "ctueVH1.jpeg",
         opts: {
             group: ["ReScene"],
             gen: ["gen5"]
@@ -5537,7 +5537,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ReScene May",
-        img: "Ql6R9uT.jpeg",
+        img: "nprutA2.jpeg",
         opts: {
             group: ["ReScene"],
             gen: ["gen5"]
@@ -5553,7 +5553,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ReScene Minami",
-        img: "Ql6R9uT.jpeg",
+        img: "ilkAKg6.jpeg",
         opts: {
             group: ["ReScene"],
             gen: ["gen5"]
@@ -5721,7 +5721,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ReScene Woni",
-        img: "Ql6R9uT.jpeg",
+        img: "TWsIto8.jpeg",
         opts: {
             group: ["ReScene"],
             gen: ["gen5"]
@@ -5793,7 +5793,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Zena",
-        img: "Ql6R9uT.jpeg",
+        img: "2WmOniX.jpeg",
         opts: {
             group: ["ReScene"],
             gen: ["gen5"]
