@@ -3481,7 +3481,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LIMELIGHT Gaeun",
-        img: "Ql6R9uT.jpeg",
+        img: "Um9zaAh.jpeg",
         opts: {
             group: ["LIMELIGHT"],
             gen: ["gen4"]
@@ -4289,7 +4289,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LIMELIGHT MiU",
-        img: "t6qoDwF.jpeg",
+        img: "SZUlQ8S.jpeg",
         opts: {
             group: ["LIMELIGHT"],
             gen: ["gen4"]
@@ -4929,7 +4929,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LIMELIGHT Suhye",
-        img: "Wzh3dxC.jpeg",
+        img: "dWG9fhr.jpeg",
         opts: {
             group: ["LIMELIGHT"],
             gen: ["gen4"]
