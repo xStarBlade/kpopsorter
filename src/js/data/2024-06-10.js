@@ -5689,7 +5689,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "VVUP Suyeon",
-        img: "NP9C2oAT.jpeg",
+        img: "NP9C2oA.jpeg",
         opts: {
             group: ["VVUP"],
             gen: ["gen5"]
