@@ -270,7 +270,7 @@ label:hover {
   display: flex;
   margin: 2em auto;
   max-width: 80vw;
-  background: #576a7d;
+  background: #000000;
 }
 
 @media all and (min-width: 600px) {
