@@ -1730,8 +1730,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Bolbbalgan4",
-        img: "HZIIQEY.jpeg",
+        name: "Bol4",
+        img: "ydDLtTc.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen3"]
