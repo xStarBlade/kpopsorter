@@ -203,7 +203,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Gummy",
-        img: "31YllBl.png",
+        img: "hk45cAu.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen1"]
