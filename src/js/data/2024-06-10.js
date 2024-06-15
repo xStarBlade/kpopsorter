@@ -2682,14 +2682,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "I.O.I Somi",
-        img: "gH5W882.jpeg",
-        opts: {
-            group: ["I.O.I"],
-            gen: ["gen3"]
-        }
-    },
-    {
         name: "KARD Somin",
         img: "D4NphCi.jpeg",
         opts: {
@@ -3270,6 +3262,14 @@ dataSet[dataSetVersion].characterData = [
         img: "OFDqTuX.jpeg",
         opts: {
             group: ["bugAboo"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Chungha",
+        img: "pqf6EXc.jpeg",
+        opts: {
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -4854,6 +4854,14 @@ dataSet[dataSetVersion].characterData = [
         img: "4lQXPvM.jpeg",
         opts: {
             group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Somi",
+        img: "V7dcQ5T.jpeg",
+        opts: {
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
