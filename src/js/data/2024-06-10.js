@@ -2289,6 +2289,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Lee Hi",
+        img: "266wUfR.jpeg",
+        opts: {
+            group: ["soloist"],
+            gen: ["gen3"]
+        }
+    },
+    {
         name: "Akmu Lee Suhyun",
         img: "YRy5K03.jpeg",
         opts: {
@@ -2573,14 +2581,6 @@ dataSet[dataSetVersion].characterData = [
         img: "jSqz3aa.jpeg",
         opts: {
             group: ["Weki Meki"],
-            gen: ["gen3"]
-        }
-    },
-    {
-        name: "Gugudan Sejeong",
-        img: "c8lddJe.jpeg",
-        opts: {
-            group: ["Gugudan"],
             gen: ["gen3"]
         }
     },
@@ -2989,6 +2989,14 @@ dataSet[dataSetVersion].characterData = [
         img: "yXMw1k9.jpeg",
         opts: {
             group: ["MAJORS"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Alexa",
+        img: "cku4QoL.jpeg",
+        opts: {
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -4645,6 +4653,14 @@ dataSet[dataSetVersion].characterData = [
         img: "U6HwnSs.jpeg",
         opts: {
             group: ["Busters"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Sejeong",
+        img: "gGQ3xkP.jpeg",
+        opts: {
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
