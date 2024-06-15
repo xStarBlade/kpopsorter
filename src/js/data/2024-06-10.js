@@ -5331,7 +5331,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kep1er Yujin",
-        img: "Ql6R9uT.jpeg",
+        img: "5Xq9NhU.jpeg",
         opts: {
             group: ["Kep1er"],
             gen: ["gen4"]
