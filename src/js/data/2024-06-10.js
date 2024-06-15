@@ -187,7 +187,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Baek Jiyoung",
-        img: "oxkOVz6.jpeg",
+        img: "CO3WqVj.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen1"]
