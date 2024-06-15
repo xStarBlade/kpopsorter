@@ -1810,14 +1810,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "I.O.I Chung ha",
-        img: "6dAvFeC.jpeg",
-        opts: {
-            group: ["I.O.I"],
-            gen: ["gen3"]
-        }
-    },
-    {
         name: "Sonamoo D.ana",
         img: "7pmUTmb.jpeg",
         opts: {
