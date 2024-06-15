@@ -8,6 +8,7 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict to certain groups.",
     checked: false,
     sub: [
+      {name: "Soloists", key: "soloist"}
       {name: "2NE1", key: "2NE1"},
       {name: "4Minute", key: "4Minute"},
       {name: "9Muses", key: "9Muses"},
@@ -122,7 +123,6 @@ dataSet[dataSetVersion].options = [
       {name: "X:IN", key: "X:IN"},
       {name: "XG", key: "XG"},
       {name: "Young Posse", key: "Young Posse"},
-      {name: "Soloists", key: "soloist"}
     ]
   },
   {
