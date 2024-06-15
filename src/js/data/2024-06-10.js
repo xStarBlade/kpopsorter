@@ -3347,7 +3347,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Pixy Dia",
-        img: "d8TzxWI.png",
+        img: "tKtpUVO.jpeg",
         opts: {
             group: ["Pixy"],
             gen: ["gen4"]
@@ -4115,7 +4115,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Cherry Bullet Kokoro",
-        img: "aNCymZr.jpeg",
+        img: "eQnJJ2x.jpeg",
         opts: {
             group: ["Cherry Bullet"],
             gen: ["gen4"]
@@ -4187,7 +4187,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Cherry Bullet Lin Lin",
-        img: "FqL9MWI.jpeg",
+        img: "MIFoTYn.jpeg",
         opts: {
             group: ["Cherry Bullet"],
             gen: ["gen4"]
