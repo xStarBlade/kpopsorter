@@ -714,14 +714,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Wonder Girls Hyuna",
-        img: "IQwVrnE.jpeg",
-        opts: {
-            group: ["Wonder Girls"],
-            gen: ["gen2"]
-        }
-    },
-    {
         name: "Rainbow Hyunyoung",
         img: "vAmAcai.png",
         opts: {
@@ -1458,14 +1450,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Wonder Girls Sunmi",
-        img: "0HA5ZPr.jpeg",
-        opts: {
-            group: ["Wonder Girls"],
-            gen: ["gen2"]
-        }
-    },
-    {
         name: "Girls' Generation Sunny",
         img: "wBYhaRw.jpeg",
         opts: {
@@ -2078,6 +2062,14 @@ dataSet[dataSetVersion].characterData = [
         img: "bLDLeLv.jpeg",
         opts: {
             group: ["Oh My Girl"],
+            gen: ["gen3"]
+        }
+    },
+    {
+        name: "Hyuna",
+        img: "IQwVrnE.jpeg",
+        opts: {
+            group: ["soloist"],
             gen: ["gen3"]
         }
     },
@@ -2750,6 +2742,14 @@ dataSet[dataSetVersion].characterData = [
         img: "E46v8Xi.jpeg",
         opts: {
             group: ["Pristin"],
+            gen: ["gen3"]
+        }
+    },
+    {
+        name: "Sunmi",
+        img: "0HA5ZPr.jpeg",
+        opts: {
+            group: ["soloist"],
             gen: ["gen3"]
         }
     },
