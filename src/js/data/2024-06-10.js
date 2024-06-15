@@ -3729,7 +3729,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Craxy Hyejin",
-        img: "Ql6R9uT.jpeg",
+        img: "0LwnBfv.jpeg",
         opts: {
             group: ["Craxy"],
             gen: ["gen4"]
@@ -4049,7 +4049,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Craxy Karin",
-        img: "Ql6R9uT.jpeg",
+        img: "mde1uJx.jpeg",
         opts: {
             group: ["Craxy"],
             gen: ["gen4"]
@@ -5001,7 +5001,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Craxy Swan",
-        img: "Ql6R9uT.jpeg",
+        img: "GFOiNN4.jpeg",
         opts: {
             group: ["Craxy"],
             gen: ["gen4"]
@@ -5729,7 +5729,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Craxy Wooah",
-        img: "Ql6R9uT.jpeg",
+        img: "RCo9ann.jpeg",
         opts: {
             group: ["Craxy"],
             gen: ["gen4"]
