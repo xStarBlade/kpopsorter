@@ -3906,10 +3906,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Nmixx Jinni",
+        name: "Jinni",
         img: "uFwhX3r.jpeg",
         opts: {
-            group: ["Nmixx"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
