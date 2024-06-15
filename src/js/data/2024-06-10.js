@@ -3025,7 +3025,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "MAJORS Aki",
-        img: "Ql6R9uT.jpeg",
+        img: "yXMw1k9.jpeg",
         opts: {
             group: ["MAJORS"],
             gen: ["gen4"]
@@ -3113,7 +3113,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "MAJORS Bian",
-        img: "Ql6R9uT.jpeg",
+        img: "kaAUj6E.jpeg",
         opts: {
             group: ["MAJORS"],
             gen: ["gen4"]
@@ -3793,7 +3793,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "MAJORS Ida",
-        img: "Ql6R9uT.jpeg",
+        img: "rCsE314.jpeg",
         opts: {
             group: ["MAJORS"],
             gen: ["gen4"]
@@ -4769,7 +4769,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "MAJORS Shinye",
-        img: "Ql6R9uT.jpeg",
+        img: "PT2brQ7.jpeg",
         opts: {
             group: ["MAJORS"],
             gen: ["gen4"]
@@ -4993,7 +4993,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "MAJORS Suzy",
-        img: "Ql6R9uT.jpeg",
+        img: "9cpIBr0.jpeg",
         opts: {
             group: ["MAJORS"],
             gen: ["gen4"]
@@ -5049,7 +5049,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Majors Vita",
-        img: "Ql6R9uT.jpeg",
+        img: "hbKgRJ3.jpeg",
         opts: {
             group: ["Majors"],
             gen: ["gen4"]
