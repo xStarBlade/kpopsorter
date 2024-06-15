@@ -5218,6 +5218,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kep1er Yeseo",
+        img: "tEKzL0d.jpeg",
+        opts: {
+            group: ["Kep1er"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Everglow Yiren",
         img: "3OJnqr6.jpeg",
         opts: {
