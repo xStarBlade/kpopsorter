@@ -3186,10 +3186,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Le Sserafim Chaewon",
+        name: "LE SSERAFIM Chaewon",
         img: "mkJfJiC.jpeg",
         opts: {
-            group: ["Le Sserafim"],
+            group: ["LE SSERAFIM"],
             gen: ["gen4"]
         }
     },
@@ -3438,6 +3438,14 @@ dataSet[dataSetVersion].characterData = [
         img: "tdR8pe2.jpeg",
         opts: {
             group: ["bugAboo"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "LE SSERAFIM Eunchae",
+        img: "T1jRggd.jpeg",
+        opts: {
+            group: ["LE SSERAFIM"],
             gen: ["gen4"]
         }
     },
@@ -3962,6 +3970,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Nmixx Jiwoo",
+        img: "T5rQHSo.jpeg",
+        opts: {
+            group: ["Nmixx"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "tripleS Jiwoo",
         img: "K3zlpot.jpeg",
         opts: {
@@ -4138,6 +4154,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Nmixx Kyujin",
+        img: "zVm5D52.jpeg",
+        opts: {
+            group: ["Nmixx"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "DreamNote Lara",
         img: "vDtITvk.jpeg",
         opts: {
@@ -4150,6 +4174,14 @@ dataSet[dataSetVersion].characterData = [
         img: "yj8ONrF.jpeg",
         opts: {
             group: ["soloist"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "IVE Leeseo",
+        img: "phGCH4X.jpeg",
+        opts: {
+            group: ["IVE"],
             gen: ["gen4"]
         }
     },
@@ -4586,10 +4618,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Le Sserafim Sakura",
+        name: "LE SSERAFIM Sakura",
         img: "eaZ3LVk.jpeg",
         opts: {
-            group: ["Le Sserafim"],
+            group: ["LE SSERAFIM"],
             gen: ["gen4"]
         }
     },
