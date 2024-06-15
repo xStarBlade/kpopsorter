@@ -3186,10 +3186,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Chaewon",
+        name: "Le Sserafim Chaewon",
         img: "mkJfJiC.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["Le Sserafim"],
             gen: ["gen4"]
         }
     },
@@ -3746,10 +3746,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Hyewon",
+        name: "Hyewon",
         img: "DN8c4L9.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -3986,10 +3986,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Jo Yuri",
+        name: "Jo Yuri",
         img: "yuA83rb.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -4130,10 +4130,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Kwon Eunbi",
+        name: "Kwon Eunbi",
         img: "PTIHNWz.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -4146,10 +4146,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Lee Chaeyeon",
+        name: "Lee Chaeyeon",
         img: "yj8ONrF.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -4586,10 +4586,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Sakura",
+        name: "Le Sserafim Sakura",
         img: "eaZ3LVk.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["Le Sserafim"],
             gen: ["gen4"]
         }
     },
@@ -5082,10 +5082,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Wonyoung",
+        name: "IVE Wonyoung",
         img: "ffiYmls.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["IVE"],
             gen: ["gen4"]
         }
     },
@@ -5122,10 +5122,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Yena",
+        name: "Yena",
         img: "Iu3kw6J.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -5282,10 +5282,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Yujin",
+        name: "IVE Yujin",
         img: "vAir9sK.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["IVE"],
             gen: ["gen4"]
         }
     },
