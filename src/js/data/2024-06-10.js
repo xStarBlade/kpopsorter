@@ -3002,7 +3002,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Everglow Aisha",
-        img: "rJa57AJ.jpeg",
+        img: "6jYDWBV.jpeg",
         opts: {
             group: ["Everglow"],
             gen: ["gen4"]
@@ -3410,7 +3410,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Everglow E:U",
-        img: "JWAmY6N.jpeg",
+        img: "fp3kbYa.jpeg",
         opts: {
             group: ["Everglow"],
             gen: ["gen4"]
@@ -4322,7 +4322,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Everglow Mia",
-        img: "9D1XiU4.jpeg",
+        img: "q1RJuKZ.jpeg",
         opts: {
             group: ["Everglow"],
             gen: ["gen4"]
@@ -4522,7 +4522,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Everglow Onda",
-        img: "ldQJqYq.jpeg",
+        img: "WPfrQxw.jpeg",
         opts: {
             group: ["Everglow"],
             gen: ["gen4"]
@@ -4834,7 +4834,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Everglow Sihyeon",
-        img: "mcUJPQo.jpeg",
+        img: "VFiQwlS.jpeg",
         opts: {
             group: ["Everglow"],
             gen: ["gen4"]
@@ -5234,7 +5234,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Everglow Yiren",
-        img: "3OJnqr6.jpeg",
+        img: "p6O67eB.jpeg",
         opts: {
             group: ["Everglow"],
             gen: ["gen4"]
