@@ -378,10 +378,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "2NE1 CL",
+        name: "CL",
         img: "6Qzsiwy.jpeg",
         opts: {
-            group: ["2NE1"],
+            group: ["soloist"],
             gen: ["gen2"]
         }
     },
