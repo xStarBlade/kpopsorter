@@ -219,7 +219,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Lee Sora",
-        img: "oG8QF7S.jpeg",
+        img: "4KwoL9Z.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen1"]
