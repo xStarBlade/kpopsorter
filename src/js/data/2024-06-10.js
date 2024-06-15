@@ -3409,7 +3409,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CSR Duna",
-        img: "Ql6R9uT.jpeg",
+        img: "pjkmOB0.jpeg",
         opts: {
             group: ["CSR"],
             gen: ["gen4"]
@@ -3497,7 +3497,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CSR Geumhee",
-        img: "Ql6R9uT.jpeg",
+        img: "JuMzXKt.jpeg",
         opts: {
             group: ["CSR"],
             gen: ["gen4"]
@@ -4721,7 +4721,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CSR Seoyeon",
-        img: "Ql6R9uT.jpeg",
+        img: "BH4k8DQ.jpeg",
         opts: {
             group: ["CSR"],
             gen: ["gen4"]
@@ -4801,7 +4801,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CSR Sihyeon",
-        img: "Ql6R9uT.jpeg",
+        img: "ZvnggdK.jpeg",
         opts: {
             group: ["CSR"],
             gen: ["gen4"]
@@ -4913,7 +4913,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CSR Sua",
-        img: "Ql6R9uT.jpeg",
+        img: "TW1CvLo.jpeg",
         opts: {
             group: ["CSR"],
             gen: ["gen4"]
@@ -5105,7 +5105,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CSR Yeham",
-        img: "Ql6R9uT.jpeg",
+        img: "u4MFGQh.jpeg",
         opts: {
             group: ["CSR"],
             gen: ["gen4"]
@@ -5313,7 +5313,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CSR Yuna",
-        img: "Ql6R9uT.jpeg",
+        img: "vTsZn3z.jpeg",
         opts: {
             group: ["CSR"],
             gen: ["gen4"]
