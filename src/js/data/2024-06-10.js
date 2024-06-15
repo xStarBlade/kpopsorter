@@ -52,7 +52,6 @@ dataSet[dataSetVersion].options = [
       {name: "GFriend", key: "GFriend"},
       {name: "Girl's Day", key: "Girl's Day"},
       {name: "Girls' Generation", key: "Girls' Generation"},
-      {name: "GOT the beat", key: "GOT the beat"},
       {name: "Gugudan", key: "Gugudan"},
       {name: "GWSN", key: "GWSN"},
       {name: "H1-KEY", key: "H1-KEY"},
