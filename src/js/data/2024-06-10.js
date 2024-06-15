@@ -3865,7 +3865,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Busters Jieun",
-        img: "Ql6R9uT.jpeg",
+        img: "zxEWZnZ.jpeg",
         opts: {
             group: ["Busters"],
             gen: ["gen4"]
@@ -4305,7 +4305,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Busters Minji",
-        img: "7edXXtP.jpeg",
+        img: "lbUw19z.jpeg",
         opts: {
             group: ["Busters"],
             gen: ["gen4"]
@@ -4425,7 +4425,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Busters Nami",
-        img: "Ql6R9uT.jpeg",
+        img: "ElTppB3.jpeg",
         opts: {
             group: ["Busters"],
             gen: ["gen4"]
@@ -4633,7 +4633,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Busters Seira",
-        img: "31YFjob.jpeg",
+        img: "U6HwnSs.jpeg",
         opts: {
             group: ["Busters"],
             gen: ["gen4"]
@@ -5025,7 +5025,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Busters Takara",
-        img: "Ql6R9uT.jpeg",
+        img: "YI4GXf5.jpeg",
         opts: {
             group: ["Busters"],
             gen: ["gen4"]
