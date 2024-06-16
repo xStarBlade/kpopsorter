@@ -3057,14 +3057,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Cignature Belle",
-        img: "A01bORf.jpg",
-        opts: {
-            group: ["Cignature"],
-            gen: ["gen4"]
-        }
-    },
-    {
         name: "KISS OF LIFE Belle",
         img: "Jguc3nV.jpeg",
         opts: {
