@@ -193,7 +193,7 @@ img.left, img.right {
 }
 
 .options > div {
-  font-size: 0.5625em;
+  font-size: 1em;
   display: flex;
 }
 
