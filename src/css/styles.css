@@ -189,7 +189,7 @@ img.left, img.right {
   text-align: left;
   grid-template-columns: repeat(5, 1fr);
   grid-gap: 10px;
-  width: 1200px;
+  width: 1000px;
 }
 
 .options > div {
