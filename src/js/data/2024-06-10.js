@@ -209,6 +209,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Lee Hyori",
+        img: "agNlY1T.jpeg",
+        opts: {
+            group: ["soloist"],
+            gen: ["gen1"]
+        }
+    },
+    {
         name: "Lee Soo Young",
         img: "5dNDrln.jpeg",
         opts: {
@@ -3853,6 +3861,14 @@ dataSet[dataSetVersion].characterData = [
         img: "y5TmZTG.jpeg",
         opts: {
             group: ["(G)I-dle"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Jessi",
+        img: "rK1S2bh.jpeg",
+        opts: {
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
