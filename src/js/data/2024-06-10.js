@@ -4201,6 +4201,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Lee Youngji",
+        img: "emkBoTh.jpeg",
+        opts: {
+            group: ["soloist"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "GWSN Lena",
         img: "9wnEfOL.jpeg",
         opts: {
