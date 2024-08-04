@@ -642,7 +642,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "T-ara Hwayoung",
-        img: "rvFXwzi.png",
+        img: "X1EYi5P.jpg",
         opts: {
             group: ["T-ara"],
             gen: ["gen2"]
