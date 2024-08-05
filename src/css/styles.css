@@ -290,13 +290,13 @@ label:hover {
 
 @media (min-width: 600px) {
   .trailing {
-      flex-flow: column wrap;
+      flex-flow: row wrap;
       max-height: calc(5 * (125px + 2px) + 1 * (15px + 2px));
   }
 }
 
 .result {
-  height: 30px;
+  height: auto;
   margin-bottom: -1px;
   display: grid;
   width: 211px;
@@ -308,10 +308,8 @@ label:hover {
 }
 
 .result.image {
-  height: 32vh;
-  width: 13vw;
-  min-height: 38vh;
-  min-width: 12vw;
+  height: 26vh;
+  width: auto;
   margin-bottom: 1em;
   display: grid;
   margin: 10px;
@@ -334,9 +332,10 @@ label:hover {
 }
 
 .result.image img {
-  height: 28vh;
+  height: 20vh;
+  width: auto;
+  max-width: 15vw;
   margin: 5px 20px;
-  max-width: 10vw;
   object-fit: cover;
   border-radius: 7px;
   box-shadow: 2px 1px 16px 0px rgb(0 0 0);
@@ -384,7 +383,7 @@ label:hover {
 
 .result > .right {
   width: 160px;
-  padding: 1px 0em 1px 0em;
+  padding: 0px;
   grid-column: 2 / 3;
   text-align: center;
   color: black;
