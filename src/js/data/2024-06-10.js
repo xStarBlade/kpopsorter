@@ -5002,7 +5002,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nmixx Sullyoon",
-        img: "Xzpy7WP.jpeg",
+        img: "ATUN9vV.jpeg",
         opts: {
             group: ["Nmixx"],
             gen: ["gen4"]
