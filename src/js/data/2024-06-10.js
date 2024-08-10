@@ -5810,7 +5810,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Young Posse Yeonjung",
-        img: "rArkqD7.jpeg",
+        img: "zcj38zs.jpeg",
         opts: {
             group: ["Young Posse"],
             gen: ["gen5"]
