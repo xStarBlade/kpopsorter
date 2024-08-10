@@ -4642,7 +4642,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Lightsum Sangah",
-        img: "B4MXH2e.jpeg",
+        img: "lm6Z64C.jpeg",
         opts: {
             group: ["Lightsum"],
             gen: ["gen4"]
