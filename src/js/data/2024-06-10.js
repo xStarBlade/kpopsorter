@@ -22,6 +22,7 @@ dataSet[dataSetVersion].options = [
       {name: "ARTMS", key: "ARTMS"},
       {name: "As One", key: "As One"},
       {name: "BabyMonster", key: "BabyMonster"},
+      {name: "BADVILLAIN", key: "BADVILLAIN"},
       {name: "BESTie", key: "BESTie"},
       {name: "Billlie", key: "Billlie"},
       {name: "Blackpink", key: "Blackpink"},
@@ -5137,6 +5138,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Craxy Wooah",
+        img: "RCo9ann.jpeg",
+        opts: {
+            group: ["Craxy"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "woo!ah! Wooyeon",
         img: "FDz26jz.jpeg",
         opts: {
@@ -5473,6 +5482,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "BADVILLAIN Chloe Young",
+        img: "YktwAYZ.jpeg",
+        opts: {
+            group: ["BADVILLAIN"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "QWER Chodan",
         img: "byzu5K7.jpeg",
         opts: {
@@ -5505,6 +5522,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "BADVILLAIN Emma",
+        img: "5fXc7ST.jpeg",
+        opts: {
+            group: ["BADVILLAIN"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "UNIS Gehlee",
         img: "qzabbpU.jpeg",
         opts: {
@@ -5521,6 +5546,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "BADVILLAIN HU'E",
+        img: "4UxjVze.jpeg",
+        opts: {
+            group: ["BADVILLAIN"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "UNIS Hyeonju",
         img: "kNK5W5m.jpeg",
         opts: {
@@ -5533,6 +5566,14 @@ dataSet[dataSetVersion].characterData = [
         img: "F81taPZ.jpeg",
         opts: {
             group: ["VVUP"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "BADVILLAIN INA",
+        img: "kPttwnY.jpeg",
+        opts: {
+            group: ["BADVILLAIN"],
             gen: ["gen5"]
         }
     },
@@ -5565,6 +5606,14 @@ dataSet[dataSetVersion].characterData = [
         img: "5bzRzG7.jpeg",
         opts: {
             group: ["Candy Shop"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "BADVILLAIN Kelly",
+        img: "1XzISBL.jpeg",
+        opts: {
+            group: ["BADVILLAIN"],
             gen: ["gen5"]
         }
     },
@@ -5777,6 +5826,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "BADVILLAIN Vin",
+        img: "4Lk2HsR.jpeg",
+        opts: {
+            group: ["BADVILLAIN"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "ILLIT Wonhee",
         img: "ejTA8jD.jpeg",
         opts: {
@@ -5790,14 +5847,6 @@ dataSet[dataSetVersion].characterData = [
         opts: {
             group: ["ReScene"],
             gen: ["gen5"]
-        }
-    },
-    {
-        name: "Craxy Wooah",
-        img: "RCo9ann.jpeg",
-        opts: {
-            group: ["Craxy"],
-            gen: ["gen4"]
         }
     },
     {
@@ -5845,6 +5894,14 @@ dataSet[dataSetVersion].characterData = [
         img: "h3vMhjE.jpeg",
         opts: {
             group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "BADVILLAIN YunSeo",
+        img: "7nZqfso.jpeg",
+        opts: {
+            group: ["BADVILLAIN"],
             gen: ["gen5"]
         }
     },
