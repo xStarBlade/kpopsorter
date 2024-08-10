@@ -5138,14 +5138,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Craxy Wooah",
-        img: "RCo9ann.jpeg",
-        opts: {
-            group: ["Craxy"],
-            gen: ["gen4"]
-        }
-    },
-    {
         name: "woo!ah! Wooyeon",
         img: "FDz26jz.jpeg",
         opts: {
@@ -5847,6 +5839,14 @@ dataSet[dataSetVersion].characterData = [
         opts: {
             group: ["ReScene"],
             gen: ["gen5"]
+        }
+    },
+    {
+        name: "Craxy Wooah",
+        img: "RCo9ann.jpeg",
+        opts: {
+            group: ["Craxy"],
+            gen: ["gen4"]
         }
     },
     {
