@@ -1777,14 +1777,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Busters β Chaeyeon",
-        img: "PoRJPyp.jpeg",
-        opts: {
-            group: ["Busters β"],
-            gen: ["gen3"]
-        }
-    },
-    {
         name: "Dia Chaeyeon",
         img: "ZgJblRe.jpeg",
         opts: {
