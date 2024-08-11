@@ -4116,7 +4116,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kim Yeji",
-        img: "h4Y1196.jpeg",
+        img: "GPQOilU.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen4"]
