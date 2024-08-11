@@ -226,8 +226,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Lee Soo Young",
-        img: "5dNDrln.jpeg",
+        name: "Lee SooYoung",
+        img: "emHLjnC.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen1"]
