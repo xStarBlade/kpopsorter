@@ -65,6 +65,7 @@ dataSet[dataSetVersion].options = [
       {name: "ITZY", key: "ITZY"},
       {name: "IVE", key: "IVE"},
       {name: "IZ*ONE", key: "IZ*ONE"},
+      {name: "izna", key: "izna"},
       {name: "Kara", key: "Kara"},
       {name: "Kep1er", key: "Kep1er"},
       {name: "KISS OF LIFE", key: "KISS OF LIFE"},
@@ -5466,6 +5467,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "izna Bang Jeemin",
+        img: "8WKv7Sn.jpeg",
+        opts: {
+            group: ["izna"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BabyMonster Chiquita",
         img: "xVsGtcL.jpeg",
         opts: {
@@ -5478,6 +5487,14 @@ dataSet[dataSetVersion].characterData = [
         img: "YktwAYZ.jpeg",
         opts: {
             group: ["BADVILLAIN"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "izna Choi Jungeun",
+        img: "7mNfEZz.jpeg",
+        opts: {
+            group: ["izna"],
             gen: ["gen5"]
         }
     },
@@ -5578,6 +5595,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "izna Jeong Saebi",
+        img: "hre5vlq.jpeg",
+        opts: {
+            group: ["izna"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Young Posse Jiana",
         img: "Yplr4oF.jpeg",
         opts: {
@@ -5618,6 +5643,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "izna Koko",
+        img: "LEV1Txg.jpeg",
+        opts: {
+            group: ["izna"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "UNIS Kotoko",
         img: "ySG7Isw.jpeg",
         opts: {
@@ -5638,6 +5671,14 @@ dataSet[dataSetVersion].characterData = [
         img: "RF7hqUU.jpeg",
         opts: {
             group: ["QWER"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "izna Mai",
+        img: "oqcKJjQ.jpeg",
+        opts: {
+            group: ["izna"],
             gen: ["gen5"]
         }
     },
@@ -5734,6 +5775,14 @@ dataSet[dataSetVersion].characterData = [
         img: "V0yg7FU.jpeg",
         opts: {
             group: ["BabyMonster"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "izna Ryu Sarang",
+        img: "Hc4K0qC.jpeg",
+        opts: {
+            group: ["izna"],
             gen: ["gen5"]
         }
     },
@@ -5862,6 +5911,14 @@ dataSet[dataSetVersion].characterData = [
         img: "1aDkGZf.jpeg",
         opts: {
             group: ["Geenius"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "izna Yoon Jiyoon",
+        img: "6Nf7aXZ.jpeg",
+        opts: {
+            group: ["izna"],
             gen: ["gen5"]
         }
     },
