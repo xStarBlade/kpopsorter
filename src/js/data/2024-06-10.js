@@ -706,7 +706,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Girls' Generation Hyo",
+        name: "Girls' Generation Hyoyeon",
         img: "dS8UPyw.jpeg",
         opts: {
             group: ["Girls' Generation"],
