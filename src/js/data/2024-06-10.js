@@ -5132,7 +5132,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Wonyoung",
-        img: "ffiYmls.jpeg",
+        img: "OZcWB92.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
