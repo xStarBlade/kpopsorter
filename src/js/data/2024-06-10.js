@@ -2468,7 +2468,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Twice Nayeon",
-        img: "rMTKhtO.jpeg",
+        img: "9UkPffk.jpeg",
         opts: {
             group: ["Twice"],
             gen: ["gen3"]
@@ -3612,7 +3612,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Hanni",
-        img: "eFKlvEU.jpeg",
+        img: "edQPBic.jpeg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
