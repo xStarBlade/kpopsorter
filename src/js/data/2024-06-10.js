@@ -2428,7 +2428,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Twice Momo",
-        img: "L08Fqco.jpeg",
+        img: "mOtUd1y.jpeg",
         opts: {
             group: ["Twice"],
             gen: ["gen3"]
@@ -3468,7 +3468,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Gaeul",
-        img: "T8Z3Ygf.jpeg",
+        img: "vSMtX6i.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
