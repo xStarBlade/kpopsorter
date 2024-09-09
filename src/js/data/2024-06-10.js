@@ -2132,7 +2132,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Twice Jeongyeon",
-        img: "n1MFrpZ.jpeg",
+        img: "jZOnKRS.jpeg",
         opts: {
             group: ["Twice"],
             gen: ["gen3"]
@@ -2780,7 +2780,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Twice Tzuyu",
-        img: "WAvCrsx.jpeg",
+        img: "6LkJlbB.jpeg",
         opts: {
             group: ["Twice"],
             gen: ["gen3"]
