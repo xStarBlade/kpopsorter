@@ -5714,7 +5714,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "ILLIT Mokah",
+        name: "ILLIT Moka",
         img: "VObJfa5.jpeg",
         opts: {
             group: ["ILLIT"],
