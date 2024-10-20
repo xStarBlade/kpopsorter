@@ -123,7 +123,6 @@ dataSet[dataSetVersion].options = [
       {name: "Wonder Girls", key: "Wonder Girls"},
       {name: "woo!ah!", key: "woo!ah!"},
       {name: "X:IN", key: "X:IN"},
-      {name: "XG", key: "XG"},
       {name: "Young Posse", key: "Young Posse"},
     ]
   },
