@@ -4123,7 +4123,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kim Yooyeon",
-        img: "https://imgur.com/5LWT9r4.jpeg",
+        img: "https://imgur.com/5LWT9r4.jpg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
