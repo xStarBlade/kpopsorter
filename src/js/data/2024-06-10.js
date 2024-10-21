@@ -5835,7 +5835,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Young Posse Sunhye",
-        img: "dNDke4u.jpeg",
+        img: "gH32ZaX.jpeg",
         opts: {
             group: ["Young Posse"],
             gen: ["gen5"]
@@ -5899,7 +5899,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Young Posse Yeonjung",
-        img: "zcj38zs.jpeg",
+        img: "e5nSjoM.jpeg",
         opts: {
             group: ["Young Posse"],
             gen: ["gen5"]
