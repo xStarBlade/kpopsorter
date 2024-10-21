@@ -4051,7 +4051,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kaede",
-        img: "fdDXo7F.jpeg",
+        img: "5meSlya.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
