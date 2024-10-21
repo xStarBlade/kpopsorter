@@ -5267,7 +5267,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Yoon Seoyeon",
-        img: "W9s8QlT.jpeg",
+        img: "J1eGsww.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
