@@ -4091,7 +4091,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kim Chaeyeon",
-        img: "gyhIW6r.jpeg",
+        img: "2TIwTLM.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
