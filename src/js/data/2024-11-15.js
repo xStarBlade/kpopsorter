@@ -3011,7 +3011,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Everglow Aisha",
-        img: "8t1iL0B.jpeg",
+        img: "HP35cqr.jpeg",
         opts: {
             group: ["Everglow"],
             gen: ["gen4"]
