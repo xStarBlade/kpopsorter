@@ -2787,7 +2787,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Red Velvet Wendy",
-        img: "WH9rr6x.jpeg",
+        img: "yOJJBHh.jpeg",
         opts: {
             group: ["Red Velvet"],
             gen: ["gen3"]
@@ -2899,7 +2899,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Red Velvet Yeri",
-        img: "MPGNtBJ.jpeg",
+        img: "l1yefUF.jpeg",
         opts: {
             group: ["Red Velvet"],
             gen: ["gen3"]
