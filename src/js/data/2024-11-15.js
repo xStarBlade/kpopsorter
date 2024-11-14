@@ -3467,7 +3467,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Gaeul",
-        img: "72CzqDl.jpeg",
+        img: "7IyXWMO.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
@@ -4179,7 +4179,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Leeseo",
-        img: "phGCH4X.jpeg",
+        img: "QcPmAJS.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
