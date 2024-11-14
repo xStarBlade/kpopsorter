@@ -1787,7 +1787,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Twice Chaeyoung",
-        img: "QNcbQ6B.jpeg",
+        img: "iJPTcmB.jpeg",
         opts: {
             group: ["Twice"],
             gen: ["gen3"]
