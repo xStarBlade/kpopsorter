@@ -4075,7 +4075,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LE SSERAFIM Kazuha",
-        img: "Wvk9PQY.jpeg",
+        img: "a9qd93W.jpeg",
         opts: {
             group: ["LE SSERAFIM"],
             gen: ["gen4"]
