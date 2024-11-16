@@ -3315,7 +3315,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Danielle",
-        img: "XRxbZyo.jpg",
+        img: "UxUWGfn.jpg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
@@ -3715,7 +3715,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Hyein",
-        img: "u5AeCO0.jpeg",
+        img: "Z86ZSMK.jpeg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
@@ -4347,7 +4347,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Minji",
-        img: "cjccOk2.jpeg",
+        img: "nKWRKR1.jpeg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
