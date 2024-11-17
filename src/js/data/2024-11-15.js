@@ -1827,7 +1827,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Momoland Daisy",
-        img: "KV06GVf.jpeg",
+        img: "crgJd3M.jpeg",
         opts: {
             group: ["Momoland"],
             gen: ["gen3"]
@@ -2771,7 +2771,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Momoland Taeha",
-        img: "QUbhYcj.png",
+        img: "Wte9KmK.png",
         opts: {
             group: ["Momoland"],
             gen: ["gen3"]
