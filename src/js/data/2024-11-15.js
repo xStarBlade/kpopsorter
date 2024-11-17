@@ -3691,14 +3691,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Hitomi",
-        img: "dD1LwN0.png",
-        opts: {
-            group: ["IZ*ONE"],
-            gen: ["gen4"]
-        }
-    },
-    {
         name: "Kep1er Huening Bahiyyih",
         img: "kIRtP4b.jpeg",
         opts: {
@@ -5524,7 +5516,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Say My Name Dohee",
-        img: "8H5H1vN.jpeg",
+        img: "hPxFu6w.jpeg",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
@@ -5564,7 +5556,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Say My Name Hitomi",
-        img: "8H5H1vN.jpeg",
+        img: "dD1LwN0.png",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
@@ -5644,7 +5636,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Say My Name Junhwi",
-        img: "8H5H1vN.jpeg",
+        img: "urRjvWR.jpeg",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
@@ -5652,7 +5644,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Say My Name Kanny",
-        img: "8H5H1vN.jpeg",
+        img: "jxsuN4H.jpeg",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
@@ -5724,7 +5716,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Say My Name Mei",
-        img: "8H5H1vN.jpeg",
+        img: "EFj7ifZ.jpeg",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
@@ -5844,7 +5836,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Say My Name Seungjoo",
-        img: "8H5H1vN.jpeg",
+        img: "EQwNv0a.jpeg",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
@@ -5868,7 +5860,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Say My Name Soha",
-        img: "8H5H1vN.jpeg",
+        img: "XZHupO8.jpeg",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
