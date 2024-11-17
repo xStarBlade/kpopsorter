@@ -3635,7 +3635,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Haseul",
-        img: "jPpp2t2.jpeg",
+        img: "ZQMnhFc.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
@@ -3931,7 +3931,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Jinsoul",
-        img: "mhYU3fx.jpeg",
+        img: "XytS54M.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
