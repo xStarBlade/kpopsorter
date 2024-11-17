@@ -99,6 +99,7 @@ dataSet[dataSetVersion].options = [
       {name: "ReScene", key: "ReScene"},
       {name: "Rocket Punch", key: "Rocket Punch"},
       {name: "S.E.S.", key: "S.E.S."},
+      {name: "Say My Name", key: "Say My Name"},
       {name: "Secret", key: "Secret"},
       {name: "Secret Number", key: "Secret Number"},
       {name: "SeeYa", key: "SeeYa"},
@@ -5522,6 +5523,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Say My Name Dohee",
+        img: "8H5H1vN.jpeg",
+        opts: {
+            group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "UNIS Elisia",
         img: "n74uqxX.jpeg",
         opts: {
@@ -5550,6 +5559,14 @@ dataSet[dataSetVersion].characterData = [
         img: "64zDgy6.jpeg",
         opts: {
             group: ["QWER"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Say My Name Hitomi",
+        img: "8H5H1vN.jpeg",
+        opts: {
+            group: ["Say My Name"],
             gen: ["gen5"]
         }
     },
@@ -5626,6 +5643,22 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Say My Name Junhwi",
+        img: "8H5H1vN.jpeg",
+        opts: {
+            group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Say My Name Kanny",
+        img: "8H5H1vN.jpeg",
+        opts: {
+            group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BADVILLAIN Kelly",
         img: "1XzISBL.jpeg",
         opts: {
@@ -5686,6 +5719,14 @@ dataSet[dataSetVersion].characterData = [
         img: "nprutA2.jpeg",
         opts: {
             group: ["ReScene"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Say My Name Mei",
+        img: "8H5H1vN.jpeg",
+        opts: {
+            group: ["Say My Name"],
             gen: ["gen5"]
         }
     },
@@ -5802,6 +5843,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Say My Name Seungjoo",
+        img: "8H5H1vN.jpeg",
+        opts: {
+            group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Geenius Sion",
         img: "izovpNH.jpeg",
         opts: {
@@ -5814,6 +5863,14 @@ dataSet[dataSetVersion].characterData = [
         img: "5Y8ilTb.jpeg",
         opts: {
             group: ["QWER"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Say My Name Soha",
+        img: "8H5H1vN.jpeg",
+        opts: {
+            group: ["Say My Name"],
             gen: ["gen5"]
         }
     },
