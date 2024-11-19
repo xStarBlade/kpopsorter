@@ -80,6 +80,7 @@ dataSet[dataSetVersion].options = [
       {name: "Lovelyz", key: "Lovelyz"},
       {name: "Majors", key: "Majors"},
       {name: "Mamamoo", key: "Mamamoo"},
+      {name: "Meovv", key: "Meovv"},
       {name: "mimiirose", key: "mimiirose"},
       {name: "Miss A", key: "Miss A"},
       {name: "Momoland", key: "Momoland"},
@@ -5435,6 +5436,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "BabyMonster Ahyeon",
+        img: "PicOV6l.jpeg",
+        opts: {
+            group: ["BabyMonster"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Geenius Andamiro",
         img: "TVsNNXN.jpeg",
         opts: {
@@ -5443,16 +5452,16 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "BabyMonster Asa",
-        img: "tO2XDKG.jpeg",
+        name: "Meovv Anna",
+        img: "30HE2FP.jpeg",
         opts: {
-            group: ["BabyMonster"],
+            group: ["Meovv"],
             gen: ["gen5"]
         }
     },
     {
-        name: "BabyMonster Ahyeon",
-        img: "PicOV6l.jpeg",
+        name: "BabyMonster Asa",
+        img: "tO2XDKG.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
@@ -5531,10 +5540,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Meovv Ella",
+        img: "30HE2FP.jpeg",
+        opts: {
+            group: ["Meovv"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BADVILLAIN Emma",
         img: "5fXc7ST.jpeg",
         opts: {
             group: ["BADVILLAIN"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Meovv Gawon",
+        img: "30HE2FP.jpeg",
+        opts: {
+            group: ["Meovv"],
             gen: ["gen5"]
         }
     },
@@ -5771,6 +5796,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Meovv Narin",
+        img: "30HE2FP.jpeg",
+        opts: {
+            group: ["Meovv"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "VVUP Paan",
         img: "5UUaTGO.jpeg",
         opts: {
@@ -5863,6 +5896,14 @@ dataSet[dataSetVersion].characterData = [
         img: "XZHupO8.jpeg",
         opts: {
             group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Meovv Sooin",
+        img: "30HE2FP.jpeg",
+        opts: {
+            group: ["Meovv"],
             gen: ["gen5"]
         }
     },
