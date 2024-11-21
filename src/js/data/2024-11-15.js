@@ -5469,7 +5469,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "izna Bang Jeemin",
-        img: "8WKv7Sn.jpeg",
+        img: "lrXlqeL.jpeg",
         opts: {
             group: ["izna"],
             gen: ["gen5"]
@@ -5493,7 +5493,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "izna Choi Jungeun",
-        img: "7mNfEZz.jpeg",
+        img: "eCc4XCR.jpeg",
         opts: {
             group: ["izna"],
             gen: ["gen5"]
@@ -5629,7 +5629,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "izna Jeong Saebi",
-        img: "hre5vlq.jpeg",
+        img: "kR87C0a.jpeg",
         opts: {
             group: ["izna"],
             gen: ["gen5"]
@@ -5693,7 +5693,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "izna Koko",
-        img: "LEV1Txg.jpeg",
+        img: "qCkU4bv.jpeg",
         opts: {
             group: ["izna"],
             gen: ["gen5"]
@@ -5725,7 +5725,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "izna Mai",
-        img: "oqcKJjQ.jpeg",
+        img: "iMvu9cX.jpeg",
         opts: {
             group: ["izna"],
             gen: ["gen5"]
@@ -5845,7 +5845,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "izna Ryu Sarang",
-        img: "Hc4K0qC.jpeg",
+        img: "L2cPQZG.jpeg",
         opts: {
             group: ["izna"],
             gen: ["gen5"]
