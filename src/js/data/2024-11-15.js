@@ -12,6 +12,7 @@ dataSet[dataSetVersion].options = [
       {name: "2NE1", key: "2NE1"},
       {name: "4Minute", key: "4Minute"},
       {name: "9Muses", key: "9Muses"},
+      {name: "ablume", key: "ablume"},
       {name: "ADYA", key: "ADYA"},
       {name: "Aespa", key: "Aespa"},
       {name: "After School", key: "After School"},
@@ -5501,6 +5502,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ablume Aran",
+        img: "Q0Xr4Tk.jpeg",
+        opts: {
+            group: ["ablume"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BabyMonster Asa",
         img: "Aqoad9q.jpeg",
         opts: {
@@ -5885,6 +5894,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ablume Saena",
+        img: "F9NXkOX.jpeg",
+        opts: {
+            group: ["ablume"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "izna Ryu Sarang",
         img: "L2cPQZG.jpeg",
         opts: {
@@ -5913,6 +5930,14 @@ dataSet[dataSetVersion].characterData = [
         img: "EQwNv0a.jpeg",
         opts: {
             group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "ablume Sio",
+        img: "ISgrlw7.jpeg",
+        opts: {
+            group: ["ablume"],
             gen: ["gen5"]
         }
     },
