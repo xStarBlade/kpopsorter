@@ -48,6 +48,7 @@ dataSet[dataSetVersion].options = [
       {name: "EXID", key: "EXID"},
       {name: "f(x)", key: "f(x)"},
       {name: "Fiestar", key: "Fiestar"},
+      {name: "FIFTY FIFTY", key: "FIFTY FIFTY"},
       {name: "Fromis 9", key: "Fromis 9"},
       {name: "(G)I-dle", key: "(G)I-dle"},
       {name: "Geenius", key: "Geenius"},
@@ -3044,6 +3045,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "FIFTY FIFTY Athena",
+        img: "yKnI76g.png",
+        opts: {
+            group: ["FIFTY FIFTY"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Nature Aurora",
         img: "yDQiKNB.jpeg",
         opts: {
@@ -3208,6 +3217,14 @@ dataSet[dataSetVersion].characterData = [
         img: "fRgO8rH.jpeg",
         opts: {
             group: ["Fromis 9"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "FIFTY FIFTY Chanelle",
+        img: "yKnI76g.png",
+        opts: {
+            group: ["FIFTY FIFTY"],
             gen: ["gen4"]
         }
     },
@@ -3576,6 +3593,14 @@ dataSet[dataSetVersion].characterData = [
         img: "utoAJKi.jpeg",
         opts: {
             group: ["mimiirose"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "FIFTY FIFTY Hana",
+        img: "yKnI76g.png",
+        opts: {
+            group: ["FIFTY FIFTY"],
             gen: ["gen4"]
         }
     },
@@ -4072,6 +4097,14 @@ dataSet[dataSetVersion].characterData = [
         img: "a9qd93W.jpeg",
         opts: {
             group: ["LE SSERAFIM"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "FIFTY FIFTY Keena",
+        img: "yKnI76g.png",
+        opts: {
+            group: ["FIFTY FIFTY"],
             gen: ["gen4"]
         }
     },
@@ -5232,6 +5265,14 @@ dataSet[dataSetVersion].characterData = [
         img: "tEKzL0d.jpeg",
         opts: {
             group: ["Kep1er"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "FIFTY FIFTY Yewon",
+        img: "yKnI76g.png",
+        opts: {
+            group: ["FIFTY FIFTY"],
             gen: ["gen4"]
         }
     },
