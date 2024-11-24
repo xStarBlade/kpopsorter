@@ -77,9 +77,9 @@ dataSet[dataSetVersion].options = [
       {name: "Laysha", key: "Laysha"},
       {name: "LE SSERAFIM", key: "LE SSERAFIM"},
       {name: "Lightsum", key: "Lightsum"},
-      {name: "LIMELIGHT", key: "LIMELIGHT"},
       {name: "Loossemble", key: "Loossemble"},
       {name: "Lovelyz", key: "Lovelyz"},
+      {name: "Madein", key: "Madein"},
       {name: "Majors", key: "Majors"},
       {name: "Mamamoo", key: "Mamamoo"},
       {name: "Meovv", key: "Meovv"},
@@ -3494,14 +3494,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "LIMELIGHT Gaeun",
-        img: "Um9zaAh.jpeg",
-        opts: {
-            group: ["LIMELIGHT"],
-            gen: ["gen4"]
-        }
-    },
-    {
         name: "Nature Gaga",
         img: "pO2yzmX.png",
         opts: {
@@ -4318,14 +4310,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Kep1er Mashiro",
-        img: "QiAFTGI.jpeg",
-        opts: {
-            group: ["Kep1er"],
-            gen: ["gen5"]
-        }
-    },
-    {
         name: "Cherry Bullet May",
         img: "ghR9CsQ.jpeg",
         opts: {
@@ -4346,14 +4330,6 @@ dataSet[dataSetVersion].characterData = [
         img: "xZ8GY2R.jpeg",
         opts: {
             group: ["tripleS"],
-            gen: ["gen4"]
-        }
-    },
-    {
-        name: "LIMELIGHT MiU",
-        img: "SZUlQ8S.jpeg",
-        opts: {
-            group: ["LIMELIGHT"],
             gen: ["gen4"]
         }
     },
@@ -5006,14 +4982,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "LIMELIGHT Suhye",
-        img: "dWG9fhr.jpeg",
-        opts: {
-            group: ["LIMELIGHT"],
-            gen: ["gen4"]
-        }
-    },
-    {
         name: "Billlie Suhyeon",
         img: "KP9mD0a.jpeg",
         opts: {
@@ -5258,14 +5226,6 @@ dataSet[dataSetVersion].characterData = [
         img: "EFnds4k.jpeg",
         opts: {
             group: ["ADYA"],
-            gen: ["gen4"]
-        }
-    },
-    {
-        name: "Kep1er Yeseo",
-        img: "tEKzL0d.jpeg",
-        opts: {
-            group: ["Kep1er"],
             gen: ["gen4"]
         }
     },
@@ -5606,6 +5566,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Madein Gaeun",
+        img: "xBmyy63.jpeg",
+        opts: {
+            group: ["Madein"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Meovv Gawon",
         img: "1yb5eq4.jpeg",
         opts: {
@@ -5782,6 +5750,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Madein Mashiro",
+        img: "papk1Se.jpeg",
+        opts: {
+            group: ["Madein"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "ReScene May",
         img: "nprutA2.jpeg",
         opts: {
@@ -5822,6 +5798,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Madein MiU",
+        img: "tfZlT0T.jpeg",
+        opts: {
+            group: ["Madein"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "ILLIT Moka",
         img: "VObJfa5.jpeg",
         opts: {
@@ -5842,6 +5826,14 @@ dataSet[dataSetVersion].characterData = [
         img: "ELMicZy.jpeg",
         opts: {
             group: ["VIV"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Madein Nagomi",
+        img: "fdYG3Nu.jpeg",
+        opts: {
+            group: ["Madein"],
             gen: ["gen5"]
         }
     },
@@ -5926,6 +5918,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Madein Serina",
+        img: "b4N08bQ.jpeg",
+        opts: {
+            group: ["Madein"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Say My Name Seungjoo",
         img: "EQwNv0a.jpeg",
         opts: {
@@ -5978,6 +5978,14 @@ dataSet[dataSetVersion].characterData = [
         img: "qVWIHTZ.jpeg",
         opts: {
             group: ["Candy Shop"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Madein Suhye",
+        img: "dWG9fhr.jpeg",
+        opts: {
+            group: ["Madein"],
             gen: ["gen5"]
         }
     },
@@ -6062,6 +6070,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Madein Yeseo",
+        img: "kTKOSIk.jpeg",
+        opts: {
+            group: ["Madein"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Geenius Yeyoung",
         img: "1aDkGZf.jpeg",
         opts: {
@@ -6126,7 +6142,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Zena",
+        name: "ReScene Zena",
         img: "2WmOniX.jpeg",
         opts: {
             group: ["ReScene"],
