@@ -1,4 +1,4 @@
-# KpopGGSorter
+# KpopBiasSorter
 A web based character sorter. Allows users to run through a manual merge sort of their favorite characters from a set.
 
 **Features**
@@ -15,27 +15,13 @@ The version in this repo is built for Kpop girl idols.
  * [lz-string](https://github.com/pieroxy/lz-string) for shareable link compression.
  * [SpinKit](http://tobiasahlin.com/spinkit/) for loading animation.
  * [thsort](http://mainyan.sakura.ne.jp/thsort.html) for the original inspiration.
+ * [clay#6931](https://github.com/claybak/kpopggsorter/) for most of the code base.
 
 This sorter is based on  [execfera/charasort](https://github.com/execfera/charasort). Please refer to their project if you want to learn how to implement your own sorter.
-
-### Related Sorters
-Several others have created other sorters based on other concepts and series, see them [here](https://github.com/execfera/charasort/wiki)!
 
 ## Known Issues
  * Does not work with CloudFlare's Rocket Loader.
  * Breaks on older versions of IE and mobile Safari, due to various incompatibilities.
 
-## How can I improve this sorter?
- * Improve the styling/responsiveness of the page.
- * Fix incorrect or missing idol data.
- * Fix incorrect or poor-looking images.
-
 ## Contacts
-<details>
-<summary></summary>
- 
-  ```
-  clay#6931
-  ```
-  
-</details>
+discord @yeji_simp
