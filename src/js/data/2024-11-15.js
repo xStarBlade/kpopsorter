@@ -2838,10 +2838,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "CLC Yeeun",
+        name: "Yeeun",
         img: "5kHZibb.jpeg",
         opts: {
-            group: ["CLC"],
+            group: ["Soloist"],
             gen: ["gen3"]
         }
     },
