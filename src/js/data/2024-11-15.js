@@ -3046,7 +3046,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "FIFTY FIFTY Athena",
-        img: "yKnI76g.png",
+        img: "LRKcPMp.jpg",
         opts: {
             group: ["FIFTY FIFTY"],
             gen: ["gen4"]
@@ -3222,7 +3222,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "FIFTY FIFTY Chanelle",
-        img: "yKnI76g.png",
+        img: "V5ic7Wp.jpg",
         opts: {
             group: ["FIFTY FIFTY"],
             gen: ["gen4"]
@@ -3598,7 +3598,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "FIFTY FIFTY Hana",
-        img: "yKnI76g.png",
+        img: "3HvagaZ.jpg",
         opts: {
             group: ["FIFTY FIFTY"],
             gen: ["gen4"]
@@ -4102,7 +4102,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "FIFTY FIFTY Keena",
-        img: "yKnI76g.png",
+        img: "yg2QdF3.jpg",
         opts: {
             group: ["FIFTY FIFTY"],
             gen: ["gen4"]
@@ -5270,7 +5270,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "FIFTY FIFTY Yewon",
-        img: "yKnI76g.png",
+        img: "59UVp9T.jpg",
         opts: {
             group: ["FIFTY FIFTY"],
             gen: ["gen4"]
