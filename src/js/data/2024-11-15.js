@@ -1887,7 +1887,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLC Elkie",
-        img: "A2ePc4V.jpeg",
+        img: "XKko8Gz.jpeg",
         opts: {
             group: ["CLC"],
             gen: ["gen3"]
@@ -1911,7 +1911,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLC Eunbin",
-        img: "IoGJjmK.jpeg",
+        img: "XzJfj8d.jpeg",
         opts: {
             group: ["CLC"],
             gen: ["gen3"]
@@ -2511,7 +2511,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLC Oh Seunghee",
-        img: "xaWD832.jpeg",
+        img: "LdXtr1P.jpeg",
         opts: {
             group: ["CLC"],
             gen: ["gen3"]
@@ -2623,7 +2623,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLC Seungyeon",
-        img: "Jed8028.jpeg",
+        img: "O4eanJC.jpeg",
         opts: {
             group: ["CLC"],
             gen: ["gen3"]
@@ -2839,7 +2839,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yeeun",
-        img: "5kHZibb.jpeg",
+        img: "kBX7O6p.jpeg",
         opts: {
             group: ["Soloist"],
             gen: ["gen3"]
