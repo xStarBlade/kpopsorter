@@ -91,6 +91,7 @@ dataSet[dataSetVersion].options = [
       {name: "NeonPunch", key: "NeonPunch"},
       {name: "Nmixx", key: "Nmixx"},
       {name: "Oh My Girl", key: "Oh My Girl"},
+      {name: "ODD YOUTH", key: "ODD YOUTH"},
       {name: "PAPAYA", key: "PAPAYA"},
       {name: "Pixy", key: "Pixy"},
       {name: "PRIMROSE", key: "PRIMROSE"},
@@ -5686,6 +5687,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ODD YOUTH Kanie",
+        img: "7TDpyyZ.jpeg",
+        opts: {
+            group: ["ODD YOUTH"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Say My Name Kanny",
         img: "jxsuN4H.jpeg",
         opts: {
@@ -5750,6 +5759,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ODD YOUTH Maika",
+        img: "WJkufJ1.jpeg",
+        opts: {
+            group: ["ODD YOUTH"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Madein Mashiro",
         img: "papk1Se.jpeg",
         opts: {
@@ -5810,6 +5827,14 @@ dataSet[dataSetVersion].characterData = [
         img: "VObJfa5.jpeg",
         opts: {
             group: ["ILLIT"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "ODD YOUTH Myah",
+        img: "07DTFnZ.jpeg",
+        opts: {
+            group: ["ODD YOUTH"],
             gen: ["gen5"]
         }
     },
@@ -5998,6 +6023,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ODD YOUTH Summer",
+        img: "imPdRYL.jpeg",
+        opts: {
+            group: ["ODD YOUTH"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Young Posse Sunhye",
         img: "gH32ZaX.jpeg",
         opts: {
@@ -6059,6 +6092,14 @@ dataSet[dataSetVersion].characterData = [
         opts: {
             group: ["Craxy"],
             gen: ["gen4"]
+        }
+    },
+    {
+        name: "ODD YOUTH Yeeum",
+        img: "YyaKCKo.jpeg",
+        opts: {
+            group: ["ODD YOUTH"],
+            gen: ["gen5"]
         }
     },
     {
