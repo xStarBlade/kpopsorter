@@ -2842,7 +2842,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Yeeun",
         img: "kBX7O6p.jpeg",
         opts: {
-            group: ["Soloist"],
+            group: ["soloist"],
             gen: ["gen3"]
         }
     },
