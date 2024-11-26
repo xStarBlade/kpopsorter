@@ -5760,7 +5760,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ODD YOUTH Maika",
-        img: "WJkufJ1.jpeg",
+        img: "UNGOkhv.jpeg",
         opts: {
             group: ["ODD YOUTH"],
             gen: ["gen5"]
@@ -5832,7 +5832,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ODD YOUTH Myah",
-        img: "07DTFnZ.jpeg",
+        img: "soKQmRP.jpeg",
         opts: {
             group: ["ODD YOUTH"],
             gen: ["gen5"]
