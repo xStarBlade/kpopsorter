@@ -3640,7 +3640,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Billlie Haram",
-        img: "MkEcKVB.jpeg",
+        img: "ApG76mN.jpeg",
         opts: {
             group: ["Billlie"],
             gen: ["gen4"]
@@ -3656,7 +3656,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Billlie Haruna",
-        img: "z9HG7L9.jpeg",
+        img: "gJKVCfq.jpeg",
         opts: {
             group: ["Billlie"],
             gen: ["gen4"]
@@ -4800,7 +4800,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Billlie Sheon",
-        img: "BVVD16R.jpeg",
+        img: "efzCjwA.jpeg",
         opts: {
             group: ["Billlie"],
             gen: ["gen4"]
@@ -4880,7 +4880,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Billlie Siyoon",
-        img: "rJmG1X5.jpeg",
+        img: "l7LXWvm.jpeg",
         opts: {
             group: ["Billlie"],
             gen: ["gen4"]
@@ -5000,7 +5000,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Billlie Suhyeon",
-        img: "KP9mD0a.jpeg",
+        img: "N1IvVmO.jpeg",
         opts: {
             group: ["Billlie"],
             gen: ["gen4"]
@@ -5096,7 +5096,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Billlie Tsuki",
-        img: "dmrJFz9.jpeg",
+        img: "V1YHQTe.jpeg",
         opts: {
             group: ["Billlie"],
             gen: ["gen4"]
