@@ -3856,7 +3856,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Weeekly Jaehee",
-        img: "Kpwpbas.jpeg",
+        img: "3rkzQyC.jpeg",
         opts: {
             group: ["Weeekly"],
             gen: ["gen4"]
@@ -3896,7 +3896,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Weeekly Jihan",
-        img: "sIFY4Jw.jpeg",
+        img: "1Kk13tC.jpeg",
         opts: {
             group: ["Weeekly"],
             gen: ["gen4"]
@@ -4424,7 +4424,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Weeekly Monday",
-        img: "tbEpRad.jpeg",
+        img: "74DClxa.jpeg",
         opts: {
             group: ["Weeekly"],
             gen: ["gen4"]
@@ -5427,6 +5427,14 @@ dataSet[dataSetVersion].characterData = [
         img: "RDa2WZg.jpeg",
         opts: {
             group: ["bugAboo"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Weeekly Zoa",
+        img: "w5HoXnx.jpeg",
+        opts: {
+            group: ["Weeekly"],
             gen: ["gen4"]
         }
     },
