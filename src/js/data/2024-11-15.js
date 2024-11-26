@@ -3152,7 +3152,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kep1er Chaehyun",
-        img: "3iFkhIT.jpeg",
+        img: "AY9upq3.jpeg",
         opts: {
             group: ["Kep1er"],
             gen: ["gen4"]
@@ -3344,7 +3344,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kep1er Dayeon",
-        img: "AL2O2Ru.jpeg",
+        img: "hyxt9ub.jpeg",
         opts: {
             group: ["Kep1er"],
             gen: ["gen4"]
@@ -3352,7 +3352,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NeonPunch Dayeon",
-        img: "PFLLdqZ.jpg",
+        img: "1ZOScXz.jpg",
         opts: {
             group: ["NeonPunch"],
             gen: ["gen4"]
@@ -3704,7 +3704,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kep1er Hikaru",
-        img: "aL6LdXP.jpeg",
+        img: "UIdT1MF.jpeg",
         opts: {
             group: ["Kep1er"],
             gen: ["gen4"]
@@ -3720,7 +3720,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kep1er Huening Bahiyyih",
-        img: "kIRtP4b.jpeg",
+        img: "gPlGxxL.jpeg",
         opts: {
             group: ["Kep1er"],
             gen: ["gen4"]
@@ -5160,7 +5160,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kep1er XiaoTing",
-        img: "6mKGQai.jpeg",
+        img: "8rjaFsO.jpeg",
         opts: {
             group: ["Kep1er"],
             gen: ["gen4"]
@@ -5320,7 +5320,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kep1er Youngeun",
-        img: "mJi6Ydw.jpeg",
+        img: "vtb2vcE.jpeg",
         opts: {
             group: ["Kep1er"],
             gen: ["gen4"]
@@ -5360,7 +5360,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kep1er Yujin",
-        img: "5Xq9NhU.jpeg",
+        img: "dbjKjf0.jpeg",
         opts: {
             group: ["Kep1er"],
             gen: ["gen4"]
