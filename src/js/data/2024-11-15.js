@@ -3640,7 +3640,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Billlie Haram",
-        img: "ASjn2Cf.jpeg",
+        img: "MkEcKVB.jpeg",
         opts: {
             group: ["Billlie"],
             gen: ["gen4"]
@@ -3651,6 +3651,14 @@ dataSet[dataSetVersion].characterData = [
         img: "S4zYLD6.jpeg",
         opts: {
             group: ["Nature"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Billlie Haruna",
+        img: "z9HG7L9.jpeg",
+        opts: {
+            group: ["Billlie"],
             gen: ["gen4"]
         }
     },
@@ -4867,6 +4875,14 @@ dataSet[dataSetVersion].characterData = [
         img: "9j3p0sQ.jpeg",
         opts: {
             group: ["H1-KEY"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Billlie Siyoon",
+        img: "rJmG1X5.jpeg",
+        opts: {
+            group: ["Billlie"],
             gen: ["gen4"]
         }
     },
