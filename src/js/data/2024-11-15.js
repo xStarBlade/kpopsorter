@@ -3248,7 +3248,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Choerry",
-        img: "h4pgvzO.jpeg",
+        img: "ZOyrBvb.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
@@ -3664,7 +3664,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Haseul",
-        img: "ZQMnhFc.jpeg",
+        img: "v3vEOnu.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
@@ -3696,7 +3696,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Heejin",
-        img: "WVsI25A.jpeg",
+        img: "wAuyotu.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
@@ -3952,7 +3952,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Jinsoul",
-        img: "XytS54M.jpeg",
+        img: "tB56Rxv.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
@@ -4128,7 +4128,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Kim Lip",
-        img: "DIgYviS.jpeg",
+        img: "Olc9o1z.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
