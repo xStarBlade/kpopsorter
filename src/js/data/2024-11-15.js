@@ -6,7 +6,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Group",
     key: "group",
     tooltip: "Check this to restrict to certain groups.",
-    checked: false,
+    checked: true,
     sub: [
       {name: "Soloists", key: "soloist"},
       {name: "2NE1", key: "2NE1"},
@@ -137,6 +137,14 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict groups by generation.",
     checked: false,
     sub: [ { name: "Gen 1", key: "gen1" }, { name: "Gen 2", key: "gen2" }, { name: "Gen 3", key: "gen3" }, { name: "Gen 4", key: "gen4" }, { name: "Gen 5", key: "gen5" }
+    ]
+  },
+  {
+    name: "Filter by generation",
+    key: "group label",
+    tooltip: "Check this to choose which groups you want to sort.",
+    checked: false,
+    sub: [ { name: "BADVILLAIN", key: "BADVILLAIN" }, { name: "Candy Shop", key: "Candy Shop" }
     ]
   }
 ];
@@ -6220,6 +6228,20 @@ dataSet[dataSetVersion].characterData = [
         opts: {
             group: ["Geenius"],
             gen: ["gen5"]
+        }
+    },
+    {
+        name: "BADVILLAIN",
+        img: "6PSxBIv.jpeg",
+        opts: {
+            group label: ["BADVILLAIN"],
+        }
+    },
+    {
+        name: "Candy Shop",
+        img: "ulBD9ON.jpeg",
+        opts: {
+            group label: ["Candy Shop"],
         }
     },
 ];
