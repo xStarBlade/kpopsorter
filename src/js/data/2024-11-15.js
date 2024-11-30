@@ -141,10 +141,10 @@ dataSet[dataSetVersion].options = [
   },
   {
     name: "Filter by generation",
-    key: "group label",
+    key: "group_label",
     tooltip: "Check this to choose which groups you want to sort.",
     checked: false,
-    sub: [ { name: "BADVILLAIN", key: "BADVILLAIN" }, { name: "Candy Shop", key: "Candy Shop" }
+    sub: [ { name: "BADVILLAIN", key: "BADVILLAIN" }, { name: "Candy Shop", key: "Candy Shop" }, { name: "Geenius", key: "Geenius" }, { name: "ILLIT", key: "ILLIT" }, { name: "izna", key: "izna" }, { name: "Madein", key: "Madein" }, { name: "Meovv", key: "Meovv" }, { name: "Meovv", key: "Meovv" }, { name: "ODD YOUTH", key: "ODD YOUTH" }, { name: "ReScene", key: "ReScene" }, { name: "QWER", key: "QWER" }, { name: "Say My Name", key: "Say My Name" }, { name: "UNIS", key: "UNIS" }, { name: "VIV", key: "VIV" }, { name: "VVUP", key: "VVUP" }
     ]
   }
 ];
@@ -6234,14 +6234,14 @@ dataSet[dataSetVersion].characterData = [
         name: "BADVILLAIN",
         img: "6PSxBIv.jpeg",
         opts: {
-            group label: ["BADVILLAIN"],
+            group_label: ["BADVILLAIN"],
         }
     },
     {
         name: "Candy Shop",
         img: "ulBD9ON.jpeg",
         opts: {
-            group label: ["Candy Shop"],
+            group_label: ["Candy Shop"],
         }
     },
 ];
