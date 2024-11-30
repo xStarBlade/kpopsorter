@@ -3,10 +3,10 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by Group",
+    name: "Select groups to sort through the idols in them",
     key: "group",
     tooltip: "Check this to restrict to certain groups.",
-    checked: true,
+    checked: false,
     sub: [
       {name: "Soloists", key: "soloist"},
       {name: "2NE1", key: "2NE1"},
@@ -132,7 +132,7 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Filter by generation",
+    name: "Filter by K-pop generation",
     key: "gen",
     tooltip: "Check this to restrict groups by generation.",
     checked: false,
@@ -140,11 +140,11 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Filter by generation",
+    name: "GROUP SORTER",
     key: "group_label",
     tooltip: "Check this to choose which groups you want to sort.",
     checked: false,
-    sub: [ { name: "BADVILLAIN", key: "BADVILLAIN" }, { name: "Candy Shop", key: "Candy Shop" }
+    sub: [ { name: "BADVILLAIN", key: "BADVILLAIN" }, { name: "Candy Shop", key: "Candy Shop" }, { name: "Geenius", key: "Geenius" }, { name: "ILLIT", key: "ILLIT" }, { name: "izna", key: "izna" }, { name: "Madein", key: "Madein" }, { name: "Meovv", key: "Meovv" }, { name: "ODD YOUTH", key: "ODD YOUTH" }, { name: "ReScene", key: "ReScene" }, { name: "QWER", key: "QWER" }, { name: "Say My Name", key: "Say My Name" }, { name: "UNIS", key: "UNIS" }, { name: "VIV", key: "VIV" }, { name: "VVUP", key: "VVUP" }
     ]
   }
 ];
@@ -6224,7 +6224,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Geenius Zoe",
-        img: "PJWcCQW.jpeg",
+        img: "gzdWQ6d.jpeg",
         opts: {
             group: ["Geenius"],
             gen: ["gen5"]
@@ -6242,6 +6242,90 @@ dataSet[dataSetVersion].characterData = [
         img: "ulBD9ON.jpeg",
         opts: {
             group_label: ["Candy Shop"],
+        }
+    },
+    {
+        name: "Geenius",
+        img: "NmKeGL9.jpeg",
+        opts: {
+            group_label: ["Geenius"],
+        }
+    },
+    {
+        name: "ILLIT",
+        img: "WkEZN2T.jpeg",
+        opts: {
+            group_label: ["ILLIT"],
+        }
+    },
+    {
+        name: "izna",
+        img: "NmKeGL9.jpeg",
+        opts: {
+            group_label: ["izna"],
+        }
+    },
+    {
+        name: "Madein",
+        img: "WkEZN2T.jpeg",
+        opts: {
+            group_label: ["Madein"],
+        }
+    },
+    {
+        name: "Meovv",
+        img: "NmKeGL9.jpeg",
+        opts: {
+            group_label: ["Meovv"],
+        }
+    },
+    {
+        name: "ODD YOUTH",
+        img: "WkEZN2T.jpeg",
+        opts: {
+            group_label: ["ODD YOUTH"],
+        }
+    },
+    {
+        name: "ReScene",
+        img: "NmKeGL9.jpeg",
+        opts: {
+            group_label: ["ReScene"],
+        }
+    },
+    {
+        name: "QWER",
+        img: "WkEZN2T.jpeg",
+        opts: {
+            group_label: ["QWER"],
+        }
+    },
+    {
+        name: "Say My Name",
+        img: "NmKeGL9.jpeg",
+        opts: {
+            group_label: ["Say My Name"],
+        }
+    },
+    {
+        name: "UNIS",
+        img: "WkEZN2T.jpeg",
+        opts: {
+            group_label: ["UNIS"],
+        }
+    },
+    {
+        name: "VIV",
+        img: "NmKeGL9.jpeg",
+        opts: {
+            group_label: ["VIV"],
+        }
+    },
+    {
+        name: "VVUP",
+        img: "WkEZN2T.jpeg",
+        opts: {
+            group_label: ["VVUP"],
         }
     },
 ];
