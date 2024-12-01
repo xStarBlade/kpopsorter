@@ -5472,7 +5472,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Ahyeon",
-        img: "Ogf63pg.jpeg",
+        img: "XKlHiO3.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
@@ -6228,6 +6228,20 @@ dataSet[dataSetVersion].characterData = [
         opts: {
             group: ["Geenius"],
             gen: ["gen5"]
+        }
+    },
+    {
+        name: "ablume",
+        img: "4smyYVB.jpeg",
+        opts: {
+            group_label: ["ablume"],
+        }
+    },
+    {
+        name: "BabyMonster",
+        img: "XrrDeMH.png",
+        opts: {
+            group_label: ["BabyMonster"],
         }
     },
     {
