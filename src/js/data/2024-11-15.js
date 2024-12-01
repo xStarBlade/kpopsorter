@@ -4970,7 +4970,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Soojin",
         img: "OwYItiW.jpeg",
         opts: {
-            group: ["soloists"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
