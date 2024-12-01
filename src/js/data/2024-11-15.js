@@ -4967,10 +4967,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "(G)I-dle Soojin",
+        name: "Soojin",
         img: "OwYItiW.jpeg",
         opts: {
-            group: ["(G)I-dle"],
+            group: ["soloists"],
             gen: ["gen4"]
         }
     },
