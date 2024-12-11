@@ -2,7 +2,7 @@
   --accent: #3133a8;
 }
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: copperplate, papyrus, fantasy;
   font-size: 1em;
   background: #000000;
   color: white
@@ -101,8 +101,8 @@ img.left, img.right {
   margin-left: 0.2ch;
 }
 .sorting.button, .finished.button {
-  padding-top: 24%;
-  grid-row: span 2;
+  padding: 0%;
+  grid-column: span 2 / 4 !important;
   display: none;
 }
 
@@ -149,20 +149,25 @@ img.left, img.right {
 }
 
 .sorter > .image {
-  width: 30vw;
+  width: auto;
   height: auto;
+  min-width: 35vw;
+  min-height: 30vh;
+  max-width: 35vw;
+  max-height: 60vh;
   margin: auto;
-  grid-row: 1 / 7;
+  grid-row: 2;
   cursor: pointer;
   object-fit: cover;
   border-radius: 15px;
 }
 
 .sorter > .text {
-  width: 120px;
-  height: 60px;
+  width: auto;
+  height: auto;
   display: none;
   place-self: center;
+  grid-row: 1 !important;
 }
 
 .sorter > .text > p {
@@ -171,17 +176,18 @@ img.left, img.right {
   text-align: center;
   font-size: 1.5em;
   line-height: 1.5em;
+  grid-row: 1 !important;
 }
 
 .sorter > .left {
   grid-column: 2;
-  border: 1px solid #000000;
+  border: 1px solid #ffffff;
   border-radius: 15px;
 }
 
 .sorter > .right {
   grid-column: 3;
-  border: 1px solid #000000;
+  border: 1px solid #ffffff;
   border-radius: 15px;
 }
 
