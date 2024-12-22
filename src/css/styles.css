@@ -163,7 +163,6 @@ img.left, img.right {
   height: auto;
   display: none;
   place-self: center;
-  text-decoration-line: underline;
   grid-row: 1 !important;
 }
 
@@ -178,11 +177,13 @@ img.left, img.right {
 
 .sorter > .left {
   grid-column: 2;
+  border: 1px solid #0c00ff;
   
 }
 
 .sorter > .right {
   grid-column: 3;
+  border: 1px solid #0c00ff;
   
 }
 
@@ -307,7 +308,10 @@ label:hover {
   border: 1px solid #000;
   border-radius: 7.5px;
   margin-right: 10px;
-  background-color: #dfdfdf;
+  background-color: #000000;
+  font-size: 1em;
+  background: #000000;
+  color: #fffcfc
 }
 
 .result.image {
@@ -330,23 +334,22 @@ label:hover {
   padding-top: 10px;
   grid-column: 1 / 1;
   grid-row: 2 / 2;
-  height: 20vh;
-  width: auto;
+  height: 15vh;
+  width: 15vw;
 }
 
 .result.image img {
-  height: 20vh;
-  width: auto;
-  max-width: 15vw;
-  margin: 5px 20px;
-  object-fit: cover;
+  height: 11vw;
+  width: 10vw;
+  margin: 5px;
+  object-fit: contain;
   border-radius: 7px;
   box-shadow: 2px 1px 16px 0px rgb(0 0 0);
 }
 
 .result.spacer {
   height: 1px;
-  background-color: #000;
+  background-color: #000000;
 }
 
 .podium {
@@ -389,7 +392,7 @@ label:hover {
   padding: 0px;
   grid-column: 2 / 3;
   text-align: center;
-  color: black;
+  color: #ffffff;
 }
 
 .result:not(.image) > div{
