@@ -164,6 +164,7 @@ img.left, img.right {
   display: none;
   place-self: center;
   grid-row: 1 !important;
+  text-decoration-line: underline;
 }
 
 .sorter > .text > p {
@@ -177,13 +178,11 @@ img.left, img.right {
 
 .sorter > .left {
   grid-column: 2;
-  border: 1px solid #0c00ff;
   
 }
 
 .sorter > .right {
   grid-column: 3;
-  border: 1px solid #0c00ff;
   
 }
 
@@ -341,7 +340,6 @@ label:hover {
 .result.image img {
   height: 11vw;
   width: 10vw;
-  margin: 5px;
   object-fit: contain;
   border-radius: 7px;
   box-shadow: 2px 1px 16px 0px rgb(0 0 0);
@@ -393,6 +391,8 @@ label:hover {
   grid-column: 2 / 3;
   text-align: center;
   color: #ffffff;
+  font-weight: bold;
+  text-decoration-line: underline;
 }
 
 .result:not(.image) > div{
