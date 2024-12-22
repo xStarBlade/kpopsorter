@@ -2,10 +2,10 @@
   --accent: #3133a8;
 }
 body {
-  font-family: copperplate, papyrus, fantasy;
+  font-family: Times New Roman, Arial, sans-serif;
   font-size: 1em;
   background: #000000;
-  color: white
+  color: #00efff
 }
 
 .container {
@@ -87,14 +87,16 @@ img.left, img.right {
 
 .starting.start.button {
   grid-column: span 2 / 4 !important;
-  grid-row: 7 !important;
+  padding: 2%;
+  grid-row: 7;
 }
 
 .starting.load.button {
   grid-column: span 2 / 4 !important;
+  padding: 1%;
   grid-row: 8 !important;
   display: none;
-  padding-top: 2;
+  
 }
 
 .starting.load.button > span{
@@ -107,16 +109,14 @@ img.left, img.right {
 }
 
 .loading.button {
-  grid-row: span 6;
+  grid-row: 7 !important;
+  padding: 1%;
+  grid-column: span 2 / 4 !important;
   display: none;
 }
 
 .loading.button > div {
-  width: 25px;
-  height: 25px;
-  margin: 50px auto;
   background-color: #333;
-
   border-radius: 100%;  
   -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
   animation: sk-scaleout 1.0s infinite ease-in-out;
