@@ -2,21 +2,21 @@
   --accent: #3133a8;
 }
 body {
-  font-family: Times New Roman, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 1em;
   background: #000000;
-  color: #00efff
+  color: #ffffff
 }
 
 .container {
   display: flex;
   flex-flow: column nowrap;
   align-items: center;
-  margin-top: 10vh;
+  margin-top: 5vh;
 }
 
 .progress {
-  margin: 2em auto;
+  margin: 0em auto;
   width: 500px;
   display: none;
 }
@@ -149,12 +149,8 @@ img.left, img.right {
 }
 
 .sorter > .image {
-  width: auto;
-  height: auto;
-  min-width: 35vw;
-  min-height: 30vh;
-  max-width: 35vw;
-  max-height: 60vh;
+  width: 75vh;
+  height: 75vh;
   margin: auto;
   grid-row: 2;
   cursor: pointer;
@@ -181,14 +177,14 @@ img.left, img.right {
 
 .sorter > .left {
   grid-column: 2;
-  border: 1px solid #ffffff;
-  border-radius: 15px;
+  border: 1px solid #0c00ff;
+  
 }
 
 .sorter > .right {
   grid-column: 3;
-  border: 1px solid #ffffff;
-  border-radius: 15px;
+  border: 1px solid #0c00ff;
+  
 }
 
 .options {
