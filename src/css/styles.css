@@ -163,6 +163,7 @@ img.left, img.right {
   height: auto;
   display: none;
   place-self: center;
+  text-decoration-line: underline;
   grid-row: 1 !important;
 }
 
@@ -177,13 +178,11 @@ img.left, img.right {
 
 .sorter > .left {
   grid-column: 2;
-  border: 1px solid #0c00ff;
   
 }
 
 .sorter > .right {
   grid-column: 3;
-  border: 1px solid #0c00ff;
   
 }
 
