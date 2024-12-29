@@ -144,9 +144,9 @@ dataSet[dataSetVersion].options = [
     key: "group_label",
     tooltip: "Check this to choose which groups you want to sort.",
     checked: false,
-    sub: [ { name: "Aespa", key: "Aespa" }, { name: "ARTMS", key: "ARTMS" }, { name: "ablume", key: "ablume" }, { name: "BabyMonster", key: "BabyMonster" }, { name: "BADVILLAIN", key: "BADVILLAIN" }, { name: "Candy Shop", key: "Candy Shop" }, { name: "Geenius", key: "Geenius" }, { name: "ILLIT", key: "ILLIT" }, { name: "izna", key: "izna" }, { name: "Madein", key: "Madein" }, { name: "Meovv", key: "Meovv" }, { name: "ODD YOUTH", key: "ODD YOUTH" }, { name: "ReScene", key: "ReScene" }, { name: "QWER", key: "QWER" }, { name: "Say My Name", key: "Say My Name" }, { name: "UNIS", key: "UNIS" }, { name: "VIV", key: "VIV" }, { name: "VVUP", key: "VVUP" }
+    sub: [ { name: "Aespa", key: "Aespa" }, { name: "ARTMS", key: "ARTMS" }, { name: "ablume", key: "ablume" }, { name: "BabyMonster", key: "BabyMonster" }, { name: "BADVILLAIN", key: "BADVILLAIN" }, { name: "Candy Shop", key: "Candy Shop" }, { name: "Geenius", key: "Geenius" }, { name: "ILLIT", key: "ILLIT" }, { name: "izna", key: "izna" }, { name: "Madein", key: "Madein" }, { name: "Meovv", key: "Meovv" }, { name: "ODD YOUTH", key: "ODD YOUTH" }, { name: "ReScene", key: "ReScene" }, { name: "QWER", key: "QWER" }, { name: "Say My Name", key: "Say My Name" }, { name: "UNIS", key: "UNIS" }, { name: "VIV", key: "VIV" }, { name: "VVUP", key: "VVUP" }, { name: "Young Posse", key: "Young Posse" }
     ]
-  }
+  },
 ];
 
 dataSet[dataSetVersion].characterData = [
@@ -5688,7 +5688,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Young Posse Jiana",
-        img: "Yplr4oF.jpeg",
+        img: "vu2uwu2.jpeg",
         opts: {
             group: ["Young Posse"],
             gen: ["gen5"]
@@ -6354,6 +6354,13 @@ dataSet[dataSetVersion].characterData = [
         img: "6gpbpRL.jpeg",
         opts: {
             group_label: ["VVUP"],
+        }
+    },
+    {
+        name: "Young Posse",
+        img: "ryzXrX5.jpeg",
+        opts: {
+            group_label: ["Young Posse"],
         }
     },
 ];
