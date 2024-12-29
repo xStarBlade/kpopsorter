@@ -5720,7 +5720,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ODD YOUTH Kanie",
-        img: "7TDpyyZ.jpeg",
+        img: "2qa6aY1.jpeg",
         opts: {
             group: ["ODD YOUTH"],
             gen: ["gen5"]
@@ -5864,7 +5864,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ODD YOUTH Myah",
-        img: "soKQmRP.jpeg",
+        img: "4YWsbZi.jpeg",
         opts: {
             group: ["ODD YOUTH"],
             gen: ["gen5"]
@@ -6309,7 +6309,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ODD YOUTH",
-        img: "5jbXIm6.jpeg",
+        img: "7kQ74Ax.jpeg",
         opts: {
             group_label: ["ODD YOUTH"],
         }
