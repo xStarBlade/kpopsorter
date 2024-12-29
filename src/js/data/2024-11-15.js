@@ -5568,7 +5568,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Say My Name Dohee",
-        img: "hPxFu6w.jpeg",
+        img: "xQYEcq8.jpeg",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
@@ -5816,7 +5816,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Say My Name Mei",
-        img: "xQYEcq8.jpeg",
+        img: "TAUkvON.jpeg",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
