@@ -5816,7 +5816,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Say My Name Mei",
-        img: "EFj7ifZ.jpeg",
+        img: "xQYEcq8.jpeg",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
