@@ -6478,6 +6478,20 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "woo!ah!",
+        img: "TlzFJLq.jpeg",
+        opts: {
+            group_label: ["woo!ah!"],
+        }
+    },
+    {
+        name: "X:IN",
+        img: "UlWnr34.jpeg",
+        opts: {
+            group_label: ["X:IN"],
+        }
+    },
+    {
         name: "Young Posse",
         img: "UlWnr34.jpeg",
         opts: {
