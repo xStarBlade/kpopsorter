@@ -3969,7 +3969,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC Isa",
-        img: "wfPkIqy.jpeg",
+        img: "7BD6Z9X.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
@@ -3977,7 +3977,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC J",
-        img: "Inr6lsi.jpeg",
+        img: "WiwywFh.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
@@ -5393,7 +5393,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC Yoon",
-        img: "LwsLOdh.jpeg",
+        img: "MoUgW1b.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
