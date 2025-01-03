@@ -6457,6 +6457,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "tripleS",
+        img: "mhqRJna.jpeg",
+        opts: {
+            group_label: ["tripleS"],
+        }
+    },
+    {
         name: "UNIS",
         img: "hUKLrpM.jpeg",
         opts: {
@@ -6468,6 +6475,13 @@ dataSet[dataSetVersion].characterData = [
         img: "kDCwXcw.jpeg",
         opts: {
             group_label: ["VIV"],
+        }
+    },
+    {
+        name: "Viviz",
+        img: "CAbbKya.jpeg",
+        opts: {
+            group_label: ["Viviz"],
         }
     },
     {
