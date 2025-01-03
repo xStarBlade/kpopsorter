@@ -3969,7 +3969,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC Isa",
-        img: "YroSVhw.jpeg",
+        img: "wfPkIqy.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
