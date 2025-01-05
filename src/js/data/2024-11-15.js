@@ -6436,10 +6436,24 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Purple Kiss",
+        img: "1eNnyDK.jpeg",
+        opts: {
+            group_label: ["Purple Kiss"],
+        }
+    },
+    {
         name: "ReScene",
         img: "GTMSQdL.jpeg",
         opts: {
             group_label: ["ReScene"],
+        }
+    },
+    {
+        name: "Rocket Punch",
+        img: "G26KKke.jpeg",
+        opts: {
+            group_label: ["Rocket Punch"],
         }
     },
     {
