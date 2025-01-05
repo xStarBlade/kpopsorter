@@ -6436,6 +6436,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Pixy",
+        img: "qrbIEYv.jpeg",
+        opts: {
+            group_label: ["Pixy"],
+        }
+    },
+    {
         name: "Purple Kiss",
         img: "1eNnyDK.jpeg",
         opts: {
