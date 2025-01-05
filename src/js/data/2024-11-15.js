@@ -6478,6 +6478,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Tri.be",
+        img: "nCikEnA.jpeg",
+        opts: {
+            group_label: ["Tri.be"],
+        }
+    },
+    {
         name: "tripleS",
         img: "mhqRJna.jpeg",
         opts: {
