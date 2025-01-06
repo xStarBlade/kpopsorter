@@ -6429,6 +6429,34 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "NeonPunch",
+        img: "7LWd36e.jpeg",
+        opts: {
+            group_label: ["NeonPunch"]
+        }
+    },
+    {
+        name: "NewJeans",
+        img: "uY7y0Ka.jpeg",
+        opts: {
+            group_label: ["NewJeans"]
+        }
+    },
+    {
+        name: "Nmixx",
+        img: "7LWd36e.jpeg",
+        opts: {
+            group_label: ["Nmixx"]
+        }
+    },
+    {
+        name: "Oh My Girl",
+        img: "7kQ74Ax.jpeg",
+        opts: {
+            group_label: ["Oh My Girl"],
+        }
+    },
+    {
         name: "ODD YOUTH",
         img: "7kQ74Ax.jpeg",
         opts: {
