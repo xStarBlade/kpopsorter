@@ -6430,7 +6430,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NeonPunch",
-        img: "7LWd36e.jpeg",
+        img: "gMPLyzr.jpeg",
         opts: {
             group_label: ["NeonPunch"]
         }
