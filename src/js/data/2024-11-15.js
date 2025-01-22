@@ -6408,6 +6408,20 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ITZY",
+        img: "gieU0Qx.jpeg",
+        opts: {
+            group_label: ["ITZY"],
+        }
+    },
+    {
+        name: "IVE",
+        img: "4YNlCkb.jpeg",
+        opts: {
+            group_label: ["IVE"],
+        }
+    },
+    {
         name: "izna",
         img: "gieU0Qx.jpeg",
         opts: {
