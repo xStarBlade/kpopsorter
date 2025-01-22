@@ -6415,6 +6415,20 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kep1er",
+        img: "XVV5c9w.jpeg",
+        opts: {
+            group_label: ["Kep1er"],
+        }
+    },
+    {
+        name: "LE SSERAFIM",
+        img: "n1XRNjU.jpeg",
+        opts: {
+            group_label: ["LE SSERAFIM"],
+        }
+    },
+    {
         name: "Lightsum",
         img: "Aku7Nje.jpeg",
         opts: {
