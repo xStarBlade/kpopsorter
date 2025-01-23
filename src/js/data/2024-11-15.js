@@ -6401,6 +6401,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "H1-KEY",
+        img: "86oeL5A.jpeg",
+        opts: {
+            group_label: ["H1-KEY"],
+        }
+    },
+    {
         name: "ILLIT",
         img: "jNg3i4u.jpeg",
         opts: {
@@ -6409,7 +6416,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ITZY",
-        img: "gieU0Qx.jpeg",
+        img: "08lpj5M.jpeg",
         opts: {
             group_label: ["ITZY"],
         }
