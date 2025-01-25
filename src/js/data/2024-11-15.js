@@ -6394,10 +6394,24 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "(G)I-dle",
+        img: "YvpPRgw.jpeg",
+        opts: {
+            group_label: ["(G)I-dle"],
+        }
+    },
+    {
         name: "Geenius",
         img: "NmKeGL9.jpeg",
         opts: {
             group_label: ["Geenius"],
+        }
+    },
+    {
+        name: "Gfriend",
+        img: "oMBievG.jpeg",
+        opts: {
+            group_label: ["Gfriend"],
         }
     },
     {
