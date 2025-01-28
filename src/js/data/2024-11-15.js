@@ -6395,14 +6395,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "FIFTY FIFTY",
-        img: "YvpPRgw.jpeg",
+        img: "bwYIWFz.jpeg",
         opts: {
             group_label: ["FIFTY FIFTY"],
         }
     },
     {
         name: "Fromis 9",
-        img: "YvpPRgw.jpeg",
+        img: "SbyBCi9.jpeg",
         opts: {
             group_label: ["Fromis 9"],
         }
