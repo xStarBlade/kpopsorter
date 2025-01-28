@@ -6394,6 +6394,20 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "FIFTY FIFTY",
+        img: "YvpPRgw.jpeg",
+        opts: {
+            group_label: ["FIFTY FIFTY"],
+        }
+    },
+    {
+        name: "Fromis 9",
+        img: "YvpPRgw.jpeg",
+        opts: {
+            group_label: ["Fromis 9"],
+        }
+    },
+    {
         name: "(G)I-dle",
         img: "YvpPRgw.jpeg",
         opts: {
