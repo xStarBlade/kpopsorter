@@ -6394,6 +6394,20 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Dreamcatcher",
+        img: "675MF1v.jpeg",
+        opts: {
+            group_label: ["Dreamcatcher"],
+        }
+    },
+    {
+        name: "Everglow",
+        img: "nOgOsg8.jpeg",
+        opts: {
+            group_label: ["Everglow"],
+        }
+    },
+    {
         name: "FIFTY FIFTY",
         img: "bwYIWFz.jpeg",
         opts: {
