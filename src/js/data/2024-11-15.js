@@ -6394,6 +6394,27 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Class:y",
+        img: "SYr0HYi.jpeg",
+        opts: {
+            group_label: ["Class:y"],
+        }
+    },
+    {
+        name: "Craxy",
+        img: "pRmbaEZ.jpeg",
+        opts: {
+            group_label: ["Craxy"],
+        }
+    },
+    {
+        name: "CSR",
+        img: "CENik18.jpeg",
+        opts: {
+            group_label: ["CSR"],
+        }
+    },
+    {
         name: "Dreamcatcher",
         img: "675MF1v.jpeg",
         opts: {
