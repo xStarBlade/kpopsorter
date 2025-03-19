@@ -6387,8 +6387,36 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Billlie",
+        img: "TNTQTMZ.jpeg",
+        opts: {
+            group_label: ["Billlie"],
+        }
+    },
+    {
+        name: "Blackpink",
+        img: "6PSxBIv.jpeg",
+        opts: {
+            group_label: ["Blackpink"],
+        }
+    },
+    {
         name: "Candy Shop",
         img: "ulBD9ON.jpeg",
+        opts: {
+            group_label: ["Candy Shop"],
+        }
+    },
+    {
+        name: "Cherry Bullet",
+        img: "YzX0IYx.jpeg",
+        opts: {
+            group_label: ["Cherry Bullet"],
+        }
+    },
+    {
+        name: "Cignature",
+        img: "LoJZoTL.jpeg",
         opts: {
             group_label: ["Candy Shop"],
         }
