@@ -6395,7 +6395,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Blackpink",
-        img: "6PSxBIv.jpeg",
+        img: "ZU9aXUz.jpeg",
         opts: {
             group_label: ["Blackpink"],
         }
