@@ -6394,10 +6394,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Class:y",
+        name: "CLASS:y",
         img: "SYr0HYi.jpeg",
         opts: {
-            group_label: ["Class:y"],
+            group_label: ["CLASS:y"],
         }
     },
     {
