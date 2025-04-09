@@ -6352,24 +6352,38 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ablume",
+        img: "4smyYVB.jpeg",
+        opts: {
+            group_label: ["ablume"],
+        }
+    },
+    {
+        name: "ADYA",
+        img: "EF3T2MH.jpeg",
+        opts: {
+            group_label: ["ADYA"],
+        }
+    },
+    {
         name: "Aespa",
         img: "yz79upl.jpeg",
         opts: {
-            group_label: ["ablume"],
+            group_label: ["Aespa"],
+        }
+    },
+    {
+        name: "April",
+        img: "5vNiKQi.jpeg",
+        opts: {
+            group_label: ["April"],
         }
     },
     {
         name: "ARTMS",
         img: "ZvON3g2.png",
         opts: {
-            group_label: ["BabyMonster"],
-        }
-    },
-    {
-        name: "ablume",
-        img: "4smyYVB.jpeg",
-        opts: {
-            group_label: ["ablume"],
+            group_label: ["ARTMS"],
         }
     },
     {
@@ -6418,7 +6432,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Cignature",
         img: "LoJZoTL.jpeg",
         opts: {
-            group_label: ["Candy Shop"],
+            group_label: ["Cignature"],
         }
     },
     {
