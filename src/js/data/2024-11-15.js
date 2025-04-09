@@ -6359,6 +6359,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "4minute",
+        img: "ZBZ6hbbjpeg",
+        opts: {
+            group_label: ["4minute],
+        }
+    },
+    {
         name: "ablume",
         img: "4smyYVB.jpeg",
         opts: {
