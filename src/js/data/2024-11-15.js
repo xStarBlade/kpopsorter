@@ -6352,6 +6352,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "2NE1",
+        img: "4Nz0HOz.jpeg",
+        opts: {
+            group_label: ["2NE1"],
+        }
+    },
+    {
         name: "ablume",
         img: "4smyYVB.jpeg",
         opts: {
@@ -6370,6 +6377,13 @@ dataSet[dataSetVersion].characterData = [
         img: "yz79upl.jpeg",
         opts: {
             group_label: ["Aespa"],
+        }
+    },
+    {
+        name: "Apink",
+        img: "Ies8a3R.jpeg",
+        opts: {
+            group_label: ["Apink"],
         }
     },
     {
