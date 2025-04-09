@@ -6695,6 +6695,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "UNI.T",
+        img: "n36xg7x.jpeg",
+        opts: {
+            group_label: ["UNI.T"],
+        }
+    },
+    {
         name: "UNIS",
         img: "hUKLrpM.jpeg",
         opts: {
@@ -6720,6 +6727,13 @@ dataSet[dataSetVersion].characterData = [
         img: "6gpbpRL.jpeg",
         opts: {
             group_label: ["VVUP"],
+        }
+    },
+    {
+        name: "Wonder Girls",
+        img: "thGgXpH.jpeg",
+        opts: {
+            group_label: ["Wonder Girls"],
         }
     },
     {
