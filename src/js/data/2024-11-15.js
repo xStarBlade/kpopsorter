@@ -6590,10 +6590,24 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Mamamoo",
+        img: "QlW1V02.jpeg",
+        opts: {
+            group_label: ["Mamamoo"],
+        }
+    },
+    {
         name: "Meovv",
         img: "utHdd5X.jpeg",
         opts: {
             group_label: ["Meovv"],
+        }
+    },
+     {
+        name: "Momoland",
+        img: "lLtjVi2.jpeg",
+        opts: {
+            group_label: ["Momoland"],
         }
     },
     {
@@ -6643,6 +6657,13 @@ dataSet[dataSetVersion].characterData = [
         img: "1eNnyDK.jpeg",
         opts: {
             group_label: ["Purple Kiss"],
+        }
+    },
+    {
+        name: "Red Velvet",
+        img: "nQzIwaO.jpeg",
+        opts: {
+            group_label: ["Red Velvet"],
         }
     },
     {
