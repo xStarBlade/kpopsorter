@@ -6674,10 +6674,31 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Sonamoo",
+        img: "tp9ioyg.jpeg",
+        opts: {
+            group_label: ["Sonamoo"],
+        }
+    },
+    {
+        name: "Spica",
+        img: "fJN8U48.jpeg",
+        opts: {
+            group_label: ["Spica"],
+        }
+    },
+    {
         name: "StayC",
         img: "j5X81dY.jpeg",
         opts: {
             group_label: ["StayC"],
+        }
+    },
+    {
+        name: "Stellar",
+        img: "EBHN0xG.jpeg",
+        opts: {
+            group_label: ["Stellar"],
         }
     },
     {
