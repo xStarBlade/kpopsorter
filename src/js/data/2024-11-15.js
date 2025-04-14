@@ -6681,6 +6681,20 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Sunny Hill",
+        img: "natfRAg.jpeg",
+        opts: {
+            group_label: ["Sunny Hill"],
+        }
+    },
+    {
+        name: "T-ara",
+        img: "15mcLBA.jpeg",
+        opts: {
+            group_label: ["T-ara"],
+        }
+    },
+    {
         name: "Tri.be",
         img: "nCikEnA.jpeg",
         opts: {
