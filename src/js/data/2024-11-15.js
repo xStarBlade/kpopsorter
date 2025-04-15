@@ -6597,10 +6597,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Lapillus",
+        name: "LAPILLUS",
         img: "ZBd6YIf.jpeg",
         opts: {
-            group_label: ["Lappilus"],
+            group_label: ["LAPILLUS"],
         }
     },
     {
@@ -6751,10 +6751,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Spica",
+        name: "SPICA",
         img: "fJN8U48.jpeg",
         opts: {
-            group_label: ["Spica"],
+            group_label: ["SPICA"],
         }
     },
     {
