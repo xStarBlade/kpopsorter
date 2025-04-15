@@ -6569,6 +6569,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Lapillus",
+        img: "ZBd6YIf.jpeg",
+        opts: {
+            group_label: ["Lappilus"],
+        }
+    },
+    {
         name: "LE SSERAFIM",
         img: "n1XRNjU.jpeg",
         opts: {
