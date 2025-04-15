@@ -6537,7 +6537,7 @@ dataSet[dataSetVersion].characterData = [
         name: "GWSN",
         img: "k3fsNWn.jpeg",
         opts: {
-            group_label: ["Gfriend"],
+            group_label: ["GWSN"],
         }
     },
     {
