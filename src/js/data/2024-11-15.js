@@ -6527,6 +6527,20 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Gugudan",
+        img: "DS8yctq.jpeg",
+        opts: {
+            group_label: ["Gugudan"],
+        }
+    },
+    {
+        name: "GWSN",
+        img: "k3fsNWn.jpeg",
+        opts: {
+            group_label: ["Gfriend"],
+        }
+    },
+    {
         name: "H1-KEY",
         img: "86oeL5A.jpeg",
         opts: {
@@ -6555,6 +6569,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "IZ*ONE",
+        img: "qVNz7yy.jpeg",
+        opts: {
+            group_label: ["IZ*ONE"],
+        }
+    },
+    {
         name: "izna",
         img: "gieU0Qx.jpeg",
         opts: {
@@ -6566,6 +6587,13 @@ dataSet[dataSetVersion].characterData = [
         img: "XVV5c9w.jpeg",
         opts: {
             group_label: ["Kep1er"],
+        }
+    },
+    {
+        name: "KISS OF LIFE",
+        img: "jSNccSR.jpeg",
+        opts: {
+            group_label: ["KISS OF LIFE"],
         }
     },
     {
