@@ -6617,7 +6617,7 @@ dataSet[dataSetVersion].characterData = [
             group_label: ["Lightsum"],
         }
     },
-   {
+    {
         name: "Loossemble",
         img: "gsJkUFc.jpeg",
         opts: {
