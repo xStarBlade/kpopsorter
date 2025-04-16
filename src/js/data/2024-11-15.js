@@ -6800,6 +6800,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Twice",
+        img: "zrF5oT1.jpeg",
+        opts: {
+            group_label: ["Twice"],
+        }
+    },
+    {
         name: "UNI.T",
         img: "n36xg7x.jpeg",
         opts: {
