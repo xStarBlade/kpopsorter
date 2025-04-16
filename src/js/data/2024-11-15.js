@@ -6842,6 +6842,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Weki Meki",
+        img: "LK5ZSgY.jpeg",
+        opts: {
+            group_label: ["Weki Meki"],
+        }
+    },
+    {
         name: "Wonder Girls",
         img: "thGgXpH.jpeg",
         opts: {
