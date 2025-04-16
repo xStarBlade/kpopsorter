@@ -6520,10 +6520,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Gfriend",
+        name: "GFriend",
         img: "oMBievG.jpeg",
         opts: {
-            group_label: ["Gfriend"],
+            group_label: ["GFriend"],
         }
     },
     {
