@@ -6499,10 +6499,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Dreamnote",
+        name: "DreamNote",
         img: "gccg8nP.jpeg",
         opts: {
-            group_label: ["Dreamnote"],
+            group_label: ["DreamNote"],
         }
     },
     {
