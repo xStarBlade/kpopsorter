@@ -6387,6 +6387,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "AOA",
+        img: "T7zfrKh.jpeg",
+        opts: {
+            group_label: ["AOA"],
+        }
+    },
+    {
         name: "Apink",
         img: "Ies8a3R.jpeg",
         opts: {
@@ -6478,10 +6485,24 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Dia",
+        img: "PUl14Ml.jpeg",
+        opts: {
+            group_label: ["Dia"],
+        }
+    },
+    {
         name: "Dreamcatcher",
         img: "675MF1v.jpeg",
         opts: {
             group_label: ["Dreamcatcher"],
+        }
+    },
+    {
+        name: "Dreamnote",
+        img: "gccg8nP.jpeg",
+        opts: {
+            group_label: ["Dreamnote"],
         }
     },
     {
