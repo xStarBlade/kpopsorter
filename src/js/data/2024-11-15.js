@@ -6744,10 +6744,24 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Secret Number",
+        img: "hflOXh7.jpeg",
+        opts: {
+            group_label: ["Secret Number"],
+        }
+    },
+    {
         name: "SeeYa",
         img: "EXJD9Bm.jpeg",
         opts: {
             group_label: ["SeeYa"],
+        }
+    },
+    {
+        name: "Sistar",
+        img: "5UNoWmS.jpeg",
+        opts: {
+            group_label: ["Sistar"],
         }
     },
     {
@@ -6769,13 +6783,6 @@ dataSet[dataSetVersion].characterData = [
         img: "j5X81dY.jpeg",
         opts: {
             group_label: ["StayC"],
-        }
-    },
-    {
-        name: "Sistar",
-        img: "5UNoWmS.jpeg",
-        opts: {
-            group_label: ["Sistar"],
         }
     },
     {
