@@ -6513,6 +6513,20 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "EXID",
+        img: "CQlpSSx.jpeg",
+        opts: {
+            group_label: ["EXID"],
+        }
+    },
+    {
+        name: "f(x)",
+        img: "8fcux8o.jpeg",
+        opts: {
+            group_label: ["f(x)"],
+        }
+    },
+    {
         name: "FIFTY FIFTY",
         img: "bwYIWFz.jpeg",
         opts: {
