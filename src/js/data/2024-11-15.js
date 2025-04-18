@@ -6590,6 +6590,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "I.O.I",
+        img: "jNg3i4u.jpeg",
+        opts: {
+            group_label: ["I.O.I"],
+        }
+    },
+    {
         name: "ITZY",
         img: "08lpj5M.jpeg",
         opts: {
