@@ -6387,6 +6387,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "After School",
+        img: "JicdpC2.jpeg",
+        opts: {
+            group_label: ["After School"],
+        }
+    },
+    {
         name: "AOA",
         img: "T7zfrKh.jpeg",
         opts: {
