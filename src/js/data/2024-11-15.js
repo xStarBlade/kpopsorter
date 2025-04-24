@@ -6394,6 +6394,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Alice",
+        img: "BJbt4R9.jpeg",
+        opts: {
+            group_label: ["Alice"],
+        }
+    },
+    {
         name: "AOA",
         img: "T7zfrKh.jpeg",
         opts: {
@@ -6422,6 +6429,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "As One",
+        img: "mDq93T8.png",
+        opts: {
+            group_label: ["As One"],
+        }
+    },
+    {
         name: "BabyMonster",
         img: "TNz9cm3.png",
         opts: {
@@ -6436,6 +6450,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "BESTie",
+        img: "U5GZiFJ.jpeg",
+        opts: {
+            group_label: ["BESTie"],
+        }
+    },
+    {
         name: "Billlie",
         img: "TNTQTMZ.jpeg",
         opts: {
@@ -6443,10 +6464,38 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Brave Girls",
+        img: "qTlGRsT.jpeg",
+        opts: {
+            group_label: ["Brave Girls"],
+        }
+    },
+    {
+        name: "Brown Eyed Girls",
+        img: "nmSYXrO.jpeg",
+        opts: {
+            group_label: ["Brown Eyed Girls"],
+        }
+    },
+    {
         name: "Blackpink",
         img: "ZU9aXUz.jpeg",
         opts: {
             group_label: ["Blackpink"],
+        }
+    },
+    {
+        name: "Bugaboo",
+        img: "pA9dsFw.jpeg",
+        opts: {
+            group_label: ["Bugaboo"],
+        }
+    },
+    {
+        name: "Busters",
+        img: "Rxph4Cj.jpeg",
+        opts: {
+            group_label: ["Busters"],
         }
     },
     {
@@ -6489,6 +6538,20 @@ dataSet[dataSetVersion].characterData = [
         img: "CENik18.jpeg",
         opts: {
             group_label: ["CSR"],
+        }
+    },
+    {
+        name: "Dal★Shabet",
+        img: "okdukvy.jpeg",
+        opts: {
+            group_label: ["Dal★Shabet"],
+        }
+    },
+    {
+        name: "Davichi",
+        img: "twxPTDq.jpeg",
+        opts: {
+            group_label: ["Davichi"],
         }
     },
     {
