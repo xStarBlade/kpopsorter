@@ -6646,6 +6646,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Hellovenus",
+        img: "4HkYkhA.jpeg",
+        opts: {
+            group_label: ["Hellovenus"],
+        }
+    },
+    {
         name: "H1-KEY",
         img: "86oeL5A.jpeg",
         opts: {
@@ -6692,6 +6699,13 @@ dataSet[dataSetVersion].characterData = [
         img: "gieU0Qx.jpeg",
         opts: {
             group_label: ["izna"],
+        }
+    },
+    {
+        name: "Kara",
+        img: "tPx2i0L.jpeg",
+        opts: {
+            group_label: ["Kara"],
         }
     },
     {
@@ -6811,6 +6825,13 @@ dataSet[dataSetVersion].characterData = [
         img: "qrbIEYv.jpeg",
         opts: {
             group_label: ["Pixy"],
+        }
+    },
+    {
+        name: "Primrose",
+        img: "pLghMfE.jpeg",
+        opts: {
+            group_label: ["Primrose"],
         }
     },
     {
