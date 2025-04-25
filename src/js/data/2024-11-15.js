@@ -6611,13 +6611,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Girls Day",
-        img: "t2cYpvj.jpeg",
-        opts: {
-            group_label: ["Girls Day"],
-        }
-    },
-    {
         name: "(G)I-dle",
         img: "YvpPRgw.jpeg",
         opts: {
@@ -6636,6 +6629,13 @@ dataSet[dataSetVersion].characterData = [
         img: "oMBievG.jpeg",
         opts: {
             group_label: ["GFriend"],
+        }
+    },
+    {
+        name: "Girl's Day",
+        img: "t2cYpvj.jpeg",
+        opts: {
+            group_label: ["Girl's Day"],
         }
     },
     {
@@ -6737,10 +6737,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Ladies Code",
+        name: "Ladies' code",
         img: "1dx7doB.jpeg",
         opts: {
-            group_label: ["Ladies Code"],
+            group_label: ["Ladies' code"],
         }
     },
     {
