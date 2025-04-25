@@ -6751,6 +6751,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Laysha",
+        img: "P9xhONc.jpeg",
+        opts: {
+            group_label: ["Laysha"],
+        }
+    },
+    {
         name: "LE SSERAFIM",
         img: "n1XRNjU.jpeg",
         opts: {
@@ -6799,7 +6806,14 @@ dataSet[dataSetVersion].characterData = [
             group_label: ["Meovv"],
         }
      },
-    {
+     {
+        name: "mimiirose",
+        img: "ktMlQ3L.jpeg",
+        opts: {
+            group_label: ["mimiirose"],
+        }
+     },
+     {
         name: "Miss A",
         img: "p3sOyMg.jpeg",
         opts: {
@@ -6867,6 +6881,13 @@ dataSet[dataSetVersion].characterData = [
         img: "1eNnyDK.jpeg",
         opts: {
             group_label: ["Purple Kiss"],
+        }
+    },
+    {
+        name: "Rainbow",
+        img: "i69deEo.jpeg",
+        opts: {
+            group_label: ["Rainbow"],
         }
     },
     {
