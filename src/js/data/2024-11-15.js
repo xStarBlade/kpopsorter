@@ -6611,6 +6611,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Girls Day",
+        img: "t2cYpvj.jpeg",
+        opts: {
+            group_label: ["Girls Day"],
+        }
+    },
+    {
         name: "(G)I-dle",
         img: "YvpPRgw.jpeg",
         opts: {
@@ -6723,6 +6730,20 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Laboum",
+        img: "EBD5Kfr.jpeg",
+        opts: {
+            group_label: ["Laboum"],
+        }
+    },
+    {
+        name: "Ladies Code",
+        img: "1dx7doB.jpeg",
+        opts: {
+            group_label: ["Ladies Code"],
+        }
+    },
+    {
         name: "LAPILLUS",
         img: "ZBd6YIf.jpeg",
         opts: {
@@ -6776,6 +6797,13 @@ dataSet[dataSetVersion].characterData = [
         img: "utHdd5X.jpeg",
         opts: {
             group_label: ["Meovv"],
+        }
+     },
+    {
+        name: "Miss A",
+        img: "p3sOyMg.jpeg",
+        opts: {
+            group_label: ["Miss A"],
         }
      },
      {
