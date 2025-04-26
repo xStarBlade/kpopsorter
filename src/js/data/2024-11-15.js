@@ -6511,6 +6511,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Bvndit",
+        img: "6jhAZ9v.jpeg",
+        opts: {
+            group_label: ["Bvndit"],
+        }
+    },
+    {
         name: "Candy Shop",
         img: "ulBD9ON.jpeg",
         opts: {
@@ -6543,6 +6550,13 @@ dataSet[dataSetVersion].characterData = [
         img: "pRmbaEZ.jpeg",
         opts: {
             group_label: ["Craxy"],
+        }
+    },
+    {
+        name: "Crayon Pop",
+        img: "6xyJuPe.jpeg",
+        opts: {
+            group_label: ["Crayon Pop"],
         }
     },
     {
@@ -6588,10 +6602,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "El7zup",
+        name: "EL7ZUP",
         img: "WMjZZ1R.jpeg",
         opts: {
-            group_label: ["El7zup"],
+            group_label: ["EL7ZUP"],
         }
     },
     {
