@@ -38,8 +38,8 @@ dataSet[dataSetVersion].options = [
       {name: "Cignature", key: "Cignature"},
       {name: "CLASS:y", key: "CLASS:y"},
       {name: "CLC", key: "CLC"},
-      {name: "Crayon Pop", key: "Crayon Pop"},
       {name: "Craxy", key: "Craxy"},
+      {name: "Crayon Pop", key: "Crayon Pop"},
       {name: "CSR", key: "CSR"},
       {name: "Dal★Shabet", key: "Dal★Shabet"},
       {name: "Davichi", key: "Davichi"},
@@ -93,11 +93,11 @@ dataSet[dataSetVersion].options = [
       {name: "Miss A", key: "Miss A"},
       {name: "Momoland", key: "Momoland"},
       {name: "Nature", key: "Nature"},
-      {name: "NewJeans", key: "NewJeans"},
       {name: "NeonPunch", key: "NeonPunch"},
+      {name: "NewJeans", key: "NewJeans"},
       {name: "Nmixx", key: "Nmixx"},
-      {name: "Oh My Girl", key: "Oh My Girl"},
       {name: "ODD YOUTH", key: "ODD YOUTH"},
+      {name: "Oh My Girl", key: "Oh My Girl"},
       {name: "PAPAYA", key: "PAPAYA"},
       {name: "Pixy", key: "Pixy"},
       {name: "PRIMROSE", key: "PRIMROSE"},
@@ -132,7 +132,7 @@ dataSet[dataSetVersion].options = [
       {name: "Weki Meki", key: "Weki Meki"},
       {name: "WJSN", key: "WJSN"},
       {name: "Wonder Girls", key: "Wonder Girls"},
-      {name: "woo!ah!", key: "woo!ah!"},
+      {name: "WOOAH", key: "WOOAH"},
       {name: "X:IN", key: "X:IN"},
       {name: "Young Posse", key: "Young Posse"},
     ]
@@ -151,7 +151,6 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to choose which groups you want to sort.",
     checked: false,
     sub: [ 
-      {name: "Soloists", key: "soloist"},
       {name: "2NE1", key: "2NE1"},
       {name: "4Minute", key: "4Minute"},
       {name: "9Muses", key: "9Muses"},
@@ -181,8 +180,8 @@ dataSet[dataSetVersion].options = [
       {name: "Cignature", key: "Cignature"},
       {name: "CLASS:y", key: "CLASS:y"},
       {name: "CLC", key: "CLC"},
-      {name: "Crayon Pop", key: "Crayon Pop"},
       {name: "Craxy", key: "Craxy"},
+      {name: "Crayon Pop", key: "Crayon Pop"},
       {name: "CSR", key: "CSR"},
       {name: "Dal★Shabet", key: "Dal★Shabet"},
       {name: "Davichi", key: "Davichi"},
@@ -236,11 +235,11 @@ dataSet[dataSetVersion].options = [
       {name: "Miss A", key: "Miss A"},
       {name: "Momoland", key: "Momoland"},
       {name: "Nature", key: "Nature"},
-      {name: "NewJeans", key: "NewJeans"},
       {name: "NeonPunch", key: "NeonPunch"},
+      {name: "NewJeans", key: "NewJeans"},
       {name: "Nmixx", key: "Nmixx"},
-      {name: "Oh My Girl", key: "Oh My Girl"},
       {name: "ODD YOUTH", key: "ODD YOUTH"},
+      {name: "Oh My Girl", key: "Oh My Girl"},
       {name: "PAPAYA", key: "PAPAYA"},
       {name: "Pixy", key: "Pixy"},
       {name: "PRIMROSE", key: "PRIMROSE"},
@@ -275,7 +274,7 @@ dataSet[dataSetVersion].options = [
       {name: "Weki Meki", key: "Weki Meki"},
       {name: "WJSN", key: "WJSN"},
       {name: "Wonder Girls", key: "Wonder Girls"},
-      {name: "woo!ah!", key: "woo!ah!"},
+      {name: "WOOAH", key: "WOOAH"},
       {name: "X:IN", key: "X:IN"},
       {name: "Young Posse", key: "Young Posse"},
     ]
@@ -4436,10 +4435,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "woo!ah! Lucy",
+        name: "WOOAH Lucy",
         img: "zv454tT.jpeg",
         opts: {
-            group: ["woo!ah!"],
+            group: ["WOOAH"],
             gen: ["gen4"]
         }
     },
@@ -4540,10 +4539,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "woo!ah! Minseo",
+        name: "WOOAH Minseo",
         img: "P0ggpca.jpeg",
         opts: {
-            group: ["woo!ah!"],
+            group: ["WOOAH"],
             gen: ["gen4"]
         }
     },
@@ -4620,10 +4619,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "woo!ah! Nana",
+        name: "WOOAH Nana",
         img: "NOxaG0l.jpeg",
         opts: {
-            group: ["woo!ah!"],
+            group: ["WOOAH"],
             gen: ["gen4"]
         }
     },
@@ -5084,10 +5083,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "woo!ah! Songyee",
+        name: "WOOAH Songyee",
         img: "jbpJSjX.png",
         opts: {
-            group: ["woo!ah!"],
+            group: ["WOOAH"],
             gen: ["gen4"]
         }
     },
@@ -5116,10 +5115,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "woo!ah! Sora",
+        name: "WOOAH Sora",
         img: "ygA85u6.jpeg",
         opts: {
-            group: ["woo!ah!"],
+            group: ["WOOAH"],
             gen: ["gen4"]
         }
     },
@@ -5292,10 +5291,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "woo!ah! Wooyeon",
+        name: "WOOAH Wooyeon",
         img: "FDz26jz.jpeg",
         opts: {
-            group: ["woo!ah!"],
+            group: ["WOOAH"],
             gen: ["gen4"]
         }
     },
@@ -7190,10 +7189,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "woo!ah!",
+        name: "WOOAH",
         img: "TlzFJLq.jpeg",
         opts: {
-            group_label: ["woo!ah!"],
+            group_label: ["WOOAH"],
         }
     },
     {
