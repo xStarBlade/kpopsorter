@@ -6630,6 +6630,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Fiestar",
+        img: "w41DIEV.jpeg",
+        opts: {
+            group_label: ["Fiestar"],
+        }
+    },
+    {
         name: "FIFTY FIFTY",
         img: "bwYIWFz.jpeg",
         opts: {
