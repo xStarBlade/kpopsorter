@@ -6588,6 +6588,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "El7zup",
+        img: "WMjZZ1R.jpeg",
+        opts: {
+            group_label: ["El7zup"],
+        }
+    },
+    {
         name: "Everglow",
         img: "nOgOsg8.jpeg",
         opts: {
@@ -6665,13 +6672,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Hellovenus",
-        img: "4HkYkhA.jpeg",
-        opts: {
-            group_label: ["Hellovenus"],
-        }
-    },
-    {
         name: "H1-KEY",
         img: "86oeL5A.jpeg",
         opts: {
@@ -6679,10 +6679,24 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "ILLIT",
-        img: "jNg3i4u.jpeg",
+        name: "Hearts2Hearts",
+        img: "xWYP2RL.jpeg",
         opts: {
-            group_label: ["ILLIT"],
+            group_label: ["Hearts2Hearts"],
+        }
+    },
+    {
+        name: "Hellovenus",
+        img: "4HkYkhA.jpeg",
+        opts: {
+            group_label: ["Hellovenus"],
+        }
+    },
+    {
+        name: "HITGS",
+        img: "nM32JSS.jpeg",
+        opts: {
+            group_label: ["HITGS"],
         }
     },
     {
@@ -6690,6 +6704,20 @@ dataSet[dataSetVersion].characterData = [
         img: "xF4TSxD.jpeg",
         opts: {
             group_label: ["I.O.I"],
+        }
+    },
+    {
+        name: "ifeye",
+        img: "9GspWs0.jpeg",
+        opts: {
+            group_label: ["ifeye"],
+        }
+    },
+    {
+        name: "ILLIT",
+        img: "jNg3i4u.jpeg",
+        opts: {
+            group_label: ["ILLIT"],
         }
     },
     {
@@ -6732,6 +6760,13 @@ dataSet[dataSetVersion].characterData = [
         img: "XVV5c9w.jpeg",
         opts: {
             group_label: ["Kep1er"],
+        }
+    },
+    {
+        name: "KiiiKiii",
+        img: "bFhYMxM.jpeg",
+        opts: {
+            group_label: ["KiiiKiii"],
         }
     },
     {
@@ -6893,6 +6928,13 @@ dataSet[dataSetVersion].characterData = [
         img: "pLghMfE.jpeg",
         opts: {
             group_label: ["Primrose"],
+        }
+    },
+    {
+        name: "Pristin",
+        img: "f1UlAEZ.jpeg",
+        opts: {
+            group_label: ["Pristin"],
         }
     },
     {
