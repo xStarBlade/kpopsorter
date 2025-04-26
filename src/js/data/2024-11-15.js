@@ -6378,6 +6378,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "9Muses",
+        img: "OQTPRk0.jpeg",
+        opts: {
+            group_label: ["9Muses"],
+        }
+    },
+    {
         name: "ablume",
         img: "4smyYVB.jpeg",
         opts: {
@@ -6476,6 +6483,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Blackpink",
+        img: "ZU9aXUz.jpeg",
+        opts: {
+            group_label: ["Blackpink"],
+        }
+    },
+    {
         name: "Brave Girls",
         img: "qTlGRsT.jpeg",
         opts: {
@@ -6487,13 +6501,6 @@ dataSet[dataSetVersion].characterData = [
         img: "nmSYXrO.jpeg",
         opts: {
             group_label: ["Brown Eyed Girls"],
-        }
-    },
-    {
-        name: "Blackpink",
-        img: "ZU9aXUz.jpeg",
-        opts: {
-            group_label: ["Blackpink"],
         }
     },
     {
@@ -6676,6 +6683,13 @@ dataSet[dataSetVersion].characterData = [
         img: "t2cYpvj.jpeg",
         opts: {
             group_label: ["Girl's Day"],
+        }
+    },
+    {
+        name: "Girls' Generation",
+        img: "ZLGwUtT.jpeg",
+        opts: {
+            group_label: ["Girls' Generation"],
         }
     },
     {
