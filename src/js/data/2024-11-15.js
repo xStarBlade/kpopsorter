@@ -6707,6 +6707,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ICHILLIN",
+        img: "ExEjxox.jpeg",
+        opts: {
+            group_label: ["ICHILLIN"],
+        }
+    },
+    {
         name: "ifeye",
         img: "9GspWs0.jpeg",
         opts: {
@@ -6837,6 +6844,13 @@ dataSet[dataSetVersion].characterData = [
         img: "DU92z7x.jpeg",
         opts: {
             group_label: ["Madein"],
+        }
+    },
+    {
+        name: "MAJORS",
+        img: "Ymp3Jx7.jpeg",
+        opts: {
+            group_label: ["MAJORS"],
         }
     },
     {
@@ -7110,6 +7124,13 @@ dataSet[dataSetVersion].characterData = [
         img: "LK5ZSgY.jpeg",
         opts: {
             group_label: ["Weki Meki"],
+        }
+    },
+    {
+        name: "WJSN",
+        img: "lNYBI1u.jpeg",
+        opts: {
+            group_label: ["WJSN"],
         }
     },
     {
