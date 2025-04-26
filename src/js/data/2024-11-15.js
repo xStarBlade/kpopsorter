@@ -6763,6 +6763,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ILY:1",
+        img: "Q9N2VBh.jpeg",
+        opts: {
+            group_label: ["ILY:1"],
+        }
+    },
+    {
         name: "ITZY",
         img: "08lpj5M.jpeg",
         opts: {
@@ -6882,10 +6889,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "MAJORS",
+        name: "Majors",
         img: "Ymp3Jx7.jpeg",
         opts: {
-            group_label: ["MAJORS"],
+            group_label: ["Majors"],
         }
     },
     {
@@ -6973,10 +6980,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Primrose",
+        name: "PRIMROSE",
         img: "pLghMfE.jpeg",
         opts: {
-            group_label: ["Primrose"],
+            group_label: ["PRIMROSE"],
         }
     },
     {
@@ -6991,6 +6998,13 @@ dataSet[dataSetVersion].characterData = [
         img: "1eNnyDK.jpeg",
         opts: {
             group_label: ["Purple Kiss"],
+        }
+    },
+    {
+        name: "QWER",
+        img: "XfPJ2nC.jpeg",
+        opts: {
+            group_label: ["QWER"],
         }
     },
     {
@@ -7019,13 +7033,6 @@ dataSet[dataSetVersion].characterData = [
         img: "G26KKke.jpeg",
         opts: {
             group_label: ["Rocket Punch"],
-        }
-    },
-    {
-        name: "QWER",
-        img: "XfPJ2nC.jpeg",
-        opts: {
-            group_label: ["QWER"],
         }
     },
     {
@@ -7152,6 +7159,13 @@ dataSet[dataSetVersion].characterData = [
         img: "6gpbpRL.jpeg",
         opts: {
             group_label: ["VVUP"],
+        }
+    },
+    {
+        name: "Weeekly",
+        img: "QfPiaX2.jpeg",
+        opts: {
+            group_label: ["Weeekly"],
         }
     },
     {
