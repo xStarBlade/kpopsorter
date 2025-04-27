@@ -6321,6 +6321,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "HITGS VV",
+        img: "4z0I4M8.jpeg",
+        opts: {
+            group: ["HITGS"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "ILLIT Wonhee",
         img: "jN3lEmf.jpeg",
         opts: {
