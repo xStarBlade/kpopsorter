@@ -5611,6 +5611,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Hearts2Hearts A-na",
+        img: "ABrdwMc.jpeg",
+        opts: {
+            group: ["Hearts2Hearts"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Geenius Andamiro",
         img: "TVsNNXN.jpeg",
         opts: {
@@ -5647,6 +5655,14 @@ dataSet[dataSetVersion].characterData = [
         img: "lrXlqeL.jpeg",
         opts: {
             group: ["izna"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Hearts2Hearts Carmen",
+        img: "JFeZ764.jpeg",
+        opts: {
+            group: ["Hearts2Hearts"],
             gen: ["gen5"]
         }
     },
@@ -5803,6 +5819,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Hearts2Hearts Ian",
+        img: "FQ3Zbbu.jpeg",
+        opts: {
+            group: ["Hearts2Hearts"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BADVILLAIN INA",
         img: "kPttwnY.jpeg",
         opts: {
@@ -5843,6 +5867,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Hearts2Hearts Jiwoo",
+        img: "gNTbhXK.jpeg",
+        opts: {
+            group: ["Hearts2Hearts"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "KiiiKiii Jiyu",
         img: "cjBXNQP.jpeg",
         opts: {
@@ -5863,6 +5895,14 @@ dataSet[dataSetVersion].characterData = [
         img: "7f2bbnA.jpeg",
         opts: {
             group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Hearts2Hearts Juun",
+        img: "mYdkUpY.jpeg",
+        opts: {
+            group: ["Hearts2Hearts"],
             gen: ["gen5"]
         }
     },
@@ -6203,6 +6243,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Hearts2Hearts Stella",
+        img: "mI1hjOb.jpeg",
+        opts: {
+            group: ["Hearts2Hearts"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Madein Suhye",
         img: "dWG9fhr.jpeg",
         opts: {
@@ -6299,6 +6347,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Hearts2Hearts Ye-on",
+        img: "ED93iIh.jpeg",
+        opts: {
+            group: ["Hearts2Hearts"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "ODD YOUTH Yeeum",
         img: "ywJYemq.jpeg",
         opts: {
@@ -6343,6 +6399,14 @@ dataSet[dataSetVersion].characterData = [
         img: "PE45OpG.jpeg",
         opts: {
             group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Hearts2Hearts Yuha",
+        img: "L0EKF5u.jpeg",
+        opts: {
+            group: ["Hearts2Hearts"],
             gen: ["gen5"]
         }
     },
