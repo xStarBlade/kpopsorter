@@ -7144,6 +7144,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Secret",
+        img: "nnE7c9S.jpeg",
+        opts: {
+            group_label: ["Secret"],
+        }
+    },
+    {
         name: "Secret Number",
         img: "hflOXh7.jpeg",
         opts: {
