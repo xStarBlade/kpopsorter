@@ -5809,6 +5809,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "HITGS Hyerin",
+        img: "0pvtROz.jpeg",
+        opts: {
+            group: ["HITGS"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "VVUP Hyunny",
         img: "F81taPZ.jpeg",
         opts: {
@@ -5837,6 +5845,14 @@ dataSet[dataSetVersion].characterData = [
         img: "O2iiodU.jpeg",
         opts: {
             group: ["ILLIT"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "HITGS Iyoo",
+        img: "5DlsKo5.jpeg",
+        opts: {
+            group: ["HITGS"],
             gen: ["gen5"]
         }
     },
@@ -6165,6 +6181,22 @@ dataSet[dataSetVersion].characterData = [
         img: "zihaQCh.jpeg",
         opts: {
             group: ["Candy Shop"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "HITGS Seohee",
+        img: "XHYA1jV.jpeg",
+        opts: {
+            group: ["HITGS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "HITGS Seojin",
+        img: "aGa2vMc.jpeg",
+        opts: {
+            group: ["HITGS"],
             gen: ["gen5"]
         }
     },
