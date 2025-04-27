@@ -5755,6 +5755,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "KiiiKiii Haum",
+        img: "U6lIqmB.jpeg",
+        opts: {
+            group: ["KiiiKiii"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "QWER Hina",
         img: "64zDgy6.jpeg",
         opts: {
@@ -5835,6 +5843,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "KiiiKiii Jiyu",
+        img: "cjBXNQP.jpeg",
+        opts: {
+            group: ["KiiiKiii"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Candy Shop Julia",
         img: "5bzRzG7.jpeg",
         opts: {
@@ -5895,6 +5911,22 @@ dataSet[dataSetVersion].characterData = [
         img: "ySG7Isw.jpeg",
         opts: {
             group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "KiiiKiii Kya",
+        img: "qyR00cX.jpeg",
+        opts: {
+            group: ["KiiiKiii"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "KiiiKiii Leesol",
+        img: "xGs8VZ5.jpeg",
+        opts: {
+            group: ["KiiiKiii"],
             gen: ["gen5"]
         }
     },
@@ -6183,6 +6215,14 @@ dataSet[dataSetVersion].characterData = [
         img: "E5IWdrm.jpeg",
         opts: {
             group: ["Candy Shop"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "KiiiKiii Sui",
+        img: "E5IWdrm.jpeg",
+        opts: {
+            group: ["KiiiKiii"],
             gen: ["gen5"]
         }
     },
