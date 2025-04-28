@@ -258,7 +258,7 @@ function start() {
   rightInnerIndex = 0;                        // to the right array, in order to merge them into one sorted array.
 
   /** Disable all checkboxes and hide/show appropriate parts while we preload the images. */
-  document.querySelectorAll('input[type=checkbox]').forEach(cb => cb.disabled = true);
+  document.querySelectorAll('input[type=checkbox]').forEach(cb => cb.disabled = false);
   document.querySelectorAll('.starting.button').forEach(el => el.style.display = 'none');
   document.querySelector('.loading.button').style.display = 'block';
   document.querySelector('.progress').style.display = 'block';
