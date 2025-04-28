@@ -150,7 +150,7 @@ img.left, img.right {
 
 .sorter > .image {
   width: 45vw;
-  height: 75vh;
+  height: 100%;
   margin: auto;
   grid-row: 2;
   cursor: pointer;
