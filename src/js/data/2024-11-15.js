@@ -5010,7 +5010,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Everglow Sihyeon",
-        img: "zOD1m5o.jpeg",
+        img: "uBEJyz6.jpeg",
         opts: {
             group: ["Everglow"],
             gen: ["gen4"]
