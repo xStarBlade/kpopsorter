@@ -4201,6 +4201,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Bvndit Jungwoo",
+        img: "v4d2nv4.jpeg",
+        opts: {
+            group: ["Bvndit"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Rocket Punch Juri",
         img: "0UCxUoQ.jpeg",
         opts: {
@@ -4929,6 +4937,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Bvndit Seungeun",
+        img: "YoS8UFu.jpeg",
+        opts: {
+            group: ["Bvndit"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "LAPILLUS Shana",
         img: "r5rXSN7.jpeg",
         opts: {
@@ -5001,6 +5017,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Bvndit Simyeong",
+        img: "fooUi3Q.jpeg",
+        opts: {
+            group: ["Bvndit"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Viviz SinB",
         img: "kifYGgw.jpeg",
         opts: {
@@ -5069,6 +5093,14 @@ dataSet[dataSetVersion].characterData = [
         img: "V7dcQ5T.jpeg",
         opts: {
             group: ["soloist"],
+            gen: ["gen4"]
+        }
+    },  
+    {
+        name: "Bvndit Songhee",
+        img: "7rV2yCn.png",
+        opts: {
+            group: ["Bvndit"],
             gen: ["gen4"]
         }
     },
@@ -5397,6 +5429,14 @@ dataSet[dataSetVersion].characterData = [
         img: "p6O67eB.jpeg",
         opts: {
             group: ["Everglow"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Bvndit Yiyeon",
+        img: "4v21DBx.jpeg",
+        opts: {
+            group: ["Bvndit"],
             gen: ["gen4"]
         }
     },
