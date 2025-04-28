@@ -5841,6 +5841,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ifeye Hwayeon",
+        img: "QKpGseV.jpeg",
+        opts: {
+            group: ["ifeye"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "UNIS Hyeonju",
         img: "kNK5W5m.jpeg",
         opts: {
@@ -5977,6 +5985,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ifeye Kasia",
+        img: "HXvm8I9.jpeg",
+        opts: {
+            group: ["ifeye"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BADVILLAIN Kelly",
         img: "1XzISBL.jpeg",
         opts: {
@@ -6081,6 +6097,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ifeye Meu",
+        img: "umYK8J8.jpeg",
+        opts: {
+            group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Geenius Mika",
         img: "NLrJoKT.jpeg",
         opts: {
@@ -6177,6 +6201,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ifeye Rahee",
+        img: "ZoOKOUr.jpeg",
+        opts: {
+            group: ["ifeye"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BabyMonster Rami",
         img: "ZoOKOUr.jpeg",
         opts: {
@@ -6221,6 +6253,14 @@ dataSet[dataSetVersion].characterData = [
         img: "zihaQCh.jpeg",
         opts: {
             group: ["Candy Shop"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "ifeye Sasha",
+        img: "zihaQCh.jpeg",
+        opts: {
+            group: ["ifeye"],
             gen: ["gen5"]
         }
     },
@@ -6365,6 +6405,14 @@ dataSet[dataSetVersion].characterData = [
         img: "NP9C2oA.jpeg",
         opts: {
             group: ["VVUP"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "ifeye Taerin",
+        img: "5CUbiRn.jpeg",
+        opts: {
+            group: ["ifeye"],
             gen: ["gen5"]
         }
     },
