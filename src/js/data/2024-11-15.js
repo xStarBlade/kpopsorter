@@ -4690,7 +4690,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Everglow Onda",
-        img: "YLvFG0C.jpeg",
+        img: "uJROSr1.jpeg",
         opts: {
             group: ["Everglow"],
             gen: ["gen4"]
