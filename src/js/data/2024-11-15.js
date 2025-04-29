@@ -3412,7 +3412,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NeonPunch Dayeon",
-        img: "1ZOScXz.jpg",
+        img: "PFLLdqZ.jpg",
         opts: {
             group: ["NeonPunch"],
             gen: ["gen4"]
