@@ -329,24 +329,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Baek Jiyoung",
-        img: "CO3WqVj.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen1"]
-        }
-    },
-    {
         name: "BoA",
         img: "xesVuX8.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "Gummy",
-        img: "hk45cAu.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen1"]
@@ -357,36 +341,12 @@ dataSet[dataSetVersion].characterData = [
         img: "rK1S2bh.jpeg",
         opts: {
             group: ["soloist"],
-            gen: ["gen1"]
+            gen: ["gen2"]
         }
     },
     {
         name: "Lee Hyori",
         img: "agNlY1T.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "Lee SooYoung",
-        img: "emHLjnC.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "Lee Sora",
-        img: "4KwoL9Z.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "Lee Sun Hee",
-        img: "0KsQZYo.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen1"]
@@ -669,14 +629,6 @@ dataSet[dataSetVersion].characterData = [
         img: "lP6qqL5.jpeg",
         opts: {
             group: ["Miss A"],
-            gen: ["gen2"]
-        }
-    },
-    {
-        name: "G.na",
-        img: "IPsErbu.jpeg",
-        opts: {
-            group: ["soloist"],
             gen: ["gen2"]
         }
     },
@@ -1305,7 +1257,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "NS Yoon-G",
+        name: "Kim YunJee",
         img: "GacNRgx.png",
         opts: {
             group: ["soloist"],
