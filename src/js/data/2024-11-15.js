@@ -122,7 +122,6 @@ dataSet[dataSetVersion].options = [
       {name: "Tri.be", key: "Tri.be"},
       {name: "tripleS", key: "tripleS"},
       {name: "Twice", key: "Twice"},
-      {name: "UNI.T", key: "UNI.T"},
       {name: "UNIS", key: "UNIS"},
       {name: "VIV", key: "VIV"},
       {name: "Viviz", key: "Viviz"},
@@ -261,7 +260,6 @@ dataSet[dataSetVersion].options = [
       {name: "Tri.be", key: "Tri.be"},
       {name: "tripleS", key: "tripleS"},
       {name: "Twice", key: "Twice"},
-      {name: "UNI.T", key: "UNI.T"},
       {name: "UNIS", key: "UNIS"},
       {name: "VIV", key: "VIV"},
       {name: "Viviz", key: "Viviz"},
@@ -5407,14 +5405,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "UNI.T Yoonjo",
-        img: "OdCgmz0.jpeg",
-        opts: {
-            group: ["UNI.T"],
-            gen: ["gen4"]
-        }
-    },
-    {
         name: "Youha",
         img: "NUG0C12.jpeg",
         opts: {
@@ -7287,13 +7277,6 @@ dataSet[dataSetVersion].characterData = [
         img: "zrF5oT1.jpeg",
         opts: {
             group_label: ["Twice"],
-        }
-    },
-    {
-        name: "UNI.T",
-        img: "n36xg7x.jpeg",
-        opts: {
-            group_label: ["UNI.T"],
         }
     },
     {
