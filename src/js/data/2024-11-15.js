@@ -21,7 +21,6 @@ dataSet[dataSetVersion].options = [
       {name: "Apink", key: "Apink"},
       {name: "April", key: "April"},
       {name: "ARTMS", key: "ARTMS"},
-      {name: "As One", key: "As One"},
       {name: "BabyMonster", key: "BabyMonster"},
       {name: "BADVILLAIN", key: "BADVILLAIN"},
       {name: "BESTie", key: "BESTie"},
@@ -163,7 +162,6 @@ dataSet[dataSetVersion].options = [
       {name: "Apink", key: "Apink"},
       {name: "April", key: "April"},
       {name: "ARTMS", key: "ARTMS"},
-      {name: "As One", key: "As One"},
       {name: "BabyMonster", key: "BabyMonster"},
       {name: "BADVILLAIN", key: "BADVILLAIN"},
       {name: "BESTie", key: "BESTie"},
@@ -280,22 +278,6 @@ dataSet[dataSetVersion].options = [
 ];
 
 dataSet[dataSetVersion].characterData = [
-    {
-        name: "As One Crystal",
-        img: "EGYUvjY.jpeg",
-        opts: {
-            group: ["As One"],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "As One Min",
-        img: "hoFNepH.jpeg",
-        opts: {
-            group: ["As One"],
-            gen: ["gen1"]
-        }
-    },
     {
         name: "PAPAYA Go Naeun",
         img: "69gH9za.jpeg",
@@ -6626,13 +6608,6 @@ dataSet[dataSetVersion].characterData = [
         img: "ZvON3g2.png",
         opts: {
             group_label: ["ARTMS"],
-        }
-    },
-    {
-        name: "As One",
-        img: "mDq93T8.png",
-        opts: {
-            group_label: ["As One"],
         }
     },
     {
