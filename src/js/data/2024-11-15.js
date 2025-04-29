@@ -5251,7 +5251,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Kep1er XiaoTing",
+        name: "Kep1er Xiaoting",
         img: "8rjaFsO.jpeg",
         opts: {
             group: ["Kep1er"],
