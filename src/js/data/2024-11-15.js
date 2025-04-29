@@ -97,7 +97,6 @@ dataSet[dataSetVersion].options = [
       {name: "Nmixx", key: "Nmixx"},
       {name: "ODD YOUTH", key: "ODD YOUTH"},
       {name: "Oh My Girl", key: "Oh My Girl"},
-      {name: "PAPAYA", key: "PAPAYA"},
       {name: "Pixy", key: "Pixy"},
       {name: "PRIMROSE", key: "PRIMROSE"},
       {name: "Pristin", key: "Pristin"},
@@ -236,7 +235,6 @@ dataSet[dataSetVersion].options = [
       {name: "Nmixx", key: "Nmixx"},
       {name: "ODD YOUTH", key: "ODD YOUTH"},
       {name: "Oh My Girl", key: "Oh My Girl"},
-      {name: "PAPAYA", key: "PAPAYA"},
       {name: "Pixy", key: "Pixy"},
       {name: "PRIMROSE", key: "PRIMROSE"},
       {name: "Pristin", key: "Pristin"},
@@ -276,14 +274,6 @@ dataSet[dataSetVersion].options = [
 ];
 
 dataSet[dataSetVersion].characterData = [
-    {
-        name: "PAPAYA Go Naeun",
-        img: "69gH9za.jpeg",
-        opts: {
-            group: ["PAPAYA"],
-            gen: ["gen1"]
-        }
-    },
     {
         name: "S.E.S. Bada",
         img: "EJAI9ha.jpeg",
