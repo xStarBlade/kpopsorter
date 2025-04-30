@@ -487,7 +487,7 @@ dataSet[dataSetVersion].characterData = [
         img: "QZ1eJwc.jpeg",
         opts: {
             group: ["AOA"],
-            gen: ["gen2"]
+            gen: ["gen3"]
         }
     },
     {
@@ -495,7 +495,7 @@ dataSet[dataSetVersion].characterData = [
         img: "YrjSiU3.jpeg",
         opts: {
             group: ["AOA"],
-            gen: ["gen2"]
+            gen: ["gen3"]
         }
     },
     {
@@ -5564,7 +5564,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ablume Aran",
-        img: "6ZZwaiC.jpeg",
+        img: "cxlCzF5.jpeg",
         opts: {
             group: ["ablume"],
             gen: ["gen5"]
@@ -6124,7 +6124,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ablume Saena",
-        img: "F9NXkOX.jpeg",
+        img: "dVMVR3K.jpeg",
         opts: {
             group: ["ablume"],
             gen: ["gen5"]
@@ -6196,7 +6196,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ablume Sio",
-        img: "ZkLE6CS.jpeg",
+        img: "NSL1jLz.jpeg",
         opts: {
             group: ["ablume"],
             gen: ["gen5"]
