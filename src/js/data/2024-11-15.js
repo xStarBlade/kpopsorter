@@ -4996,7 +4996,7 @@ dataSet[dataSetVersion].characterData = [
     },  
     {
         name: "Bvndit Songhee",
-        img: "7rV2yCn.png",
+        img: "CFvOBA5.png",
         opts: {
             group: ["Bvndit"],
             gen: ["gen4"]
