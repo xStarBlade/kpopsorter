@@ -5724,7 +5724,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BADVILLAIN HU'E",
-        img: "4UxjVze.jpeg",
+        img: "sE7rFfB.jpeg",
         opts: {
             group: ["BADVILLAIN"],
             gen: ["gen5"]
