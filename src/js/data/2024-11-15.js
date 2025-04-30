@@ -667,14 +667,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "EXID Haeryung",
-        img: "SHXJ1rh.png",
-        opts: {
-            group: ["EXID"],
-            gen: ["gen2"]
-        }
-    },
-    {
         name: "Secret Hana",
         img: "t5SBTjU.png",
         opts: {
@@ -687,7 +679,7 @@ dataSet[dataSetVersion].characterData = [
         img: "1tqFknq.jpeg",
         opts: {
             group: ["EXID"],
-            gen: ["gen2"]
+            gen: ["gen3"]
         }
     },
     {
@@ -767,7 +759,7 @@ dataSet[dataSetVersion].characterData = [
         img: "C7spu99.jpeg",
         opts: {
             group: ["EXID"],
-            gen: ["gen2"]
+            gen: ["gen3"]
         }
     },
     {
@@ -999,7 +991,7 @@ dataSet[dataSetVersion].characterData = [
         img: "PSWBIiK.jpeg",
         opts: {
             group: ["EXID"],
-            gen: ["gen2"]
+            gen: ["gen3"]
         }
     },
     {
@@ -1031,14 +1023,6 @@ dataSet[dataSetVersion].characterData = [
         img: "SmrYhQp.png",
         opts: {
             group: ["After School"],
-            gen: ["gen2"]
-        }
-    },
-    {
-        name: "EXID Kang Hye Yeon",
-        img: "cRnrT3V.jpeg",
-        opts: {
-            group: ["EXID"],
             gen: ["gen2"]
         }
     },
@@ -1095,7 +1079,7 @@ dataSet[dataSetVersion].characterData = [
         img: "c6UN0Ym.jpeg",
         opts: {
             group: ["EXID"],
-            gen: ["gen2"]
+            gen: ["gen3"]
         }
     },
     {
@@ -1439,7 +1423,7 @@ dataSet[dataSetVersion].characterData = [
         img: "CcQuKCx.jpeg",
         opts: {
             group: ["EXID"],
-            gen: ["gen2"]
+            gen: ["gen3"]
         }
     },
     {
@@ -1575,14 +1559,6 @@ dataSet[dataSetVersion].characterData = [
         img: "kko3ZUs.png",
         opts: {
             group: ["After School"],
-            gen: ["gen2"]
-        }
-    },
-    {
-        name: "EXID Uji",
-        img: "nLIt2bQ.png",
-        opts: {
-            group: ["EXID"],
             gen: ["gen2"]
         }
     },
