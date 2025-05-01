@@ -5612,7 +5612,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "QWER Chodan",
-        img: "byzu5K7.jpeg",
+        img: "9Vce073.jpeg",
         opts: {
             group: ["QWER"],
             gen: ["gen5"]
@@ -5700,7 +5700,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "QWER Hina",
-        img: "64zDgy6.jpeg",
+        img: "xqx5hFw.jpeg",
         opts: {
             group: ["QWER"],
             gen: ["gen5"]
@@ -6204,7 +6204,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "QWER Siyeon",
-        img: "5Y8ilTb.jpeg",
+        img: "LRIZ3xs.jpeg",
         opts: {
             group: ["QWER"],
             gen: ["gen5"]
@@ -7106,7 +7106,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "QWER",
-        img: "XfPJ2nC.jpeg",
+        img: "XGyIhYi.jpeg",
         opts: {
             group_label: ["QWER"],
         }
