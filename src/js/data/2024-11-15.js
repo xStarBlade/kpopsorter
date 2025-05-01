@@ -484,7 +484,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "AOA Chanmi",
-        img: "QZ1eJwc.jpeg",
+        img: "WZQecIb.jpeg",
         opts: {
             group: ["AOA"],
             gen: ["gen3"]
@@ -708,10 +708,10 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "AOA Hyejeong",
-        img: "okjVFkD.jpeg",
+        img: "vJ8va8a.jpeg",
         opts: {
             group: ["AOA"],
-            gen: ["gen2"]
+            gen: ["gen3"]
         }
     },
     {
@@ -892,10 +892,10 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "AOA Jimin",
-        img: "4uDETkl.jpeg",
+        img: "djksx43.jpeg",
         opts: {
             group: ["AOA"],
-            gen: ["gen2"]
+            gen: ["gen3"]
         }
     },
     {
@@ -1356,10 +1356,10 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "AOA Seolhyun",
-        img: "S7ZvDk6.png",
+        img: "O49Wmke.png",
         opts: {
             group: ["AOA"],
-            gen: ["gen2"]
+            gen: ["gen3"]
         }
     },
     {
@@ -1683,14 +1683,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "AOA Youkyung",
-        img: "FE2p4AT.png",
-        opts: {
-            group: ["AOA"],
-            gen: ["gen2"]
-        }
-    },
-    {
         name: "Kara Youngji",
         img: "gqoUs82.jpeg",
         opts: {
@@ -1716,10 +1708,10 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "AOA Yuna",
-        img: "SwByUez.jpeg",
+        img: "BCQTet6.jpeg",
         opts: {
             group: ["AOA"],
-            gen: ["gen2"]
+            gen: ["gen3"]
         }
     },
     {
