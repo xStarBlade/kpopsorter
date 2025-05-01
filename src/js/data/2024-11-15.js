@@ -444,7 +444,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Sistar Bora",
-        img: "XFSnOXe.png",
+        img: "Hs8FBDs.png",
         opts: {
             group: ["Sistar"],
             gen: ["gen2"]
@@ -772,7 +772,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Sistar Hyolyn",
-        img: "NwwNnAe.jpeg",
+        img: "RuQsuuv.jpeg",
         opts: {
             group: ["Sistar"],
             gen: ["gen2"]
