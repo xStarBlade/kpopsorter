@@ -1148,10 +1148,10 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "AOA Mina",
-        img: "D3RhzOZ.jpeg",
+        img: "J06bgHQ.jpeg",
         opts: {
             group: ["AOA"],
-            gen: ["gen2"]
+            gen: ["gen3"]
         }
     },
     {
