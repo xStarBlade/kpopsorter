@@ -4532,7 +4532,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Lightsum Nayoung",
-        img: "Bp1U0sy.jpeg",
+        img: "PfOIFze.jpeg",
         opts: {
             group: ["Lightsum"],
             gen: ["gen4"]
@@ -4684,7 +4684,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Lightsum Sangah",
-        img: "lm6Z64C.jpeg",
+        img: "vkb3j0U.jpeg",
         opts: {
             group: ["Lightsum"],
             gen: ["gen4"]
@@ -5404,7 +5404,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Lightsum Yujeong",
-        img: "2tFf9ls.jpeg",
+        img: "jZtViVQ.jpeg",
         opts: {
             group: ["Lightsum"],
             gen: ["gen4"]
