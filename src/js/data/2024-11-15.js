@@ -6004,7 +6004,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Minju",
-        img: "jV8JFNv.jpeg",
+        img: "pgmT3Ov.jpeg",
         opts: {
             group: ["ILLIT"],
             gen: ["gen5"]
@@ -6020,7 +6020,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Moka",
-        img: "fSnBkaO.jpeg",
+        img: "qELThC2.jpeg",
         opts: {
             group: ["ILLIT"],
             gen: ["gen5"]
@@ -6428,7 +6428,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Yunah",
-        img: "YHzVLzj.jpeg",
+        img: "jCgJsse.jpeg",
         opts: {
             group: ["ILLIT"],
             gen: ["gen5"]
