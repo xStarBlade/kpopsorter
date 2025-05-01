@@ -1028,7 +1028,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Davichi Kang Min Kyung",
-        img: "3Luzslf.jpeg",
+        img: "e9VqhLJ.jpeg",
         opts: {
             group: ["Davichi"],
             gen: ["gen2"]
@@ -1084,7 +1084,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Davichi Lee Haeri",
-        img: "ijdX6ql.jpeg",
+        img: "ucT1D4a.jpeg",
         opts: {
             group: ["Davichi"],
             gen: ["gen2"]
