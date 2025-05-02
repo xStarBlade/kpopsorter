@@ -5644,7 +5644,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UNIS Elisia",
-        img: "n74uqxX.jpeg",
+        img: "tvV8oND.jpeg",
         opts: {
             group: ["UNIS"],
             gen: ["gen5"]
@@ -5684,7 +5684,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UNIS Gehlee",
-        img: "qzabbpU.jpeg",
+        img: "GlptMPd.jpeg",
         opts: {
             group: ["UNIS"],
             gen: ["gen5"]
@@ -5732,7 +5732,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UNIS Hyeonju",
-        img: "kNK5W5m.jpeg",
+        img: "PlnM7yU.jpeg",
         opts: {
             group: ["UNIS"],
             gen: ["gen5"]
@@ -6036,7 +6036,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UNIS Nana",
-        img: "jW0jc85.jpeg",
+        img: "d5DcjNK.jpeg",
         opts: {
             group: ["UNIS"],
             gen: ["gen5"]
@@ -6164,7 +6164,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UNIS Seowon",
-        img: "2dRek4o.jpeg",
+        img: "1NM4iI5.jpeg",
         opts: {
             group: ["UNIS"],
             gen: ["gen5"]
@@ -6404,7 +6404,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UNIS Yoona",
-        img: "PE45OpG.jpeg",
+        img: "2m6oTlI.jpeg",
         opts: {
             group: ["UNIS"],
             gen: ["gen5"]
@@ -6436,7 +6436,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UNIS Yunha",
-        img: "h3vMhjE.jpeg",
+        img: "3BL2QVn.jpeg",
         opts: {
             group: ["UNIS"],
             gen: ["gen5"]
