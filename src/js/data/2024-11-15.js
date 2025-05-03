@@ -3841,6 +3841,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Tri.be Jia",
+        img: "F1s8p1T.jpeg",
+        opts: {
+            group: ["Tri.be"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Busters Jieun",
         img: "zxEWZnZ.jpeg",
         opts: {
@@ -4369,6 +4377,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Tri.be Mire",
+        img: "1FvYIHo.jpeg",
+        opts: {
+            group: ["Tri.be"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "DreamNote Miso",
         img: "nluCDti.jpeg",
         opts: {
@@ -4877,6 +4893,14 @@ dataSet[dataSetVersion].characterData = [
         img: "MCxJuQI.jpeg",
         opts: {
             group: ["GWSN"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Tri.be Soeun",
+        img: "PtsvoZt.jpeg",
+        opts: {
+            group: ["Tri.be"],
             gen: ["gen4"]
         }
     },
