@@ -490,7 +490,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Crayon Pop Choa",
-        img: "pL4n6X9.png",
+        img: "bfCPL0W.png",
         opts: {
             group: ["Crayon Pop"],
             gen: ["gen2"]
@@ -530,7 +530,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Crayon Pop Ellin",
-        img: "wmHfcsR.png",
+        img: "RELS9vn.png",
         opts: {
             group: ["Crayon Pop"],
             gen: ["gen2"]
@@ -625,8 +625,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Crayon Pop Gummi",
-        img: "un1AjHv.png",
+        name: "Crayon Pop Geummi",
+        img: "G7K4P01.png",
         opts: {
             group: ["Crayon Pop"],
             gen: ["gen2"]
@@ -1450,7 +1450,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Crayon Pop Soyul",
-        img: "Rc8DEkn.png",
+        img: "HcWX9E1.png",
         opts: {
             group: ["Crayon Pop"],
             gen: ["gen2"]
@@ -1546,7 +1546,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Crayon Pop Way",
-        img: "gIls0qZ.png",
+        img: "1yN1Rnk.png",
         opts: {
             group: ["Crayon Pop"],
             gen: ["gen2"]
