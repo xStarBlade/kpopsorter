@@ -4420,7 +4420,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IZ*ONE Minju",
-        img: "P34Syds.png",
+        img: "EJtLyjp.png",
         opts: {
             group: ["IZ*ONE"],
             gen: ["gen4"]
@@ -4500,7 +4500,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IZ*ONE Nako",
-        img: "3Ql89jt.png",
+        img: "5MFP4nU.png",
         opts: {
             group: ["IZ*ONE"],
             gen: ["gen4"]
