@@ -2856,7 +2856,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Soloist Yerin",
         img: "s9eLWMA.jpeg",
         opts: {
-            group: ["Soloist"],
+            group: ["soloist"],
             gen: ["gen3"]
         }
     },
@@ -2912,7 +2912,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Soloist Yuju",
         img: "FPWfUtk.jpeg",
         opts: {
-            group: ["Soloist"],
+            group: ["soloist"],
             gen: ["gen3"]
         }
     },
