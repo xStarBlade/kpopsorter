@@ -110,7 +110,6 @@ dataSet[dataSetVersion].options = [
       {name: "Say My Name", key: "Say My Name"},
       {name: "Secret", key: "Secret"},
       {name: "Secret Number", key: "Secret Number"},
-      {name: "SeeYa", key: "SeeYa"},
       {name: "Sistar", key: "Sistar"},
       {name: "Sonamoo", key: "Sonamoo"},
       {name: "SPICA", key: "SPICA"},
@@ -247,7 +246,6 @@ dataSet[dataSetVersion].options = [
       {name: "Say My Name", key: "Say My Name"},
       {name: "Secret", key: "Secret"},
       {name: "Secret Number", key: "Secret Number"},
-      {name: "SeeYa", key: "SeeYa"},
       {name: "Sistar", key: "Sistar"},
       {name: "Sonamoo", key: "Sonamoo"},
       {name: "SPICA", key: "SPICA"},
@@ -451,14 +449,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "SeeYa Boram",
-        img: "UG2vBKK.jpeg",
-        opts: {
-            group: ["SeeYa"],
-            gen: ["gen2"]
-        }
-    },
-    {
         name: "T-ara Boram",
         img: "IGHUvD6.jpeg",
         opts: {
@@ -647,14 +637,6 @@ dataSet[dataSetVersion].characterData = [
         img: "XxRurmW.jpeg",
         opts: {
             group: ["9Muses"],
-            gen: ["gen2"]
-        }
-    },
-    {
-        name: "SeeYa Gyuri",
-        img: "GopQZk1.jpeg",
-        opts: {
-            group: ["SeeYa"],
             gen: ["gen2"]
         }
     },
@@ -1051,14 +1033,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "SeeYa Kim Yeonji",
-        img: "n3v1Ce6.jpeg",
-        opts: {
-            group: ["SeeYa"],
-            gen: ["gen2"]
-        }
-    },
-    {
         name: "Sunny Hill Kota",
         img: "0ZhMFJR.jpeg",
         opts: {
@@ -1431,14 +1405,6 @@ dataSet[dataSetVersion].characterData = [
         img: "lRuvgj4.jpeg",
         opts: {
             group: ["Secret"],
-            gen: ["gen2"]
-        }
-    },
-    {
-        name: "SeeYa Soomi",
-        img: "YkPhJ32.jpeg",
-        opts: {
-            group: ["SeeYa"],
             gen: ["gen2"]
         }
     },
@@ -7158,13 +7124,6 @@ dataSet[dataSetVersion].characterData = [
         img: "hflOXh7.jpeg",
         opts: {
             group_label: ["Secret Number"],
-        }
-    },
-    {
-        name: "SeeYa",
-        img: "EXJD9Bm.jpeg",
-        opts: {
-            group_label: ["SeeYa"],
         }
     },
     {
