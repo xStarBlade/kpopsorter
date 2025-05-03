@@ -3804,7 +3804,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hyewon",
-        img: "DN8c4L9.jpeg",
+        img: "wvTlWvN.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen4"]
@@ -4212,7 +4212,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kwon Eunbi",
-        img: "PTIHNWz.jpeg",
+        img: "84H2q7i.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen4"]
@@ -4236,7 +4236,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Lee Chaeyeon",
-        img: "yj8ONrF.jpeg",
+        img: "Z92XoPY.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen4"]
@@ -4420,7 +4420,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IZ*ONE Minju",
-        img: "EJtLyjp.png",
+        img: "sggoeHP.png",
         opts: {
             group: ["IZ*ONE"],
             gen: ["gen4"]
