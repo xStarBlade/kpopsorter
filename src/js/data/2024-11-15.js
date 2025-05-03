@@ -329,30 +329,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Lyn",
-        img: "CG9dMHG.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "Park Jiyoon",
-        img: "MZGbDVJ.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "Yangpa",
-        img: "ZeDQN0P.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen1"]
-        }
-    },
-    {
         name: "Wonder Girls Ahn Sohee",
         img: "qMPi1sx.jpeg",
         opts: {
@@ -1069,14 +1045,6 @@ dataSet[dataSetVersion].characterData = [
         img: "lR10SEn.jpeg",
         opts: {
             group: ["9Muses"],
-            gen: ["gen2"]
-        }
-    },
-    {
-        name: "Lim Jeonghee",
-        img: "OAauOYi.jpeg",
-        opts: {
-            group: ["soloist"],
             gen: ["gen2"]
         }
     },
