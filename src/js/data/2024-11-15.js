@@ -2482,7 +2482,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Pristin Nayoung",
-        img: "Z1yUB5o.jpeg",
+        img: "f3zmbJR.jpeg",
         opts: {
             group: ["Pristin"],
             gen: ["gen3"]
@@ -5890,7 +5890,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ReScene Liv",
-        img: "ctueVH1.jpeg",
+        img: "3pMDMfN.jpeg",
         opts: {
             group: ["ReScene"],
             gen: ["gen5"]
@@ -5930,7 +5930,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ReScene May",
-        img: "nprutA2.jpeg",
+        img: "Sa8n3uH.jpeg",
         opts: {
             group: ["ReScene"],
             gen: ["gen5"]
@@ -7093,7 +7093,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ReScene",
-        img: "GTMSQdL.jpeg",
+        img: "3PHZlVcL.jpeg",
         opts: {
             group_label: ["ReScene"],
         }
