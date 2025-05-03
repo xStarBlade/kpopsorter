@@ -23,7 +23,6 @@ dataSet[dataSetVersion].options = [
       {name: "ARTMS", key: "ARTMS"},
       {name: "BabyMonster", key: "BabyMonster"},
       {name: "BADVILLAIN", key: "BADVILLAIN"},
-      {name: "BESTie", key: "BESTie"},
       {name: "Billlie", key: "Billlie"},
       {name: "Blackpink", key: "Blackpink"},
       {name: "Brave Girls", key: "Brave Girls"},
@@ -160,7 +159,6 @@ dataSet[dataSetVersion].options = [
       {name: "ARTMS", key: "ARTMS"},
       {name: "BabyMonster", key: "BabyMonster"},
       {name: "BADVILLAIN", key: "BADVILLAIN"},
-      {name: "BESTie", key: "BESTie"},
       {name: "Billlie", key: "Billlie"},
       {name: "Blackpink", key: "Blackpink"},
       {name: "Brave Girls", key: "Brave Girls"},
@@ -1763,14 +1761,6 @@ dataSet[dataSetVersion].characterData = [
         img: "7pmUTmb.jpeg",
         opts: {
             group: ["Sonamoo"],
-            gen: ["gen3"]
-        }
-    },
-    {
-        name: "BESTie Dahye",
-        img: "nCRU50l.png",
-        opts: {
-            group: ["BESTie"],
             gen: ["gen3"]
         }
     },
@@ -6526,13 +6516,6 @@ dataSet[dataSetVersion].characterData = [
         img: "6PSxBIv.jpeg",
         opts: {
             group_label: ["BADVILLAIN"],
-        }
-    },
-    {
-        name: "BESTie",
-        img: "U5GZiFJ.jpeg",
-        opts: {
-            group_label: ["BESTie"],
         }
     },
     {
