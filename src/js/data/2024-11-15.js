@@ -532,7 +532,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "After School E-Young",
-        img: "csrUlVG.png",
+        img: "VKW8uQ5.png",
         opts: {
             group: ["After School"],
             gen: ["gen2"]
