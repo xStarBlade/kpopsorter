@@ -2853,10 +2853,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "GFriend Yerin",
+        name: "Soloist Yerin",
         img: "s9eLWMA.jpeg",
         opts: {
-            group: ["GFriend"],
+            group: ["Soloist"],
             gen: ["gen3"]
         }
     },
@@ -2909,10 +2909,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "GFriend Yuju",
+        name: "Soloist Yuju",
         img: "FPWfUtk.jpeg",
         opts: {
-            group: ["GFriend"],
+            group: ["Soloist"],
             gen: ["gen3"]
         }
     },
