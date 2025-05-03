@@ -657,7 +657,7 @@ function setLatestDataset() {
 /** Populate option list. */
 function populateOptions() {
   const optList = document.querySelector('.options');
-  const optInsert = (name, id, tooltip, checked = false, disabled = false) => {
+  const optInsert = (name, id, tooltip, checked = false, disabled = true) => {
     return `<div><label title="${tooltip?tooltip:name}"><input id="cb-${id}" type="checkbox" ${checked?'checked':''} ${disabled?'disabled':''}> ${name}</label></div>`;
   };
   const optInsertLarge = (name, id, tooltip, checked = true) => {
