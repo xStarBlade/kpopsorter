@@ -2937,10 +2937,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "I.O.I Yoojung",
+        name: "Weki Meki Yoojung",
         img: "hijXCo5.jpeg",
         opts: {
-            group: ["I.O.I"],
+            group: ["Weki Meki"],
             gen: ["gen3"]
         }
     },
