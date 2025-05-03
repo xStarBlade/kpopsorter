@@ -144,7 +144,7 @@ function start() {
 
   options.forEach(opt => {
     if ('sub' in opt) {
-      if (!document.getElementById(`cbgroup-${opt.key}`).checked) optTaken.push(true);
+      if (!document.getElementById(`cbgroup-${opt.key}`).checked) optTaken.push(false);
       else {
         const suboptArray = opt.sub.reduce((arr, val, idx) => {
           arr.push(document.getElementById(`cb-${opt.key}-${idx}`).checked);
