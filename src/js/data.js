@@ -15,7 +15,7 @@ const dataSet = {};
  * 
  * @example '2018-02-20'
 */
-let dataSetVersion = 'May-2025';
+let dataSetVersion = '2025-05-03';
 
 /**
  * Image root, will be appended to the start of every image URL.
