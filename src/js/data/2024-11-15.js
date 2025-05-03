@@ -2236,7 +2236,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Blackpink Jisoo",
-        img: "eVViRoz.jpeg",
+        img: "xjzyMay.jpeg",
         opts: {
             group: ["Blackpink"],
             gen: ["gen3"]
