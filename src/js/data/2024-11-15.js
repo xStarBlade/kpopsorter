@@ -3314,7 +3314,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Dahyun",
-        img: "cOUHetB.jpeg",
+        img: "5SoD7B6.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4002,7 +4002,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Jiyeon",
-        img: "banw20c.jpeg",
+        img: "EZgsWL7.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4026,7 +4026,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Joobin",
-        img: "bD0Qokr.jpeg",
+        img: "aUTqGb1.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4074,7 +4074,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kaede",
-        img: "5meSlya.jpeg",
+        img: "hmBNGel.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4122,7 +4122,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kim Chaeyeon",
-        img: "2TIwTLM.jpeg",
+        img: "fzznV5C.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4138,7 +4138,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kim Nakyoung",
-        img: "SQe9B3t.jpeg",
+        img: "YzHduSn.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4154,7 +4154,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kim Yooyeon",
-        img: "M4exApR.jpeg",
+        img: "f8f7WZ0.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4514,7 +4514,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Nien",
-        img: "COSUu0q.jpeg",
+        img: "7xW1N3T.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4714,7 +4714,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Seoah",
-        img: "4OFuCk6.jpeg",
+        img: "N94cXM5.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4834,7 +4834,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Shion",
-        img: "W2fURjd.jpeg",
+        img: "cg3vt51.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4938,7 +4938,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Sohyun",
-        img: "4lQXPvM.jpeg",
+        img: "hU40y5e.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4994,7 +4994,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Soomin",
-        img: "w4KaW4K.jpeg",
+        img: "Nv0wdmN.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -5194,7 +5194,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Xinyu",
-        img: "JLAVcVe.jpeg",
+        img: "ylPUBZt.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -5258,7 +5258,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Yeonji",
-        img: "NFaoOjS.jpeg",
+        img: "AgkU6rs.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -5314,7 +5314,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Yoon Seoyeon",
-        img: "J1eGsww.jpeg",
+        img: "mLYg0es.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -5354,7 +5354,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Yubin",
-        img: "acoRcB2.jpeg",
+        img: "Zvrw8wN.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -7184,7 +7184,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS",
-        img: "mhqRJna.jpeg",
+        img: "y2KkCQD.jpeg",
         opts: {
             group_label: ["tripleS"],
         }
