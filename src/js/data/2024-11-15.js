@@ -3692,7 +3692,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Haseul",
-        img: "v3vEOnu.jpeg",
+        img: "brTogV2.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
@@ -3980,7 +3980,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Jinsoul",
-        img: "tB56Rxv.jpeg",
+        img: "KyiBRb2.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
@@ -4164,7 +4164,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Kim Lip",
-        img: "Olc9o1z.jpeg",
+        img: "5NAu5yR.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
