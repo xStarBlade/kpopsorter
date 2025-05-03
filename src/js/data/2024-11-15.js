@@ -6608,10 +6608,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Bugaboo",
+        name: "bugAboo",
         img: "pA9dsFw.jpeg",
         opts: {
-            group_label: ["Bugaboo"],
+            group_label: ["bugAboo"],
         }
     },
     {
