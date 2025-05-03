@@ -45,6 +45,7 @@ dataSet[dataSetVersion].options = [
       {name: "Dia", key: "Dia"},
       {name: "Dreamcatcher", key: "Dreamcatcher"},
       {name: "DreamNote", key: "DreamNote"},
+      {name: "EL7ZUP", key: "EL7ZUP"},
       {name: "Everglow", key: "Everglow"},
       {name: "EXID", key: "EXID"},
       {name: "f(x)", key: "f(x)"},
