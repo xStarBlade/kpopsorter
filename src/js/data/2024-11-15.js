@@ -3082,7 +3082,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LAPILLUS Bessie",
-        img: "tDWgdO3.jpeg",
+        img: "jucYqoa.jpeg",
         opts: {
             group: ["LAPILLUS"],
             gen: ["gen4"]
@@ -3226,7 +3226,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LAPILLUS Chanty",
-        img: "9LWNiul.jpeg",
+        img: "JWrOfGi.jpeg",
         opts: {
             group: ["LAPILLUS"],
             gen: ["gen4"]
@@ -3554,7 +3554,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LAPILLUS Haeun",
-        img: "iYWMj24.jpeg",
+        img: "JR9wKkZ.jpeg",
         opts: {
             group: ["LAPILLUS"],
             gen: ["gen4"]
@@ -4762,7 +4762,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LAPILLUS Seowon",
-        img: "5aqQ0ip.jpeg",
+        img: "oKdajMY.jpeg",
         opts: {
             group: ["LAPILLUS"],
             gen: ["gen4"]
@@ -4802,7 +4802,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LAPILLUS Shana",
-        img: "r5rXSN7.jpeg",
+        img: "dcsXJsU.jpeg",
         opts: {
             group: ["LAPILLUS"],
             gen: ["gen4"]
@@ -5362,7 +5362,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LAPILLUS Yue",
-        img: "iTtusFS.jpeg",
+        img: "bEJ5JOE.jpeg",
         opts: {
             group: ["LAPILLUS"],
             gen: ["gen4"]
