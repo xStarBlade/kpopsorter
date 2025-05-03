@@ -1754,7 +1754,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "WJSN Cheng Xiao",
-        img: "yOL4OOz.png",
+        img: "PeXMg4O.png",
         opts: {
             group: ["WJSN"],
             gen: ["gen3"]
@@ -2850,7 +2850,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "WJSN Yeoreum",
-        img: "Jl9w5bL.jpeg",
+        img: "sPfj6YA.jpeg",
         opts: {
             group: ["WJSN"],
             gen: ["gen3"]
