@@ -85,7 +85,7 @@ dataSet[dataSetVersion].options = [
       {name: "Loossemble", key: "Loossemble"},
       {name: "Lovelyz", key: "Lovelyz"},
       {name: "Madein", key: "Madein"},
-      {name: "Majors", key: "Majors"},
+      {name: "MAJORS", key: "MAJORS"},
       {name: "Mamamoo", key: "Mamamoo"},
       {name: "Meovv", key: "Meovv"},
       {name: "mimiirose", key: "mimiirose"},
@@ -223,7 +223,7 @@ dataSet[dataSetVersion].options = [
       {name: "Loossemble", key: "Loossemble"},
       {name: "Lovelyz", key: "Lovelyz"},
       {name: "Madein", key: "Madein"},
-      {name: "Majors", key: "Majors"},
+      {name: "MAJORS", key: "MAJORS"},
       {name: "Mamamoo", key: "Mamamoo"},
       {name: "Meovv", key: "Meovv"},
       {name: "mimiirose", key: "mimiirose"},
@@ -5179,10 +5179,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Majors Vita",
+        name: "MAJORS Vita",
         img: "hbKgRJ3.jpeg",
         opts: {
-            group: ["Majors"],
+            group: ["MAJORS"],
             gen: ["gen4"]
         }
     },
@@ -6993,10 +6993,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Majors",
+        name: "MAJORS",
         img: "Ymp3Jx7.jpeg",
         opts: {
-            group_label: ["Majors"],
+            group_label: ["MAJORS"],
         }
     },
     {
