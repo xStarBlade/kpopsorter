@@ -5,7 +5,7 @@ let characterDataToSort = [];   // Character data set after filtering.
 /** @type {Options} */
 let options             = [];   // Initial option set used.
 
-let currentVersion      = 'May-2025';   // Which version of characterData and options are used.
+let currentVersion      = '2025-05-03';   // Which version of characterData and options are used.
 
 /** @type {(boolean|boolean[])[]} */
 let optTaken  = [];             // Records which options are set.
