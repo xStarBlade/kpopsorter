@@ -7066,7 +7066,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ReScene",
-        img: "3PHZlVcL.jpeg",
+        img: "3PHZlVc.jpeg",
         opts: {
             group_label: ["ReScene"],
         }
