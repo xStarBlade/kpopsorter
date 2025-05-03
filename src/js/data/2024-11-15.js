@@ -1426,7 +1426,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Sistar Soyou",
-        img: "kYWWowy.jpeg",
+        img: "FiTg7lO.jpeg",
         opts: {
             group: ["Sistar"],
             gen: ["gen2"]
