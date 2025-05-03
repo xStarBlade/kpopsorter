@@ -660,7 +660,7 @@ function populateOptions() {
   const optInsert = (name, id, tooltip, checked = false, disabled = false) => {
     return `<div><label title="${tooltip?tooltip:name}"><input id="cb-${id}" type="checkbox" ${checked?'checked':''} ${disabled?'disabled':''}> ${name}</label></div>`;
   };
-  const optInsertLarge = (name, id, tooltip, checked = false) => {
+  const optInsertLarge = (name, id, tooltip, checked = true) => {
     return `<div class="large option"><label title="${tooltip?tooltip:name}"><input id="cbgroup-${id}" type="checkbox" ${checked?'checked':''}> ${name}</label><div id="select-all-container"><a id="select-all" style="display: none;"></a></div></div>`;
   };
 
