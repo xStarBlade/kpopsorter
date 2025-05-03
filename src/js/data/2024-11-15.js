@@ -3282,7 +3282,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Pixy Dajeong",
-        img: "KaxognB.png",
+        img: "gUr4Nur.png",
         opts: {
             group: ["Pixy"],
             gen: ["gen4"]
@@ -4242,7 +4242,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Pixy Lola",
-        img: "KGgriYW.png",
+        img: "Xr06FZF.png",
         opts: {
             group: ["Pixy"],
             gen: ["gen4"]
@@ -4541,6 +4541,14 @@ dataSet[dataSetVersion].characterData = [
         img: "mrUEBDe.jpeg",
         opts: {
             group: ["H1-KEY"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Pixy Rinji",
+        img: "8wtVDKq.png",
+        opts: {
+            group: ["Pixy"],
             gen: ["gen4"]
         }
     },
