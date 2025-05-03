@@ -1153,14 +1153,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Kim YunJee",
-        img: "GacNRgx.png",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen2"]
-        }
-    },
-    {
         name: "Apink Naeun",
         img: "jtKQ0Y1.png",
         opts: {
