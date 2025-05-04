@@ -52,7 +52,6 @@ body {
 }
 
 .sorter {
-  margin: 0px auto;
   margin-bottom: 3vh;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -151,7 +150,6 @@ img.left, img.right {
 .sorter > .image {
   width: 45vw;
   height: 80%;
-  margin: auto;
   grid-row: 2;
   cursor: pointer;
   object-fit: contain;
