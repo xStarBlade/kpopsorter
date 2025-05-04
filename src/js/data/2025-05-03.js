@@ -333,7 +333,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Dal★Shabet Ahyoung",
+        name: "Dal★Shabet Ayoung",
         img: "u05uzw4.jpeg",
         opts: {
             group: ["Dal★Shabet"],
@@ -477,10 +477,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Dal\u2605Shabet Dalsooobin",
+        name: "Dal★Shabet Park Su Bin",
         img: "6piZqXS.jpeg",
         opts: {
-            group: ["Dal\u2605Shabet"],
+            group: ["Dal★Shabet"],
             gen: ["gen2"]
         }
     },
