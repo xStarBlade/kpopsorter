@@ -613,7 +613,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Wonder Girls HA:TFELT",
+        name: "Wonder Girls Park Yeeun",
         img: "iEJtb8V.jpeg",
         opts: {
             group: ["Wonder Girls"],
