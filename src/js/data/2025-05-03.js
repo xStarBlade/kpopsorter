@@ -3006,7 +3006,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nmixx Bae",
-        img: "jSLu0sW.jpeg",
+        img: "cC7p8Gh.jpeg",
         opts: {
             group: ["Nmixx"],
             gen: ["gen4"]
@@ -3942,7 +3942,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nmixx Jiwoo",
-        img: "3sTa1EM.jpeg",
+        img: "1XCCQVa.jpeg",
         opts: {
             group: ["Nmixx"],
             gen: ["gen4"]
@@ -4142,7 +4142,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nmixx Kyujin",
-        img: "WknnkIy.jpeg",
+        img: "t79OqJB.jpeg",
         opts: {
             group: ["Nmixx"],
             gen: ["gen4"]
@@ -4206,7 +4206,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nmixx Lily",
-        img: "aRfKGyc.jpeg",
+        img: "pngwuqs.jpeg",
         opts: {
             group: ["Nmixx"],
             gen: ["gen4"]
