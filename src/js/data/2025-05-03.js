@@ -3510,7 +3510,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nmixx Haewon",
-        img: "fj73fZF.jpeg",
+        img: "NQReTxh.jpeg",
         opts: {
             group: ["Nmixx"],
             gen: ["gen4"]
@@ -3942,7 +3942,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nmixx Jiwoo",
-        img: "tA0EJaq.jpeg",
+        img: "3sTa1EM.jpeg",
         opts: {
             group: ["Nmixx"],
             gen: ["gen4"]
