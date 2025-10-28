@@ -461,7 +461,8 @@ label:hover {
   font-weight: bold;
   font-size: 0.6875em;
   width: 80%;
-  line-height: 1.2em;
+  line-height: 1.6em;
+  color: #17ff00;
 }
 
 a {
@@ -476,7 +477,5 @@ a:hover {
 }
 
 a:visited {
-  color: #6600FF;
+  color: #0094ff;
 }
-
-
