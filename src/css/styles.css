@@ -9,6 +9,8 @@ body {
   font-weight: 400;
   font-optical-sizing: auto;
   font-variation-settings: "wght" 400, "opsz" 14;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 
 }
 
@@ -74,9 +76,9 @@ body {
 .sorter {
   margin-bottom: 0vh;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-template-rows: repeat(4, auto);
-
+   justify-content: center;  
   grid-gap: 15px;
 }
 
@@ -464,6 +466,7 @@ label:hover {
   line-height: 1.6em;
   color: #17ff00;
 }
+
 
 a {
   color: #990000;
