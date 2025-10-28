@@ -190,7 +190,7 @@ img.left, img.right {
   border-color: var(--accent);         /* use your accent color */
   box-shadow: 0 0 25px var(--accent);  /* glowing effect */
   cursor: pointer;                     /* makes it clear it's clickable */
-  border-color: #990000;        /* subtle color change */
+  border-color: #00ff13;        /* subtle color change */
   box-shadow: 0 0 12px #990000; /* glow */
 
 }
@@ -477,3 +477,4 @@ a:hover {
 a:visited {
   color: #6600FF;
 }
+
