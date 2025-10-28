@@ -458,6 +458,7 @@ label:hover {
   margin: 5em auto auto;
   display: block;
   text-align: center;
+  font-weight: bold;
   font-size: 0.6875em;
   width: 80%;
   line-height: 1.2em;
@@ -477,4 +478,5 @@ a:hover {
 a:visited {
   color: #6600FF;
 }
+
 
