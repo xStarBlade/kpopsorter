@@ -5,9 +5,10 @@ dataSet[dataSetVersion].options = [
   {
     name: "Filter by K-pop generation",
     key: "gen",
-    tooltip: "Check this to restrict groups by generation.",
-    checked: true,
-    sub: [ { name: "Gen 1", key: "gen1" }, { name: "Gen 2", key: "gen2" }, { name: "Gen 3", key: "gen3" }, { name: "Gen 4", key: "gen4" }, { name: "Gen 5", key: "gen5" }
+    tooltip: "Sort by K-pop generation",
+    checked: true,   // <-- keeps the group box checked
+    sub: [
+    { key: "gen1", name: "1st Generation", checked: false }, { key: "gen2", name: "2nd Generation", checked: false }, { key: "gen3", name: "3rd Generation", checked: true }, { key: "gen4", name: "4th Generation", checked: true }, { key: "gen5", name: "5th Generation", checked: true }
     ]
   },
   {
@@ -7247,4 +7248,5 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
