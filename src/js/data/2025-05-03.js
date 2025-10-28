@@ -3,6 +3,14 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
+    name: "Filter by K-pop generation",
+    key: "gen",
+    tooltip: "Check this to restrict groups by generation.",
+    checked: true,
+    sub: [ { name: "Gen 1", key: "gen1" }, { name: "Gen 2", key: "gen2" }, { name: "Gen 3", key: "gen3" }, { name: "Gen 4", key: "gen4" }, { name: "Gen 5", key: "gen5" }
+    ]
+  },
+  {
     name: "Select groups to sort through the idols in them",
     key: "group",
     tooltip: "Check this to restrict to certain groups.",
@@ -129,14 +137,6 @@ dataSet[dataSetVersion].options = [
       {name: "WOOAH", key: "WOOAH"},
       {name: "X:IN", key: "X:IN"},
       {name: "Young Posse", key: "Young Posse"},
-    ]
-  },
-  {
-    name: "Filter by K-pop generation",
-    key: "gen",
-    tooltip: "Check this to restrict groups by generation.",
-    checked: false,
-    sub: [ { name: "Gen 1", key: "gen1" }, { name: "Gen 2", key: "gen2" }, { name: "Gen 3", key: "gen3" }, { name: "Gen 4", key: "gen4" }, { name: "Gen 5", key: "gen5" }
     ]
   },
   {
@@ -7247,3 +7247,4 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
