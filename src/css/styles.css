@@ -287,7 +287,7 @@ label {
   display: flex;
   align-items: center;
   background: rgb(0 0 0);
-  border: 5px solid rgb(255 255 255 / 12%);
+  border: 1px solid rgb(255 255 255);
   padding: 0.4rem 0.65rem;
   border-radius: 0px;
   gap: 0.5rem;               /* space between checkbox and text */
@@ -558,5 +558,6 @@ a:hover {
 a:visited {
   color: #0094ff;
 }
+
 
 
