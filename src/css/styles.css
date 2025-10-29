@@ -35,7 +35,7 @@ body {
 /* Medium screens */
 @media (max-width: 1279px) {
   .progress {
-    margin-left: 5rem;   /* overrides auto-centering */
+    margin-left: 7.5rem;   /* overrides auto-centering */
     margin-right: 0;    /* optional, to be explicit */
   }
 }
