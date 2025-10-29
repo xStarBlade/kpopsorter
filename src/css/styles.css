@@ -427,10 +427,9 @@ label:hover {
 }
 
 .result.image {
-  width: 17.5%;
+  width: 30%;
   margin-bottom: 1em;
   display: grid;
-  aspect-ratio: 1 / 1;
   margin: 10px;
   grid-template-columns: 100%;
   grid-template-rows: 9% auto;
