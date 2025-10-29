@@ -101,7 +101,7 @@ body {
   .sorter {
     margin-right: 0;    /* optional, to be explicit */
     aspect-ratio: 4 / 3 ;
-     margin-left: 5rem;
+     margin-left: 7.5rem;
     
   }
 }
@@ -559,4 +559,5 @@ a:hover {
 a:visited {
   color: #0094ff;
 }
+
 
