@@ -19,16 +19,28 @@ body {
   flex-flow: column nowrap;
   align-items: center;
   margin-top: 5vh;
+  
 }
 
 .progress {
   margin: 0em auto;
-  width: 500px;
-  display: none;
+
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr); /* 4 equal columns */
+  gap: 20px; /* optional spacing between columns */
+  grid-column: 1 / -1 ;
+
 }
 
+/* Medium screens */
+@media (max-width: 1279px) {
+  .progress {
+    margin-left: 16rem;   /* overrides auto-centering */
+    margin-right: 0;    /* optional, to be explicit */
+  }
+}
 .progressbattle {
-  display: table;
+  grid-column: 2;
   margin: 0 auto;
 }
 
@@ -47,6 +59,7 @@ body {
   padding: 3px;
   margin: 2px 0px;
   border-radius: 7.5px;
+  grid-column: 2
 }
 
 
@@ -85,8 +98,9 @@ body {
 /* Medium screens */
 @media (max-width: 1279px) {
   .sorter {
-    margin-left: 5rem;   /* overrides auto-centering */
     margin-right: 0;    /* optional, to be explicit */
+    aspect-ratio: 4 / 3 ;
+    
   }
 }
 
@@ -236,8 +250,16 @@ img.left, img.right {
   grid-template-columns: repeat(5, 1fr);
   grid-gap: 10px;
   width: 1000px;
+  
 }
 
+/* Medium screens */
+@media (max-width: 1279px) {
+  .options {
+    margin-left: 5rem;    /* optional, to be explicit */   
+  
+  }
+}
 .options > div {
   font-size: 1em;
   display: flex;
@@ -309,7 +331,7 @@ label:hover {
 }
 
 .image.selector {
-  margin-top: 0.5em;
+  margin-top: 2em;
   width: 500px;
   display: none;
   text-align: center;
@@ -317,20 +339,36 @@ label:hover {
 }
 
 .time.taken {
-  margin-top: 0.5em;
   display: none;
   text-align: center;
   font-size: 0.75em;
 }
 
+@media (max-width: 1279px) {
+  .image.selector {
+    margin-top: 5em;
+    margin-left: 16rem;
+}
+}
+@media (max-width: 1279px) {
+  .time.taken {
+    margin-left: 16rem;
+}
+}
 .results {
   font-size: 0.75em;
   display: flex;
-  margin: 2em auto;
+  margin-top: 2em;
   max-width: 80vw;
   background: #000000;
 }
 
+@media (max-width: 1279px) {
+  .results {
+    margin-left: 16rem;
+}
+}
+  
 @media all and (min-width: 600px) {
   .results {
     flex-flow: row wrap;
@@ -343,15 +381,17 @@ label:hover {
   width: 80%;
   margin: 1em auto;
   justify-content: center;
+  flex-wrap: wrap;  
   max-height: calc(5 * (125px + 2px) + 1 * (15px + 2px));
 }
 
 
-@media (min-width: 600px) {
+@media (max-width: 1279px) {
   .trailing {
-      flex-flow: row wrap;
-      max-height: calc(5 * (125px + 2px) + 1 * (15px + 2px));
-  }
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    gap: 0.5em;
+}
 }
 
 .result {
@@ -464,7 +504,6 @@ label:hover {
 
 .info {
   margin-top: 5rem;
-  margin-left: 5rem;
   display: block;
   text-align: center;
   font-weight: bold;
@@ -474,6 +513,13 @@ label:hover {
   color: #17ff00;
 }
 
+/* Medium screens */
+@media (max-width: 1279px) {
+  .info {
+    margin-left: 16rem;    /* optional, to be explicit */
+    
+  }
+}
 .info p:nth-of-type(1) {
   color: #fff;
 }
