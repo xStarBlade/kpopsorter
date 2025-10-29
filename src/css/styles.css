@@ -398,7 +398,7 @@ label:hover {
 @media (max-width: 1279px) {
   .trailing {
     display: grid;
-    grid-template-columns: repeat(5, auto);
+    grid-template-columns: repeat(4, auto);
     gap: 0.5em;
 }
 }
@@ -552,3 +552,4 @@ a:hover {
 a:visited {
   color: #0094ff;
 }
+
