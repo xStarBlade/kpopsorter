@@ -356,12 +356,12 @@ label:hover {
 @media (max-width: 1279px) {
   .image.selector {
     margin-top: 5em;
-    margin-left: 16rem;
+    margin-left: 5rem;
 }
 }
 @media (max-width: 1279px) {
   .time.taken {
-    margin-left: 16rem;
+    margin-left: 5rem;
 }
 }
 .results {
@@ -374,7 +374,7 @@ label:hover {
 
 @media (max-width: 1279px) {
   .results {
-    margin-left: 16rem;
+    margin-left: 5rem;
 }
 }
   
