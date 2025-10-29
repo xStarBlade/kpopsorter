@@ -35,7 +35,7 @@ body {
 /* Medium screens */
 @media (max-width: 1279px) {
   .progress {
-    margin-left: 16rem;   /* overrides auto-centering */
+    margin-left: 5rem;   /* overrides auto-centering */
     margin-right: 0;    /* optional, to be explicit */
   }
 }
@@ -93,6 +93,7 @@ body {
   grid-template-rows: repeat(4, auto);
   justify-items: center;  
   gap: 15px;
+ 
 }
 
 /* Medium screens */
@@ -100,6 +101,7 @@ body {
   .sorter {
     margin-right: 0;    /* optional, to be explicit */
     aspect-ratio: 4 / 3 ;
+     margin-left: 5rem;
     
   }
 }
@@ -117,7 +119,7 @@ img.left, img.right {
   border: 3px solid #0035e3 ;
   text-align: center;
   padding: 10%;
-  width: 90%;
+  width: 50%;
   grid-column: 1 / -1;
   justify-self: center;
   cursor: pointer;
@@ -155,12 +157,14 @@ img.left, img.right {
   margin: 1;
   display: none;
   top: -100%;
-  box-shadow: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet, red);
-  animation: hueRotate 2s linear infinite;
-  filter: hue-rotate(0deg);
  
 }
 
+.finished.button{
+  box-shadow: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet, red);
+  animation: hueRotate 2s linear infinite;
+  filter: hue-rotate(0deg);
+}
 .loading.button {
   grid-row: 7 !important;
   padding: 1%;
@@ -261,7 +265,7 @@ img.left, img.right {
 /* Medium screens */
 @media (max-width: 1279px) {
   .options {
-    margin-left: 5rem;    /* optional, to be explicit */   
+    margin-left: 0rem;    /* optional, to be explicit */   
   
   }
 }
@@ -521,7 +525,7 @@ label:hover {
 /* Medium screens */
 @media (max-width: 1279px) {
   .info {
-    margin-left: 16rem;    /* optional, to be explicit */
+    margin-left: 5rem;    /* optional, to be explicit */
     
   }
 }
