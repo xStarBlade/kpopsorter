@@ -35,7 +35,7 @@ body {
 /* Medium screens */
 @media (max-width: 1279px) {
   .progress {
-    margin-left: 7.5rem;   /* overrides auto-centering */
+       /* overrides auto-centering */
     margin-right: 0;    /* optional, to be explicit */
   }
 }
@@ -100,9 +100,6 @@ body {
 @media (max-width: 1279px) {
   .sorter {
     margin-right: 0;    /* optional, to be explicit */
-    aspect-ratio: 4 / 3 ;
-     margin-left: 7.5rem;
-    
   }
 }
 
@@ -265,7 +262,7 @@ img.left, img.right {
   text-align: center;
   grid-template-columns: repeat(5, 1fr);
   grid-gap: 10px;
-  width: 1000px;
+ 
   
 }
 
@@ -277,9 +274,9 @@ img.left, img.right {
   }
 }
 .options > div {
-  font-size: 1em;
+  font-size: 1.2rem;
   display: flex;
-  margin: 5px;
+
 }
 
 label {
@@ -289,8 +286,9 @@ label {
   background: rgb(0 0 0);
   border: 1px solid rgb(255 255 255);
   padding: 0.4rem 0.65rem;
-  border-radius: 0px;
-  gap: 0.5rem;               /* space between checkbox and text */
+  border-radius: 10px;
+  margin-bottom: 10px;
+  gap: 0.2rem;               /* space between checkbox and text */
   transition: background .18s ease, box-shadow .18s ease, transform .08s ease;
 }
 
@@ -363,12 +361,12 @@ label:hover {
 @media (max-width: 1279px) {
   .image.selector {
     margin-top: 5em;
-    margin-left: 5rem;
+   
 }
 }
 @media (max-width: 1279px) {
   .time.taken {
-    margin-left: 5rem;
+   
 }
 }
 .results {
@@ -381,7 +379,7 @@ label:hover {
 
 @media (max-width: 1279px) {
   .results {
-    margin-left: 5rem;
+
 }
 }
   
@@ -399,14 +397,18 @@ label:hover {
   justify-content: center;
   flex-wrap: wrap;  
   max-height: calc(5 * (125px + 2px) + 1 * (15px + 2px));
+  grid-gap: 25px;
 }
 
 
 @media (max-width: 1279px) {
   .trailing {
+    margin: 1em auto;
     display: grid;
-    grid-template-columns: repeat(4, auto);
-    gap: 0.5em;
+    text-align: center;
+    grid-template-columns: repeat(5, 1fr);
+    width: 100%;
+    font-size: 1.0rem;
 }
 }
 
@@ -423,20 +425,43 @@ label:hover {
   object-position: center;
   background: #000000;
   color: rgb(255 255 255)
-    
 }
 
+
+@media (max-width: 1279px) {
+  .result {
+    margin: 1em auto;
+    display: grid;
+    text-align: center;
+    width: 100%;
+    display: grid;
+    font-size: 1.5rem;
+    grid-template-columns: auto;
+}
+}
 .result.image {
-  width: 30%;
+  width: 15%;
   margin-bottom: 1em;
   display: grid;
   margin: 10px;
   grid-template-columns: 100%;
-  grid-template-rows: 9% auto;
+  grid-template-rows:  auto;
+}
+
+@media (max-width: 1279px) {
+  .result.image {
+    width: 30%;
+    margin-bottom: 1em;
+    display: grid;
+    margin: 10px;
+    grid-template-columns: 100%;
+    grid-template-rows: auto;
+}
 }
 
 .result.image .right > div {
   padding-top: 25px;
+  
 }
 
 .result.image .right{
@@ -468,6 +493,7 @@ label:hover {
 .result.spacer {
   height: 1px;
   background-color: #000000;
+  
 }
 
 .podium {
@@ -478,15 +504,23 @@ label:hover {
 }
 
 .result > .left {
-  grid-column: 1 / 2;
   text-align: center;
   background-color: #0035e3;
-
+  height: 40px;
+  
 }
 
+@media (max-width: 1279px) {
+  .result > .left {
+    text-align: center;
+    background-color: #0035e3;
+    height: 40px;
+    margin-bottom: 0px;
+    
+    
+  }
+}
 .result.image .left {
-  grid-column: 1 / 1;
-  grid-row: 1 / 2;
   width: 100%;
   align-content: center;
   align-items: center;
@@ -498,23 +532,37 @@ label:hover {
   top: 50%;
   right: 15px;
   margin-top: -0.375em;
+  
 }
 
 .result > .right {
   width: 160px;
   padding: 0px;
-  grid-column: 2 / 3;
   text-align: center;
   color: #ffffff;
   font-weight: bold;
   text-decoration-line: underline;
+  
+}
+
+@media (max-width: 1279px) {
+  .result > .right {
+    width: 160px;
+    padding-bottom: 15%;
+    padding-top: 10%;
+    text-align: center;
+    align-items: center;
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration-line: underline;
+  }
 }
 
 .result:not(.image) > div{
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 5px;
+  
 }
 
 .info {
@@ -531,7 +579,7 @@ label:hover {
 /* Medium screens */
 @media (max-width: 1279px) {
   .info {
-    margin-left: 5rem;    /* optional, to be explicit */
+        /* optional, to be explicit */
     
   }
 }
