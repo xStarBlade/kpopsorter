@@ -687,37 +687,38 @@ function populateOptions() {
       });
       optList.insertAdjacentHTML('beforeend', '<hr>');
 
-      const selectAllBtn = document.getElementById(`select-all-${opt.key}`);
-	  const groupbox = document.getElementById(`cbgroup-${opt.key}`);
-		
-		// Enable/disable suboptions when groupbox is toggled
-		groupbox.addEventListener('change', () => {
-		  opt.sub.forEach((subopt, subindex) => {
-		    const cb = document.getElementById(`cb-${opt.key}-${subindex}`);
-		    cb.disabled = !groupbox.checked;
-		    if (groupbox.checked) cb.checked = true;
-		  });
-		});
-		
-		// Toggle all suboptions when select-all is clicked
+   const selectAllBtn = document.getElementById(`select-all-${opt.key}`);
+const groupbox = document.getElementById(`cbgroup-${opt.key}`);
 
-		selectAllBtn.addEventListener('click', () => {
-			const allChecked = opt.sub.every((subopt, subindex) =>
-				document.getElementById(`cb-${opt.key}-${subindex}`).checked
-		  );
-		
-			if (allChecked) {
-			    selectAllBtn.innerHTML = 'select all';
-			    opt.sub.forEach((subopt, subindex) => {
-			      document.getElementById(`cb-${opt.key}-${subindex}`).checked = false;
-		    });
-		  } else {
-		    selectAllBtn.innerHTML = 'deselect all';
-		    opt.sub.forEach((subopt, subindex) => {
-		      document.getElementById(`cb-${opt.key}-${subindex}`).checked = true;
-		    });
-		  }
-		});
+// Enable/disable suboptions when groupbox is toggled
+groupbox.addEventListener('change', () => {
+  opt.sub.forEach((subopt, subindex) => {
+    const cb = document.getElementById(`cb-${opt.key}-${subindex}`);
+    cb.disabled = !groupbox.checked;
+    if (groupbox.checked) cb.checked = true;
+  });
+});
+
+// Toggle all suboptions when select-all is clicked
+selectAllBtn.addEventListener('click', () => {
+  const allChecked = opt.sub.every((subopt, subindex) =>
+    document.getElementById(`cb-${opt.key}-${subindex}`).checked
+  );
+
+  if (allChecked) {
+    selectAllBtn.innerHTML = 'select all';
+    opt.sub.forEach((subopt, subindex) => {
+      document.getElementById(`cb-${opt.key}-${subindex}`).checked = false;
+    });
+  } else {
+    selectAllBtn.innerHTML = 'deselect all';
+    opt.sub.forEach((subopt, subindex) => {
+      document.getElementById(`cb-${opt.key}-${subindex}`).checked = true;
+    });
+  }
+});
+
+
 
 
 
@@ -729,23 +730,7 @@ function populateOptions() {
         });
       
 
-      selectAllBtn.addEventListener('click', () => {
-        if (document.getElementById(`cb-${opt.key}-${0}`).checked) {
-          selectAllBtn.innerHTML = 'select all'
-          opt.sub.forEach((subopt, subindex) => {
-            document.getElementById(`cb-${opt.key}-${subindex}`).checked = false;
-          });
-        } else {
-          selectAllBtn.innerHTML = 'deselect all'
-          opt.sub.forEach((subopt, subindex) => {
-            document.getElementById(`cb-${opt.key}-${subindex}`).checked = true;
-          });
-        }
-      });
-    } else {
-      optList.insertAdjacentHTML('beforeend', optInsert(opt.name, opt.key, opt.tooltip, opt.checked));
-    }
-  });
+      
 
 
 }
