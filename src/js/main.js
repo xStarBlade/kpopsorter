@@ -658,82 +658,83 @@ function setLatestDataset() {
 function populateOptions() {
   const optList = document.querySelector('.options');
   const optInsert = (name, id, tooltip, checked = true, disabled = false) => {
-    return `<div><label title="${tooltip?tooltip:name}"><input id="cb-${id}" type="checkbox" ${checked?'checked':''} ${disabled?'disabled':''}> ${name}</label></div>`;
+    return `<div><label title="${tooltip?tooltip:name}">
+      <input id="cb-${id}" type="checkbox" ${checked?'checked':''} ${disabled?'disabled':''}> ${name}
+    </label></div>`;
   };
- const optInsertLarge = (name, id, tooltip, checked = true) => {
-  return `
-    <div class="large option">
-      <label title="${tooltip?tooltip:name}">
-        <input id="cbgroup-${id}" type="checkbox" ${checked?'checked':''}> ${name}
-      </label>
-      <div id="select-all-container-${id}">
-        <a id="select-all-${id}">deselect all</a>
-      </div>
-    </div>`;
-};
+  const optInsertLarge = (name, id, tooltip, checked = true) => {
+    return `
+      <div class="large option">
+        <label title="${tooltip?tooltip:name}">
+          <input id="cbgroup-${id}" type="checkbox" ${checked?'checked':''}> ${name}
+        </label>
+        <div id="select-all-container-${id}">
+          <a id="select-all-${id}">deselect all</a>
+        </div>
+      </div>`;
+  };
 
-
-
-  /** Clear out any previous options. */
+  // Clear out any previous options
   optList.innerHTML = '';
 
-
-  /** Insert sorter options and set grouped option behavior. */
+  // Insert sorter options and set grouped option behavior
   options.forEach(opt => {
     if ('sub' in opt) {
       optList.insertAdjacentHTML('beforeend', optInsertLarge(opt.name, opt.key, opt.tooltip, opt.checked));
       opt.sub.forEach((subopt, subindex) => {
-        optList.insertAdjacentHTML('beforeend', optInsert(subopt.name, `${opt.key}-${subindex}`, subopt.tooltip, subopt.checked, opt.checked === false));
+        optList.insertAdjacentHTML('beforeend',
+          optInsert(subopt.name, `${opt.key}-${subindex}`, subopt.tooltip, subopt.checked, opt.checked === false));
       });
       optList.insertAdjacentHTML('beforeend', '<hr>');
 
-   const selectAllBtn = document.getElementById(`select-all-${opt.key}`);
-const groupbox = document.getElementById(`cbgroup-${opt.key}`);
+      const selectAllBtn = document.getElementById(`select-all-${opt.key}`);
+      const groupbox = document.getElementById(`cbgroup-${opt.key}`);
 
-// Enable/disable suboptions when groupbox is toggled
-groupbox.addEventListener('change', () => {
-  opt.sub.forEach((subopt, subindex) => {
-    const cb = document.getElementById(`cb-${opt.key}-${subindex}`);
-    cb.disabled = !groupbox.checked;
-    if (groupbox.checked) cb.checked = true;
-  });
-});
-
-// Toggle all suboptions when select-all is clicked
-selectAllBtn.addEventListener('click', () => {
-  const allChecked = opt.sub.every((subopt, subindex) =>
-    document.getElementById(`cb-${opt.key}-${subindex}`).checked
-  );
-
-  if (allChecked) {
-    selectAllBtn.innerHTML = 'select all';
-    opt.sub.forEach((subopt, subindex) => {
-      document.getElementById(`cb-${opt.key}-${subindex}`).checked = false;
-    });
-  } else {
-    selectAllBtn.innerHTML = 'deselect all';
-    opt.sub.forEach((subopt, subindex) => {
-      document.getElementById(`cb-${opt.key}-${subindex}`).checked = true;
-    });
-  }
-});
-
-
-
-
-
-
-
+      // Enable/disable suboptions when groupbox is toggled
+      groupbox.addEventListener('change', () => {
         opt.sub.forEach((subopt, subindex) => {
-          document.getElementById(`cb-${opt.key}-${subindex}`).disabled = !groupbox.checked;
-          if (groupbox.checked) { document.getElementById(`cb-${opt.key}-${subindex}`).checked = true; }
+          const cb = document.getElementById(`cb-${opt.key}-${subindex}`);
+          cb.disabled = !groupbox.checked;
+          if (groupbox.checked) cb.checked = true;
         });
-      
+      });
 
-      
+      // Toggle all suboptions when select-all is clicked
+      selectAllBtn.addEventListener('click', () => {
+        const allChecked = opt.sub.every((subopt, subindex) =>
+          document.getElementById(`cb-${opt.key}-${subindex}`).checked
+        );
 
+        if (allChecked) {
+          selectAllBtn.innerHTML = 'select all';
+          opt.sub.forEach((subopt, subindex) => {
+            document.getElementById(`cb-${opt.key}-${subindex}`).checked = false;
+          });
+        } else {
+          selectAllBtn.innerHTML = 'deselect all';
+          opt.sub.forEach((subopt, subindex) => {
+            document.getElementById(`cb-${opt.key}-${subindex}`).checked = true;
+          });
+        }
+      });
 
+      // Also update the link text if user manually toggles suboptions
+      opt.sub.forEach((subopt, subindex) => {
+        const cb = document.getElementById(`cb-${opt.key}-${subindex}`);
+        cb.addEventListener('change', () => {
+          const allChecked = opt.sub.every((s, i) =>
+            document.getElementById(`cb-${opt.key}-${i}`).checked
+          );
+          selectAllBtn.innerHTML = allChecked ? 'deselect all' : 'select all';
+        });
+      });
+
+    } else {
+      optList.insertAdjacentHTML('beforeend', optInsert(opt.name, opt.key, opt.tooltip, opt.checked));
+    }
+  });
 }
+
 
 /**
  * Decodes compressed shareable link query string.
