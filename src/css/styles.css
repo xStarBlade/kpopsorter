@@ -252,6 +252,8 @@ img.left, img.right {
   place-self: center;
   grid-row: 1 !important;
   text-decoration-line: underline;
+  font-family: Gabriola;
+  color: #9595ff;
 }
 
 .sorter > .text > p {
