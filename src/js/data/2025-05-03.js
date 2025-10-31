@@ -3671,7 +3671,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "H1-KEY Hwiseo",
-        img: "MJs3pDX.jpeg",
+        img: "UB99hUJ.jpeg",
         opts: {
             group: ["H1-KEY"],
             gen: ["gen4"]
@@ -4543,7 +4543,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "H1-KEY Riina",
-        img: "mrUEBDe.jpeg",
+        img: "fkPAmDV.jpeg",
         opts: {
             group: ["H1-KEY"],
             gen: ["gen4"]
@@ -4695,7 +4695,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "H1-KEY Seoi",
-        img: "LX24dRn.jpeg",
+        img: "KF5fI96.jpeg",
         opts: {
             group: ["H1-KEY"],
             gen: ["gen4"]
@@ -4858,14 +4858,6 @@ dataSet[dataSetVersion].characterData = [
         img: "kifYGgw.jpeg",
         opts: {
             group: ["Viviz"],
-            gen: ["gen4"]
-        }
-    },
-    {
-        name: "H1-KEY Sitala",
-        img: "9j3p0sQ.jpeg",
-        opts: {
-            group: ["H1-KEY"],
             gen: ["gen4"]
         }
     },
@@ -7248,5 +7240,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
