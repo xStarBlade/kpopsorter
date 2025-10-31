@@ -689,15 +689,27 @@ function populateOptions() {
 
       const selectAllBtn = document.getElementById(`select-all-${opt.key}`);
 	  const groupbox = document.getElementById(`cbgroup-${opt.key}`);
+		
+		// Enable/disable suboptions when groupbox is toggled
+		groupbox.addEventListener('change', () => {
+		  opt.sub.forEach((subopt, subindex) => {
+		    const cb = document.getElementById(`cb-${opt.key}-${subindex}`);
+		    cb.disabled = !groupbox.checked;
+		    if (groupbox.checked) cb.checked = true;
+		  });
+		});
+		
+		// Toggle all suboptions when select-all is clicked
 
-	  selectAllBtn.addEventListener('click', () => {
-		  const firstSub = document.getElementById(`cb-${opt.key}-0`);
-		  const allChecked = firstSub && firstSub.checked;
-
-		  if (allChecked) {
-		    selectAllBtn.innerHTML = 'select all';
-		    opt.sub.forEach((subopt, subindex) => {
-		      document.getElementById(`cb-${opt.key}-${subindex}`).checked = false;
+		selectAllBtn.addEventListener('click', () => {
+			const allChecked = opt.sub.every((subopt, subindex) =>
+				document.getElementById(`cb-${opt.key}-${subindex}`).checked
+		  );
+		
+			if (allChecked) {
+			    selectAllBtn.innerHTML = 'select all';
+			    opt.sub.forEach((subopt, subindex) => {
+			      document.getElementById(`cb-${opt.key}-${subindex}`).checked = false;
 		    });
 		  } else {
 		    selectAllBtn.innerHTML = 'deselect all';
@@ -706,6 +718,8 @@ function populateOptions() {
 		    });
 		  }
 		});
+
+
 
 
 
