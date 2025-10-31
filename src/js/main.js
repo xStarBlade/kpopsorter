@@ -660,9 +660,18 @@ function populateOptions() {
   const optInsert = (name, id, tooltip, checked = true, disabled = false) => {
     return `<div><label title="${tooltip?tooltip:name}"><input id="cb-${id}" type="checkbox" ${checked?'checked':''} ${disabled?'disabled':''}> ${name}</label></div>`;
   };
-  const optInsertLarge = (name, id, tooltip, checked = true) => {
-    return `<div class="large option"><label title="${tooltip?tooltip:name}"><input id="cbgroup-${id}" type="checkbox" ${checked?'checked':''}> ${name}</label><div id="select-all-container"><a id="select-all" style="display: none;"></a></div></div>`;
-  };
+ const optInsertLarge = (name, id, tooltip, checked = true) => {
+  return `
+    <div class="large option">
+      <label title="${tooltip?tooltip:name}">
+        <input id="cbgroup-${id}" type="checkbox" ${checked?'checked':''}> ${name}
+      </label>
+      <div id="select-all-container">
+        <a id="select-all">deselect all</a>
+      </div>
+    </div>`;
+};
+
 
   /** Clear out any previous options. */
   optList.innerHTML = '';
@@ -681,16 +690,14 @@ function populateOptions() {
       const groupbox = document.getElementById(`cbgroup-${opt.key}`);
       const selectAllContainer = document.getElementById('select-all-container');
       groupbox.parentElement.addEventListener('click', () => {
-          if (groupbox.checked) {
-            selectAllBtn.innerHTML = 'deselect all'
-            selectAllBtn.style.display = 'block';
-            selectAllContainer.classList.remove('hide');
-            selectAllContainer.classList.add('show');
-          } else {
-          selectAllBtn.style.display = 'none';
-          selectAllContainer.classList.remove('show');
-          selectAllContainer.classList.add('hide');
-          }
+		opt.sub.forEach((subopt, subindex) => {
+		document.getElementById(`cb-${opt.key}-${subindex}`).disabled = !groupbox.checked;
+		if (groupbox.checked) {
+		   document.getElementById(`cb-${opt.key}-${subindex}`).checked = true;
+		}
+	  });
+	});
+
 
         opt.sub.forEach((subopt, subindex) => {
           document.getElementById(`cb-${opt.key}-${subindex}`).disabled = !groupbox.checked;
