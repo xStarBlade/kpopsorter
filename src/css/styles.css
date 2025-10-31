@@ -164,7 +164,7 @@ img.left, img.right {
 }
 .loading.button {
   grid-row: 7 !important;
-  padding: 1%;
+  padding: 2%;
   display: none;
 }
 
@@ -608,3 +608,4 @@ a:hover {
 a:visited {
   color: #0094ff;
 }
+
