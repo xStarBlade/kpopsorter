@@ -103,10 +103,34 @@ body {
   }
 }
 
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 0 0 0px currentColor,
+                0 0 3px currentColor,
+                0 0 5px currentColor;
+  }
+  50% {
+    box-shadow: 0 0 3px currentColor,
+                0 0 5px currentColor,
+                0 0 10px currentColor;
+  }
+  100% {
+    box-shadow: 0 0 0px currentColor,
+                0 0 3px currentColor,
+                0 0 5px currentColor;
+  }
+}
+
+
+
+
 img.left, img.right {
-  border: 3px solid #0035e3;
-  box-shadow: 0px 0px 27.5px 0px rgba(20 60 69) !important;
+  border: 3px solid #000000;
+  color: #ffffff; /* sync text color with border */
   transition: border-color 0.6s ease, box-shadow 0.6s ease;
+  border-radius: 0px;
+  box-shadow: 0 0 15px currentColor;
+  animation: pulseGlow 3s ease-in-out infinite; /* slower, stronger pulse */
 }
 
 
