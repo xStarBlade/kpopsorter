@@ -666,11 +666,12 @@ function populateOptions() {
       <label title="${tooltip?tooltip:name}">
         <input id="cbgroup-${id}" type="checkbox" ${checked?'checked':''}> ${name}
       </label>
-      <div id="select-all-container">
-        <a id="select-all">deselect all</a>
+      <div id="select-all-container-${id}">
+        <a id="select-all-${id}">deselect all</a>
       </div>
     </div>`;
 };
+
 
 
   /** Clear out any previous options. */
@@ -686,17 +687,26 @@ function populateOptions() {
       });
       optList.insertAdjacentHTML('beforeend', '<hr>');
 
-      const selectAllBtn = document.getElementById('select-all');
-      const groupbox = document.getElementById(`cbgroup-${opt.key}`);
-      const selectAllContainer = document.getElementById('select-all-container');
-      groupbox.parentElement.addEventListener('click', () => {
-		opt.sub.forEach((subopt, subindex) => {
-		document.getElementById(`cb-${opt.key}-${subindex}`).disabled = !groupbox.checked;
-		if (groupbox.checked) {
-		   document.getElementById(`cb-${opt.key}-${subindex}`).checked = true;
-		}
-	  });
-	});
+      const selectAllBtn = document.getElementById(`select-all-${opt.key}`);
+	  const groupbox = document.getElementById(`cbgroup-${opt.key}`);
+
+	  selectAllBtn.addEventListener('click', () => {
+		  const firstSub = document.getElementById(`cb-${opt.key}-0`);
+		  const allChecked = firstSub && firstSub.checked;
+
+		  if (allChecked) {
+		    selectAllBtn.innerHTML = 'select all';
+		    opt.sub.forEach((subopt, subindex) => {
+		      document.getElementById(`cb-${opt.key}-${subindex}`).checked = false;
+		    });
+		  } else {
+		    selectAllBtn.innerHTML = 'deselect all';
+		    opt.sub.forEach((subopt, subindex) => {
+		      document.getElementById(`cb-${opt.key}-${subindex}`).checked = true;
+		    });
+		  }
+		});
+
 
 
         opt.sub.forEach((subopt, subindex) => {
