@@ -703,7 +703,7 @@ function populateOptions() {
           document.getElementById(`cb-${opt.key}-${subindex}`).disabled = !groupbox.checked;
           if (groupbox.checked) { document.getElementById(`cb-${opt.key}-${subindex}`).checked = true; }
         });
-      });
+      
 
       selectAllBtn.addEventListener('click', () => {
         if (document.getElementById(`cb-${opt.key}-${0}`).checked) {
