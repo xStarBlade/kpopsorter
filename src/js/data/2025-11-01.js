@@ -5847,7 +5847,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KiiiKiii Kya",
-        img: "79nu8YNjpeg",
+        img: "79nu8YN.jpeg",
         opts: {
             group: ["KiiiKiii"],
             gen: ["gen5"]
@@ -7240,6 +7240,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
