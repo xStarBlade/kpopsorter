@@ -43,7 +43,8 @@ body {
 .progressbattle {
   grid-column: 2;
   margin: 0 auto;
-  
+  font-family: Franklin Gothic Heavy;
+  color: #ffffff;
 }
 
 @keyframes ProgressGlow {
