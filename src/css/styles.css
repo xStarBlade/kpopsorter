@@ -177,7 +177,7 @@ body {
   }
 }
 
-@media (max-height: 1279px) {
+@media (max-width: 1920px) {
   .sorter-item > .image {
     max-height: 900px;
     
