@@ -5631,7 +5631,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KiiiKiii Haum",
-        img: "U6lIqmB.jpeg",
+        img: "XeFC9N0.jpeg",
         opts: {
             group: ["KiiiKiii"],
             gen: ["gen5"]
@@ -5759,7 +5759,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KiiiKiii Jiyu",
-        img: "cjBXNQP.jpeg",
+        img: "LeaI8zW.jpeg",
         opts: {
             group: ["KiiiKiii"],
             gen: ["gen5"]
@@ -5847,7 +5847,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KiiiKiii Kya",
-        img: "qyR00cX.jpeg",
+        img: "79nu8YNjpeg",
         opts: {
             group: ["KiiiKiii"],
             gen: ["gen5"]
@@ -6199,7 +6199,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KiiiKiii Sui",
-        img: "amGHz6E.jpeg",
+        img: "aYVUhjC.jpeg",
         opts: {
             group: ["KiiiKiii"],
             gen: ["gen5"]
@@ -7240,6 +7240,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
