@@ -23,13 +23,14 @@ body {
 }
 
 .progress {
-  margin: 0em auto;
+  margin: 0em ;
+  width: 100%;
   display: grid !important;
   grid-template-columns: repeat(3, 1fr); /* 4 equal columns */
-  gap: 20px; /* optional spacing between columns */
   grid-column: 1 / -1 ;
   font-size: 2vw;
   z-index: 1;
+  
 }
 
 /* Medium screens */
@@ -55,22 +56,23 @@ body {
 }
 .progressbar {
   position: relative;
-  width: 492px;
   border: 1px solid black;
   padding: 3px;
   margin: 2px 0px;
   border-radius: 7.5px;
   grid-column: 2;
+  margin-bottom: px ;
+  text-align: center;
   
 }
 
 
 .progresstext {
-  position: absolute;
-  width: 492px;
+  max-width: 492px;
   margin: 3px 0px;
   text-align: center;
-  font-size: 0.7em;
+  font-size: 1vw;
+ 
   
 }
 
@@ -79,15 +81,20 @@ body {
 }
 
 .progressfill {
-  height: 20px;
-  width: 0%;
+  height: 2.5vh;
   border-radius: 4.5px;
   background:  linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet, red);
   animation: hueRotate 4s linear infinite;
   filter: hue-rotate(0deg);
-  
+  align-content: center;
+   width: 0%;
 }
 
+@media (max-width: 1279px) {
+  .progressfill {
+    height: 20px;
+  }
+}
 
 
 .sorter {
@@ -194,6 +201,8 @@ body {
   }
 }
 
+
+
 .sorter-item:hover .image {
   transform: translateY(-5%);
   border-color: #00ffcc;
@@ -204,7 +213,7 @@ body {
 .sorter-item:hover .text > p {
   color: #00ffcc;
   text-shadow: 0 0 10px #00ffcc;
-  transform: translateY(-100%);
+  transform: translateY(-50%);
  
 }
 
