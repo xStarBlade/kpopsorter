@@ -29,7 +29,8 @@ body {
   grid-template-columns: repeat(3, 1fr); /* 4 equal columns */
   gap: 20px; /* optional spacing between columns */
   grid-column: 1 / -1 ;
-
+  transform: translateY(-75%);
+    
 }
 
 /* Medium screens */
@@ -96,12 +97,45 @@ body {
   row-gap: 10px
 }
 
+.sorter-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  grid-row: 1 / 3;
+}
+
+
+
 /* Medium screens */
 @media (max-width: 1279px) {
-  .sorter {
+  .sorter-item {
     margin-right: 0;    /* optional, to be explicit */
   }
 }
+
+.sorter-item.left {
+  grid-column: 3;
+}
+
+.sorter-item.right {
+  grid-column: 4;
+}
+
+.sorter-item .text {
+  display: block;
+}
+
+.sorter-item .text > p {
+  margin: 0.5em 5px 0px;
+  text-align: center;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  transform: translateY(-25%);
+  transition: all 0.3s ease;
+}
+
+
+
 
 @keyframes pulseGlow {
   0% {
@@ -170,8 +204,6 @@ img.left, img.right {
 }
 
 
-
-
 .sorting.button, .finished.button {
   padding: 2%;
   grid-row: auto;
@@ -180,6 +212,10 @@ img.left, img.right {
   top: -100%;
   align-content: center;
   
+}
+
+.sorting.button{
+  transform: translateY(150%);
 }
 
 .finished.button{
@@ -234,43 +270,49 @@ img.left, img.right {
   }
 }
 
-.sorter > .image {
+.sorter-item > .image {
   width: 40vw;
   height: 100%;
   grid-row: 1 / 3;
   cursor: pointer;
   object-fit: contain;
-  transform: translateY(15%);
+
 }
 
 @media (max-width: 1279px) {
-  .sorter > .image {
+  .sorter-item > .image {
     width: 45vw;
     
   }
 }
 
-.sorter > .image:hover {
-  transform: translateY(10%);
-  border-color: var(--accent);         /* use your accent color */
-  box-shadow: 0 0 25px var(--accent);  /* glowing effect */
-  cursor: pointer;                     /* makes it clear it's clickable */
-  border-color: #00ff13;        /* subtle color change */
-  box-shadow: 0 0 12px #990000; /* glow */
 
+.sorter-item:hover .image {
+  transform: translateY(-5%);
+  border-color: #00ffcc;
+  
 }
-.sorter > .text {
+
+.sorter-item:hover .text > p {
+  color: #00ffcc;
+  text-shadow: 0 0 10px #00ffcc;
+  transform: translateY(-150%);
+ 
+}
+
+.sorter-item > .text {
   width: auto;
   height: auto;
-  display: none;
+  display: block;
   place-self: center;
   grid-row: 1 !important;
   text-decoration-line: underline;
   font-family: Gabriola;
   color: #9595ff;
+  z-index: 1;
 }
 
-.sorter > .text > p {
+.sorter-item > .text > p {
   margin: 0.5em 5px 0px;
   width: calc(100%-10px);
   text-align: center;
@@ -281,19 +323,8 @@ img.left, img.right {
 }
 
 @media (max-width: 1279px) {
-  .sorter > .text > p {
-    transform: translateY(-50%);
-    
+  .sorter-item > .text > p {
   }
-}
-.sorter > .left {
-  grid-column: 3;
-  
-}
-
-.sorter > .right {
-  grid-column: 4;
-  
 }
 
 .options {
