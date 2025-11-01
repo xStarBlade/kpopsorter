@@ -24,4 +24,5 @@ This sorter is based on  [execfera/charasort](https://github.com/execfera/charas
  * Breaks on older versions of IE and mobile Safari, due to various incompatibilities.
 
 ## Contacts
-discord @yeji_simp
+discord @goyangi_eyes
+
