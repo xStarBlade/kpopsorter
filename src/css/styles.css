@@ -178,13 +178,22 @@ img.left, img.right {
   margin: 1;
   display: none;
   top: -100%;
- 
+  align-content: center;
+  
 }
 
 .finished.button{
   box-shadow: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet, red);
   animation: hueRotate 2s linear infinite;
   filter: hue-rotate(0deg);
+  min-height: 75px;
+  transform: translateY(200%);
+}
+@media (max-width: 1279px) {
+  .finished.button {
+    transform: translateY(150%);
+    
+  }
 }
 .loading.button {
   grid-row: 7 !important;
@@ -226,14 +235,19 @@ img.left, img.right {
 }
 
 .sorter > .image {
-  width: 45vw;
+  width: 40vw;
   height: 100%;
   grid-row: 1 / 3;
   cursor: pointer;
   object-fit: contain;
   transform: translateY(15%);
+}
 
-
+@media (max-width: 1279px) {
+  .sorter > .image {
+    width: 45vw;
+    
+  }
 }
 
 .sorter > .image:hover {
