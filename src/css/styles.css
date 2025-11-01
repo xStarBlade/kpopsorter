@@ -57,11 +57,11 @@ body {
 .progressbar {
   position: relative;
   border: 1px solid black;
-  padding: 3px;
+  padding: 0px;
   margin: 2px 0px;
   border-radius: 7.5px;
   grid-column: 2;
-  margin-bottom: px ;
+  margin-bottom: 10px ;
   text-align: center;
   
 }
@@ -87,8 +87,10 @@ body {
   animation: hueRotate 4s linear infinite;
   filter: hue-rotate(0deg);
   align-content: center;
-   width: 0%;
+  width: 0%;
+  
 }
+
 
 @media (max-width: 1279px) {
   .progressfill {
