@@ -28,7 +28,7 @@ body {
   grid-template-columns: repeat(3, 1fr); /* 4 equal columns */
   gap: 20px; /* optional spacing between columns */
   grid-column: 1 / -1 ;
-  transform: translateY(-75%);
+ 
   z-index: 1;
 }
 
