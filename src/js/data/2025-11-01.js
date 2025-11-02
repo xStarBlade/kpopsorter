@@ -3119,7 +3119,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ITZY Chaeryeong",
-        img: "ktFMVRd.jpeg",
+        img: "xKBCaMj.jpeg",
         opts: {
             group: ["ITZY"],
             gen: ["gen4"]
@@ -4199,7 +4199,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ITZY Lia",
-        img: "zZvLYqT.jpeg",
+        img: "qggOckD.jpeg",
         opts: {
             group: ["ITZY"],
             gen: ["gen4"]
@@ -4591,7 +4591,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ITZY Ryujin",
-        img: "cowp7cK.jpeg",
+        img: "PnzvUMt.jpeg",
         opts: {
             group: ["ITZY"],
             gen: ["gen4"]
@@ -5191,7 +5191,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ITZY Yeji",
-        img: "ibzReCC.jpeg",
+        img: "9HmMxuG.jpeg",
         opts: {
             group: ["ITZY"],
             gen: ["gen4"]
@@ -5399,7 +5399,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ITZY Yuna",
-        img: "Ci4oipF.jpeg",
+        img: "dSE3J9B.jpeg",
         opts: {
             group: ["ITZY"],
             gen: ["gen4"]
@@ -6807,7 +6807,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ITZY",
-        img: "08lpj5M.jpeg",
+        img: "odIlmjy.jpeg",
         opts: {
             group_label: ["ITZY"],
         }
@@ -7240,6 +7240,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
