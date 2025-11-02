@@ -57,7 +57,7 @@ body {
 }
 .progressbar {
   position: relative;
-  border: 1px solid black;
+  border: 1px black;
   padding: 0px;
   margin: 2px 0px;
   border-radius: 7.5px;
