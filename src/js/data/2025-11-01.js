@@ -911,7 +911,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "After School Jooyeon",
-        img: "A5bIC9w.jpeg",
+        img: "W8BRrID.jpeg",
         opts: {
             group: ["After School"],
             gen: ["gen2"]
@@ -7240,6 +7240,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
