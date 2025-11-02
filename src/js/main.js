@@ -194,7 +194,7 @@ function start() {
   });
 
   if (characterDataToSort.length < 2) {
-    alert('Cannot sort with less than two characters. Please reselect.');
+    alert('Error, you may have more than one category selected!');
     return;
   }
 
@@ -889,3 +889,4 @@ function reduceTextWidth(text, font, width) {
 }
 
 window.onload = init;
+
