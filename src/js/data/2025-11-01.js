@@ -1663,7 +1663,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Momoland Ahin",
-        img: "2oi2skK.jpeg",
+        img: "L6INjvt.jpeg",
         opts: {
             group: ["Momoland"],
             gen: ["gen3"]
@@ -1775,7 +1775,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Momoland Daisy",
-        img: "crgJd3M.jpeg",
+        img: "62gIJxX.jpeg",
         opts: {
             group: ["Momoland"],
             gen: ["gen3"]
@@ -2055,7 +2055,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Momoland Jane",
-        img: "VAwnWUh.jpeg",
+        img: "2huTbzn.jpeg",
         opts: {
             group: ["Momoland"],
             gen: ["gen3"]
@@ -2183,7 +2183,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Momoland JooE",
-        img: "AbDus0H.jpeg",
+        img: "Kp4AQ0Y.jpeg",
         opts: {
             group: ["Momoland"],
             gen: ["gen3"]
@@ -2407,7 +2407,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Momoland Nancy",
-        img: "6eqHbUo.jpeg",
+        img: "viJw7V6.jpeg",
         opts: {
             group: ["Momoland"],
             gen: ["gen3"]
@@ -7240,6 +7240,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
