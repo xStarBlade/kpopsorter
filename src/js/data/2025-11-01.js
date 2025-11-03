@@ -5463,7 +5463,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Ahyeon",
-        img: "MBMkUa0.jpeg",
+        img: "9VEbUnY.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
@@ -5503,7 +5503,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Asa",
-        img: "XXuO9Vu.jpeg",
+        img: "R4j2ZZM.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
@@ -6015,7 +6015,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Pharita",
-        img: "OqhSfvM.jpeg",
+        img: "JeXo7Z9.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
@@ -6047,7 +6047,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Ruka",
-        img: "BU2qoYH.jpeg",
+        img: "F5kYkRA.jpeg",
         opts: {
             group: ["BabyMonster"],
             gen: ["gen5"]
@@ -6499,7 +6499,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster",
-        img: "TNz9cm3.png",
+        img: "ecnyjaD.png",
         opts: {
             group_label: ["BabyMonster"],
         }
@@ -7240,6 +7240,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
