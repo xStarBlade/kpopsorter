@@ -272,6 +272,15 @@ dataSet[dataSetVersion].options = [
       {name: "Young Posse", key: "Young Posse"},
     ]
   },
+  {
+    name: "Idol Clash S2",
+    key: "Clash",
+    tooltip: "The current set of idols in the discord server's Idol Clash",
+    checked: false,   // <-- keeps the group box checked
+    sub: [
+    { key: "Idol Clash S2", name: "Idol Clash S2", checked: false },
+  ]
+  },
 ];
 
 dataSet[dataSetVersion].characterData = [
@@ -3127,7 +3136,7 @@ dataSet[dataSetVersion].characterData = [
         name: "ITZY Chaeryeong",
         img: "xKBCaMj.jpeg",
         opts: {
-            group: ["ITZY"],
+            group: ["ITZY"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -4207,7 +4216,7 @@ dataSet[dataSetVersion].characterData = [
         name: "ITZY Lia",
         img: "qggOckD.jpeg",
         opts: {
-            group: ["ITZY"],
+            group: ["ITZY"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -4599,7 +4608,7 @@ dataSet[dataSetVersion].characterData = [
         name: "ITZY Ryujin",
         img: "PnzvUMt.jpeg",
         opts: {
-            group: ["ITZY"],
+            group: ["ITZY"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -5199,7 +5208,7 @@ dataSet[dataSetVersion].characterData = [
         name: "ITZY Yeji",
         img: "9HmMxuG.jpeg",
         opts: {
-            group: ["ITZY"],
+            group: ["ITZY"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -5407,7 +5416,7 @@ dataSet[dataSetVersion].characterData = [
         name: "ITZY Yuna",
         img: "dSE3J9B.jpeg",
         opts: {
-            group: ["ITZY"],
+            group: ["ITZY"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -7427,6 +7436,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
