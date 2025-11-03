@@ -31,6 +31,7 @@ dataSet[dataSetVersion].options = [
       {name: "April", key: "April"},
       {name: "ARTMS", key: "ARTMS"},
       {name: "AtHeart", key: "AtHeart"},
+      {name: "Baby DONT Cry", key: "Baby DONT Cry"},
       {name: "BabyMonster", key: "BabyMonster"},
       {name: "BADVILLAIN", key: "BADVILLAIN"},
       {name: "Billlie", key: "Billlie"},
@@ -162,6 +163,7 @@ dataSet[dataSetVersion].options = [
       {name: "April", key: "April"},
       {name: "ARTMS", key: "ARTMS"},
       {name: "AtHeart", key: "AtHeart"},
+      {name: "Baby DONT Cry", key: "Baby DONT Cry"},
       {name: "BabyMonster", key: "BabyMonster"},
       {name: "BADVILLAIN", key: "BADVILLAIN"},
       {name: "Billlie", key: "Billlie"},
@@ -5549,6 +5551,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Baby DONT Cry Beni",
+        img: "VuClfMY.jpeg",
+        opts: {
+            group: ["Baby DONT Cry"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "AtHeart Bome",
         img: "4pUUvPY.jpeg",
         opts: {
@@ -5925,6 +5935,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Baby DONT Cry Kumi",
+        img: "27kT6WK.jpeg",
+        opts: {
+            group: ["Baby DONT Cry"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Kiiras Kurumi",
         img: "VbRlduE.jpeg",
         opts: {
@@ -6025,6 +6043,14 @@ dataSet[dataSetVersion].characterData = [
         img: "umYK8J8.jpeg",
         opts: {
             group: ["ifeye"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Baby DONT Cry Mia",
+        img: "9ooAhMV.jpeg",
+        opts: {
+            group: ["Baby DONT Cry"],
             gen: ["gen5"]
         }
     },
@@ -6509,6 +6535,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Baby DONT Cry Yihyun",
+        img: "6MoxCyD.jpeg",
+        opts: {
+            group: ["Baby DONT Cry"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "izna Yoon Jiyoon",
         img: "6Nf7aXZ.jpeg",
         opts: {
@@ -6677,6 +6711,14 @@ dataSet[dataSetVersion].characterData = [
         img: "2gYF2o6.jpeg",
         opts: {
             group_label: ["AtHeart"],
+        }
+    },
+    {
+        name: "Baby DONT Cry",
+        img: "pGOkIIs.jpeg",
+        opts: {
+            group_label: ["Baby DONT Cry"],
+            gen: ["gen5"]
         }
     },
     {
@@ -7436,6 +7478,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
