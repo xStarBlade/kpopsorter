@@ -273,7 +273,7 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Idol Clash S2",
+    name: "Idol Clash",
     key: "Clash",
     tooltip: "The current set of idols in the discord server's Idol Clash",
     checked: false,   // <-- keeps the group box checked
@@ -3472,7 +3472,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Aespa Giselle",
         img: "JzbFLM7.jpeg",
         opts: {
-            group: ["Aespa"],
+            group: ["Aespa"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -4064,7 +4064,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Aespa Karina",
         img: "ARy4dtI.jpeg",
         opts: {
-            group: ["Aespa"],
+            group: ["Aespa"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -4504,7 +4504,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Aespa Ningning",
         img: "zvTRLPD.jpeg",
         opts: {
-            group: ["Aespa"],
+            group: ["Aespa"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -5152,7 +5152,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Aespa Winter",
         img: "bro8M4B.jpeg",
         opts: {
-            group: ["Aespa"],
+            group: ["Aespa"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -7436,6 +7436,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
