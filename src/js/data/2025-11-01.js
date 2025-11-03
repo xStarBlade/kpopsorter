@@ -3024,7 +3024,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Nmixx Bae",
         img: "cC7p8Gh.jpeg",
         opts: {
-            group: ["Nmixx"],
+            group: ["Nmixx"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -3064,7 +3064,7 @@ dataSet[dataSetVersion].characterData = [
         name: "BIBI",
         img: "kuBCUTU.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["soloist"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -3528,7 +3528,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Nmixx Haewon",
         img: "NQReTxh.jpeg",
         opts: {
-            group: ["Nmixx"],
+            group: ["Nmixx"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -3736,7 +3736,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Hyewon",
         img: "wvTlWvN.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["soloist"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -3840,7 +3840,7 @@ dataSet[dataSetVersion].characterData = [
         name: "(G)I-dle Jeon Soyeon",
         img: "y5TmZTG.jpeg",
         opts: {
-            group: ["(G)I-dle"],
+            group: ["(G)I-dle"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -3960,7 +3960,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Nmixx Jiwoo",
         img: "1XCCQVa.jpeg",
         opts: {
-            group: ["Nmixx"],
+            group: ["Nmixx"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -4160,7 +4160,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Nmixx Kyujin",
         img: "t79OqJB.jpeg",
         opts: {
-            group: ["Nmixx"],
+            group: ["Nmixx"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -4176,7 +4176,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Lee Chaeyeon",
         img: "Z92XoPY.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["soloist"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -4224,7 +4224,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Nmixx Lily",
         img: "pngwuqs.jpeg",
         opts: {
-            group: ["Nmixx"],
+            group: ["Nmixx"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -4368,7 +4368,7 @@ dataSet[dataSetVersion].characterData = [
         name: "(G)I-dle Minnie",
         img: "uqvtN7Y.jpeg",
         opts: {
-            group: ["(G)I-dle"],
+            group: ["(G)I-dle"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -4408,7 +4408,7 @@ dataSet[dataSetVersion].characterData = [
         name: "(G)I-dle Miyeon",
         img: "XMybvbH.jpeg",
         opts: {
-            group: ["(G)I-dle"],
+            group: ["(G)I-dle"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -4832,7 +4832,7 @@ dataSet[dataSetVersion].characterData = [
         name: "(G)I-dle Shuhua",
         img: "Qdr4R8k.jpeg",
         opts: {
-            group: ["(G)I-dle"],
+            group: ["(G)I-dle"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -5032,7 +5032,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Nmixx Sullyoon",
         img: "ATUN9vV.jpeg",
         opts: {
-            group: ["Nmixx"],
+            group: ["Nmixx"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -5272,7 +5272,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Everglow Yiren",
         img: "p6O67eB.jpeg",
         opts: {
-            group: ["Everglow"],
+            group: ["Everglow"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -5440,7 +5440,7 @@ dataSet[dataSetVersion].characterData = [
         name: "(G)I-dle Yuqi",
         img: "0Sv9uJB.jpeg",
         opts: {
-            group: ["(G)I-dle"],
+            group: ["(G)I-dle"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -5448,7 +5448,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Yves",
         img: "UsZ7cPu.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["soloist"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -5480,7 +5480,7 @@ dataSet[dataSetVersion].characterData = [
         name: "BabyMonster Ahyeon",
         img: "9VEbUnY.jpeg",
         opts: {
-            group: ["BabyMonster"],
+            group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
         }
     },
@@ -5528,7 +5528,7 @@ dataSet[dataSetVersion].characterData = [
         name: "BabyMonster Asa",
         img: "R4j2ZZM.jpeg",
         opts: {
-            group: ["BabyMonster"],
+            group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
         }
     },
@@ -5576,7 +5576,7 @@ dataSet[dataSetVersion].characterData = [
         name: "BabyMonster Chiquita",
         img: "htYcIlB.jpeg",
         opts: {
-            group: ["BabyMonster"],
+            group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
         }
     },
@@ -5784,7 +5784,7 @@ dataSet[dataSetVersion].characterData = [
         name: "ILLIT Iroha",
         img: "9brX9nz.jpeg",
         opts: {
-            group: ["ILLIT"],
+            group: ["ILLIT"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
         }
     },
@@ -6056,7 +6056,7 @@ dataSet[dataSetVersion].characterData = [
         name: "ILLIT Minju",
         img: "u1KULd8.jpeg",
         opts: {
-            group: ["ILLIT"],
+            group: ["ILLIT"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
         }
     },
@@ -6072,7 +6072,7 @@ dataSet[dataSetVersion].characterData = [
         name: "ILLIT Moka",
         img: "Pn9Fy8X.jpeg",
         opts: {
-            group: ["ILLIT"],
+            group: ["ILLIT"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
         }
     },
@@ -6136,7 +6136,7 @@ dataSet[dataSetVersion].characterData = [
         name: "BabyMonster Pharita",
         img: "JeXo7Z9.jpeg",
         opts: {
-            group: ["BabyMonster"],
+            group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
         }
     },
@@ -6152,7 +6152,7 @@ dataSet[dataSetVersion].characterData = [
         name: "BabyMonster Rami",
         img: "7BaN4u6.jpeg",
         opts: {
-            group: ["BabyMonster"],
+            group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
         }
     },
@@ -6176,7 +6176,7 @@ dataSet[dataSetVersion].characterData = [
         name: "BabyMonster Rora",
         img: "zzlraGp.jpeg",
         opts: {
-            group: ["BabyMonster"],
+            group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
         }
     },
@@ -6184,7 +6184,7 @@ dataSet[dataSetVersion].characterData = [
         name: "BabyMonster Ruka",
         img: "F5kYkRA.jpeg",
         opts: {
-            group: ["BabyMonster"],
+            group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
         }
     },
@@ -6440,7 +6440,7 @@ dataSet[dataSetVersion].characterData = [
         name: "ILLIT Wonhee",
         img: "9YcurSS.jpeg",
         opts: {
-            group: ["ILLIT"],
+            group: ["ILLIT"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
         }
     },
@@ -6544,7 +6544,7 @@ dataSet[dataSetVersion].characterData = [
         name: "ILLIT Yunah",
         img: "YTvtKAU.jpeg",
         opts: {
-            group: ["ILLIT"],
+            group: ["ILLIT"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
         }
     },
@@ -7436,6 +7436,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
