@@ -5556,6 +5556,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "USPEER Chaena",
+        img: "ijOFuhP.jpeg",
+        opts: {
+            group: ["USPEER"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BabyMonster Chiquita",
         img: "htYcIlB.jpeg",
         opts: {
@@ -5592,6 +5600,14 @@ dataSet[dataSetVersion].characterData = [
         img: "x3JZ1d7.jpeg",
         opts: {
             group: ["VIV"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "USPEER Daon",
+        img: "LycfoG8.jpeg",
+        opts: {
+            group: ["USPEER"],
             gen: ["gen5"]
         }
     },
@@ -6132,6 +6148,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "USPEER Roa",
+        img: "nMV5iZl.jpeg",
+        opts: {
+            group: ["USPEER"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Kiiras Roah",
         img: "vnNy7zP.jpeg",
         opts: {
@@ -6220,6 +6244,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "USPEER Seoyu",
+        img: "kJqXVZu.jpeg",
+        opts: {
+            group: ["USPEER"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Madein Serina",
         img: "b4N08bQ.jpeg",
         opts: {
@@ -6232,6 +6264,14 @@ dataSet[dataSetVersion].characterData = [
         img: "xsUwYfr.jpeg",
         opts: {
             group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "USPEER Sian",
+        img: "MJPjCuN.jpeg",
+        opts: {
+            group: ["USPEER"],
             gen: ["gen5"]
         }
     },
@@ -6256,6 +6296,14 @@ dataSet[dataSetVersion].characterData = [
         img: "LRIZ3xs.jpeg",
         opts: {
             group: ["QWER"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "USPEER Soee",
+        img: "BHrPO8v.jpeg",
+        opts: {
+            group: ["USPEER"],
             gen: ["gen5"]
         }
     },
@@ -6424,6 +6472,14 @@ dataSet[dataSetVersion].characterData = [
         img: "MPX7ABN.jpeg",
         opts: {
             group: ["Young Posse"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "USPEER Yeowon",
+        img: "eYPuSQm.jpeg",
+        opts: {
+            group: ["USPEER"],
             gen: ["gen5"]
         }
     },
@@ -7371,6 +7427,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
