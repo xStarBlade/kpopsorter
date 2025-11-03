@@ -6,7 +6,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by K-pop generation",
     key: "gen",
     tooltip: "Sort by K-pop generation",
-    checked: true,   // <-- keeps the group box checked
+    checked: false,   // <-- keeps the group box checked
     sub: [
     { key: "gen1", name: "1st Generation", checked: false }, { key: "gen2", name: "2nd Generation", checked: false }, { key: "gen3", name: "3rd Generation", checked: true }, { key: "gen4", name: "4th Generation", checked: true }, { key: "gen5", name: "5th Generation", checked: true }
     ]
@@ -15,7 +15,7 @@ dataSet[dataSetVersion].options = [
     name: "Select groups to sort through the idols in them",
     key: "group",
     tooltip: "Check this to restrict to certain groups.",
-    checked: false,
+    checked: true,
     sub: [
       {name: "Soloists", key: "soloist"},
       {name: "2NE1", key: "2NE1"},
@@ -30,6 +30,7 @@ dataSet[dataSetVersion].options = [
       {name: "Apink", key: "Apink"},
       {name: "April", key: "April"},
       {name: "ARTMS", key: "ARTMS"},
+      {name: "AtHeart", key: "AtHeart"},
       {name: "BabyMonster", key: "BabyMonster"},
       {name: "BADVILLAIN", key: "BADVILLAIN"},
       {name: "Billlie", key: "Billlie"},
@@ -82,6 +83,7 @@ dataSet[dataSetVersion].options = [
       {name: "Kara", key: "Kara"},
       {name: "Kep1er", key: "Kep1er"},
       {name: "KiiiKiii", key: "KiiiKiii"},
+      {name: "Kiiras", key: "Kiiras"},
       {name: "KISS OF LIFE", key: "KISS OF LIFE"},
       {name: "Laboum", key: "Laboum"},
       {name: "Ladies' code", key: "Ladies' code"},
@@ -128,6 +130,7 @@ dataSet[dataSetVersion].options = [
       {name: "tripleS", key: "tripleS"},
       {name: "Twice", key: "Twice"},
       {name: "UNIS", key: "UNIS"},
+      {name: "USPEER", key: "USPEER"},
       {name: "VIV", key: "VIV"},
       {name: "Viviz", key: "Viviz"},
       {name: "VVUP", key: "VVUP"},
@@ -158,6 +161,7 @@ dataSet[dataSetVersion].options = [
       {name: "Apink", key: "Apink"},
       {name: "April", key: "April"},
       {name: "ARTMS", key: "ARTMS"},
+      {name: "AtHeart", key: "AtHeart"},
       {name: "BabyMonster", key: "BabyMonster"},
       {name: "BADVILLAIN", key: "BADVILLAIN"},
       {name: "Billlie", key: "Billlie"},
@@ -209,6 +213,7 @@ dataSet[dataSetVersion].options = [
       {name: "Kara", key: "Kara"},
       {name: "Kep1er", key: "Kep1er"},
       {name: "KiiiKiii", key: "KiiiKiii"},
+      {name: "Kiiras", key: "Kiiras"},
       {name: "KISS OF LIFE", key: "KISS OF LIFE"},
       {name: "Laboum", key: "Laboum"},
       {name: "Ladies' code", key: "Ladies' code"},
@@ -254,6 +259,7 @@ dataSet[dataSetVersion].options = [
       {name: "tripleS", key: "tripleS"},
       {name: "Twice", key: "Twice"},
       {name: "UNIS", key: "UNIS"},
+      {name: "USPEER", key: "USPEER"},
       {name: "VIV", key: "VIV"},
       {name: "Viviz", key: "Viviz"},
       {name: "VVUP", key: "VVUP"},
@@ -5502,6 +5508,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "AtHeart Arin",
+        img: "wPOY4H2.jpeg",
+        opts: {
+            group: ["AtHeart"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BabyMonster Asa",
         img: "R4j2ZZM.jpeg",
         opts: {
@@ -5510,10 +5524,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "AtHeart Aurora",
+        img: "2cHQ4YK.jpeg",
+        opts: {
+            group: ["AtHeart"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "izna Bang Jeemin",
         img: "lrXlqeL.jpeg",
         opts: {
             group: ["izna"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "AtHeart Bome",
+        img: "4pUUvPY.jpeg",
+        opts: {
+            group: ["AtHeart"],
             gen: ["gen5"]
         }
     },
@@ -5582,6 +5612,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kiiras Doyeon",
+        img: "xcKNb4x.jpeg",
+        opts: {
+            group: ["Kiiras"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "UNIS Elisia",
         img: "tvV8oND.jpeg",
         opts: {
@@ -5626,6 +5664,14 @@ dataSet[dataSetVersion].characterData = [
         img: "GlptMPd.jpeg",
         opts: {
             group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Kiiras Harin",
+        img: "Z04nUWK.jpeg",
+        opts: {
+            group: ["Kiiras"],
             gen: ["gen5"]
         }
     },
@@ -5814,6 +5860,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "AtHeart Katelyn",
+        img: "bGtJlco.jpeg",
+        opts: {
+            group: ["AtHeart"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BADVILLAIN Kelly",
         img: "1XzISBL.jpeg",
         opts: {
@@ -5846,6 +5900,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kiiras Kurumi",
+        img: "VbRlduE.jpeg",
+        opts: {
+            group: ["Kiiras"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "KiiiKiii Kya",
         img: "79nu8YN.jpeg",
         opts: {
@@ -5854,10 +5916,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kiiras Kylie",
+        img: "4uglEXj.jpeg",
+        opts: {
+            group: ["Kiiras"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "KiiiKiii Leesol",
         img: "xGs8VZ5.jpeg",
         opts: {
             group: ["KiiiKiii"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Kiiras LingLing",
+        img: "mS4v6zp.jpeg",
+        opts: {
+            group: ["Kiiras"],
             gen: ["gen5"]
         }
     },
@@ -5926,6 +6004,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "AtHeart Michi",
+        img: "uwDyNgu.jpeg",
+        opts: {
+            group: ["AtHeart"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Geenius Mika",
         img: "NLrJoKT.jpeg",
         opts: {
@@ -5970,6 +6056,14 @@ dataSet[dataSetVersion].characterData = [
         img: "YRTuiSD.jpeg",
         opts: {
             group: ["ODD YOUTH"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "AtHeart Nahyun",
+        img: "xBHXcf0.jpeg",
+        opts: {
+            group: ["AtHeart"],
             gen: ["gen5"]
         }
     },
@@ -6038,6 +6132,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kiiras Roah",
+        img: "vnNy7zP.jpeg",
+        opts: {
+            group: ["Kiiras"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BabyMonster Rora",
         img: "zzlraGp.jpeg",
         opts: {
@@ -6090,6 +6192,14 @@ dataSet[dataSetVersion].characterData = [
         img: "XHYA1jV.jpeg",
         opts: {
             group: ["HITGS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "AtHeart Seohyun",
+        img: "HfCpxrJ.jpeg",
+        opts: {
+            group: ["AtHeart"],
             gen: ["gen5"]
         }
     },
@@ -6498,6 +6608,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "AtHeart",
+        img: "2gYF2o6.jpeg",
+        opts: {
+            group_label: ["AtHeart"],
+        }
+    },
+    {
         name: "BabyMonster",
         img: "ecnyjaD.png",
         opts: {
@@ -6855,6 +6972,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kiiras",
+        img: "x04MRnW.jpeg",
+        opts: {
+            group_label: ["Kiiras"],
+        }
+    },
+    {
         name: "KISS OF LIFE",
         img: "jSNccSR.jpeg",
         opts: {
@@ -7170,6 +7294,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "USPEER",
+        img: "tfw3e0d.jpeg",
+        opts: {
+            group_label: ["USPEER"],
+        }
+    },
+    {
         name: "VIV",
         img: "kDCwXcw.jpeg",
         opts: {
@@ -7240,6 +7371,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
