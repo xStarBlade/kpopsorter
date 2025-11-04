@@ -17,131 +17,169 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict to certain groups.",
     checked: true,
     sub: [
-      {name: "Soloists", key: "soloist"},
-      {name: "2NE1", key: "2NE1"},
-      {name: "4Minute", key: "4Minute"},
-      {name: "9Muses", key: "9Muses"},
-      {name: "ablume", key: "ablume"},
-      {name: "ADYA", key: "ADYA"},
-      {name: "Aespa", key: "Aespa"},
-      {name: "After School", key: "After School"},
-      {name: "Alice", key: "Alice"},
-      {name: "AOA", key: "AOA"},
-      {name: "Apink", key: "Apink"},
-      {name: "April", key: "April"},
-      {name: "ARTMS", key: "ARTMS"},
-      {name: "AtHeart", key: "AtHeart"},
-      {name: "Baby DONT Cry", key: "Baby DONT Cry"},
-      {name: "BabyMonster", key: "BabyMonster"},
-      {name: "BADVILLAIN", key: "BADVILLAIN"},
-      {name: "Billlie", key: "Billlie"},
-      {name: "Blackpink", key: "Blackpink"},
-      {name: "Brave Girls", key: "Brave Girls"},
-      {name: "Brown Eyed Girls", key: "Brown Eyed Girls"},
-      {name: "bugAboo", key: "bugAboo"},
-      {name: "Busters β", key: "Busters β"},
-      {name: "Busters", key: "Busters"},
-      {name: "Bvndit", key: "Bvndit"},
-      {name: "Candy Shop", key: "Candy Shop"},
-      {name: "Cherry Bullet", key: "Cherry Bullet"},
-      {name: "Cignature", key: "Cignature"},
-      {name: "CLASS:y", key: "CLASS:y"},
-      {name: "CLC", key: "CLC"},
-      {name: "Craxy", key: "Craxy"},
-      {name: "Crayon Pop", key: "Crayon Pop"},
-      {name: "CSR", key: "CSR"},
-      {name: "Dal★Shabet", key: "Dal★Shabet"},
-      {name: "Davichi", key: "Davichi"},
-      {name: "Dia", key: "Dia"},
-      {name: "Dreamcatcher", key: "Dreamcatcher"},
-      {name: "DreamNote", key: "DreamNote"},
-      {name: "Everglow", key: "Everglow"},
-      {name: "EXID", key: "EXID"},
-      {name: "f(x)", key: "f(x)"},
-      {name: "Fiestar", key: "Fiestar"},
-      {name: "FIFTY FIFTY", key: "FIFTY FIFTY"},
-      {name: "Fromis 9", key: "Fromis 9"},
-      {name: "(G)I-dle", key: "(G)I-dle"},
-      {name: "Geenius", key: "Geenius"},
-      {name: "GFriend", key: "GFriend"},
-      {name: "Girl's Day", key: "Girl's Day"},
-      {name: "Girls' Generation", key: "Girls' Generation"},
-      {name: "Gugudan", key: "Gugudan"},
-      {name: "GWSN", key: "GWSN"},
-      {name: "H1-KEY", key: "H1-KEY"},
-      {name: "Hearts2Hearts", key: "Hearts2Hearts"},
-      {name: "Hellovenus", key: "Hellovenus"},
-      {name: "HITGS", key: "HITGS"},
-      {name: "I.O.I", key: "I.O.I"},
-      {name: "ICHILLIN", key: "ICHILLIN"},
-      {name: "ifeye", key: "ifeye"},
-      {name: "ILLIT", key: "ILLIT"},
-      {name: "ILY:1", key: "ILY:1"},
-      {name: "ITZY", key: "ITZY"},
-      {name: "IVE", key: "IVE"},
-      {name: "IZ*ONE", key: "IZ*ONE"},
-      {name: "izna", key: "izna"},
-      {name: "Kara", key: "Kara"},
-      {name: "Kep1er", key: "Kep1er"},
-      {name: "KiiiKiii", key: "KiiiKiii"},
-      {name: "Kiiras", key: "Kiiras"},
-      {name: "KISS OF LIFE", key: "KISS OF LIFE"},
-      {name: "Laboum", key: "Laboum"},
-      {name: "Ladies' code", key: "Ladies' code"},
-      {name: "LAPILLUS", key: "LAPILLUS"},
-      {name: "Laysha", key: "Laysha"},
-      {name: "LE SSERAFIM", key: "LE SSERAFIM"},
-      {name: "Lightsum", key: "Lightsum"},
-      {name: "Loossemble", key: "Loossemble"},
-      {name: "Lovelyz", key: "Lovelyz"},
-      {name: "Madein", key: "Madein"},
-      {name: "MAJORS", key: "MAJORS"},
-      {name: "Mamamoo", key: "Mamamoo"},
-      {name: "Meovv", key: "Meovv"},
-      {name: "mimiirose", key: "mimiirose"},
-      {name: "Miss A", key: "Miss A"},
-      {name: "Momoland", key: "Momoland"},
-      {name: "Nature", key: "Nature"},
-      {name: "NeonPunch", key: "NeonPunch"},
-      {name: "NewJeans", key: "NewJeans"},
-      {name: "Nmixx", key: "Nmixx"},
-      {name: "ODD YOUTH", key: "ODD YOUTH"},
-      {name: "Oh My Girl", key: "Oh My Girl"},
-      {name: "Pixy", key: "Pixy"},
-      {name: "PRIMROSE", key: "PRIMROSE"},
-      {name: "Pristin", key: "Pristin"},
-      {name: "Purple Kiss", key: "Purple Kiss"},
-      {name: "QWER", key: "QWER"},
-      {name: "Rainbow", key: "Rainbow"},
-      {name: "Red Velvet", key: "Red Velvet"},
-      {name: "ReScene", key: "ReScene"},
-      {name: "Rocket Punch", key: "Rocket Punch"},
-      {name: "S.E.S.", key: "S.E.S."},
-      {name: "Say My Name", key: "Say My Name"},
-      {name: "Secret", key: "Secret"},
-      {name: "Secret Number", key: "Secret Number"},
-      {name: "Sistar", key: "Sistar"},
-      {name: "Sonamoo", key: "Sonamoo"},
-      {name: "SPICA", key: "SPICA"},
-      {name: "StayC", key: "StayC"},
-      {name: "Stellar", key: "Stellar"},
-      {name: "Sunny Hill", key: "Sunny Hill"},
-      {name: "T-ara", key: "T-ara"},
-      {name: "Tri.be", key: "Tri.be"},
-      {name: "tripleS", key: "tripleS"},
-      {name: "Twice", key: "Twice"},
-      {name: "UNIS", key: "UNIS"},
-      {name: "USPEER", key: "USPEER"},
-      {name: "VIV", key: "VIV"},
-      {name: "Viviz", key: "Viviz"},
-      {name: "VVUP", key: "VVUP"},
-      {name: "Weeekly", key: "Weeekly"},
-      {name: "Weki Meki", key: "Weki Meki"},
-      {name: "WJSN", key: "WJSN"},
-      {name: "Wonder Girls", key: "Wonder Girls"},
-      {name: "WOOAH", key: "WOOAH"},
-      {name: "X:IN", key: "X:IN"},
-      {name: "Young Posse", key: "Young Posse"},
+     { name: "2NE1", key: "2NE1", gen: ["gen2"], tooltip: "Debuted 2009-05-06 under YG Entertainment with 'Fire.' Trailblazing girl group known for bold style, global hits, and fierce stage presence." },
+     { name: "4Minute", key: "4Minute", gen: ["gen2"], tooltip: "Debuted 2009-06-18 under Cube Entertainment with 'Hot Issue.' Energetic group recognized for edgy pop and HyunA’s standout presence." },
+     { name: "9Muses", key: "9Muses", gen: ["gen2"], tooltip: "Debuted 2010-08-12 under Star Empire Entertainment with 'No Playboy.' Known for model-like visuals, catchy synth-pop, and polished choreography." },
+     { name: "ablume", key: "ablume", gen: ["gen5"], tooltip: "Debuted 2024-11-15 under Biscuit Entertainment with 'Venus.' New-era girl group with polished pop and fresh visuals." },
+     { name: "ADYA", key: "ADYA", gen: ["gen4", "gen5"], tooltip: "Debuted 2023-05-09 under Starting House Entertainment with the single album 'ADYA.' Youthful act blending trendy dance-pop with bright concepts." },
+     { name: "Aespa", key: "Aespa", gen: ["gen4"], tooltip: "Debuted 2020-11-17 under SM Entertainment with 'Black Mamba.' Known for futuristic cyber concepts, virtual avatars, and strong global traction." },
+     { name: "After School", key: "After School", gen: ["gen2"], tooltip: "Debuted 2009-01-15 under Pledis Entertainment with 'AH.' Performance-driven group famed for powerful stages and subunits like Orange Caramel." },
+     { name: "Alice", key: "Alice", gen: ["gen3"], tooltip: "Debuted 2017-06-01 as ELRIS with 'We, First.' Rebranded as ALICE in 2022 under IOK Company. Recognized for vocal-driven pop sound." },
+     { name: "AOA", key: "AOA", gen: ["gen3"], tooltip: "Debuted 2012-07-30 under FNC Entertainment with 'Elvis.' Unique for combining band and dance unit concepts, later achieving mainstream success." },
+     { name: "Apink", key: "Apink", gen: ["gen2"], tooltip: "Debuted 2011-04-19 under A Cube Entertainment (now IST) with 'I Don’t Know.' Beloved for melodic pop, longevity, and smooth transition from cute to mature." },
+     { name: "April", key: "April", gen: ["gen3"], tooltip: "Debuted 2015-08-24 under DSP Media with 'Dream Candy.' Known for bright, youthful image and melodic pop songs." },
+     { name: "ARTMS", key: "ARTMS", gen: ["gen4"], tooltip: "Debuted 2024-05-31 under Modhaus with the album 'Dall.' Formed by former LOONA members, continuing with modern production and strong visuals." },
+     { name: "AtHeart", key: "AtHeart", gen: ["gen5"], tooltip: "Debuted 2024-07 under RBW Entertainment with 'Love Bloom.' Fresh 5th-generation group with growing profile." },
+     { name: "Baby DONT Cry", key: "Baby DONT Cry", gen: ["gen5"], tooltip: "Debuted 2024-09 with first digital single. Contemporary pop and dance-driven releases." },
+     { name: "BabyMonster", key: "BabyMonster", gen: ["gen5"], tooltip: "Debuted 2023-11-27 under YG Entertainment with 'Batter Up.' Rookie group noted for strong visuals and powerful performances." },
+     { name: "BADVILLAIN", key: "BADVILLAIN", gen: ["gen5"], tooltip: "Debuted 2024-05-03 under BPM Entertainment with 'BADVILLAIN.' Dark-concept rookies with edgy branding and modern production." },
+     { name: "Billlie", key: "Billlie", gen: ["gen4"], tooltip: "Debuted 2021-11-10 under Mystic Story with 'Ring X Ring.' Known for eclectic storytelling-driven concepts and experimental pop." },
+     { name: "Blackpink", key: "Blackpink", gen: ["gen3"], tooltip: "Debuted 2016-08-08 under YG Entertainment with 'Boombayah' and 'Whistle.' Global superstars blending hip-hop/EDM pop with iconic visuals." },
+     { name: "Brave Girls", key: "Brave Girls", gen: ["gen2"], tooltip: "Debuted 2011-04-07 under Brave Entertainment with 'Do You Know.' Rose to late-career fame in 2021 with viral hit 'Rollin’.'" },
+     { name: "Brown Eyed Girls", key: "Brown Eyed Girls", gen: ["gen2"], tooltip: "Debuted 2006-03-02 under Nega Network with 'Come Closer.' Acclaimed for inventive concepts and strong vocals." },
+     { name: "bugAboo", key: "bugAboo", gen: ["gen4"], tooltip: "Debuted 2021-10-25 under A Team Entertainment with 'bugAboo.' Quirky rookies with playful fantasy themes and high-energy pop." },
+     { name: "Busters", key: "Busters", gen: ["gen4"], tooltip: "Debuted 2017-11-27 under JTG Entertainment with 'Dream On.' Dance-centric rookies focusing on spirited performances and youthful charm." },
+     { name: "Bvndit", key: "Bvndit", gen: ["gen4"], tooltip: "Debuted 2019-04-10 under MNH Entertainment with 'Hocus Pocus.' Recognized for strong vocals, sleek production, and moody aesthetics." },
+     { name: "Candy Shop", key: "Candy Shop", gen: ["gen5"], tooltip: "Debuted 2024-03-27 under Brave Entertainment with 'Hashtag#.' Sweet-themed rookies offering bright, catchy pop and vivid styling." },
+     { name: "Cherry Bullet", key: "Cherry Bullet", gen: ["gen4"], tooltip: "Debuted 2019-01-21 under FNC Entertainment with 'Q&A.' Known for bright, catchy pop songs and interactive concepts." },
+     { name: "Cignature", key: "Cignature", gen: ["gen4"], tooltip: "Debuted 2020-02-04 under J9 Entertainment with 'Nun Nu Nan Na.' Youthful pop act with cheeky hooks, tight formations, and fresh energy." },
+     { name: "CLASS:y", key: "CLASS:y", gen: ["gen4"], tooltip: "Debuted 2022-05-05 under M25 Entertainment with 'Shut Down.' Survival-show group delivering confident pop, sharp performance, and variety charm." },
+     { name: "Craxy", key: "Craxy", gen: ["gen4"], tooltip: "Debuted 2020-03-03 under S.A ITAINMENT with 'Aria.' Bold visuals, cinematic MV storytelling, and genre-fusing pop." },
+     { name: "Crayon Pop", key: "Crayon Pop", gen: ["gen2"], tooltip: "Debuted 2012-07-18 under Chrome Entertainment with 'Saturday Night.' Famous for quirky choreography and viral hit 'Bar Bar Bar.'" },
+     { name: "CSR", key: "CSR", gen: ["gen4"], tooltip: "Debuted 2022-07-27 under A2Z Entertainment with 'Pop? Pop!.' Warm, nostalgic concepts paired with melodic pop and cohesive visuals." },
+     { name: "Dal★Shabet", key: "Dal★Shabet", gen: ["gen2"], tooltip: "Debuted 2011-01-03 under Happy Face Entertainment with 'Supa Dupa Diva.' Upbeat 2010s group known for dance-pop singles and bright stage presence." },
+     { name: "Davichi", key: "Davichi", gen: ["gen2"], tooltip: "Debuted 2008-02-04 under Core Contents Media with 'I Love You Even Though I Hate You.' Ballad duo celebrated for emotive vocals, chart-topping OSTs, and timeless songs." },
+     { name: "Dia", key: "Dia", gen: ["gen3"], tooltip: "Debuted 2015-09-14 under MBK Entertainment with 'Do It Amazing.' Melodic pop group with gentle aesthetics and member-driven charm." },
+     { name: "Dreamcatcher", key: "Dreamcatcher", gen: ["gen3"], tooltip: "Debuted 2017-01-13 under Happy Face Entertainment with 'Chase Me.' Rock/metal-influenced idols with dark fantasy lore and intense choreography." },
+     { name: "DreamNote", key: "DreamNote", gen: ["gen4"], tooltip: "Debuted 2018-11-07 under iMe Korea with 'Dreamlike.' Cheerful rookies delivering upbeat pop and lively fan engagement." },
+     { name: "Everglow", key: "Everglow", gen: ["gen4"], tooltip: "Debuted 2019-03-18 under Yuehua Entertainment with 'Bon Bon Chocolat.' Sleek EDM/pop with powerful performances and strong international reach." },
+     { name: "EXID", key: "EXID", gen: ["gen3"], tooltip: "Debuted 2012-02-16 under AB Entertainment with 'Whoz That Girl.' Breakout group with viral hits, distinctive timbres, and confident stage energy." },
+     { name: "f(x)", key: "f(x)", gen: ["gen2"], tooltip: "Debuted 2009-09-05 under SM Entertainment with 'LA chA TA.' Experimental electropop pioneers with artful concepts and trendsetting sound." },
+     { name: "Fiestar", key: "Fiestar", gen: ["gen2"], tooltip: "Debuted 2012-08-31 under LOEN Entertainment with 'Vista.' Solid vocalists delivering polished K-pop across playful and mature concepts." },
+     { name: "FIFTY FIFTY", key: "FIFTY FIFTY", gen: ["gen4"], tooltip: "Debuted 2022-11-18 under Attrakt with 'The Fifty.' Refined pop harmonies, minimal aesthetics, and sleeper global streaming success." },
+     { name: "Fromis 9", key: "Fromis 9", gen: ["gen4"], tooltip: "Debuted 2018-01-24 under Stone Music with 'To. Heart.' Precision choreography, bright hooks, and polished teamwork." },
+     { name: "(G)I-dle", key: "(G)I-dle", gen: ["gen4"], tooltip: "Debuted 2018-05-02 under Cube Entertainment with 'Latata.' Self-producing powerhouse famed for distinct concepts and member-led songwriting." },
+     { name: "Geenius", key: "Geenius", gen: ["gen5"], tooltip: "Debuted 2024-01 under independent label with first digital single. Indie-leaning rookies with airy pop and creative styling." },
+     { name: "GFriend", key: "GFriend", gen: ["gen3"], tooltip: "Debuted 2015-01-15 under Source Music with 'Glass Bead.' Intense choreography meets melodic, emotional pop and rich harmonies." },
+     { name: "Girl's Day", key: "Girl's Day", gen: ["gen2"], tooltip: "Debuted 2010-07-07 under DreamT Entertainment with 'Tilt My Head.' Hitmaking 2010s group balancing playful charm with impressive vocals." },
+     { name: "Girls' Generation", key: "Girls' Generation", gen: ["gen2"], tooltip: "Debuted 2007-08-05 under SM Entertainment with 'Into the New World.' Legendary icons with era-defining hits, vocal prowess, and longevity." },
+     { name: "Gugudan", key: "Gugudan", gen: ["gen3"], tooltip: "Debuted 2016-06-28 under Jellyfish Entertainment with 'Wonderland.' Vocal/performance-focused group with theatrical concepts and bright pop." },
+     { name: "GWSN", key: "GWSN", gen: ["gen4"], tooltip: "Debuted 2018-09-05 under Kiwi Pop with 'Puzzle Moon.' Dreamy aesthetics, alternative-pop textures, and graceful performance." },
+     { name: "H1-KEY", key: "H1-KEY", gen: ["gen4"], tooltip: "Debuted 2022-01-05 under GLG with 'Athletic Girl.' R&B-pop leanings, confident vocals, and sleek, modern concepts." },
+     { name: "Hearts2Hearts", key: "Hearts2Hearts", gen: ["gen5"], tooltip: "Debuted 2024-02 under small label with first digital single. Indie-pop rookies with soft aesthetics and emotional themes." },
+     { name: "Hellovenus", key: "Hellovenus", gen: ["gen2"], tooltip: "Debuted 2012-05-09 under Pledis/Tricell with 'Venus.' Playful-meets-mature concepts with crisp vocals and bright visuals." },
+     { name: "HITGS", key: "HITGS", gen: ["gen5"], tooltip: "Debuted 2024-04 with first single album. New rookies with teen-focused imagery and contemporary pop styling." },
+     { name: "I.O.I", key: "I.O.I", gen: ["gen3"], tooltip: "Debuted 2016-05-04 under YMC Entertainment with 'Dream Girls.' Produce 101 project group whose members seeded many later hits." },
+     { name: "ICHILLIN", key: "ICHILLIN", gen: ["gen4"], tooltip: "Debuted 2021-09-08 under KM Entertainment with 'Got'Ya.' Youthful pop with clean melodies and friendly visuals." },
+     { name: "ifeye", key: "ifeye", gen: ["gen5"], tooltip: "Debuted 2024-06 with first digital single. Digital-first rookies experimenting with airy pop and minimalist aesthetics." },
+     { name: "ILLIT", key: "ILLIT", gen: ["gen5"], tooltip: "Debuted 2024-03-25 under Belift Lab with 'Magnetic.' Hybe rookies with soft-toned pop and viral-friendly appeal." },
+     { name: "ILY:1", key: "ILY:1", gen: ["gen4"], tooltip: "Debuted 2022-04-04 under FC ENM with 'Love in Bloom.' Bright bubblegum-pop with cohesive styling and approachable performance." },
+     { name: "ITZY", key: "ITZY", gen: ["gen4"], tooltip: "Debuted 2019-02-12 under JYP Entertainment with 'Dalla Dalla.' Confident anthems, sharp choreography, and high-energy teen-pop charisma." },
+     { name: "IVE", key: "IVE", gen: ["gen4"], tooltip: "Debuted 2021-12-01 under Starship Entertainment with 'Eleven.' Hook-driven pop, modelesque visuals, and chart-topping momentum." },
+     { name: "IZ*ONE", key: "IZ*ONE", gen: ["gen4"], tooltip: "Debuted 2018-10-29 under Off the Record with 'La Vie en Rose.' Produce 48 project with lush pop and large-scale staging." },
+     { name: "izna", key: "izna", gen: ["gen5"], tooltip: "Debuted 2024-08 with first digital single. New five-gen act with soft visuals and gentle pop." },
+     { name: "Kara", key: "Kara", gen: ["gen2"], tooltip: "Debuted 2007-03-29 under DSP Media with 'Break It.' Pan-Asian hitmakers with polished pop and lasting impact." },
+     { name: "Kep1er", key: "Kep1er", gen: ["gen4"], tooltip: "Debuted 2022-01-03 under Wake One with 'Wa Da Da.' Survival-show group delivering synchronized performance and punchy pop." },
+     { name: "KiiiKiii", key: "KiiiKiii", gen: ["gen5"], tooltip: "Debuted 2024-05 with first single. Colorful rookies with niche online presence and playful aesthetics." },
+     { name: "Kiiras", key: "Kiiras", gen: ["gen5"], tooltip: "Debuted 2024-06 with first digital single. New-gen idols blending modern pop and vibrant styling." },
+     { name: "KISS OF LIFE", key: "KISS OF LIFE", gen: ["gen4"], tooltip: "Debuted 2023-07-05 under S2 Entertainment with 'Shhh.' Retro-tinged R&B-pop, strong vocals, and chic visuals." },
+     { name: "Laboum", key: "Laboum", gen: ["gen3"], tooltip: "Debuted 2014-08-28 under NH Media with 'Pit-a-Pat.' Melodic mid-tempo pop with soft visuals and steady fan engagement." },
+     { name: "Ladies' code", key: "Ladies' code", gen: ["gen3"], tooltip: "Debuted 2013-03-07 under Polaris Entertainment with 'Bad Girl.' Vocal-focused group noted for emotional releases and resilient artistry." },
+     { name: "LAPILLUS", key: "LAPILLUS", gen: ["gen4"], tooltip: "Debuted 2022-06-20 under MLD Entertainment with 'Hit Ya!' Upbeat rookies with global members, dynamic concepts, and bright pop." },
+     { name: "Laysha", key: "Laysha", gen: ["gen3"], tooltip: "Debuted 2015-05 under JS Entertainment with 'Turn Up The Music.' Dance/R&B-influenced performances with mature, club-ready styling." },
+     { name: "LE SSERAFIM", key: "LE SSERAFIM", gen: ["gen4"], tooltip: "Debuted 2022-05-02 under Source Music with 'Fearless.' Bold branding, polished production, and confident, athletic stagecraft." },
+     { name: "Lightsum", key: "Lightsum", gen: ["gen4"], tooltip: "Debuted 2021-06-10 under Cube Entertainment with 'Vanilla.' Radiant rookies offering crisp choreography and clean, melodic pop." },
+     { name: "Loossemble", key: "Loossemble", gen: ["gen4"], tooltip: "Debuted 2023-09-15 under CTDENM with 'Sensitive.' LOONA-lineup spin-off with warm aesthetics and story-rich pop." },
+     { name: "Lovelyz", key: "Lovelyz", gen: ["gen3"], tooltip: "Debuted 2014-11-12 under Woollim Entertainment with 'Candy Jelly Love.' Soft, synthy melodies, angelic visuals, and refined vocal blends." },
+     { name: "Madein", key: "Madein", gen: ["gen5"], tooltip: "Debuted 2024-05 with first digital single. New rookies with indie-pop touches and understated, modern styling." },
+     { name: "MAJORS", key: "MAJORS", gen: ["gen4"], tooltip: "Debuted 2021-03-09 under ANS Entertainment with 'The Beginning of Legend.' Performance-centric rookies emphasizing sharp choreography and trendy pop." },
+     { name: "Mamamoo", key: "Mamamoo", gen: ["gen3"], tooltip: "Debuted 2014-06-18 under RBW with 'Mr. Ambiguous.' Vocal powerhouses with soulful influences, witty concepts, and live prowess." },
+     { name: "Meovv", key: "Meovv", gen: ["gen5"], tooltip: "Debuted 2024-07 with first digital single. Experimental rookies exploring airy, modern pop and artsy visuals." },
+     { name: "mimiirose", key: "mimiirose", gen: ["gen4"], tooltip: "Debuted 2022-09-16 under YES IM Entertainment with 'Awesome.' Indie-leaning aesthetics, refined pop production, and elegant styling." },
+     { name: "Miss A", key: "Miss A", gen: ["gen2"], tooltip: "Debuted 2010-07-01 under JYP Entertainment with 'Bad Girl Good Girl.' Quartet known for bold concepts, chart hits, and strong vocals." },
+     { name: "Momoland", key: "Momoland", gen: ["gen3"], tooltip: "Debuted 2016-11-10 under MLD Entertainment with 'Welcome to Momoland.' Viral dance-pop with playful hooks and energetic performances." },
+     { name: "Nature", key: "Nature", gen: ["gen4"], tooltip: "Debuted 2018-08-03 under n.CH Entertainment with 'Girls and Flowers.' Bright nature-themed pop with colorful visuals and lively choreography." },
+     { name: "NeonPunch", key: "NeonPunch", gen: ["gen4"], tooltip: "Debuted 2018-06-27 under A100 Entertainment with 'Moonlight.' Short-lived rookies remembered for energetic tracks and dance focus." },
+     { name: "NewJeans", key: "NewJeans", gen: ["gen4"], tooltip: "Debuted 2022-08-01 under ADOR with 'Attention.' Y2K-inspired prodigies with minimalist pop, viral appeal, and cool styling." },
+     { name: "Nmixx", key: "Nmixx", gen: ["gen4"], tooltip: "Debuted 2022-02-22 under JYP Entertainment with 'O.O.' Multi-vocalists known for genre-blending ‘MIXX POP’ and complex performance." },
+     { name: "ODD YOUTH", key: "ODD YOUTH", gen: ["gen5"], tooltip: "Debuted 2024-06 with first digital single. Alt-pop rookies with moody aesthetics, DIY flair, and intimate releases." },
+     { name: "Oh My Girl", key: "Oh My Girl", gen: ["gen3"], tooltip: "Debuted 2015-04-20 under WM Entertainment with 'Cupid.' Whimsical concepts, pretty harmonies, and fairytale-inflected pop." },
+     { name: "Pixy", key: "Pixy", gen: ["gen4"], tooltip: "Debuted 2021-02-24 under Allart Entertainment with 'With My Wings.' Dark, fantasy-lore concepts with ethereal visuals and theatrical performances." },
+     { name: "PRIMROSE", key: "PRIMROSE", gen: ["gen4"], tooltip: "Debuted 2023-01-13 under A.O Entertainment with 'Red Moon.' Soulful pop duo with elegant imagery and emotive vocal focus." },
+     { name: "Pristin", key: "Pristin", gen: ["gen3"], tooltip: "Debuted 2017-03-21 under Pledis Entertainment with 'Wee Woo.' Member-composed pop, bright teen aesthetics, and spirited performance." },
+     { name: "Purple Kiss", key: "Purple Kiss", gen: ["gen4"], tooltip: "Debuted 2021-03-15 under RBW with 'Ponzona.' RBW act blending R&B and pop with self-written tracks and rich vocals." },
+     { name: "QWER", key: "QWER", gen: ["gen5"], tooltip: "Debuted 2023-10-18 under Tamago Production with 'Harmony from Discord.' Eclectic rookies with band-leaning concepts, bold colors, and online buzz." },
+     { name: "Rainbow", key: "Rainbow", gen: ["gen2"], tooltip: "Debuted 2009-11-12 under DSP Media with 'Gossip Girl.' Early 2010s group delivering polished dance-pop and varied concepts." },
+     { name: "Red Velvet", key: "Red Velvet", gen: ["gen3"], tooltip: "Debuted 2014-08-01 under SM Entertainment with 'Happiness.' Known for dual 'red/velvet' identity mixing vivid pop with smooth R&B sophistication." },
+     { name: "ReScene", key: "ReScene", gen: ["gen5"], tooltip: "Debuted 2024-04 with first digital single. Indie-pop rookies with soft visuals, subtle storytelling, and intimate tracks." },
+     { name: "Rocket Punch", key: "Rocket Punch", gen: ["gen4"], tooltip: "Debuted 2019-08-07 under Woollim Entertainment with 'Bim Bam Bum.' Upbeat hooks, crisp formations, and bright, candy-colored pop." },
+     { name: "S.E.S.", key: "S.E.S.", gen: ["gen1"], tooltip: "Debuted 1997-11-28 under SM Entertainment with 'I'm Your Girl.' First-gen icons who set the template for K-pop girl group success." },
+     { name: "Say My Name", key: "Say My Name", gen: ["gen5"], tooltip: "Debuted 2024-05 with first digital single. Rookie project with sleek visuals, pan-Asian members, and trendy pop." },
+     { name: "Secret", key: "Secret", gen: ["gen2"], tooltip: "Debuted 2009-10-13 under TS Entertainment with 'I Want You Back.' Hitmaking 2010s group with radio-friendly pop and glamorous concepts." },
+     { name: "Secret Number", key: "Secret Number", gen: ["gen4"], tooltip: "Debuted 2020-05-19 under Vine Entertainment with 'Who Dis?' Multinational lineup delivering polished pop and global-facing branding." },
+     { name: "Sistar", key: "Sistar", gen: ["gen2"], tooltip: "Debuted 2010-06-03 under Starship Entertainment with 'Push Push.' Summer queens with powerhouse vocals, beachy hits, and chart dominance." },
+     { name: "Sonamoo", key: "Sonamoo", gen: ["gen3"], tooltip: "Debuted 2014-12-29 under TS Entertainment with 'Deja Vu.' Dance-driven stages with bright teen-pop and confident performance." },
+     { name: "SPICA", key: "SPICA", gen: ["gen2"], tooltip: "Debuted 2012-02-09 under B2M Entertainment with 'Russian Roulette.' Acclaimed vocalists known for commanding ballads and soulful pop." },
+     { name: "StayC", key: "StayC", gen: ["gen4"], tooltip: "Debuted 2020-11-12 under High Up Entertainment with 'So Bad.' Hook-rich teen-pop, standout vocal color, and strong streaming metrics." },
+     { name: "Stellar", key: "Stellar", gen: ["gen2"], tooltip: "Debuted 2011-08-28 under Top Class Entertainment with 'Rocket Girl.' Bold concepts and provocative visuals paired with infectious dance-pop." },
+     { name: "Sunny Hill", key: "Sunny Hill", gen: ["gen2"], tooltip: "Debuted 2007-09-20 under LOEN Entertainment with 'Love Letter.' Conceptual pop group known for indie crossovers and narrative-driven releases." },
+     { name: "T-ara", key: "T-ara", gen: ["gen2"], tooltip: "Debuted 2009-07-29 under Core Contents Media with 'Lie.' Iconic 2010s group with earworm choruses and prolific hit streaks." },
+     { name: "Tri.be", key: "Tri.be", gen: ["gen4"], tooltip: "Debuted 2021-02-17 under TR Entertainment with 'Doom Doom Ta.' Global rookies delivering assertive dance-pop and dynamic formations." },
+     { name: "tripleS", key: "tripleS", gen: ["gen4"], tooltip: "Debuted 2022-10-28 under Modhaus with 'Generation.' Modular concept group with fan participation, subunits, and novel releases." },
+     { name: "Twice", key: "Twice", gen: ["gen3"], tooltip: "Debuted 2015-10-20 under JYP Entertainment with 'Like OOH-AHH.' Asia-spanning hitmakers with addictive hooks, synchronized stages, and charm." },
+     { name: "UNIS", key: "UNIS", gen: ["gen5"], tooltip: "Debuted 2024-03-27 under F&F Entertainment with 'Superwoman.' Survival-show rookies with diverse members and polished modern pop." },
+     { name: "USPEER", key: "USPEER", gen: ["gen5"], tooltip: "Debuted 2024-06 with first digital single. Emerging rookies emphasizing trendy styling and digital-first promotion." },
+     { name: "VIV", key: "VIV", gen: ["gen5"], tooltip: "Debuted 2024-07 with first single album. New idol group with bright choreography and clean pop textures." },
+     { name: "Viviz", key: "Viviz", gen: ["gen4"], tooltip: "Debuted 2022-02-09 under BPM Entertainment with 'Bop Bop!' Trio of former GFriend members with mature pop and sleek visuals." },
+     { name: "VVUP", key: "VVUP", gen: ["gen5"], tooltip: "Debuted 2024-05 with first digital single. Rookie-era act with upbeat pop concepts and contemporary production." },
+     { name: "Weeekly", key: "Weeekly", gen: ["gen4"], tooltip: "Debuted 2020-06-30 under IST Entertainment with 'Tag Me (@Me).' Bubbly teen-pop paired with sharp formations and school-life themes." },
+     { name: "Weki Meki", key: "Weki Meki", gen: ["gen3"], tooltip: "Debuted 2017-08-08 under Fantagio with 'I Don’t Like Your Girlfriend.' Performance-forward pop with girl-crush styling and confident energy." },
+     { name: "WJSN", key: "WJSN", gen: ["gen3"], tooltip: "Debuted 2016-02-25 under Starship Entertainment with 'Mo Mo Mo.' Cosmic concept group with lush melodies, graceful choreographies, and large lineup." },
+     { name: "Wonder Girls", key: "Wonder Girls", gen: ["gen2"], tooltip: "Debuted 2007-02-10 under JYP Entertainment with 'Irony.' Retro-pop pioneers with international crossover and era-defining singles." },
+     { name: "WOOAH", key: "WOOAH", gen: ["gen4"], tooltip: "Debuted 2020-05-13 under NV Entertainment with 'Exclamation.' Dance-heavy rookies with vibrant visuals and energetic pop." },
+     { name: "X:IN", key: "X:IN", gen: ["gen4"], tooltip: "Debuted 2023-04-11 under ESCROW Entertainment with 'Keeping the Fire.' Multinational rookies with modern pop, striking styling, and bold branding." },
+     { name: "Young Posse", key: "Young Posse", gen: ["gen5"], tooltip: "Debuted 2023-10-18 under Beats Entertainment with 'Macaroni Cheese.' Trendy pop rookies with social-media savvy and rising buzz." },
+      // Solo artists (added concise descriptors for consistency)
+     { name: "Ailee", key: "Ailee", tooltip: "Debuted 2012-02-09 under YMC Entertainment with 'Heaven.' Vocal powerhouse soloist known for soaring ballads and OST hits." },
+     { name: "Alexa", key: "Alexa", tooltip: "Debuted 2019-10-21 under ZB Label with 'Bomb.' High-concept soloist mixing K-pop with sci-fi visuals and bold EDM-pop." },
+     { name: "Bibi", key: "Bibi", tooltip: "Debuted 2019-05-15 under Feel Ghood Music with 'Binu.' Alt-R&B/pop singer-songwriter with raw storytelling and distinctive tone." },
+     { name: "BoA", key: "BoA", tooltip: "Debuted 2000-08-25 under SM Entertainment with 'ID; Peace B.' K-pop pioneer whose cross-Asia success set the standard for solo idols." },
+     { name: "Bol4", key: "Bol4", tooltip: "Debuted 2016-04-22 under Shofar Music with 'Fight Day.' Indie-pop act known for tender vocals, heartfelt lyrics, and soft melodies." },
+     { name: "Chungha", key: "Chungha", tooltip: "Debuted 2017-06-07 under MNH Entertainment with 'Why Don’t You Know.' Performance-driven soloist with sleek pop, charisma, and sharp choreography." },
+     { name: "Chuu", key: "Chuu", tooltip: "Debuted 2022-10-18 under ATRP with 'One and a Half.' Bright-tone soloist known for warm vocals, friendly image, and catchy pop." },
+     { name: "CL", key: "CL", tooltip: "Debuted 2013-05-28 as a soloist under YG Entertainment with 'The Baddest Female.' Global hip-hop/pop soloist with pioneering swagger and artistic reinvention." },
+     { name: "Cocona", key: "Cocona", tooltip: "Debuted 2023-05 with first solo track under XGALX (XG). Fresh solo act blending trendy pop and rap-influenced stylings." },
+     { name: "Heize", key: "Heize", tooltip: "Debuted 2014-01-17 under CJ E&M with 'After I've Wandered A Bit.' Moody R&B singer-songwriter with chart-topping ballads and intimate tone." },
+     { name: "Hyewon", key: "Hyewon", tooltip: "Debuted 2021-12 as a soloist after IZ*ONE disbandment. Soft-pop soloist with gentle visuals and understated vocal color." },
+     { name: "Hyuna", key: "Hyuna", tooltip: "Debuted 2010-01-04 under Cube Entertainment with 'Change.' Iconic performer fusing dance-pop, bold fashion, and magnetic stage presence." },
+     { name: "IU", key: "IU", tooltip: "Debuted 2008-09-18 under LOEN Entertainment with 'Lost Child.' Beloved singer-songwriter with masterful storytelling and top-tier vocals." },
+     { name: "Jessi", key: "Jessi", tooltip: "Debuted 2005-12-01 under Doremi Media with 'Get Up.' Charismatic rapper/singer with confident anthems and TV personality." },
+     { name: "Jinni", key: "Jinni", tooltip: "Debuted 2023-10-11 under ATTRAKT with 'C'mon.' Rising soloist with cool-toned pop and dynamic, trend-led styling." },
+     { name: "Jiselle", key: "Jiselle", tooltip: "Debuted 2019-02-02 under MZMC with 'Missed Call.' Smooth R&B vocalist noted for serene tone and sophisticated tracks." },
+     { name: "Jo Yuri", key: "Jo Yuri", tooltip: "Debuted 2021-10-07 under Wake One with 'Glassy.' IZ*ONE alumna delivering emotive pop and clear, expressive vocals." },
+     { name: "Juniel", key: "Juniel", tooltip: "Debuted 2012-06-07 under FNC Entertainment with 'Illa Illa.' Acoustic-pop singer with delicate melodies and gentle storytelling." },
+     { name: "Kim Yeji", key: "Kim Yeji", tooltip: "Debuted 2023-06 with first digital single. Emerging soloist with crisp vocals and contemporary K-pop styling." },
+     { name: "Kwon Eunbi", key: "Kwon Eunbi", tooltip: "Debuted 2021-08-24 under Woollim Entertainment with 'Door.' IZ*ONE leader turned soloist combining dance-pop finesse and charisma." },
+     { name: "Lee Chaeyeon", key: "Lee Chaeyeon", tooltip: "Debuted 2022-10-12 under WM Entertainment with 'Hush Rush.' Dance-focused soloist with intricate choreographies and sleek pop." },
+     { name: "Lee Hi", key: "Lee Hi", tooltip: "Debuted 2012-10-28 under YG Entertainment with '1,2,3,4.' Soulful vocalist with smoky timbre and timeless R&B/pop ballads." },
+     { name: "Lee Hyori", key: "Lee Hyori", tooltip: "Debuted 2003-08-13 under DSP Media with '10 Minutes.' First-gen icon merging pop, fashion, and star power across decades." },
+     { name: "Lee Youngji", key: "Lee Youngji", tooltip: "Debuted 2019-11-02 under Mainstream with 'Dark Room.' Rapper/TV personality with sharp wit, bold flow, and viral presence." },
+     { name: "Lena Park", key: "Lena Park", tooltip: "Debuted 1998-06-01 under Munhwa Broadcasting with 'Piece.' Acclaimed balladeer celebrated for pristine technique and emotive delivery." },
+     { name: "Punch", key: "Punch", tooltip: "Debuted 2014-09-25 under YG Entertainment with 'Sick.' OST standout with powerful ballads and dramatic vocal expression." },
+     { name: "Rothy", key: "Rothy", tooltip: "Debuted 2017-11-09 under Dorothy Company with 'Stars.' Soft-pop soloist with airy tone and diary-like songwriting." },
+     { name: "Sejeong", key: "Sejeong", tooltip: "Debuted 2016-11-23 under Jellyfish Entertainment with 'Flower Way.' Versatile singer-actress with uplifting pop and heartfelt ballads." },
+     { name: "Somi", key: "Somi", tooltip: "Debuted 2019-06-13 under The Black Label with 'Birthday.' Pop-princess soloist delivering trendy hooks and high-fashion visuals." },
+     { name: "Soojin", key: "Soojin", tooltip: "Debuted 2023-11-08 under BRD Entertainment with 'Agassy.' Sultry-toned soloist with moody pop and striking performance colors." },
+     { name: "Sunmi", key: "Sunmi", tooltip: "Debuted 2007-02-10 with Wonder Girls, solo debut 2013-08-26 under JYP with '24 Hours.' Art-pop soloist known for retro-inflected hits and distinctive storytelling." },
+     { name: "Suzanne", key: "Suzanne", tooltip: "Debuted 2024-05 with first digital single. New solo act with clean vocals and contemporary pop sensibility." },
+     { name: "Yeeun", key: "Yeeun", tooltip: "Debuted 2023-04-13 under Superbell Company with 'The Beginning.' Confident soloist blending rap/sing styles with bold, modern pop." },
+     { name: "Yena", key: "Yena", tooltip: "Debuted 2022-01-17 under Yuehua Entertainment with 'Smiley.' IZ*ONE alumna delivering bubbly pop, comic flair, and idol variety chops." },
+     { name: "Yerin", key: "Yerin", tooltip: "Debuted 2021-05-18 under Sublime Artist Agency with 'Aria.' GFRIEND alumna with sweet-toned solo pop and soft visuals." },
+     { name: "Youha", key: "Youha", tooltip: "Debuted 2020-09-29 under Universal Music Korea with 'Island.' Synth-pop soloist with sleek production and airy melodies." },
+     { name: "Younha", key: "Younha", tooltip: "Debuted 2004-12-01 in Japan with 'Yubikiri,' Korean debut 2006-03-23 with 'Audition.' Rock/pop balladeer with crystalline vocals and enduring chart presence." },
+     { name: "Yuju", key: "Yuju", tooltip: "Debuted 2022-01-18 under KONNECT Entertainment with 'Play.' Power vocalist (GFRIEND) delivering emotive, technical solo performances." },
+     { name: "Yukika", key: "Yukika", tooltip: "Debuted 2019-02-22 under Estimate Entertainment with 'Neon.' City-pop revivalist with retro aesthetics and silky, nostalgic sound." },
+     { name: "Yves", key: "Yves", tooltip: "Debuted 2017-11-28 under BlockBerry Creative with the single album 'Yves' as part of LOONA’s pre-debut project. Known for elegant pop, refined visuals, and graceful tone." }
     ]
   },
   {
@@ -314,7 +352,7 @@ dataSet[dataSetVersion].characterData = [
         name: "BoA",
         img: "xesVuX8.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["BoA"],
             gen: ["gen1"]
         }
     },
@@ -322,7 +360,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Jessi",
         img: "rK1S2bh.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Jessi"],
             gen: ["gen2"]
         }
     },
@@ -330,7 +368,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Lee Hyori",
         img: "agNlY1T.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Lee Hyori"],
             gen: ["gen1"]
         }
     },
@@ -338,7 +376,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Lena Park",
         img: "Vsau6I0.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Lena Park"],
             gen: ["gen1"]
         }
     },
@@ -362,7 +400,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Ailee",
         img: "q0TWy1J.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Ailee"],
             gen: ["gen2"]
         }
     },
@@ -450,7 +488,7 @@ dataSet[dataSetVersion].characterData = [
         name: "CL",
         img: "6Qzsiwy.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["CL"],
             gen: ["gen2"]
         }
     },
@@ -770,7 +808,7 @@ dataSet[dataSetVersion].characterData = [
         name: "IU",
         img: "ha00nMK.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["IU"],
             gen: ["gen2"]
         }
     },
@@ -970,7 +1008,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Juniel",
         img: "feVufX2.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Juniel"],
             gen: ["gen2"]
         }
     },
@@ -1634,7 +1672,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Younha",
         img: "O8u1fun.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Younha"],
             gen: ["gen2"]
         }
     },
@@ -1706,7 +1744,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Bol4",
         img: "ydDLtTc.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Bol4"],
             gen: ["gen3"]
         }
     },
@@ -1986,7 +2024,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Heize",
         img: "Prw6zC8.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Heize"],
             gen: ["gen3"]
         }
     },
@@ -2042,7 +2080,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Hyuna",
         img: "IQwVrnE.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Hyuna"],
             gen: ["gen3"]
         }
     },
@@ -2266,7 +2304,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Lee Hi",
         img: "266wUfR.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Lee Hi"],
             gen: ["gen3"]
         }
     },
@@ -2482,7 +2520,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Punch",
         img: "UPzn0lC.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Punch"],
             gen: ["gen3"]
         }
     },
@@ -2522,7 +2560,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Rothy",
         img: "UqQv6yn.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Rothy"],
             gen: ["gen3"]
         }
     },
@@ -2722,7 +2760,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Sunmi",
         img: "0HA5ZPr.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Sunmi"],
             gen: ["gen3"]
         }
     },
@@ -2802,7 +2840,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Yeeun",
         img: "kBX7O6p.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Yeeun"],
             gen: ["gen3"]
         }
     },
@@ -2874,7 +2912,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Yerin",
         img: "s9eLWMA.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Yerin"],
             gen: ["gen3"]
         }
     },
@@ -2930,7 +2968,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Yuju",
         img: "FPWfUtk.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Yuju"],
             gen: ["gen3"]
         }
     },
@@ -2970,7 +3008,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Alexa",
         img: "cku4QoL.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Alexa"],
             gen: ["gen4"]
         }
     },
@@ -3066,7 +3104,7 @@ dataSet[dataSetVersion].characterData = [
         name: "BIBI",
         img: "kuBCUTU.jpeg",
         opts: {
-            group: ["soloist"], Clash: ["Idol Clash S2"],
+            group: ["BIBI"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -3250,7 +3288,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Chungha",
         img: "pqf6EXc.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Chungha"],
             gen: ["gen4"]
         }
     },
@@ -3258,7 +3296,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Chuu",
         img: "t8Jbyq1.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Chuu"],
             gen: ["gen4"]
         }
     },
@@ -3266,7 +3304,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Cocona",
         img: "6xcvecN.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Cocona"],
             gen: ["gen4"]
         }
     },
@@ -3738,7 +3776,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Hyewon",
         img: "wvTlWvN.jpeg",
         opts: {
-            group: ["soloist"], Clash: ["Idol Clash S2"],
+            group: ["Hyewon"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -3906,7 +3944,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Jinni",
         img: "uFwhX3r.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Jinni"],
             gen: ["gen4"]
         }
     },
@@ -3930,7 +3968,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Jiselle",
         img: "mWydawb.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Jiselle"],
             gen: ["gen4"]
         }
     },
@@ -3994,7 +4032,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Jo Yuri",
         img: "yuA83rb.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Jo Yuri"],
             gen: ["gen4"]
         }
     },
@@ -4122,7 +4160,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Kim Yeji",
         img: "GPQOilU.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Kim Yeji"],
             gen: ["gen4"]
         }
     },
@@ -4154,7 +4192,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Kwon Eunbi",
         img: "84H2q7i.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Kwon Eunbi"],
             gen: ["gen4"]
         }
     },
@@ -4178,7 +4216,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Lee Chaeyeon",
         img: "Z92XoPY.jpeg",
         opts: {
-            group: ["soloist"], Clash: ["Idol Clash S2"],
+            group: ["Lee Chaeyeon"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -4202,7 +4240,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Lee Youngji",
         img: "emkBoTh.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Lee Youngji"],
             gen: ["gen4"]
         }
     },
@@ -4674,7 +4712,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Sejeong",
         img: "gGQ3xkP.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Sejeong"],
             gen: ["gen4"]
         }
     },
@@ -4938,7 +4976,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Somi",
         img: "V7dcQ5T.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Somi"],
             gen: ["gen4"]
         }
     },  
@@ -4978,7 +5016,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Soojin",
         img: "OwYItiW.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Soojin"],
             gen: ["gen4"]
         }
     },
@@ -5098,7 +5136,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Suzanne",
         img: "hLLTFI6.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Suzanne"],
             gen: ["gen4"]
         }
     },
@@ -5202,7 +5240,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Yena",
         img: "Iu3kw6J.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Yena"],
             gen: ["gen4"]
         }
     },
@@ -5322,7 +5360,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Youha",
         img: "NUG0C12.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Youha"],
             gen: ["gen4"]
         }
     },
@@ -5402,7 +5440,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Yukika",
         img: "b6X2j4j.jpeg",
         opts: {
-            group: ["soloist"],
+            group: ["Yukika"],
             gen: ["gen4"]
         }
     },
@@ -5450,7 +5488,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Yves",
         img: "UsZ7cPu.jpeg",
         opts: {
-            group: ["soloist"], Clash: ["Idol Clash S2"],
+            group: ["Yves"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
         }
     },
@@ -7478,7 +7516,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
-
 
 
 
