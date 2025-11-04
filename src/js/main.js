@@ -36,7 +36,8 @@ let pointer         = 0;
 let sortedIndexListPrev = [];
 let recordDataListPrev  = [];
 let parentIndexListPrev = [];
-let tiedDataListPrev    = [];
+let tiedDataListPrev = [];
+let historyStack = [];
 
 let leftIndexPrev       = 0;
 let leftInnerIndexPrev  = 0;
@@ -309,26 +310,38 @@ function display() {
 }
 
 /**
+ * Save a snapshot of the current state for undo.
+ */
+function saveState() {
+    historyStack.push({
+        choices,
+        sortedIndexList: structuredClone(sortedIndexList),
+        recordDataList: structuredClone(recordDataList),
+        parentIndexList: structuredClone(parentIndexList),
+        tiedDataList: structuredClone(tiedDataList),
+        leftIndex,
+        leftInnerIndex,
+        rightIndex,
+        rightInnerIndex,
+        battleNo,
+        sortedNo,
+        pointer
+    });
+}
+
+/**
  * Sort between two character choices or tie.
- * 
+ *
  * @param {'left'|'right'|'tie'} sortType
  */
 function pick(sortType) {
-  if ((timeTaken && choices.length === battleNo - 1) || loading) { return; }
-  else if (!timestamp) { return start(); }
+    if ((timeTaken && choices.length === battleNo - 1) || loading) return;
+    else if (!timestamp) return start();
 
-  sortedIndexListPrev = sortedIndexList.slice(0);
-  recordDataListPrev  = recordDataList.slice(0);
-  parentIndexListPrev = parentIndexList.slice(0);
-  tiedDataListPrev    = tiedDataList.slice(0);
+    // Save current state for undo
+    saveState();
 
-  leftIndexPrev       = leftIndex;
-  leftInnerIndexPrev  = leftInnerIndex;
-  rightIndexPrev      = rightIndex;
-  rightInnerIndexPrev = rightInnerIndex;
-  battleNoPrev        = battleNo;
-  sortedNoPrev        = sortedNo;
-  pointerPrev         = pointer;
+
 
   /** 
    * For picking 'left' or 'right':
@@ -534,25 +547,36 @@ function result(imageNum = 10) {
 
 /** Undo previous choice. */
 function undo() {
-  if (timeTaken) { return; }
+    if (timeTaken) return;
+    if (historyStack.length === 0) return;
 
-  choices = battleNo === battleNoPrev ? choices : choices.slice(0, -1);
+    // Remove the most recent state
+    historyStack.pop();
 
-  sortedIndexList = sortedIndexListPrev.slice(0);
-  recordDataList  = recordDataListPrev.slice(0);
-  parentIndexList = parentIndexListPrev.slice(0);
-  tiedDataList    = tiedDataListPrev.slice(0);
+    if (historyStack.length === 0) {
+        // No history left → reset sorter
+        start(); // or a dedicated reset function
+        return;
+    }
 
-  leftIndex       = leftIndexPrev;
-  leftInnerIndex  = leftInnerIndexPrev;
-  rightIndex      = rightIndexPrev;
-  rightInnerIndex = rightInnerIndexPrev;
-  battleNo        = battleNoPrev;
-  sortedNo        = sortedNoPrev;
-  pointer         = pointerPrev;
+    // Restore the previous state
+    const prev = historyStack[historyStack.length - 1];
+    choices = prev.choices;
+    sortedIndexList = structuredClone(prev.sortedIndexList);
+    recordDataList = structuredClone(prev.recordDataList);
+    parentIndexList = structuredClone(prev.parentIndexList);
+    tiedDataList = structuredClone(prev.tiedDataList);
+    leftIndex = prev.leftIndex;
+    leftInnerIndex = prev.leftInnerIndex;
+    rightIndex = prev.rightIndex;
+    rightInnerIndex = prev.rightInnerIndex;
+    battleNo = prev.battleNo;
+    sortedNo = prev.sortedNo;
+    pointer = prev.pointer;
 
-  display();
+    display();
 }
+
 
 /** 
  * Save progress to local browser storage.
@@ -656,84 +680,195 @@ function setLatestDataset() {
 
 /** Populate option list. */
 function populateOptions() {
-  const optList = document.querySelector('.options');
-  const optInsert = (name, id, tooltip, checked = true, disabled = false) => {
-    return `<div><label title="${tooltip?tooltip:name}">
-      <input id="cb-${id}" type="checkbox" ${checked?'checked':''} ${disabled?'disabled':''}> ${name}
+    const optList = document.querySelector('.options');
+
+    const optInsert = (name, id, tooltip, checked = true, disabled = false) => {
+        return `<div><label title="${tooltip ? tooltip : name}">
+      <input id="cb-${id}" type="checkbox" ${checked ? 'checked' : ''} ${disabled ? 'disabled' : ''}> ${name}
     </label></div>`;
-  };
-  const optInsertLarge = (name, id, tooltip, checked = true) => {
-    return `
+    };
+
+    const optInsertLarge = (name, id, tooltip, checked = true) => {
+        return `
       <div class="large option">
-        <label title="${tooltip?tooltip:name}">
-          <input id="cbgroup-${id}" type="checkbox" ${checked?'checked':''}> ${name}
+        <label title="${tooltip ? tooltip : name}">
+          <input id="cbgroup-${id}" type="checkbox" ${checked ? 'checked' : ''}> ${name}
         </label>
         <div id="select-all-container-${id}">
           <a id="select-all-${id}">deselect all</a>
         </div>
       </div>`;
-  };
+    };
 
-  // Clear out any previous options
-  optList.innerHTML = '';
+    // Clear out any previous options
+    optList.innerHTML = '';
 
-  // Insert sorter options and set grouped option behavior
-  options.forEach(opt => {
-    if ('sub' in opt) {
-      optList.insertAdjacentHTML('beforeend', optInsertLarge(opt.name, opt.key, opt.tooltip, opt.checked));
-      opt.sub.forEach((subopt, subindex) => {
-        optList.insertAdjacentHTML('beforeend',
-          optInsert(subopt.name, `${opt.key}-${subindex}`, subopt.tooltip, subopt.checked, opt.checked === false));
-      });
-      optList.insertAdjacentHTML('beforeend', '<hr>');
+    // Insert sorter options and set grouped option behavior
+    options.forEach(opt => {
+        // SPECIAL: render the "group" section grouped by generation, but keep original checkbox IDs
+        if (opt.key === 'group' && Array.isArray(opt.sub)) {
+            // Insert the main group toggle header
+            optList.insertAdjacentHTML('beforeend', optInsertLarge(opt.name, opt.key, opt.tooltip, opt.checked));
 
-      const selectAllBtn = document.getElementById(`select-all-${opt.key}`);
-      const groupbox = document.getElementById(`cbgroup-${opt.key}`);
+            // Define headings in order, including Soloists after gen5
+            const genNames = {
+                gen1: '1st Generation',
+                gen2: '2nd Generation',
+                gen3: '3rd Generation',
+                gen4: '4th Generation',
+                gen5: '5th Generation',
+                soloist: 'Soloists'
+            };
 
-      // Enable/disable suboptions when groupbox is toggled
-      groupbox.addEventListener('change', () => {
-        opt.sub.forEach((subopt, subindex) => {
-          const cb = document.getElementById(`cb-${opt.key}-${subindex}`);
-          cb.disabled = !groupbox.checked;
-          if (groupbox.checked) cb.checked = true;
-        });
-      });
+            // Bucket suboptions
+            const buckets = {};
+            opt.sub.forEach((subopt, subindex) => {
+                if (Array.isArray(subopt.gen) && subopt.gen.length > 0) {
+                    const primaryGen = subopt.gen[0];
+                    if (!buckets[primaryGen]) buckets[primaryGen] = [];
+                    buckets[primaryGen].push({ subopt, subindex });
+                } else {
+                    // no gen key → treat as soloist
+                    if (!buckets.soloist) buckets.soloist = [];
+                    buckets.soloist.push({ subopt, subindex });
+                }
+            });
 
-      // Toggle all suboptions when select-all is clicked
-      selectAllBtn.addEventListener('click', () => {
-        const allChecked = opt.sub.every((subopt, subindex) =>
-          document.getElementById(`cb-${opt.key}-${subindex}`).checked
-        );
+            // Render each section in order
+            Object.keys(genNames).forEach(genKey => {
+                const entries = buckets[genKey];
+                if (!entries) return;
+                optList.insertAdjacentHTML(
+                    'beforeend',
+                    `<div class="large option"><strong>${genNames[genKey]}</strong></div>`
+                );
+                entries.forEach(({ subopt, subindex }) => {
+                    const html = optInsert(
+                        subopt.name,
+                        `${opt.key}-${subindex}`, // keep original ID
+                        subopt.tooltip,
+                        subopt.checked,
+                        opt.checked === false
+                    ).replace('<label', `<label data-gen="${genKey}"`);
+                    optList.insertAdjacentHTML('beforeend', html);
+                });
+            });
 
-        if (allChecked) {
-          selectAllBtn.innerHTML = 'select all';
-          opt.sub.forEach((subopt, subindex) => {
-            document.getElementById(`cb-${opt.key}-${subindex}`).checked = false;
-          });
-        } else {
-          selectAllBtn.innerHTML = 'deselect all';
-          opt.sub.forEach((subopt, subindex) => {
-            document.getElementById(`cb-${opt.key}-${subindex}`).checked = true;
-          });
+            optList.insertAdjacentHTML('beforeend', '<hr>');
+
+            // Keep the original select-all / enable-disable logic
+            const selectAllBtn = document.getElementById(`select-all-${opt.key}`);
+            const groupbox = document.getElementById(`cbgroup-${opt.key}`);
+
+            groupbox.addEventListener('change', () => {
+                opt.sub.forEach((_, i) => {
+                    const cb = document.getElementById(`cb-${opt.key}-${i}`);
+                    if (!cb) return;
+                    cb.disabled = !groupbox.checked;
+                    if (groupbox.checked) cb.checked = true;
+                });
+                const allChecked = opt.sub.every((_, i) => {
+                    const cb = document.getElementById(`cb-${opt.key}-${i}`);
+                    return cb ? cb.checked : true;
+                });
+                if (selectAllBtn) selectAllBtn.innerHTML = allChecked ? 'deselect all' : 'select all';
+            });
+
+            selectAllBtn.addEventListener('click', () => {
+                const allChecked = opt.sub.every((_, i) =>
+                    document.getElementById(`cb-${opt.key}-${i}`).checked
+                );
+                if (allChecked) {
+                    selectAllBtn.innerHTML = 'select all';
+                    opt.sub.forEach((_, i) => {
+                        const cb = document.getElementById(`cb-${opt.key}-${i}`);
+                        if (cb) cb.checked = false;
+                    });
+                } else {
+                    selectAllBtn.innerHTML = 'deselect all';
+                    opt.sub.forEach((_, i) => {
+                        const cb = document.getElementById(`cb-${opt.key}-${i}`);
+                        if (cb) cb.checked = true;
+                    });
+                }
+            });
+
+            opt.sub.forEach((_, i) => {
+                const cb = document.getElementById(`cb-${opt.key}-${i}`);
+                if (!cb) return;
+                cb.addEventListener('change', () => {
+                    const allChecked = opt.sub.every((_, j) => {
+                        const c = document.getElementById(`cb-${opt.key}-${j}`);
+                        return c ? c.checked : true;
+                    });
+                    if (selectAllBtn) selectAllBtn.innerHTML = allChecked ? 'deselect all' : 'select all';
+                });
+            });
+
+            return; // done with group section
         }
-      });
 
-      // Also update the link text if user manually toggles suboptions
-      opt.sub.forEach((subopt, subindex) => {
-        const cb = document.getElementById(`cb-${opt.key}-${subindex}`);
-        cb.addEventListener('change', () => {
-          const allChecked = opt.sub.every((s, i) =>
-            document.getElementById(`cb-${opt.key}-${i}`).checked
-          );
-          selectAllBtn.innerHTML = allChecked ? 'deselect all' : 'select all';
-        });
-      });
 
-    } else {
-      optList.insertAdjacentHTML('beforeend', optInsert(opt.name, opt.key, opt.tooltip, opt.checked));
-    }
-  });
+        // DEFAULT: render all other sections exactly as before
+        if ('sub' in opt) {
+            optList.insertAdjacentHTML('beforeend', optInsertLarge(opt.name, opt.key, opt.tooltip, opt.checked));
+            opt.sub.forEach((subopt, subindex) => {
+                optList.insertAdjacentHTML(
+                    'beforeend',
+                    optInsert(subopt.name, `${opt.key}-${subindex}`, subopt.tooltip, subopt.checked, opt.checked === false)
+                );
+            });
+            optList.insertAdjacentHTML('beforeend', '<hr>');
+
+            const selectAllBtn = document.getElementById(`select-all-${opt.key}`);
+            const groupbox = document.getElementById(`cbgroup-${opt.key}`);
+
+            // Enable/disable suboptions when groupbox is toggled
+            groupbox.addEventListener('change', () => {
+                opt.sub.forEach((subopt, subindex) => {
+                    const cb = document.getElementById(`cb-${opt.key}-${subindex}`);
+                    cb.disabled = !groupbox.checked;
+                    if (groupbox.checked) cb.checked = true;
+                });
+            });
+
+            // Toggle all suboptions when select-all is clicked
+            selectAllBtn.addEventListener('click', () => {
+                const allChecked = opt.sub.every((subopt, subindex) =>
+                    document.getElementById(`cb-${opt.key}-${subindex}`).checked
+                );
+
+                if (allChecked) {
+                    selectAllBtn.innerHTML = 'select all';
+                    opt.sub.forEach((subopt, subindex) => {
+                        document.getElementById(`cb-${opt.key}-${subindex}`).checked = false;
+                    });
+                } else {
+                    selectAllBtn.innerHTML = 'deselect all';
+                    opt.sub.forEach((subopt, subindex) => {
+                        document.getElementById(`cb-${opt.key}-${subindex}`).checked = true;
+                    });
+                }
+            });
+
+            // Also update the link text if user manually toggles suboptions
+            opt.sub.forEach((subopt, subindex) => {
+                const cb = document.getElementById(`cb-${opt.key}-${subindex}`);
+                cb.addEventListener('change', () => {
+                    const allChecked = opt.sub.every((s, i) =>
+                        document.getElementById(`cb-${opt.key}-${i}`).checked
+                    );
+                    selectAllBtn.innerHTML = allChecked ? 'deselect all' : 'select all';
+                });
+            });
+
+        } else {
+            optList.insertAdjacentHTML('beforeend', optInsert(opt.name, opt.key, opt.tooltip, opt.checked));
+        }
+    });
 }
+
+
 
 
 /**
