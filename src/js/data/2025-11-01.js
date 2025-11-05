@@ -7118,7 +7118,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kiiras",
-        img: "x04MRnW.jpeg",
+        img: "w3jRqij.jpeg",
         opts: {
             group_label: ["Kiiras"],
         }
@@ -7516,6 +7516,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
