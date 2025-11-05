@@ -3246,7 +3246,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Choerry",
-        img: "ZOyrBvb.jpeg",
+        img: "3sabC1n.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
@@ -3662,7 +3662,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Haseul",
-        img: "brTogV2.jpeg",
+        img: "ZGLTrDM.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
@@ -3694,7 +3694,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Heejin",
-        img: "wAuyotu.jpeg",
+        img: "bgCQxeN.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
@@ -3958,7 +3958,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Jinsoul",
-        img: "KyiBRb2.jpeg",
+        img: "fNtf0nV.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
@@ -4142,7 +4142,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ARTMS Kim Lip",
-        img: "5NAu5yR.jpeg",
+        img: "ulfMiVI.jpeg",
         opts: {
             group: ["ARTMS"],
             gen: ["gen4"]
@@ -5582,7 +5582,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "izna Bang Jeemin",
-        img: "lrXlqeL.jpeg",
+        img: "tMgOidi.jpeg",
         opts: {
             group: ["izna"],
             gen: ["gen5"]
@@ -5638,7 +5638,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "izna Choi Jungeun",
-        img: "eCc4XCR.jpeg",
+        img: "Drlhy47.jpeg",
         opts: {
             group: ["izna"],
             gen: ["gen5"]
@@ -6038,7 +6038,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "izna Mai",
-        img: "iMvu9cX.jpeg",
+        img: "UMib8l8.jpeg",
         opts: {
             group: ["izna"],
             gen: ["gen5"]
@@ -6262,7 +6262,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "izna Ryu Sarang",
-        img: "L2cPQZG.jpeg",
+        img: "Qu4B7on.jpeg",
         opts: {
             group: ["izna"],
             gen: ["gen5"]
@@ -7516,6 +7516,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
