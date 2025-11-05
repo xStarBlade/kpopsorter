@@ -3838,7 +3838,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC Isa",
-        img: "682q2Vm.jpeg",
+        img: "HQNSzyh.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
@@ -3846,7 +3846,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC J",
-        img: "hpUlxlY.jpeg",
+        img: "Gxg119O.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
@@ -4694,7 +4694,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC Seeun",
-        img: "xR0qB1j.jpeg",
+        img: "nzyHeXE.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
@@ -4878,7 +4878,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC Sieun",
-        img: "4xvCWjh.jpeg",
+        img: "ydqucem.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
@@ -5086,7 +5086,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC Sumin",
-        img: "sjUiwyZ.jpeg",
+        img: "s1f4wNF.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
@@ -5326,7 +5326,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC Yoon",
-        img: "nS6rqmb.jpeg",
+        img: "jJxv1MP.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
@@ -6446,7 +6446,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Young Posse Sunhye",
-        img: "SW4pBi0.jpeg",
+        img: "gH32ZaX.jpeg",
         opts: {
             group: ["Young Posse"],
             gen: ["gen5"]
@@ -6542,7 +6542,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Young Posse Yeonjung",
-        img: "MPX7ABN.jpeg",
+        img: "e5nSjoM.jpeg",
         opts: {
             group: ["Young Posse"],
             gen: ["gen5"]
@@ -7516,6 +7516,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
