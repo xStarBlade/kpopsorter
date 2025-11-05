@@ -3198,7 +3198,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LE SSERAFIM Chaewon",
-        img: "mkJfJiC.jpeg",
+        img: "bDGF2j1.jpeg",
         opts: {
             group: ["LE SSERAFIM"],
             gen: ["gen4"]
@@ -3462,7 +3462,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LE SSERAFIM Eunchae",
-        img: "T1jRggd.jpeg",
+        img: "grMTTRz.jpeg",
         opts: {
             group: ["LE SSERAFIM"],
             gen: ["gen4"]
@@ -4670,7 +4670,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LE SSERAFIM Sakura",
-        img: "eaZ3LVk.jpeg",
+        img: "IupZPSs.jpeg",
         opts: {
             group: ["LE SSERAFIM"],
             gen: ["gen4"]
@@ -5462,7 +5462,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LE SSERAFIM Yunjin",
-        img: "HWB9vGc.jpeg",
+        img: "C3ULdqJ.jpeg",
         opts: {
             group: ["LE SSERAFIM"],
             gen: ["gen4"]
@@ -7516,6 +7516,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
