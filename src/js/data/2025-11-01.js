@@ -5686,7 +5686,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kiiras Doyeon",
-        img: "xcKNb4x.jpeg",
+        img: "YLwbWp8.jpeg",
         opts: {
             group: ["Kiiras"],
             gen: ["gen5"]
@@ -5742,7 +5742,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kiiras Harin",
-        img: "Z04nUWK.jpeg",
+        img: "f4PFJuc.jpeg",
         opts: {
             group: ["Kiiras"],
             gen: ["gen5"]
@@ -5998,7 +5998,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kiiras Kylie",
-        img: "4uglEXj.jpeg",
+        img: "e3gWdXL.jpeg",
         opts: {
             group: ["Kiiras"],
             gen: ["gen5"]
@@ -6014,7 +6014,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kiiras LingLing",
-        img: "mS4v6zp.jpeg",
+        img: "MEyF6GR.jpeg",
         opts: {
             group: ["Kiiras"],
             gen: ["gen5"]
@@ -6230,7 +6230,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kiiras Roah",
-        img: "vnNy7zP.jpeg",
+        img: "lhgIOfO.jpeg",
         opts: {
             group: ["Kiiras"],
             gen: ["gen5"]
@@ -7516,6 +7516,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
