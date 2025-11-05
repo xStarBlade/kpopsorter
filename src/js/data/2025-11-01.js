@@ -3510,7 +3510,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Aespa Giselle",
-        img: "JzbFLM7.jpeg",
+        img: "ug7HPDB.jpeg",
         opts: {
             group: ["Aespa"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -4102,7 +4102,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Aespa Karina",
-        img: "ARy4dtI.jpeg",
+        img: "aDYAT7G.jpeg",
         opts: {
             group: ["Aespa"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -4542,7 +4542,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Aespa Ningning",
-        img: "zvTRLPD.jpeg",
+        img: "A7vwsBN.jpeg",
         opts: {
             group: ["Aespa"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -5190,7 +5190,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Aespa Winter",
-        img: "bro8M4B.jpeg",
+        img: "JcaCfCa.jpeg",
         opts: {
             group: ["Aespa"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -6697,7 +6697,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Aespa",
-        img: "yz79upl.jpeg",
+        img: "yhD4MLr.jpeg",
         opts: {
             group_label: ["Aespa"],
         }
@@ -7516,6 +7516,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
