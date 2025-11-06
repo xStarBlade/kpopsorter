@@ -3878,7 +3878,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "(G)I-dle Jeon Soyeon",
-        img: "y5TmZTG.jpeg",
+        img: "EIZ1Arl.jpeg",
         opts: {
             group: ["(G)I-dle"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -4406,7 +4406,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "(G)I-dle Minnie",
-        img: "uqvtN7Y.jpeg",
+        img: "37DtQnD.jpeg",
         opts: {
             group: ["(G)I-dle"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -4446,7 +4446,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "(G)I-dle Miyeon",
-        img: "XMybvbH.jpeg",
+        img: "9pPwQtv.jpeg",
         opts: {
             group: ["(G)I-dle"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -4870,7 +4870,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "(G)I-dle Shuhua",
-        img: "Qdr4R8k.jpeg",
+        img: "3EBWp4y.jpeg",
         opts: {
             group: ["(G)I-dle"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -5478,7 +5478,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "(G)I-dle Yuqi",
-        img: "0Sv9uJB.jpeg",
+        img: "T7HDDbm.jpeg",
         opts: {
             group: ["(G)I-dle"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -6957,7 +6957,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "(G)I-dle",
-        img: "YvpPRgw.jpeg",
+        img: "lqcw5qu.jpeg",
         opts: {
             group_label: ["(G)I-dle"],
         }
@@ -7516,6 +7516,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
