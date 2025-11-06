@@ -2118,7 +2118,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Blackpink Jennie",
-        img: "oRi9ZfP.jpeg",
+        img: "14wpqY8.jpeg",
         opts: {
             group: ["Blackpink"],
             gen: ["gen3"]
@@ -2326,7 +2326,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Blackpink Lisa",
-        img: "gTMe2BZ.jpeg",
+        img: "QBVcJiB.jpeg",
         opts: {
             group: ["Blackpink"],
             gen: ["gen3"]
@@ -2550,7 +2550,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Blackpink Rose",
-        img: "P0NEqEM.jpeg",
+        img: "oQqOXI1.jpeg",
         opts: {
             group: ["Blackpink"],
             gen: ["gen3"]
@@ -7516,6 +7516,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
