@@ -266,12 +266,18 @@ function start() {
   loading = true;
 
   preloadImages().then(() => {
-    loading = false;
-    document.querySelector('.loading.button').style.display = 'none';
-    document.querySelectorAll('.sorting.button').forEach(el => el.style.display = 'block');
-    document.querySelectorAll('.sort.text').forEach(el => el.style.display = 'block');
-    display();
+      loading = false;
+      document.querySelector('.loading.button').style.display = 'none';
+      document.querySelectorAll('.sorting.button').forEach(el => el.style.display = 'block');
+      document.querySelectorAll('.sort.text').forEach(el => el.style.display = 'block');
+
+      // HIDE info/options visually and for assistive tech
+      document.body.classList.add('loaded');
+      document.querySelectorAll('.info, .options').forEach(el => el.setAttribute('aria-hidden', 'true'));
+
+      display();
   });
+
 }
 
 /** Displays the current state of the sorter. */
@@ -616,6 +622,8 @@ function clearProgress() {
   localStorage.removeItem(`${sorterURL}_saveData`);
   localStorage.removeItem(`${sorterURL}_saveType`);
 
+  document.body.classList.remove('loaded', 'loaded-instant');
+  document.querySelectorAll('.info, .options').forEach(el => el.removeAttribute('aria-hidden'));
   document.querySelectorAll('.starting.start.button').forEach(el => el.style['grid-row'] = 'span 6');
   document.querySelectorAll('.starting.load.button').forEach(el => el.style.display = 'none');
 }
