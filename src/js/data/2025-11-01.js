@@ -149,6 +149,7 @@ dataSet[dataSetVersion].options = [
      { name: "Chuu", key: "Chuu", tooltip: "Debuted 2022-10-18 under ATRP with 'One and a Half.' Bright-tone soloist known for warm vocals, friendly image, and catchy pop." },
      { name: "CL", key: "CL", tooltip: "Debuted 2013-05-28 as a soloist under YG Entertainment with 'The Baddest Female.' Global hip-hop/pop soloist with pioneering swagger and artistic reinvention." },
      { name: "Cocona", key: "Cocona", tooltip: "Debuted 2023-05 with first solo track under XGALX (XG). Fresh solo act blending trendy pop and rap-influenced stylings." },
+     { name: "Hanhee", key: "Hanhee", tooltip: "Hanhee is a former pre-debut member of the girl group WiTCHES and a former member of Deep Studio Entertainment's trainee group YOURS. She made her solo debut on October 22, 2023, with the digital single 'Bad Summer'. She re-debuted on January 9, 2025 with the digital single 'Mayo!'." },
      { name: "Heize", key: "Heize", tooltip: "Debuted 2014-01-17 under CJ E&M with 'After I've Wandered A Bit.' Moody R&B singer-songwriter with chart-topping ballads and intimate tone." },
      { name: "Hyewon", key: "Hyewon", tooltip: "Debuted 2021-12 as a soloist after IZ*ONE disbandment. Soft-pop soloist with gentle visuals and understated vocal color." },
      { name: "Hyolyn", key: "Hyolyn", tooltip: "Hyolyn is a South Korean singer-songwriter under REH Entertainment. She is a former member of the girl group SISTAR and a member of the sub-unit SISTAR19. She made her solo debut on November 26, 2013 with her first album Love & Hate." },
@@ -5751,6 +5752,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Hanhee",
+        img: "1nQk77p.jpeg",
+        opts: {
+            group: ["Hanhee"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "KiiiKiii Haum",
         img: "v8j3gbH.jpeg",
         opts: {
@@ -7526,6 +7535,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
