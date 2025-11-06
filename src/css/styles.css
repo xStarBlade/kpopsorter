@@ -754,3 +754,37 @@ a {
     }
 
 
+
+/* transition-ready state */
+.info, .options {
+    transition: opacity 300ms ease, transform 300ms ease, visibility 300ms;
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    pointer-events: auto;
+}
+
+/* hidden state when body has .loaded */
+body.loaded .info,
+body.loaded .options {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-8px);
+    pointer-events: none;
+}
+
+/* instant hide if you prefer */
+body.loaded-instant .info,
+body.loaded-instant .options {
+    display: none !important;
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    .info, .options {
+        transition: none;
+    }
+}
