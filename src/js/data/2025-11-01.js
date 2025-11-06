@@ -79,6 +79,7 @@ dataSet[dataSetVersion].options = [
      { name: "IZ*ONE", key: "IZ*ONE", gen: ["gen4"], tooltip: "Debuted 2018-10-29 under Off the Record with 'La Vie en Rose.' Produce 48 project with lush pop and large-scale staging." },
      { name: "izna", key: "izna", gen: ["gen5"], tooltip: "Debuted 2024-08 with first digital single. New five-gen act with soft visuals and gentle pop." },
      { name: "Kara", key: "Kara", gen: ["gen2"], tooltip: "Debuted 2007-03-29 under DSP Media with 'Break It.' Pan-Asian hitmakers with polished pop and lasting impact." },
+    { name: "KARD", key: "KARD", gen: ["gen3"], tooltip: "KARD is a four-member co-ed group under DSP Media. They officially debuted on July 19, 2017 with the mini album Hola Hola. Prior to their debut, the group released three pre-debut singles: 'Oh NaNa' on December 13, 2016, followed by 'Don't Recall' in February 16, 2017 and 'Rumor' on April 24, 2017. Their name summarizes the concept of playing cards, with each member being represented by a suit and/or face card. Their name stands for King, Ace, jokeR, & hiDden. " },
      { name: "Kep1er", key: "Kep1er", gen: ["gen4"], tooltip: "Debuted 2022-01-03 under Wake One with 'Wa Da Da.' Survival-show group delivering synchronized performance and punchy pop." },
      { name: "KiiiKiii", key: "KiiiKiii", gen: ["gen5"], tooltip: "Debuted 2024-05 with first single. Colorful rookies with niche online presence and playful aesthetics." },
      { name: "Kiiras", key: "Kiiras", gen: ["gen5"], tooltip: "Debuted 2024-06 with first digital single. New-gen idols blending modern pop and vibrant styling." },
@@ -2235,7 +2236,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KARD Jiwoo",
-        img: "5tG01k3.jpeg",
+        img: "UvE1pw6.jpeg",
         opts: {
             group: ["KARD"],
             gen: ["gen3"]
@@ -2683,7 +2684,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KARD Somin",
-        img: "D4NphCi.jpeg",
+        img: "Sgyh7SI.jpeg",
         opts: {
             group: ["KARD"],
             gen: ["gen3"]
@@ -7553,6 +7554,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
