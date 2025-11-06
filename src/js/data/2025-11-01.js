@@ -1798,7 +1798,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Twice Chaeyoung",
-        img: "iJPTcmB.jpeg",
+        img: "6KIEi0E.jpeg",
         opts: {
             group: ["Twice"],
             gen: ["gen3"]
@@ -2134,7 +2134,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Twice Jeongyeon",
-        img: "jZOnKRS.jpeg",
+        img: "WU9Pj0E.jpeg",
         opts: {
             group: ["Twice"],
             gen: ["gen3"]
@@ -2166,7 +2166,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Twice Jihyo",
-        img: "wwmsvJu.jpeg",
+        img: "UtwdO1X.jpeg",
         opts: {
             group: ["Twice"],
             gen: ["gen3"]
@@ -2470,7 +2470,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Twice Nayeon",
-        img: "F5pBtcc.jpeg",
+        img: "EQ91Bok.jpeg",
         opts: {
             group: ["Twice"],
             gen: ["gen3"]
@@ -5750,7 +5750,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KiiiKiii Haum",
-        img: "XeFC9N0.jpeg",
+        img: "v8j3gbH.jpeg",
         opts: {
             group: ["KiiiKiii"],
             gen: ["gen5"]
@@ -7516,6 +7516,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
