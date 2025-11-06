@@ -149,6 +149,7 @@ dataSet[dataSetVersion].options = [
      { name: "Chuu", key: "Chuu", tooltip: "Debuted 2022-10-18 under ATRP with 'One and a Half.' Bright-tone soloist known for warm vocals, friendly image, and catchy pop." },
      { name: "CL", key: "CL", tooltip: "Debuted 2013-05-28 as a soloist under YG Entertainment with 'The Baddest Female.' Global hip-hop/pop soloist with pioneering swagger and artistic reinvention." },
      { name: "Cocona", key: "Cocona", tooltip: "Debuted 2023-05 with first solo track under XGALX (XG). Fresh solo act blending trendy pop and rap-influenced stylings." },
+     { name: "Gyubin", key: "Gyubin", tooltip: "Gyubin is a singer-songwriter under Liveworks Company. She made her solo debut with the digital single 'Really Like You' on January 17, 2024. She is best known for being a former 'Top 10 Student' contestant." },
      { name: "Hanhee", key: "Hanhee", tooltip: "Hanhee is a former pre-debut member of the girl group WiTCHES and a former member of Deep Studio Entertainment's trainee group YOURS. She made her solo debut on October 22, 2023, with the digital single 'Bad Summer'. She re-debuted on January 9, 2025 with the digital single 'Mayo!'." },
      { name: "Heize", key: "Heize", tooltip: "Debuted 2014-01-17 under CJ E&M with 'After I've Wandered A Bit.' Moody R&B singer-songwriter with chart-topping ballads and intimate tone." },
      { name: "Hyewon", key: "Hyewon", tooltip: "Debuted 2021-12 as a soloist after IZ*ONE disbandment. Soft-pop soloist with gentle visuals and understated vocal color." },
@@ -173,6 +174,7 @@ dataSet[dataSetVersion].options = [
      { name: "Sejeong", key: "Sejeong", tooltip: "Debuted 2016-11-23 under Jellyfish Entertainment with 'Flower Way.' Versatile singer-actress with uplifting pop and heartfelt ballads." },
      { name: "Somi", key: "Somi", tooltip: "Debuted 2019-06-13 under The Black Label with 'Birthday.' Pop-princess soloist delivering trendy hooks and high-fashion visuals." },
      { name: "Soojin", key: "Soojin", tooltip: "Debuted 2023-11-08 under BRD Entertainment with 'Agassy.' Sultry-toned soloist with moody pop and striking performance colors." },
+     { name: "Soorin", key: "Soorin", tooltip: "Soorin is a singer under Oneul Entertainment. She made her solo debut on May 22, 2025 with the single album 'Boys Can Be'." },
      { name: "Sunmi", key: "Sunmi", tooltip: "Debuted 2007-02-10 with Wonder Girls, solo debut 2013-08-26 under JYP with '24 Hours.' Art-pop soloist known for retro-inflected hits and distinctive storytelling." },
      { name: "Suzanne", key: "Suzanne", tooltip: "Debuted 2024-05 with first digital single. New solo act with clean vocals and contemporary pop sensibility." },
      { name: "Yeeun", key: "Yeeun", tooltip: "Debuted 2023-04-13 under Superbell Company with 'The Beginning.' Confident soloist blending rap/sing styles with bold, modern pop." },
@@ -5744,6 +5746,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Gyubin",
+        img: "vMEM9R1.jpeg",
+        opts: {
+            group: ["Gyubin"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Kiiras Harin",
         img: "f4PFJuc.jpeg",
         opts: {
@@ -6412,6 +6422,14 @@ dataSet[dataSetVersion].characterData = [
         img: "pAEZV2z.jpeg",
         opts: {
             group: ["Meovv"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Soorin",
+        img: "emRmyBX.jpeg",
+        opts: {
+            group: ["Soorin"],
             gen: ["gen5"]
         }
     },
@@ -7535,6 +7553,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
