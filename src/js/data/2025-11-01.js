@@ -151,6 +151,7 @@ dataSet[dataSetVersion].options = [
      { name: "Cocona", key: "Cocona", tooltip: "Debuted 2023-05 with first solo track under XGALX (XG). Fresh solo act blending trendy pop and rap-influenced stylings." },
      { name: "Heize", key: "Heize", tooltip: "Debuted 2014-01-17 under CJ E&M with 'After I've Wandered A Bit.' Moody R&B singer-songwriter with chart-topping ballads and intimate tone." },
      { name: "Hyewon", key: "Hyewon", tooltip: "Debuted 2021-12 as a soloist after IZ*ONE disbandment. Soft-pop soloist with gentle visuals and understated vocal color." },
+     { name: "Hyolyn", key: "Hyolyn", tooltip: "Hyolyn is a South Korean singer-songwriter under REH Entertainment. She is a former member of the girl group SISTAR and a member of the sub-unit SISTAR19. She made her solo debut on November 26, 2013 with her first album Love & Hate." },
      { name: "Hyuna", key: "Hyuna", tooltip: "Debuted 2010-01-04 under Cube Entertainment with 'Change.' Iconic performer fusing dance-pop, bold fashion, and magnetic stage presence." },
      { name: "IU", key: "IU", tooltip: "Debuted 2008-09-18 under LOEN Entertainment with 'Lost Child.' Beloved singer-songwriter with masterful storytelling and top-tier vocals." },
      { name: "Jessi", key: "Jessi", tooltip: "Debuted 2005-12-01 under Doremi Media with 'Get Up.' Charismatic rapper/singer with confident anthems and TV personality." },
@@ -165,6 +166,7 @@ dataSet[dataSetVersion].options = [
      { name: "Lee Hyori", key: "Lee Hyori", tooltip: "Debuted 2003-08-13 under DSP Media with '10 Minutes.' First-gen icon merging pop, fashion, and star power across decades." },
      { name: "Lee Youngji", key: "Lee Youngji", tooltip: "Debuted 2019-11-02 under Mainstream with 'Dark Room.' Rapper/TV personality with sharp wit, bold flow, and viral presence." },
      { name: "Lena Park", key: "Lena Park", tooltip: "Debuted 1998-06-01 under Munhwa Broadcasting with 'Piece.' Acclaimed balladeer celebrated for pristine technique and emotive delivery." },
+     { name: "Moong Myang", key: "Moong Myang", tooltip: "Moong Myang signed a contract with MAJOR9 in July 2024. Her first professional work was the release of the song 'Young & Green', for the soundtrack of Hear Me: Our Summer, released on November 18, 2024. She later also released another soundtrack song 'Endless Night' for It's Okay! on March 6, 2025." },
      { name: "Punch", key: "Punch", tooltip: "Debuted 2014-09-25 under YG Entertainment with 'Sick.' OST standout with powerful ballads and dramatic vocal expression." },
      { name: "Rothy", key: "Rothy", tooltip: "Debuted 2017-11-09 under Dorothy Company with 'Stars.' Soft-pop soloist with airy tone and diary-like songwriting." },
      { name: "Sejeong", key: "Sejeong", tooltip: "Debuted 2016-11-23 under Jellyfish Entertainment with 'Flower Way.' Versatile singer-actress with uplifting pop and heartfelt ballads." },
@@ -350,7 +352,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BoA",
-        img: "xesVuX8.jpeg",
+        img: "mDhUrFG.jpeg",
         opts: {
             group: ["BoA"],
             gen: ["gen1"]
@@ -486,7 +488,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CL",
-        img: "6Qzsiwy.jpeg",
+        img: "8Of5H5d.jpeg",
         opts: {
             group: ["CL"],
             gen: ["gen2"]
@@ -781,10 +783,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Sistar Hyolyn",
-        img: "6GZXtLQ.jpeg",
+        name: "Hyolyn",
+        img: "zlGXjIC.jpeg",
         opts: {
-            group: ["Sistar"],
+            group: ["Hyolyn"],
             gen: ["gen2"]
         }
     },
@@ -1670,7 +1672,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Younha",
-        img: "O8u1fun.jpeg",
+        img: "yuednjR.jpeg",
         opts: {
             group: ["Younha"],
             gen: ["gen2"]
@@ -2558,7 +2560,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Rothy",
-        img: "UqQv6yn.jpeg",
+        img: "aOhQnMI.jpeg",
         opts: {
             group: ["Rothy"],
             gen: ["gen3"]
@@ -2758,7 +2760,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Sunmi",
-        img: "0HA5ZPr.jpeg",
+        img: "7JyjC6L.jpeg",
         opts: {
             group: ["Sunmi"],
             gen: ["gen3"]
@@ -2838,7 +2840,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yeeun",
-        img: "kBX7O6p.jpeg",
+        img: "b2JxcKN.jpeg",
         opts: {
             group: ["Yeeun"],
             gen: ["gen3"]
@@ -2966,7 +2968,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yuju",
-        img: "FPWfUtk.jpeg",
+        img: "pwRZKbE.jpeg",
         opts: {
             group: ["Yuju"],
             gen: ["gen3"]
@@ -3006,7 +3008,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Alexa",
-        img: "cku4QoL.jpeg",
+        img: "1D0DLRw.jpeg",
         opts: {
             group: ["Alexa"],
             gen: ["gen4"]
@@ -3294,7 +3296,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Chuu",
-        img: "t8Jbyq1.jpeg",
+        img: "RSYFlZo.jpeg",
         opts: {
             group: ["Chuu"],
             gen: ["gen4"]
@@ -3774,7 +3776,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hyewon",
-        img: "wvTlWvN.jpeg",
+        img: "s9mIXHv.jpeg",
         opts: {
             group: ["Hyewon"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -4030,7 +4032,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Jo Yuri",
-        img: "yuA83rb.jpeg",
+        img: "5ITNozZ.jpeg",
         opts: {
             group: ["Jo Yuri"],
             gen: ["gen4"]
@@ -4158,7 +4160,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kim Yeji",
-        img: "GPQOilU.jpeg",
+        img: "kcYlPug.jpeg",
         opts: {
             group: ["Kim Yeji"],
             gen: ["gen4"]
@@ -4214,7 +4216,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Lee Chaeyeon",
-        img: "Z92XoPY.jpeg",
+        img: "PNyOIhD.jpeg",
         opts: {
             group: ["Lee Chaeyeon"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -4238,7 +4240,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Lee Youngji",
-        img: "emkBoTh.jpeg",
+        img: "FTn84i4.jpeg",
         opts: {
             group: ["Lee Youngji"],
             gen: ["gen4"]
@@ -4974,7 +4976,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Somi",
-        img: "V7dcQ5T.jpeg",
+        img: "kf8N7DQ.jpeg",
         opts: {
             group: ["Somi"],
             gen: ["gen4"]
@@ -5014,7 +5016,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Soojin",
-        img: "OwYItiW.jpeg",
+        img: "ZvnXIIU.jpeg",
         opts: {
             group: ["Soojin"],
             gen: ["gen4"]
@@ -5238,7 +5240,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yena",
-        img: "Iu3kw6J.jpeg",
+        img: "rkTnejc.jpeg",
         opts: {
             group: ["Yena"],
             gen: ["gen4"]
@@ -5358,7 +5360,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Youha",
-        img: "NUG0C12.jpeg",
+        img: "D6vmIfq.jpeg",
         opts: {
             group: ["Youha"],
             gen: ["gen4"]
@@ -5486,7 +5488,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yves",
-        img: "UsZ7cPu.jpeg",
+        img: "URaK7YU.jpeg",
         opts: {
             group: ["Yves"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -6145,6 +6147,14 @@ dataSet[dataSetVersion].characterData = [
         img: "YRTuiSD.jpeg",
         opts: {
             group: ["ODD YOUTH"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Moong Myang",
+        img: "n4oGZHD.jpeg",
+        opts: {
+            group: ["Moong Myang"],
             gen: ["gen5"]
         }
     },
@@ -7516,6 +7526,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
