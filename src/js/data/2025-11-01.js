@@ -3067,7 +3067,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nmixx Bae",
-        img: "cC7p8Gh.jpeg",
+        img: "Pc3JNLz.jpeg",
         opts: {
             group: ["Nmixx"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -3571,7 +3571,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nmixx Haewon",
-        img: "NQReTxh.jpeg",
+        img: "cvFIfj1.jpeg",
         opts: {
             group: ["Nmixx"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -4003,7 +4003,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nmixx Jiwoo",
-        img: "1XCCQVa.jpeg",
+        img: "me7ymUA.jpeg",
         opts: {
             group: ["Nmixx"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -4203,7 +4203,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nmixx Kyujin",
-        img: "t79OqJB.jpeg",
+        img: "21GD0tm.jpeg",
         opts: {
             group: ["Nmixx"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -5075,7 +5075,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nmixx Sullyoon",
-        img: "ATUN9vV.jpeg",
+        img: "Hgu811m.jpeg",
         opts: {
             group: ["Nmixx"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -7553,6 +7553,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
