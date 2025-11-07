@@ -25,6 +25,7 @@ dataSet[dataSetVersion].options = [
      { name: "Aespa", key: "Aespa", gen: ["gen4"], tooltip: "Debuted 2020-11-17 under SM Entertainment with 'Black Mamba.' Known for futuristic cyber concepts, virtual avatars, and strong global traction." },
      { name: "After School", key: "After School", gen: ["gen2"], tooltip: "Debuted 2009-01-15 under Pledis Entertainment with 'AH.' Performance-driven group famed for powerful stages and subunits like Orange Caramel." },
      { name: "Alice", key: "Alice", gen: ["gen3"], tooltip: "Debuted 2017-06-01 as ELRIS with 'We, First.' Rebranded as ALICE in 2022 under IOK Company. Recognized for vocal-driven pop sound." },
+     { name: "ALLDAY PROJECT", key: "ALLDAY PROJECT", gen: ["gen5"], tooltip: "ALLDAY PROJECT is a five-member co-ed group under The Black Label. They made their debut on June 23, 2025 with the single album 'Famous'." },
      { name: "AOA", key: "AOA", gen: ["gen3"], tooltip: "Debuted 2012-07-30 under FNC Entertainment with 'Elvis.' Unique for combining band and dance unit concepts, later achieving mainstream success." },
      { name: "Apink", key: "Apink", gen: ["gen2"], tooltip: "Debuted 2011-04-19 under A Cube Entertainment (now IST) with 'I Don’t Know.' Beloved for melodic pop, longevity, and smooth transition from cute to mature." },
      { name: "April", key: "April", gen: ["gen3"], tooltip: "Debuted 2015-08-24 under DSP Media with 'Dream Candy.' Known for bright, youthful image and melodic pop songs." },
@@ -5555,6 +5556,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "ALLDAY PROJECT Annie",
+        img: "62hDheI.jpeg",
+        opts: {
+            group: ["ALLDAY PROJECT"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "ablume Aran",
         img: "cxlCzF5.jpeg",
         opts: {
@@ -5583,6 +5592,14 @@ dataSet[dataSetVersion].characterData = [
         img: "vxaCsLo.jpeg",
         opts: {
             group: ["AtHeart"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "ALLDAY PROJECT Bailey",
+        img: "1mNYWZk.jpeg",
+        opts: {
+            group: ["ALLDAY PROJECT"],
             gen: ["gen5"]
         }
     },
@@ -6631,6 +6648,14 @@ dataSet[dataSetVersion].characterData = [
         img: "2m6oTlI.jpeg",
         opts: {
             group: ["UNIS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "ALLDAY PROJECT Youngseo",
+        img: "ErZro2K.jpeg",
+        opts: {
+            group: ["ALLDAY PROJECT"],
             gen: ["gen5"]
         }
     },
