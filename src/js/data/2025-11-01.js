@@ -183,7 +183,7 @@ dataSet[dataSetVersion].options = [
      { name: "Yeeun", key: "Yeeun", tooltip: "Debuted 2023-04-13 under Superbell Company with 'The Beginning.' Confident soloist blending rap/sing styles with bold, modern pop." },
      { name: "Yena", key: "Yena", tooltip: "Debuted 2022-01-17 under Yuehua Entertainment with 'Smiley.' IZ*ONE alumna delivering bubbly pop, comic flair, and idol variety chops." },
      { name: "Yerin", key: "Yerin", tooltip: "Debuted 2021-05-18 under Sublime Artist Agency with 'Aria.' GFRIEND alumna with sweet-toned solo pop and soft visuals." },
-     { name: "Youha", key: "Youha", gen: ["gen4"], tooltip: "Debuted 2020-09-29 under Universal Music Korea with 'Island.' Synth-pop soloist with sleek production and airy melodies." },
+     { name: "Youha", key: "Youha", tooltip: "Debuted 2020-09-29 under Universal Music Korea with 'Island.' Synth-pop soloist with sleek production and airy melodies." },
      { name: "Younha", key: "Younha", tooltip: "Debuted 2004-12-01 in Japan with 'Yubikiri,' Korean debut 2006-03-23 with 'Audition.' Rock/pop balladeer with crystalline vocals and enduring chart presence." },
      { name: "Yuju", key: "Yuju", tooltip: "Debuted 2022-01-18 under KONNECT Entertainment with 'Play.' Power vocalist (GFRIEND) delivering emotive, technical solo performances." },
      { name: "Yukika", key: "Yukika", tooltip: "Debuted 2019-02-22 under Estimate Entertainment with 'Neon.' City-pop revivalist with retro aesthetics and silky, nostalgic sound." },
@@ -7627,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
