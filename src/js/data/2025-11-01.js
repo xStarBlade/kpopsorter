@@ -3342,7 +3342,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Danielle",
-        img: "UxUWGfn.jpg",
+        img: "WrDyZef.jpg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
@@ -3558,7 +3558,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Haerin",
-        img: "rGNRYcQ.jpeg",
+        img: "WeUDdqB.jpeg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
@@ -3638,7 +3638,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Hanni",
-        img: "edQPBic.jpeg",
+        img: "QaKN7ty.jpeg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
@@ -3742,7 +3742,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Hyein",
-        img: "Z86ZSMK.jpeg",
+        img: "Nh5bmMv.jpeg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
@@ -4382,7 +4382,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "NewJeans Minji",
-        img: "nKWRKR1.jpeg",
+        img: "tE3w34U.jpeg",
         opts: {
             group: ["NewJeans"],
             gen: ["gen4"]
