@@ -136,6 +136,7 @@ dataSet[dataSetVersion].options = [
      { name: "VVUP", key: "VVUP", gen: ["gen5"], tooltip: "Debuted 2024-05 with first digital single. Rookie-era act with upbeat pop concepts and contemporary production." },
      { name: "Weeekly", key: "Weeekly", gen: ["gen4"], tooltip: "Debuted 2020-06-30 under IST Entertainment with 'Tag Me (@Me).' Bubbly teen-pop paired with sharp formations and school-life themes." },
      { name: "Weki Meki", key: "Weki Meki", gen: ["gen3"], tooltip: "Debuted 2017-08-08 under Fantagio with 'I Don’t Like Your Girlfriend.' Performance-forward pop with girl-crush styling and confident energy." },
+     { name: "WiTCHX", key: "WiTCHX", gen: ["gen5"], tooltip: "WiTCHX also stylized as W!TCHX, is a five-member girl group under Inmedia and Artform Entertainment. They made their debut on November 6, 2024 with the digital single 'Blala'." },
      { name: "WJSN", key: "WJSN", gen: ["gen3"], tooltip: "Debuted 2016-02-25 under Starship Entertainment with 'Mo Mo Mo.' Cosmic concept group with lush melodies, graceful choreographies, and large lineup." },
      { name: "Wonder Girls", key: "Wonder Girls", gen: ["gen2"], tooltip: "Debuted 2007-02-10 under JYP Entertainment with 'Irony.' Retro-pop pioneers with international crossover and era-defining singles." },
      { name: "WOOAH", key: "WOOAH", gen: ["gen4"], tooltip: "Debuted 2020-05-13 under NV Entertainment with 'Exclamation.' Dance-heavy rookies with vibrant visuals and energetic pop." },
@@ -6068,10 +6069,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "WiTCHX Lucia",
+        img: "M0Oyj2i.jpeg",
+        opts: {
+            group: ["WiTCHX"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "QWER Magenta",
         img: "RF7hqUU.jpeg",
         opts: {
             group: ["QWER"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "WiTCHX Mago",
+        img: "RjwgbZg.jpeg",
+        opts: {
+            group: ["WiTCHX"],
             gen: ["gen5"]
         }
     },
@@ -6088,6 +6105,14 @@ dataSet[dataSetVersion].characterData = [
         img: "4E9ZeLm.jpeg",
         opts: {
             group: ["ODD YOUTH"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "WiTCHX Mari",
+        img: "8XyFyED.jpeg",
+        opts: {
+            group: ["WiTCHX"],
             gen: ["gen5"]
         }
     },
@@ -6120,6 +6145,14 @@ dataSet[dataSetVersion].characterData = [
         img: "umYK8J8.jpeg",
         opts: {
             group: ["ifeye"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "WiTCHX Mew",
+        img: "IlN7KPf.jpeg",
+        opts: {
+            group: ["WiTCHX"],
             gen: ["gen5"]
         }
     },
@@ -6232,6 +6265,14 @@ dataSet[dataSetVersion].characterData = [
         img: "aSj6ffz.jpeg",
         opts: {
             group: ["Meovv"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "WiTCHX Niaa",
+        img: "AfFnkhe.jpeg",
+        opts: {
+            group: ["WiTCHX"],
             gen: ["gen5"]
         }
     },
@@ -7579,6 +7620,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
