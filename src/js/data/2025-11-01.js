@@ -7537,7 +7537,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UNIS",
-        img: "hUKLrpM.jpeg",
+        img: "Tz3WNj3.jpeg",
         opts: {
             group_label: ["UNIS"],
         }
@@ -7583,6 +7583,13 @@ dataSet[dataSetVersion].characterData = [
         opts: {
             group_label: ["Weki Meki"],
         }
+    }, 
+    {
+        name: "WiTCHX",
+        img: "Aw0Ivm8.jpeg",
+        opts: {
+            group_label: ["WiTCHX"],
+        }
     },
     {
         name: "WJSN",
@@ -7620,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
