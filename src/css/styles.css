@@ -207,7 +207,7 @@ body {
     }
 }
 
-@media (max-height: 700px) {
+@media (max-height: 1000px) {
     .sorter-item > .image {
         max-height: 74vh;
         width: 50vw;
