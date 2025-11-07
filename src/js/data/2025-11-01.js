@@ -191,7 +191,7 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "GROUP SORTER",
+    name: "Group Sorter",
     key: "group_label",
     tooltip: "Check this to choose which groups you want to sort.",
     checked: false,
@@ -7627,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
