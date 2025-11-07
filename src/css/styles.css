@@ -207,7 +207,12 @@ body {
     }
 }
 
-
+@media (max-height: 600px) {
+    .sorter-item > .image {
+        max-height: 74vh;
+        width: 50vw;
+    }
+}
 
 .sorter-item:hover .image {
     transform: translateY(-5%);
