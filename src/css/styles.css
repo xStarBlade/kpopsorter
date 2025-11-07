@@ -210,7 +210,7 @@ body {
 @media (max-width: 1000px) {
     .sorter-item > .image {
         max-height: 74vh;
-        width: 50vw;
+        width: 45vw;
     }
 }
 
