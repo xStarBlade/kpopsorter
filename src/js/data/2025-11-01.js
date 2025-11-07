@@ -6214,7 +6214,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ODD YOUTH Myah",
-        img: "YRTuiSD.jpeg",
+        img: "bfTWQRi.jpeg",
         opts: {
             group: ["ODD YOUTH"],
             gen: ["gen5"]
@@ -6534,7 +6534,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ODD YOUTH Summer",
-        img: "KLsieLH.jpeg",
+        img: "c86lXXE.jpeg",
         opts: {
             group: ["ODD YOUTH"],
             gen: ["gen5"]
@@ -7627,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
