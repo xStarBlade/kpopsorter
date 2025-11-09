@@ -3485,7 +3485,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Gaeul",
-        img: "7IyXWMO.jpeg",
+        img: "y69kbxH.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
@@ -4221,7 +4221,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Leeseo",
-        img: "QcPmAJS.jpeg",
+        img: "Oo0hddU.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
@@ -4277,7 +4277,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Liz",
-        img: "lQGwpeE.jpeg",
+        img: "WCVpBw5.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
@@ -4581,7 +4581,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Rei",
-        img: "LeIV9kg.jpeg",
+        img: "t2hoDmo.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
@@ -5197,7 +5197,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Wonyoung",
-        img: "JSxUPrt.jpeg",
+        img: "9ohAAA7.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
@@ -7618,6 +7618,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
