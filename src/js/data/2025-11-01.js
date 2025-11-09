@@ -170,7 +170,6 @@ dataSet[dataSetVersion].options = [
      { name: "Lee Hi", key: "Lee Hi", tooltip: "Debuted 2012-10-28 under YG Entertainment with '1,2,3,4.' Soulful vocalist with smoky timbre and timeless R&B/pop ballads." },
      { name: "Lee Hyori", key: "Lee Hyori", tooltip: "Debuted 2003-08-13 under DSP Media with '10 Minutes.' First-gen icon merging pop, fashion, and star power across decades." },
      { name: "Lee Youngji", key: "Lee Youngji", tooltip: "Debuted 2019-11-02 under Mainstream with 'Dark Room.' Rapper/TV personality with sharp wit, bold flow, and viral presence." },
-     { name: "Lena Park", key: "Lena Park", tooltip: "Debuted 1998-06-01 under Munhwa Broadcasting with 'Piece.' Acclaimed balladeer celebrated for pristine technique and emotive delivery." },
      { name: "Moong Myang", key: "Moong Myang", tooltip: "Moong Myang signed a contract with MAJOR9 in July 2024. Her first professional work was the release of the song 'Young & Green', for the soundtrack of Hear Me: Our Summer, released on November 18, 2024. She later also released another soundtrack song 'Endless Night' for It's Okay! on March 6, 2025." },
      { name: "Punch", key: "Punch", tooltip: "Debuted 2014-09-25 under YG Entertainment with 'Sick.' OST standout with powerful ballads and dramatic vocal expression." },
      { name: "Rothy", key: "Rothy", tooltip: "Debuted 2017-11-09 under Dorothy Company with 'Stars.' Soft-pop soloist with airy tone and diary-like songwriting." },
@@ -377,14 +376,6 @@ dataSet[dataSetVersion].characterData = [
         img: "agNlY1T.jpeg",
         opts: {
             group: ["Lee Hyori"],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "Lena Park",
-        img: "Vsau6I0.jpeg",
-        opts: {
-            group: ["Lena Park"],
             gen: ["gen1"]
         }
     },
@@ -7627,6 +7618,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
