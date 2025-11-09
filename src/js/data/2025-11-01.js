@@ -124,7 +124,6 @@ dataSet[dataSetVersion].options = [
      { name: "SPICA", key: "SPICA", gen: ["gen2"], tooltip: "Debuted 2012-02-09 under B2M Entertainment with 'Russian Roulette.' Acclaimed vocalists known for commanding ballads and soulful pop." },
      { name: "StayC", key: "StayC", gen: ["gen4"], tooltip: "Debuted 2020-11-12 under High Up Entertainment with 'So Bad.' Hook-rich teen-pop, standout vocal color, and strong streaming metrics." },
      { name: "Stellar", key: "Stellar", gen: ["gen2"], tooltip: "Debuted 2011-08-28 under Top Class Entertainment with 'Rocket Girl.' Bold concepts and provocative visuals paired with infectious dance-pop." },
-     { name: "Sunny Hill", key: "Sunny Hill", gen: ["gen2"], tooltip: "Debuted 2007-09-20 under LOEN Entertainment with 'Love Letter.' Conceptual pop group known for indie crossovers and narrative-driven releases." },
      { name: "T-ara", key: "T-ara", gen: ["gen2"], tooltip: "Debuted 2009-07-29 under Core Contents Media with 'Lie.' Iconic 2010s group with earworm choruses and prolific hit streaks." },
      { name: "Tri.be", key: "Tri.be", gen: ["gen4"], tooltip: "Debuted 2021-02-17 under TR Entertainment with 'Doom Doom Ta.' Global rookies delivering assertive dance-pop and dynamic formations." },
      { name: "tripleS", key: "tripleS", gen: ["gen4"], tooltip: "Debuted 2022-10-28 under Modhaus with 'Generation.' Modular concept group with fan participation, subunits, and novel releases." },
@@ -7618,6 +7617,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
