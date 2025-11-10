@@ -5524,7 +5524,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hearts2Hearts A-na",
-        img: "ABrdwMc.jpeg",
+        img: "op6MyAn.jpeg",
         opts: {
             group: ["Hearts2Hearts"],
             gen: ["gen5"]
@@ -5620,7 +5620,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hearts2Hearts Carmen",
-        img: "JFeZ764.jpeg",
+        img: "ECAIWQ3.jpeg",
         opts: {
             group: ["Hearts2Hearts"],
             gen: ["gen5"]
@@ -5844,7 +5844,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hearts2Hearts Ian",
-        img: "FQ3Zbbu.jpeg",
+        img: "6lHTXWt.jpeg",
         opts: {
             group: ["Hearts2Hearts"],
             gen: ["gen5"]
@@ -5900,7 +5900,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hearts2Hearts Jiwoo",
-        img: "gNTbhXK.jpeg",
+        img: "2txpFJr.jpeg",
         opts: {
             group: ["Hearts2Hearts"],
             gen: ["gen5"]
@@ -5932,7 +5932,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hearts2Hearts Juun",
-        img: "mYdkUpY.jpeg",
+        img: "tYJ1qwn.jpeg",
         opts: {
             group: ["Hearts2Hearts"],
             gen: ["gen5"]
@@ -6492,7 +6492,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hearts2Hearts Stella",
-        img: "mI1hjOb.jpeg",
+        img: "Pu6WlBR.jpeg",
         opts: {
             group: ["Hearts2Hearts"],
             gen: ["gen5"]
@@ -6612,7 +6612,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hearts2Hearts Ye-on",
-        img: "ED93iIh.jpeg",
+        img: "ZnvOUuc.jpeg",
         opts: {
             group: ["Hearts2Hearts"],
             gen: ["gen5"]
@@ -6692,7 +6692,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hearts2Hearts Yuha",
-        img: "L0EKF5u.jpeg",
+        img: "qKp95H9.jpeg",
         opts: {
             group: ["Hearts2Hearts"],
             gen: ["gen5"]
@@ -7617,6 +7617,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
