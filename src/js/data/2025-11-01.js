@@ -45,6 +45,7 @@ dataSet[dataSetVersion].options = [
      { name: "Cherry Bullet", key: "Cherry Bullet", gen: ["gen4"], tooltip: "Debuted 2019-01-21 under FNC Entertainment with 'Q&A.' Known for bright, catchy pop songs and interactive concepts." },
      { name: "Cignature", key: "Cignature", gen: ["gen4"], tooltip: "Debuted 2020-02-04 under J9 Entertainment with 'Nun Nu Nan Na.' Youthful pop act with cheeky hooks, tight formations, and fresh energy." },
      { name: "CLASS:y", key: "CLASS:y", gen: ["gen4"], tooltip: "Debuted 2022-05-05 under M25 Entertainment with 'Shut Down.' Survival-show group delivering confident pop, sharp performance, and variety charm." },
+    { name: "CLC", key: "CLC", gen: ["gen3"], tooltip: "CLC (short for CrystaL Clear) is a girl group under Cube Entertainment. Originally as five, they debuted on March 19, 2015 with their first mini album First Love. In February 2016, the group added two new members: Elkie and Eunbin." },
      { name: "Craxy", key: "Craxy", gen: ["gen4"], tooltip: "Debuted 2020-03-03 under S.A ITAINMENT with 'Aria.' Bold visuals, cinematic MV storytelling, and genre-fusing pop." },
      { name: "Crayon Pop", key: "Crayon Pop", gen: ["gen2"], tooltip: "Debuted 2012-07-18 under Chrome Entertainment with 'Saturday Night.' Famous for quirky choreography and viral hit 'Bar Bar Bar.'" },
      { name: "CSR", key: "CSR", gen: ["gen4"], tooltip: "Debuted 2022-07-27 under A2Z Entertainment with 'Pop? Pop!.' Warm, nostalgic concepts paired with melodic pop and cohesive visuals." },
@@ -1884,7 +1885,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLC Elkie",
-        img: "XKko8Gz.jpeg",
+        img: "oeJPUUb.jpeg",
         opts: {
             group: ["CLC"],
             gen: ["gen3"]
@@ -1908,7 +1909,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLC Eunbin",
-        img: "XzJfj8d.jpeg",
+        img: "tQ7J2IK.jpeg",
         opts: {
             group: ["CLC"],
             gen: ["gen3"]
@@ -2508,7 +2509,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLC Oh Seunghee",
-        img: "LdXtr1P.jpeg",
+        img: "MOPnOkv.jpeg",
         opts: {
             group: ["CLC"],
             gen: ["gen3"]
@@ -2620,7 +2621,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLC Seungyeon",
-        img: "O4eanJC.jpeg",
+        img: "8pXRuTv.jpeg",
         opts: {
             group: ["CLC"],
             gen: ["gen3"]
@@ -2700,7 +2701,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLC Sorn",
-        img: "eSEm3uN.jpeg",
+        img: "G4GoeYP.jpeg",
         opts: {
             group: ["CLC"],
             gen: ["gen3"]
@@ -7617,6 +7618,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
