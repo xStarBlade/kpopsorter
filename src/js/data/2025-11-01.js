@@ -5525,7 +5525,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Ahyeon",
-        img: "9VEbUnY.jpeg",
+        img: "Icl8Yeb.jpeg",
         opts: {
             group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
@@ -6285,7 +6285,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Pharita",
-        img: "JeXo7Z9.jpeg",
+        img: "EUbsFar.jpeg",
         opts: {
             group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
@@ -6301,7 +6301,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Rami",
-        img: "92umwMe.jpeg",
+        img: "ooGNzdx.jpeg",
         opts: {
             group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
@@ -6333,7 +6333,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Ruka",
-        img: "F5kYkRA.jpeg",
+        img: "kDm6OFP.jpeg",
         opts: {
             group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
