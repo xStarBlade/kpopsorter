@@ -5869,7 +5869,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Iroha",
-        img: "9brX9nz.jpeg",
+        img: "DupVJxC.jpeg",
         opts: {
             group: ["ILLIT"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
@@ -6189,7 +6189,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Minju",
-        img: "u1KULd8.jpeg",
+        img: "kayTL6r.jpeg",
         opts: {
             group: ["ILLIT"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
@@ -6205,7 +6205,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Moka",
-        img: "Pn9Fy8X.jpeg",
+        img: "sK97wBi.jpeg",
         opts: {
             group: ["ILLIT"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
@@ -6597,7 +6597,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Wonhee",
-        img: "9YcurSS.jpeg",
+        img: "v8d5zGG.jpeg",
         opts: {
             group: ["ILLIT"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
@@ -6717,7 +6717,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ILLIT Yunah",
-        img: "YTvtKAU.jpeg",
+        img: "4Ho8Uom.jpeg",
         opts: {
             group: ["ILLIT"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
