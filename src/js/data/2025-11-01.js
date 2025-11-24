@@ -3845,7 +3845,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC Isa",
-        img: "HQNSzyh.jpeg",
+        img: "jeNxoQX.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
@@ -3853,7 +3853,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC J",
-        img: "Gxg119O.jpeg",
+        img: "TxNMtiZ.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
@@ -4701,7 +4701,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC Seeun",
-        img: "nzyHeXE.jpeg",
+        img: "KRiMMTE.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
@@ -5333,7 +5333,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "StayC Yoon",
-        img: "jJxv1MP.jpeg",
+        img: "yEx3sOs.jpeg",
         opts: {
             group: ["StayC"],
             gen: ["gen4"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
