@@ -1885,7 +1885,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLC Elkie",
-        img: "oeJPUUb.jpeg",
+        img: "leeTkCP.jpeg",
         opts: {
             group: ["CLC"],
             gen: ["gen3"]
@@ -1909,7 +1909,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLC Eunbin",
-        img: "R8TX8Qi.jpeg",
+        img: "gs9IS3J.jpeg",
         opts: {
             group: ["CLC"],
             gen: ["gen3"]
@@ -2837,7 +2837,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yeeun",
-        img: "OGf0rft.jpeg",
+        img: "qLGk92g.jpeg",
         opts: {
             group: ["Yeeun"],
             gen: ["gen3"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
