@@ -3885,7 +3885,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "(G)I-dle Jeon Soyeon",
-        img: "EIZ1Arl.jpeg",
+        img: "ADPeYc8.jpeg",
         opts: {
             group: ["(G)I-dle"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -4109,7 +4109,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Aespa Karina",
-        img: "aDYAT7G.jpeg",
+        img: "TytbwAL.jpeg",
         opts: {
             group: ["Aespa"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
