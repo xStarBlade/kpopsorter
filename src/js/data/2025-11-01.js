@@ -3477,7 +3477,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Viviz Eunha",
-        img: "yU7yh7S.jpeg",
+        img: "QIfDY8O.jpeg",
         opts: {
             group: ["Viviz"],
             gen: ["gen4"]
@@ -4917,7 +4917,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Viviz SinB",
-        img: "kifYGgw.jpeg",
+        img: "SpIN7l7.jpeg",
         opts: {
             group: ["Viviz"],
             gen: ["gen4"]
@@ -5173,7 +5173,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Viviz Umji",
-        img: "wrPp8Cy.jpeg",
+        img: "NCdDoM7.jpeg",
         opts: {
             group: ["Viviz"],
             gen: ["gen4"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
