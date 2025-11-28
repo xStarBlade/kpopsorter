@@ -5613,7 +5613,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Baby DONT Cry Beni",
-        img: "VuClfMY.jpeg",
+        img: "OlnkVi3.jpeg",
         opts: {
             group: ["Baby DONT Cry"],
             gen: ["gen5"]
@@ -6013,7 +6013,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Baby DONT Cry Kumi",
-        img: "27kT6WK.jpeg",
+        img: "vrW1qdN.jpeg",
         opts: {
             group: ["Baby DONT Cry"],
             gen: ["gen5"]
@@ -6669,7 +6669,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Baby DONT Cry Yihyun",
-        img: "6MoxCyD.jpeg",
+        img: "44kD2B7.jpeg",
         opts: {
             group: ["Baby DONT Cry"],
             gen: ["gen5"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
