@@ -1837,7 +1837,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Dreamcatcher Dami",
-        img: "LXPKoCn.jpeg",
+        img: "HwTpaoY.jpeg",
         opts: {
             group: ["Dreamcatcher"],
             gen: ["gen3"]
@@ -1965,7 +1965,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Dreamcatcher Gahyeon",
-        img: "0Ozkm0F.jpeg",
+        img: "gTqJl3m.jpeg",
         opts: {
             group: ["Dreamcatcher"],
             gen: ["gen3"]
@@ -2013,7 +2013,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Dreamcatcher Handong",
-        img: "VahvT6i.jpeg",
+        img: "Yk5HAFh.jpeg",
         opts: {
             group: ["Dreamcatcher"],
             gen: ["gen3"]
@@ -2149,7 +2149,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Dreamcatcher JiU",
-        img: "wuf8iAj.jpeg",
+        img: "Ftc2Ylh.jpeg",
         opts: {
             group: ["Dreamcatcher"],
             gen: ["gen3"]
@@ -2629,7 +2629,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Dreamcatcher Siyeon",
-        img: "TBBq4WL.jpeg",
+        img: "o3SdDEN.jpeg",
         opts: {
             group: ["Dreamcatcher"],
             gen: ["gen3"]
@@ -2733,7 +2733,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Dreamcatcher SuA",
-        img: "ST8JIWU.jpeg",
+        img: "0fHrFgh.jpeg",
         opts: {
             group: ["Dreamcatcher"],
             gen: ["gen3"]
@@ -2933,7 +2933,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Dreamcatcher Yoohyeon",
-        img: "9xEwr19.jpeg",
+        img: "Ri0we2L.jpeg",
         opts: {
             group: ["Dreamcatcher"],
             gen: ["gen3"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
