@@ -4453,7 +4453,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "(G)I-dle Miyeon",
-        img: "9pPwQtv.jpeg",
+        img: "zifaWE7.jpeg",
         opts: {
             group: ["(G)I-dle"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
