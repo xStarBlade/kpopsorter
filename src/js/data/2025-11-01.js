@@ -597,7 +597,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "T-ara Eunjung",
-        img: "26nxfOZ.png",
+        img: "zKKE3sB.png",
         opts: {
             group: ["T-ara"],
             gen: ["gen2"]
@@ -789,7 +789,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "T-ara Hyomin",
-        img: "kGwMkpR.jpeg",
+        img: "SPub0fe.jpeg",
         opts: {
             group: ["T-ara"],
             gen: ["gen2"]
@@ -933,7 +933,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "T-ara Jiyeon",
-        img: "Okxset2.jpeg",
+        img: "9H0osRx.jpeg",
         opts: {
             group: ["T-ara"],
             gen: ["gen2"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
