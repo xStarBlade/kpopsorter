@@ -685,7 +685,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "EXID Hani",
-        img: "1tqFknq.jpeg",
+        img: "r9wjdAO.jpeg",
         opts: {
             group: ["EXID"],
             gen: ["gen3"]
@@ -765,7 +765,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "EXID Hyerin",
-        img: "C7spu99.jpeg",
+        img: "svXAaRS.jpeg",
         opts: {
             group: ["EXID"],
             gen: ["gen3"]
@@ -1077,7 +1077,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "EXID LE",
-        img: "c6UN0Ym.jpeg",
+        img: "I7LBtSx.jpeg",
         opts: {
             group: ["EXID"],
             gen: ["gen3"]
@@ -1405,7 +1405,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "EXID Solji",
-        img: "CcQuKCx.jpeg",
+        img: "M8xrFtf.jpeg",
         opts: {
             group: ["EXID"],
             gen: ["gen3"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
