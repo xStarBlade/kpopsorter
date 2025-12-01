@@ -3173,7 +3173,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ITZY Chaeryeong",
-        img: "saUdr6Q.jpeg",
+        img: "3KdQNMm.jpeg",
         opts: {
             group: ["ITZY"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
