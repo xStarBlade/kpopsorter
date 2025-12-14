@@ -4365,7 +4365,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Everglow Mia",
-        img: "yDlsfho.jpeg",
+        img: "6ZpivSQ.jpeg",
         opts: {
             group: ["Everglow"],
             gen: ["gen4"]
@@ -4901,7 +4901,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Everglow Sihyeon",
-        img: "y3FOKih.jpeg",
+        img: "8PkOMei.jpeg",
         opts: {
             group: ["Everglow"],
             gen: ["gen4"]
@@ -5317,7 +5317,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Everglow Yiren",
-        img: "p6O67eB.jpeg",
+        img: "hmf2r7H.jpeg",
         opts: {
             group: ["Everglow"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
