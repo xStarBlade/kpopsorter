@@ -3101,7 +3101,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BIBI",
-        img: "kuBCUTU.jpeg",
+        img: "isKO84i.jpeg",
         opts: {
             group: ["BIBI"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
