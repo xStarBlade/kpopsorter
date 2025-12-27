@@ -3269,7 +3269,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Lightsum Chowon",
-        img: "WhXstzT.jpeg",
+        img: "3S0uMGY.jpeg",
         opts: {
             group: ["Lightsum"],
             gen: ["gen4"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
