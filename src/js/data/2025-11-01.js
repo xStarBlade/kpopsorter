@@ -3213,7 +3213,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Chaeyoung",
-        img: "fRgO8rH.jpeg",
+        img: "JThaziU.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -3685,7 +3685,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Hayoung",
-        img: "j7D1QPu.jpeg",
+        img: "JXomAvu.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -3925,7 +3925,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Jiheon",
-        img: "M8fWt8Q.jpeg",
+        img: "WbbfOvA.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -3981,7 +3981,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Jisun",
-        img: "kNOLlTe.jpeg",
+        img: "QsEPscQ.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -3997,7 +3997,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Jiwon",
-        img: "cBlQ9zV.jpeg",
+        img: "dFyYgem.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -4477,7 +4477,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Nagyung",
-        img: "pcJXBJb.jpeg",
+        img: "mVrbrQ2.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -4669,7 +4669,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Saerom",
-        img: "QBUCKpy.jpeg",
+        img: "Nk5WmGx.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -4813,7 +4813,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Seoyeon",
-        img: "Xrfy3lS.jpeg",
+        img: "WkQtAGc.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
