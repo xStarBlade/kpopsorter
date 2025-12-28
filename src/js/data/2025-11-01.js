@@ -145,7 +145,7 @@ dataSet[dataSetVersion].options = [
       // Solo artists (added concise descriptors for consistency)
      { name: "Ailee", key: "Ailee", tooltip: "Debuted 2012-02-09 under YMC Entertainment with 'Heaven.' Vocal powerhouse soloist known for soaring ballads and OST hits." },
      { name: "Alexa", key: "Alexa", tooltip: "Debuted 2019-10-21 under ZB Label with 'Bomb.' High-concept soloist mixing K-pop with sci-fi visuals and bold EDM-pop." },
-     { name: "Bibi", key: "Bibi", tooltip: "Debuted 2019-05-15 under Feel Ghood Music with 'Binu.' Alt-R&B/pop singer-songwriter with raw storytelling and distinctive tone." },
+     { name: "BIBI", key: "BIBI", tooltip: "Debuted 2019-05-15 under Feel Ghood Music with 'Binu.' Alt-R&B/pop singer-songwriter with raw storytelling and distinctive tone." },
      { name: "BoA", key: "BoA", tooltip: "Debuted 2000-08-25 under SM Entertainment with 'ID; Peace B.' K-pop pioneer whose cross-Asia success set the standard for solo idols." },
      { name: "Bol4", key: "Bol4", tooltip: "Debuted 2016-04-22 under Shofar Music with 'Fight Day.' Indie-pop act known for tender vocals, heartfelt lyrics, and soft melodies." },
      { name: "Chungha", key: "Chungha", tooltip: "Debuted 2017-06-07 under MNH Entertainment with 'Why Don’t You Know.' Performance-driven soloist with sleek pop, charisma, and sharp choreography." },
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
