@@ -414,7 +414,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "f(x) Amber",
-        img: "6B5Oi7W.jpeg",
+        img: "fSCPXVE.jpeg",
         opts: {
             group: ["f(x)"],
             gen: ["gen2"]
@@ -1070,7 +1070,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "f(x) Krystal",
-        img: "TWqxrSX.jpeg",
+        img: "JvSBS9h.jpeg",
         opts: {
             group: ["f(x)"],
             gen: ["gen2"]
@@ -1126,7 +1126,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "f(x) Luna",
-        img: "F6PnQYs.jpeg",
+        img: "6YN5SWv.jpeg",
         opts: {
             group: ["f(x)"],
             gen: ["gen2"]
@@ -1470,7 +1470,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "f(x) Sulli",
-        img: "aB8qobB.png",
+        img: "X2Ivgln.png",
         opts: {
             group: ["f(x)"],
             gen: ["gen2"]
@@ -1542,7 +1542,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "f(x) Victoria",
-        img: "rCAsPIZ.png",
+        img: "Lxx6O58.png",
         opts: {
             group: ["f(x)"],
             gen: ["gen2"]
@@ -7627,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
