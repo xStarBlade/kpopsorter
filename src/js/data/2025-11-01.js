@@ -174,6 +174,7 @@ dataSet[dataSetVersion].options = [
      { name: "Punch", key: "Punch", tooltip: "Debuted 2014-09-25 under YG Entertainment with 'Sick.' OST standout with powerful ballads and dramatic vocal expression." },
      { name: "Rothy", key: "Rothy", tooltip: "Debuted 2017-11-09 under Dorothy Company with 'Stars.' Soft-pop soloist with airy tone and diary-like songwriting." },
      { name: "Sejeong", key: "Sejeong", tooltip: "Debuted 2016-11-23 under Jellyfish Entertainment with 'Flower Way.' Versatile singer-actress with uplifting pop and heartfelt ballads." },
+     { name: "Y:SY (Lee Seoyeon)", key: "Seoyeon", tooltip: "Y:SY, also known as Yi Seoyeon (이서연; formerly romanized as Lee Seoyeon), is a South Korean singer-songwriter and rapper under H1GHR Music. She is a former member of the girl group fromis_9. She made her solo debut on November 17, 2025 with the digital single 'Naked'. She is also known for being a contestant on the reality survival show Idol School." },
      { name: "Somi", key: "Somi", tooltip: "Debuted 2019-06-13 under The Black Label with 'Birthday.' Pop-princess soloist delivering trendy hooks and high-fashion visuals." },
      { name: "Soojin", key: "Soojin", tooltip: "Debuted 2023-11-08 under BRD Entertainment with 'Agassy.' Sultry-toned soloist with moody pop and striking performance colors." },
      { name: "Soorin", key: "Soorin", tooltip: "Soorin is a singer under Oneul Entertainment. She made her solo debut on May 22, 2025 with the single album 'Boys Can Be'." },
@@ -4812,10 +4813,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Fromis 9 Seoyeon",
+        name: "Y:SY (Lee Seoyeon)",
         img: "WkQtAGc.jpeg",
         opts: {
-            group: ["Fromis 9"],
+            group: ["Seoyeon"],
             gen: ["gen4"]
         }
     },
@@ -7626,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
