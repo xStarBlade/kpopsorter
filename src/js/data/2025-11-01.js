@@ -3222,7 +3222,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "FIFTY FIFTY Chanelle",
-        img: "i92kqG9.jpg",
+        img: "Asv3Edv.jpg",
         opts: {
             group: ["FIFTY FIFTY"],
             gen: ["gen4"]
@@ -7627,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
