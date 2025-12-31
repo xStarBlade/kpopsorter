@@ -123,7 +123,7 @@ dataSet[dataSetVersion].options = [
      { name: "Sistar", key: "Sistar", gen: ["gen2"], tooltip: "Debuted 2010-06-03 under Starship Entertainment with 'Push Push.' Summer queens with powerhouse vocals, beachy hits, and chart dominance." },
      { name: "Sonamoo", key: "Sonamoo", gen: ["gen3"], tooltip: "Debuted 2014-12-29 under TS Entertainment with 'Deja Vu.' Dance-driven stages with bright teen-pop and confident performance." },
      { name: "SPICA", key: "SPICA", gen: ["gen2"], tooltip: "Debuted 2012-02-09 under B2M Entertainment with 'Russian Roulette.' Acclaimed vocalists known for commanding ballads and soulful pop." },
-     { name: "StayC", key: "StayC", gen: ["gen4"], tooltip: "Debuted 2020-11-12 under High Up Entertainment with 'So Bad.' Hook-rich teen-pop, standout vocal color, and strong streaming metrics." },
+     { name: "STAYC", key: "STAYC", gen: ["gen4"], tooltip: "Debuted 2020-11-12 under High Up Entertainment with 'So Bad.' Hook-rich teen-pop, standout vocal color, and strong streaming metrics." },
      { name: "Stellar", key: "Stellar", gen: ["gen2"], tooltip: "Debuted 2011-08-28 under Top Class Entertainment with 'Rocket Girl.' Bold concepts and provocative visuals paired with infectious dance-pop." },
      { name: "T-ara", key: "T-ara", gen: ["gen2"], tooltip: "Debuted 2009-07-29 under Core Contents Media with 'Lie.' Iconic 2010s group with earworm choruses and prolific hit streaks." },
      { name: "Tri.be", key: "Tri.be", gen: ["gen4"], tooltip: "Debuted 2021-02-17 under TR Entertainment with 'Doom Doom Ta.' Global rookies delivering assertive dance-pop and dynamic formations." },
@@ -299,7 +299,7 @@ dataSet[dataSetVersion].options = [
       {name: "Sistar", key: "Sistar"},
       {name: "Sonamoo", key: "Sonamoo"},
       {name: "SPICA", key: "SPICA"},
-      {name: "StayC", key: "StayC"},
+      {name: "STAYC", key: "STAYC"},
       {name: "Stellar", key: "Stellar"},
       {name: "Sunny Hill", key: "Sunny Hill"},
       {name: "T-ara", key: "T-ara"},
@@ -3845,18 +3845,18 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "StayC Isa",
+        name: "STAYC Isa",
         img: "jeNxoQX.jpeg",
         opts: {
-            group: ["StayC"],
+            group: ["STAYC"],
             gen: ["gen4"]
         }
     },
     {
-        name: "StayC J",
+        name: "STAYC J",
         img: "TxNMtiZ.jpeg",
         opts: {
-            group: ["StayC"],
+            group: ["STAYC"],
             gen: ["gen4"]
         }
     },
@@ -4701,10 +4701,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "StayC Seeun",
+        name: "STAYC Seeun",
         img: "KRiMMTE.jpeg",
         opts: {
-            group: ["StayC"],
+            group: ["STAYC"],
             gen: ["gen4"]
         }
     },
@@ -4885,10 +4885,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "StayC Sieun",
+        name: "STAYC Sieun",
         img: "ydqucem.jpeg",
         opts: {
-            group: ["StayC"],
+            group: ["STAYC"],
             gen: ["gen4"]
         }
     },
@@ -5093,10 +5093,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "StayC Sumin",
+        name: "STAYC Sumin",
         img: "s1f4wNF.jpeg",
         opts: {
-            group: ["StayC"],
+            group: ["STAYC"],
             gen: ["gen4"]
         }
     },
@@ -5333,10 +5333,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "StayC Yoon",
+        name: "STAYC Yoon",
         img: "yEx3sOs.jpeg",
         opts: {
-            group: ["StayC"],
+            group: ["STAYC"],
             gen: ["gen4"]
         }
     },
@@ -7487,10 +7487,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "StayC",
+        name: "STAYC",
         img: "j5X81dY.jpeg",
         opts: {
-            group_label: ["StayC"],
+            group_label: ["STAYC"],
         }
     },
     {
@@ -7627,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
