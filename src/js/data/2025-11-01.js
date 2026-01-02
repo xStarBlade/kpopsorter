@@ -3782,7 +3782,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hyewon",
-        img: "s9mIXHv.jpeg",
+        img: "nNR0Ohb.jpeg",
         opts: {
             group: ["Hyewon"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -7627,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
