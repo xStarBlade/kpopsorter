@@ -4198,7 +4198,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kwon Eunbi",
-        img: "84H2q7i.jpeg",
+        img: "289KYhE.jpeg",
         opts: {
             group: ["Kwon Eunbi"],
             gen: ["gen4"]
@@ -7627,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
