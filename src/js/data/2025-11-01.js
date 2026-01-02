@@ -2270,7 +2270,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Lovelyz Kei",
-        img: "0dpd0Sc.png",
+        img: "T9Fjynf.png",
         opts: {
             group: ["Lovelyz"],
             gen: ["gen3"]
@@ -2838,7 +2838,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yeeun",
-        img: "qLGk92g.jpeg",
+        img: "kQC4MIH.jpeg",
         opts: {
             group: ["Yeeun"],
             gen: ["gen3"]
@@ -3526,7 +3526,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Purple Kiss Goeun",
-        img: "AcfrgI3.jpeg",
+        img: "FunyBt8.jpeg",
         opts: {
             group: ["Purple Kiss"],
             gen: ["gen4"]
@@ -3838,7 +3838,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Purple Kiss Ireh",
-        img: "zyM4a7N.jpeg",
+        img: "3ExzZdZ.jpeg",
         opts: {
             group: ["Purple Kiss"],
             gen: ["gen4"]
@@ -5438,7 +5438,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Purple Kiss Yuki",
-        img: "XoI2x6E.jpeg",
+        img: "r1luzwN.jpeg",
         opts: {
             group: ["Purple Kiss"],
             gen: ["gen4"]
@@ -7627,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
