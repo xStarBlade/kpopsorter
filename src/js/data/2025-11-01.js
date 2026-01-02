@@ -4222,7 +4222,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Lee Chaeyeon",
-        img: "PNyOIhD.jpeg",
+        img: "qBQJx35.jpeg",
         opts: {
             group: ["Lee Chaeyeon"], Clash: ["Idol Clash S2"],
             gen: ["gen4"]
@@ -7627,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
