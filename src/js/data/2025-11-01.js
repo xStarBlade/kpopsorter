@@ -4718,7 +4718,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Sejeong",
-        img: "gGQ3xkP.jpeg",
+        img: "UPkZIut.jpeg",
         opts: {
             group: ["Sejeong"],
             gen: ["gen4"]
@@ -7627,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
