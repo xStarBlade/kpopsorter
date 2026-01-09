@@ -2150,7 +2150,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Dreamcatcher JiU",
-        img: "Ftc2Ylh.jpeg",
+        img: "o3SdDEN.jpeg",
         opts: {
             group: ["Dreamcatcher"],
             gen: ["gen3"]
@@ -2630,7 +2630,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Dreamcatcher Siyeon",
-        img: "o3SdDEN.jpeg",
+        img: "Ftc2Ylh.jpeg",
         opts: {
             group: ["Dreamcatcher"],
             gen: ["gen3"]
@@ -7627,6 +7627,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
