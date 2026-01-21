@@ -321,20 +321,12 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Idol Clash 2",
+    name: "Idol Clash",
     key: "Clash",
     tooltip: "The last set of idols in the discord server's Idol Clash season",
     checked: false,   // <-- keeps the group box checked
     sub: [
     { key: "Idol Clash S2", name: "Idol Clash S2", checked: false },
-  ]
-  },
-  {
-    name: "Idol Clash 3",
-    key: "Clash",
-    tooltip: "The current set of idols in the discord server's Idol Clash season",
-    checked: false,   // <-- keeps the group box checked
-    sub: [
     { key: "Idol Clash S3", name: "Idol Clash S3", checked: false },
   ]
   },
@@ -7636,6 +7628,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
