@@ -6846,7 +6846,7 @@ dataSet[dataSetVersion].characterData = [
         name: "ARTMS",
         img: "ZvON3g2.png",
         opts: {
-            group_label: ["ARTMS"], Clash: ["Idol Clash S3"],
+            group_label: ["ARTMS"],
         }
     },
     {
@@ -6889,7 +6889,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Blackpink",
         img: "ZU9aXUz.jpeg",
         opts: {
-            group_label: ["Blackpink"], Clash: ["Idol Clash S3"],
+            group_label: ["Blackpink"],
         }
     },
     {
@@ -7057,7 +7057,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Fromis 9",
         img: "SbyBCi9.jpeg",
         opts: {
-            group_label: ["Fromis 9"], Clash: ["Idol Clash S3"],
+            group_label: ["Fromis 9"],
         }
     },
     {
@@ -7113,14 +7113,14 @@ dataSet[dataSetVersion].characterData = [
         name: "H1-KEY",
         img: "zGKy7JA.jpeg",
         opts: {
-            group_label: ["H1-KEY"], Clash: ["Idol Clash S3"],
+            group_label: ["H1-KEY"],
         }
     },
     {
         name: "Hearts2Hearts",
         img: "xWYP2RL.jpeg",
         opts: {
-            group_label: ["Hearts2Hearts"], Clash: ["Idol Clash S3"],
+            group_label: ["Hearts2Hearts"],
         }
     },
     {
@@ -7232,7 +7232,7 @@ dataSet[dataSetVersion].characterData = [
         name: "KISS OF LIFE",
         img: "jSNccSR.jpeg",
         opts: {
-            group_label: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
+            group_label: ["KISS OF LIFE"],
         }
     },
     {
@@ -7274,7 +7274,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Lightsum",
         img: "Aku7Nje.jpeg",
         opts: {
-            group_label: ["Lightsum"], Clash: ["Idol Clash S3"],
+            group_label: ["Lightsum"],
         }
     },
     {
@@ -7316,7 +7316,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Meovv",
         img: "FrYY2tG.jpeg",
         opts: {
-            group_label: ["Meovv"], Clash: ["Idol Clash S3"],
+            group_label: ["Meovv"],
         }
      },
      {
@@ -7428,7 +7428,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Red Velvet",
         img: "nQzIwaO.jpeg",
         opts: {
-            group_label: ["Red Velvet"], Clash: ["Idol Clash S3"],
+            group_label: ["Red Velvet"],
         }
     },
     {
@@ -7491,7 +7491,7 @@ dataSet[dataSetVersion].characterData = [
         name: "STAYC",
         img: "j5X81dY.jpeg",
         opts: {
-            group_label: ["STAYC"], Clash: ["Idol Clash S3"],
+            group_label: ["STAYC"],
         }
     },
     {
@@ -7561,7 +7561,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Viviz",
         img: "CAbbKya.jpeg",
         opts: {
-            group_label: ["Viviz"], Clash: ["Idol Clash S3"],
+            group_label: ["Viviz"],
         }
     },
     {
@@ -7610,7 +7610,7 @@ dataSet[dataSetVersion].characterData = [
         name: "WOOAH",
         img: "TlzFJLq.jpeg",
         opts: {
-            group_label: ["WOOAH"], Clash: ["Idol Clash S3"],
+            group_label: ["WOOAH"],
         }
     },
     {
@@ -7628,6 +7628,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
