@@ -3153,7 +3153,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Kep1er Chaehyun",
         img: "lZfiqFQ.jpeg",
         opts: {
-            group: ["Kep1er"],
+            group: ["Kep1er"], Clash: ["Idol Clash S3"],
             gen: ["gen4"]
         }
     },
@@ -3353,7 +3353,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Kep1er Dayeon",
         img: "xQpxWvE.jpeg",
         opts: {
-            group: ["Kep1er"],
+            group: ["Kep1er"], Clash: ["Idol Clash S3"],
             gen: ["gen4"]
         }
     },
@@ -3713,7 +3713,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Kep1er Hikaru",
         img: "UIdT1MF.jpeg",
         opts: {
-            group: ["Kep1er"],
+            group: ["Kep1er"], Clash: ["Idol Clash S3"],
             gen: ["gen4"]
         }
     },
@@ -3729,7 +3729,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Kep1er Huening Bahiyyih",
         img: "91vLr26.jpeg",
         opts: {
-            group: ["Kep1er"],
+            group: ["Kep1er"], Clash: ["Idol Clash S3"],
             gen: ["gen4"]
         }
     },
@@ -5225,7 +5225,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Kep1er Xiaoting",
         img: "BkgCbxm.jpeg",
         opts: {
-            group: ["Kep1er"],
+            group: ["Kep1er"], Clash: ["Idol Clash S3"],
             gen: ["gen4"]
         }
     },
@@ -5385,7 +5385,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Kep1er Youngeun",
         img: "mx7R8PN.jpeg",
         opts: {
-            group: ["Kep1er"],
+            group: ["Kep1er"], Clash: ["Idol Clash S3"],
             gen: ["gen4"]
         }
     },
@@ -5425,7 +5425,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Kep1er Yujin",
         img: "f308QnT.jpeg",
         opts: {
-            group: ["Kep1er"],
+            group: ["Kep1er"], Clash: ["Idol Clash S3"],
             gen: ["gen4"]
         }
     },
@@ -7628,6 +7628,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
