@@ -4687,7 +4687,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Lightsum Sangah",
-        img: "Okq6qe8.jpeg",
+        img: "bJtzJjB.jpeg",
         opts: {
             group: ["Lightsum"], Clash: ["Idol Clash S3"],
             gen: ["gen4"]
@@ -5911,7 +5911,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hearts2Hearts Jiwoo",
-        img: "2txpFJr.jpeg",
+        img: "BXcnRws.jpeg",
         opts: {
             group: ["Hearts2Hearts"], Clash: ["Idol Clash S3"],
             gen: ["gen5"]
@@ -7628,6 +7628,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
