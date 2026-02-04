@@ -6655,7 +6655,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Madein Yeseo",
-        img: "OgzlwOX.jpeg",
+        img: "LSvS2nN.jpeg",
         opts: {
             group: ["Madein"],
             gen: ["gen5"]
@@ -7628,6 +7628,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
