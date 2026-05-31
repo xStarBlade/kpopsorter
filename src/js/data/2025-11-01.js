@@ -5638,6 +5638,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "VVS Brittney",
+        img: "dKv00S6.jpeg",
+        opts: {
+            group: ["VVS"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Hearts2Hearts Carmen",
         img: "ECAIWQ3.jpeg",
         opts: {
@@ -5870,6 +5878,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "VVS Ilee",
+        img: "1VFwr5M.jpeg",
+        opts: {
+            group: ["VVS"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BADVILLAIN INA",
         img: "kPttwnY.jpeg",
         opts: {
@@ -6062,6 +6078,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "VVS Lena",
+        img: "sjw4ynF.jpeg",
+        opts: {
+            group: ["VVS"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Kiiras LingLing",
         img: "MEyF6GR.jpeg",
         opts: {
@@ -6074,6 +6098,14 @@ dataSet[dataSetVersion].characterData = [
         img: "cQxebbz.jpeg",
         opts: {
             group: ["ReScene"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "VVS Liwon",
+        img: "xTCC2RI.jpeg",
+        opts: {
+            group: ["VVS"],
             gen: ["gen5"]
         }
     },
@@ -6314,6 +6346,14 @@ dataSet[dataSetVersion].characterData = [
         img: "ooGNzdx.jpeg",
         opts: {
             group: ["BabyMonster"], Clash: ["Idol Clash S2"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "VVS Rana",
+        img: "nsM1rN8.jpeg",
+        opts: {
+            group: ["VVS"],
             gen: ["gen5"]
         }
     },
