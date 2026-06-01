@@ -5542,6 +5542,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "UNCHILD Ako",
+        img: "fwaCV1J.jpeg",
+        opts: {
+            group: ["UNCHILD"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Hearts2Hearts A-na",
         img: "op6MyAn.jpeg",
         opts: {
@@ -5758,6 +5766,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "UNCHILD Evon",
+        img: "B3YlFsk.jpeg",
+        opts: {
+            group: ["UNCHILD"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Madein Gaeun",
         img: "xBmyy63.jpeg",
         opts: {
@@ -5790,10 +5806,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Kiiras Harin",
-        img: "f4PFJuc.jpeg",
+        name: "UNCHILD Haeun",
+        img: "Qc6s0dy.jpeg",
         opts: {
-            group: ["Kiiras"],
+            group: ["UNCHILD"],
             gen: ["gen5"]
         }
     },
@@ -5806,10 +5822,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kiiras Harin",
+        img: "f4PFJuc.jpeg",
+        opts: {
+            group: ["Kiiras"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "KiiiKiii Haum",
         img: "v8j3gbH.jpeg",
         opts: {
             group: ["KiiiKiii"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "UNCHILD Heekie",
+        img: "y4LvDu9.jpeg",
+        opts: {
+            group: ["UNCHILD"],
             gen: ["gen5"]
         }
     },
@@ -6614,6 +6646,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "UNCHILD Tina",
+        img: "aeuyPFH.jpeg",
+        opts: {
+            group: ["UNCHILD"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "VIV Tzuling",
         img: "30HE2FP.jpeg",
         opts: {
@@ -6682,6 +6722,14 @@ dataSet[dataSetVersion].characterData = [
         img: "1YN2o2n.jpeg",
         opts: {
             group: ["ODD YOUTH"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "UNCHILD Yeeun",
+        img: "XKeYKf9.jpeg",
+        opts: {
+            group: ["UNCHILD"],
             gen: ["gen5"]
         }
     },
