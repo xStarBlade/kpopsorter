@@ -5871,7 +5871,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Say My Name Hitomi",
-        img: "LhhqShG.jpg",
+        img: "bovzNn4.jpg",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
@@ -6047,7 +6047,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Say My Name Kanny",
-        img: "bsAp4uD.jpeg",
+        img: "sL98Okc.jpeg",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
@@ -6560,6 +6560,14 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Say My Name Seungjoo",
         img: "xsUwYfr.jpeg",
+        opts: {
+            group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Say My Name Shuie",
+        img: "x30o891.jpeg",
         opts: {
             group: ["Say My Name"],
             gen: ["gen5"]
