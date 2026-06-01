@@ -5614,6 +5614,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Heart Of Woman Ayne",
+        img: "02u99DO.jpeg",
+        opts: {
+            group: ["Heart Of Woman"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "ALLDAY PROJECT Bailey",
         img: "1mNYWZk.jpeg",
         opts: {
@@ -5674,6 +5682,14 @@ dataSet[dataSetVersion].characterData = [
         img: "yFERXi8.jpeg",
         opts: {
             group: ["H//PE Princess"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Heart Of Woman Chaei",
+        img: "9iZFZ91.jpeg",
+        opts: {
+            group: ["Heart Of Woman"],
             gen: ["gen5"]
         }
     },
@@ -5990,6 +6006,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Heart Of Woman Jihyun",
+        img: "f7sWEZq.jpeg",
+        opts: {
+            group: ["Heart Of Woman"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Keyveatz Jione",
         img: "PIho3lJ.jpeg",
         opts: {
@@ -6178,6 +6202,22 @@ dataSet[dataSetVersion].characterData = [
         img: "MEyF6GR.jpeg",
         opts: {
             group: ["Kiiras"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Heart Of Woman Liri",
+        img: "tV40SJt.jpeg",
+        opts: {
+            group: ["Heart Of Woman"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Heart Of Woman Liuyin",
+        img: "4GULGXI.jpeg",
+        opts: {
+            group: ["Heart Of Woman"],
             gen: ["gen5"]
         }
     },
