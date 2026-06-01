@@ -5662,6 +5662,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "I.MET.U Cleo",
+        img: "9mbaWTa.jpeg",
+        opts: {
+            group: ["I.MET.U"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "H//PE Princess Coco",
         img: "yFERXi8.jpeg",
         opts: {
@@ -6078,6 +6086,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "I.MET.U Kelly",
+        img: "wPdDc54.jpeg",
+        opts: {
+            group: ["I.MET.U"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "VVUP Kim",
         img: "Ef9A4WL.jpeg",
         opts: {
@@ -6130,6 +6146,14 @@ dataSet[dataSetVersion].characterData = [
         img: "e3gWdXL.jpeg",
         opts: {
             group: ["Kiiras"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "I.MET.U Lea",
+        img: "39xvjz9.jpeg",
+        opts: {
+            group: ["I.MET.U"],
             gen: ["gen5"]
         }
     },
@@ -6834,6 +6858,14 @@ dataSet[dataSetVersion].characterData = [
         img: "3nMxVP9.jpeg",
         opts: {
             group: ["USPEER"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "I.MET.U Yerim",
+        img: "FnAFHwT.jpeg",
+        opts: {
+            group: ["I.MET.U"],
             gen: ["gen5"]
         }
     },
