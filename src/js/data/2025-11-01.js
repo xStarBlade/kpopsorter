@@ -5662,6 +5662,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "H//PE Princess Coco",
+        img: "yFERXi8.jpeg",
+        opts: {
+            group: ["H//PE Princess"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "USPEER Chaena",
         img: "sLj5bDd.jpeg",
         opts: {
@@ -5730,6 +5738,14 @@ dataSet[dataSetVersion].characterData = [
         img: "vw6SKlZ.jpeg",
         opts: {
             group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "H//PE Princess Doi",
+        img: "oHyrGVQ.jpeg",
+        opts: {
+            group: ["H//PE Princess"],
             gen: ["gen5"]
         }
     },
@@ -6374,6 +6390,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "H//PE Princess Niko",
+        img: "foL1hgM.jpeg",
+        opts: {
+            group: ["H//PE Princess"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "VVUP Paan",
         img: "5UUaTGO.jpeg",
         opts: {
@@ -6410,6 +6434,14 @@ dataSet[dataSetVersion].characterData = [
         img: "nsM1rN8.jpeg",
         opts: {
             group: ["VVS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "H//PE Princess Rino",
+        img: "PIBR4zY.jpeg",
+        opts: {
+            group: ["H//PE Princess"],
             gen: ["gen5"]
         }
     },
@@ -6638,6 +6670,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "H//PE Princess Sujin",
+        img: "BQML8aj.jpeg",
+        opts: {
+            group: ["H//PE Princess"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "ODD YOUTH Summer",
         img: "0CmrdzK.jpeg",
         opts: {
@@ -6830,6 +6870,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "H//PE Princess YSY",
+        img: "rPkaa3Z.jpeg",
+        opts: {
+            group: ["H//PE Princess"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Hearts2Hearts Yuha",
         img: "qKp95H9.jpeg",
         opts: {
@@ -6842,6 +6890,14 @@ dataSet[dataSetVersion].characterData = [
         img: "4dpADmt.jpeg",
         opts: {
             group: ["Candy Shop"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "H//PE Princess Yuju",
+        img: "iygaslZ.jpeg",
+        opts: {
+            group: ["H//PE Princess"],
             gen: ["gen5"]
         }
     },
