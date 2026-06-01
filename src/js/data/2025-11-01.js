@@ -5966,6 +5966,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Keyveatz Jione",
+        img: "PIho3lJ.jpeg",
+        opts: {
+            group: ["Keyveatz"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Hearts2Hearts Jiwoo",
         img: "BXcnRws.jpeg",
         opts: {
@@ -5994,6 +6002,14 @@ dataSet[dataSetVersion].characterData = [
         img: "s9gAShn.jpeg",
         opts: {
             group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Keyveatz Juone",
+        img: "v2biage.jpeg",
+        opts: {
+            group: ["Keyveatz"],
             gen: ["gen5"]
         }
     },
@@ -6338,6 +6354,14 @@ dataSet[dataSetVersion].characterData = [
         img: "yuNuruF.jpeg",
         opts: {
             group: ["Meovv"], Clash: ["Idol Clash S3"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Keyveatz Newy",
+        img: "8LmXbNR.jpeg",
+        opts: {
+            group: ["Keyveatz"],
             gen: ["gen5"]
         }
     },
@@ -6758,6 +6782,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Keyveatz Yeseul",
+        img: "q6LpLNB.jpeg",
+        opts: {
+            group: ["Keyveatz"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Geenius Yeyoung",
         img: "1aDkGZf.jpeg",
         opts: {
@@ -6810,6 +6842,14 @@ dataSet[dataSetVersion].characterData = [
         img: "4dpADmt.jpeg",
         opts: {
             group: ["Candy Shop"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Keyveatz Yuna",
+        img: "hQU19I1.jpeg",
+        opts: {
+            group: ["Keyveatz"],
             gen: ["gen5"]
         }
     },
