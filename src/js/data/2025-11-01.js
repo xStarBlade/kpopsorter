@@ -6622,6 +6622,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "dodree Songhyun",
+        img: "XGb3nMV.jpeg",
+        opts: {
+            group: ["dodree"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Meovv Sooin",
         img: "BtPjWJl.jpeg",
         opts: {
@@ -6802,6 +6810,14 @@ dataSet[dataSetVersion].characterData = [
         img: "XKeYKf9.jpeg",
         opts: {
             group: ["UNCHILD"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "dodree Yeongjoo",
+        img: "j4gakop.jpeg",
+        opts: {
+            group: ["dodree"],
             gen: ["gen5"]
         }
     },
