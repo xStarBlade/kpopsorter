@@ -3830,14 +3830,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Loossemble Hyunjin",
-        img: "SoY7pdM.jpeg",
-        opts: {
-            group: ["Loossemble"],
-            gen: ["gen4"]
-        }
-    },
-    {
         name: "NeonPunch Iaan",
         img: "yqaQQC8.jpg",
         opts: {
@@ -3898,14 +3890,6 @@ dataSet[dataSetVersion].characterData = [
         img: "tJVv6oT.jpeg",
         opts: {
             group: ["Weeekly"],
-            gen: ["gen4"]
-        }
-    },
-    {
-        name: "Cignature Jeewon",
-        img: "259iC1d.jpeg",
-        opts: {
-            group: ["Cignature"],
             gen: ["gen4"]
         }
     },
@@ -4784,14 +4768,6 @@ dataSet[dataSetVersion].characterData = [
     {
         name: "Cignature Seline",
         img: "4sVbU3e.jpeg",
-        opts: {
-            group: ["Cignature"],
-            gen: ["gen4"]
-        }
-    },
-    {
-        name: "Cignature Semi",
-        img: "bVA8iUN.jpeg",
         opts: {
             group: ["Cignature"],
             gen: ["gen4"]
@@ -5942,6 +5918,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "LATENCY Haeun",
+        img: "I9b4pnW.jpeg",
+        opts: {
+            group: ["LATENCY"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "UNCHILD Haeun",
         img: "Qc6s0dy.jpeg",
         opts: {
@@ -5978,6 +5962,14 @@ dataSet[dataSetVersion].characterData = [
         img: "y4LvDu9.jpeg",
         opts: {
             group: ["UNCHILD"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "LATENCY Heeyeon",
+        img: "Rs3ElmW.jpeg",
+        opts: {
+            group: ["LATENCY"],
             gen: ["gen5"]
         }
     },
@@ -6030,6 +6022,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "LATENCY Hyunjin",
+        img: "259iC1d.jpeg",
+        opts: {
+            group: ["LATENCY"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "VVUP Hyunny",
         img: "F81taPZ.jpeg",
         opts: {
@@ -6074,6 +6074,14 @@ dataSet[dataSetVersion].characterData = [
         img: "i4d1k8s.jpeg",
         opts: {
             group: ["HITGS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "LATENCY Jeewon",
+        img: "RXuz8Rc.jpeg",
+        opts: {
+            group: ["LATENCY"],
             gen: ["gen5"]
         }
     },
@@ -6682,6 +6690,14 @@ dataSet[dataSetVersion].characterData = [
         img: "eTkT9Pd.jpeg",
         opts: {
             group: ["ifeye"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "LATENCY Semi",
+        img: "VWscueO.jpeg",
+        opts: {
+            group: ["LATENCY"],
             gen: ["gen5"]
         }
     },
