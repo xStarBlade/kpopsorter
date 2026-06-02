@@ -3011,7 +3011,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Queenz Eye Ahyoon",
-        img: "FXLyUX8jpeg",
+        img: "FXLyUX8.jpeg",
         opts: {
             group: ["Queenz Eye"],
             gen: ["gen4"]
