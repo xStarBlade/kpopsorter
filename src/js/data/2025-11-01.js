@@ -6027,7 +6027,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LATENCY Hyunjin",
-        img: "259iC1d.jpeg",
+        img: "JrJe5Df.jpeg",
         opts: {
             group: ["LATENCY"],
             gen: ["gen5"]
