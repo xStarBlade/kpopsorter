@@ -7323,6 +7323,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "BEWAVE",
+        img: "IqpWlrF.jpeg",
+        opts: {
+            group_label: ["BEWAVE"],
+        }
+    },
+    {
         name: "Billlie",
         img: "TNTQTMZ.jpeg",
         opts: {
@@ -7414,6 +7421,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "CrazAngel",
+        img: "9N9n516.jpeg",
+        opts: {
+            group_label: ["CrazAngel"],
+        }
+    },
+    {
         name: "CSR",
         img: "CENik18.jpeg",
         opts: {
@@ -7439,6 +7453,13 @@ dataSet[dataSetVersion].characterData = [
         img: "PUl14Ml.jpeg",
         opts: {
             group_label: ["Dia"],
+        }
+    },
+    {
+        name: "Dodree",
+        img: "jlYxUGM.jpeg",
+        opts: {
+            group_label: ["Dodree"],
         }
     },
     {
@@ -7554,10 +7575,24 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "H//PE Princess",
+        img: "6UD9HIY.jpeg",
+        opts: {
+            group_label: ["H//PE Princess"],
+        }
+    },
+    {
         name: "H1-KEY",
         img: "zGKy7JA.jpeg",
         opts: {
             group_label: ["H1-KEY"],
+        }
+    },
+    {
+        name: "Heart Of Woman",
+        img: "3N18DJr.jpeg",
+        opts: {
+            group_label: ["Heart Of Woman"],
         }
     },
     {
@@ -7579,6 +7614,13 @@ dataSet[dataSetVersion].characterData = [
         img: "nM32JSS.jpeg",
         opts: {
             group_label: ["HITGS"],
+        }
+    },
+    {
+        name: "I.MET.U",
+        img: "EeB0N2V.jpeg",
+        opts: {
+            group_label: ["I.MET.U"],
         }
     },
     {
@@ -7645,6 +7687,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kandis",
+        img: "WhApljH.jpeg",
+        opts: {
+            group_label: ["Kandis"],
+        }
+    },
+    {
         name: "Kara",
         img: "tPx2i0L.jpeg",
         opts: {
@@ -7656,6 +7705,13 @@ dataSet[dataSetVersion].characterData = [
         img: "6nTje4D.jpeg",
         opts: {
             group_label: ["Kep1er"],
+        }
+    },
+    {
+        name: "Keyveatz",
+        img: "KJT7FT4.jpeg",
+        opts: {
+            group_label: ["Keyveatz"],
         }
     },
     {
@@ -7698,6 +7754,13 @@ dataSet[dataSetVersion].characterData = [
         img: "ZBd6YIf.jpeg",
         opts: {
             group_label: ["LAPILLUS"],
+        }
+    },
+    {
+        name: "LATENCY",
+        img: "ghNqAI8.jpeg",
+        opts: {
+            group_label: ["LATENCY"],
         }
     },
     {
@@ -7855,6 +7918,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Queenz Eye",
+        img: "KB6ezOk.jpeg",
+        opts: {
+            group_label: ["Queenz Eye"],
+        }
+    },
+    {
         name: "QWER",
         img: "XGyIhYi.jpeg",
         opts: {
@@ -7981,6 +8051,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "UNCHILD",
+        img: "pmdvScH.jpeg",
+        opts: {
+            group_label: ["UNCHILD"],
+        }
+    },
+    {
         name: "UNIS",
         img: "Tz3WNj3.jpeg",
         opts: {
@@ -8006,6 +8083,13 @@ dataSet[dataSetVersion].characterData = [
         img: "CAbbKya.jpeg",
         opts: {
             group_label: ["Viviz"],
+        }
+    },
+    {
+        name: "VVS",
+        img: "5rBGIA2.jpeg",
+        opts: {
+            group_label: ["VVS"],
         }
     },
     {
