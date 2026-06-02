@@ -3006,6 +3006,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Queenz Eye Ahyoon",
+        img: "FXLyUX8jpeg",
+        opts: {
+            group: ["Queenz Eye"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "MAJORS Aki",
         img: "yXMw1k9.jpeg",
         opts: {
@@ -3718,6 +3726,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kandis Hello",
+        img: "sArBwmG.jpeg",
+        opts: {
+            group: ["Kandis"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Kep1er Hikaru",
         img: "UIdT1MF.jpeg",
         opts: {
@@ -3982,6 +3998,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Queenz Eye Jinyul",
+        img: "DmBAOte.jpeg",
+        opts: {
+            group: ["Queenz Eye"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Jiselle",
         img: "mWydawb.jpeg",
         opts: {
@@ -4150,6 +4174,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Queenz Eye Kiirii",
+        img: "4vMOdh6.jpeg",
+        opts: {
+            group: ["Queenz Eye"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "tripleS Kim Chaeyeon",
         img: "YpO4lYX.jpeg",
         opts: {
@@ -4314,6 +4346,14 @@ dataSet[dataSetVersion].characterData = [
         img: "Xr06FZF.png",
         opts: {
             group: ["Pixy"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Kandis Looky",
+        img: "0s2aNVj.jpeg",
+        opts: {
+            group: ["Kandis"],
             gen: ["gen4"]
         }
     },
@@ -4558,6 +4598,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kandis Nine",
+        img: "XDjUq8U.jpeg",
+        opts: {
+            group: ["Kandis"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Aespa Ningning",
         img: "A7vwsBN.jpeg",
         opts: {
@@ -4766,6 +4814,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Queenz Eye Seoha",
+        img: "eW6mMef.jpeg",
+        opts: {
+            group: ["Queenz Eye"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "H1-KEY Seoi",
         img: "KF5fI96.jpeg",
         opts: {
@@ -4794,6 +4850,14 @@ dataSet[dataSetVersion].characterData = [
         img: "BarWRMK.jpeg",
         opts: {
             group: ["GWSN"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Queenz Eye Seovin",
+        img: "kg1Pc7b.jpeg",
+        opts: {
+            group: ["Queenz Eye"],
             gen: ["gen4"]
         }
     },
@@ -5190,6 +5254,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kandis Venny",
+        img: "1d8E46h.jpeg",
+        opts: {
+            group: ["Kandis"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "MAJORS Vita",
         img: "hbKgRJ3.jpeg",
         opts: {
@@ -5210,6 +5282,14 @@ dataSet[dataSetVersion].characterData = [
         img: "JcaCfCa.jpeg",
         opts: {
             group: ["Aespa"], Clash: ["Idol Clash S2"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Queenz Eye Wonchae",
+        img: "SNhVczW.jpeg",
+        opts: {
+            group: ["Queenz Eye"],
             gen: ["gen4"]
         }
     },
@@ -5534,6 +5614,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "CrazAngel Ahon",
+        img: "gur8DuO.jpeg",
+        opts: {
+            group: ["CrazAngel"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "BabyMonster Ahyeon",
         img: "Icl8Yeb.jpeg",
         opts: {
@@ -5746,6 +5834,14 @@ dataSet[dataSetVersion].characterData = [
         img: "XCTXf6g.jpeg",
         opts: {
             group: ["USPEER"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "CrazAngel Daze",
+        img: "NCbwffX.jpeg",
+        opts: {
+            group: ["CrazAngel"],
             gen: ["gen5"]
         }
     },
@@ -6022,6 +6118,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "BEWAVE Jiun",
+        img: "bWbJZ1w.jpeg",
+        opts: {
+            group: ["BEWAVE"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Hearts2Hearts Jiwoo",
         img: "BXcnRws.jpeg",
         opts: {
@@ -6186,6 +6290,14 @@ dataSet[dataSetVersion].characterData = [
         img: "xGs8VZ5.jpeg",
         opts: {
             group: ["KiiiKiii"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "BEWAVE Lena",
+        img: "O5lCUB5.jpeg",
+        opts: {
+            group: ["BEWAVE"],
             gen: ["gen5"]
         }
     },
@@ -6630,6 +6742,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "CrazAngel Shannie",
+        img: "CkShrJO.jpeg",
+        opts: {
+            group: ["CrazAngel"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Say My Name Shuie",
         img: "x30o891.jpeg",
         opts: {
@@ -6682,6 +6802,14 @@ dataSet[dataSetVersion].characterData = [
         img: "sPDwczG.jpeg",
         opts: {
             group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "CrazAngel Solmi",
+        img: "84tALAW.jpeg",
+        opts: {
+            group: ["CrazAngel"],
             gen: ["gen5"]
         }
     },
@@ -7026,6 +7154,14 @@ dataSet[dataSetVersion].characterData = [
         img: "7nZqfso.jpeg",
         opts: {
             group: ["BADVILLAIN"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "BEWAVE Yunseul",
+        img: "3FzP2xc.jpeg",
+        opts: {
+            group: ["BEWAVE"],
             gen: ["gen5"]
         }
     },
