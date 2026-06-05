@@ -6387,7 +6387,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Gavy NJ Luan",
-        img: "xTCC2RI.jpeg",
+        img: "XI8BOAI.jpeg",
         opts: {
             group: ["Gavy NJ"],
             gen: ["gen5"]
@@ -6595,7 +6595,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Gavy NJ Naye",
-        img: "xTCC2RI.jpeg",
+        img: "kfukZ9v.jpeg",
         opts: {
             group: ["Gavy NJ"],
             gen: ["gen5"]
@@ -6662,6 +6662,14 @@ dataSet[dataSetVersion].characterData = [
         img: "nsM1rN8.jpeg",
         opts: {
             group: ["VVS"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Gavy NJ Riel",
+        img: "N39FQ8X.jpeg",
+        opts: {
+            group: ["Gavy NJ"],
             gen: ["gen5"]
         }
     },
@@ -7070,6 +7078,14 @@ dataSet[dataSetVersion].characterData = [
         img: "XKeYKf9.jpeg",
         opts: {
             group: ["UNCHILD"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Gavy NJ Yejan",
+        img: "d6CVRwV.jpeg",
+        opts: {
+            group: ["Gavy NJ"],
             gen: ["gen5"]
         }
     },
@@ -7601,6 +7617,13 @@ dataSet[dataSetVersion].characterData = [
         img: "lqcw5qu.jpeg",
         opts: {
             group_label: ["(G)I-dle"],
+        }
+    },
+    {
+        name: "Gavy NJ",
+        img: "lhrdxVW.jpeg",
+        opts: {
+            group_label: ["Gavy NJ"],
         }
     },
     {
