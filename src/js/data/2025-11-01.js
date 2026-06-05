@@ -65,6 +65,7 @@ dataSet[dataSetVersion].options = [
      { name: "FIFTY FIFTY", key: "FIFTY FIFTY", gen: ["gen4"], tooltip: "Debuted 2022-11-18 under Attrakt with 'The Fifty.' Refined pop harmonies, minimal aesthetics, and sleeper global streaming success." },
      { name: "Fromis 9", key: "Fromis 9", gen: ["gen4"], tooltip: "Debuted 2018-01-24 under Stone Music with 'To. Heart.' Precision choreography, bright hooks, and polished teamwork." },
      { name: "(G)I-dle", key: "(G)I-dle", gen: ["gen4"], tooltip: "Debuted 2018-05-02 under Cube Entertainment with 'Latata.' Self-producing powerhouse famed for distinct concepts and member-led songwriting." },
+     { name: "Gavy NJ", key: "Gavy NJ", gen: ["gen5"], tooltip: "Gavy NJ is a four-member Korean ballad group under DSP Media. They debuted on September 10th 2025." },
      { name: "Geenius", key: "Geenius", gen: ["gen5"], tooltip: "Debuted 2024-01 under independent label with first digital single. Indie-leaning rookies with airy pop and creative styling." },
      { name: "GFriend", key: "GFriend", gen: ["gen3"], tooltip: "Debuted 2015-01-15 under Source Music with 'Glass Bead.' Intense choreography meets melodic, emotional pop and rich harmonies." },
      { name: "Girl's Day", key: "Girl's Day", gen: ["gen2"], tooltip: "Debuted 2010-07-07 under DreamT Entertainment with 'Tilt My Head.' Hitmaking 2010s group balancing playful charm with impressive vocals." },
@@ -256,6 +257,7 @@ dataSet[dataSetVersion].options = [
       {name: "FIFTY FIFTY", key: "FIFTY FIFTY"},
       {name: "Fromis 9", key: "Fromis 9"},
       {name: "(G)I-dle", key: "(G)I-dle"},
+      {name: "Gavy NJ", key: "Gavy NJ"},
       {name: "Geenius", key: "Geenius"},
       {name: "GFriend", key: "GFriend"},
       {name: "Girl's Day", key: "Girl's Day"},
@@ -6384,6 +6386,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Gavy NJ Luan",
+        img: "xTCC2RI.jpeg",
+        opts: {
+            group: ["Gavy NJ"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "WiTCHX Lucia",
         img: "M0Oyj2i.jpeg",
         opts: {
@@ -6580,6 +6590,14 @@ dataSet[dataSetVersion].characterData = [
         img: "yuNuruF.jpeg",
         opts: {
             group: ["Meovv"], Clash: ["Idol Clash S3"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "Gavy NJ Naye",
+        img: "xTCC2RI.jpeg",
+        opts: {
+            group: ["Gavy NJ"],
             gen: ["gen5"]
         }
     },
