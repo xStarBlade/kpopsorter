@@ -5979,7 +5979,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KiiiKiii Haum",
-        img: "v8j3gbH.jpeg",
+        img: "e6n6aU7.jpeg",
         opts: {
             group: ["KiiiKiii"],
             gen: ["gen5"]
@@ -6171,7 +6171,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KiiiKiii Jiyu",
-        img: "LeaI8zW.jpeg",
+        img: "Ls2hZXD.jpeg",
         opts: {
             group: ["KiiiKiii"],
             gen: ["gen5"]
@@ -6299,7 +6299,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KiiiKiii Kya",
-        img: "79nu8YN.jpeg",
+        img: "RPH8Kwz.jpeg",
         opts: {
             group: ["KiiiKiii"],
             gen: ["gen5"]
@@ -6323,7 +6323,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KiiiKiii Leesol",
-        img: "xGs8VZ5.jpeg",
+        img: "x4Iao0L.jpeg",
         opts: {
             group: ["KiiiKiii"],
             gen: ["gen5"]
@@ -6947,7 +6947,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "KiiiKiii Sui",
-        img: "aYVUhjC.jpeg",
+        img: "MMCqr44.jpeg",
         opts: {
             group: ["KiiiKiii"],
             gen: ["gen5"]
