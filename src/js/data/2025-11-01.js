@@ -6043,7 +6043,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "HITGS Hyerin",
-        img: "o9sr7Yr.jpeg",
+        img: "4O0PJkU.jpeg",
         opts: {
             group: ["HITGS"],
             gen: ["gen5"]
@@ -6099,7 +6099,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "HITGS Iyoo",
-        img: "i4d1k8s.jpeg",
+        img: "kR6ZKOP.jpeg",
         opts: {
             group: ["HITGS"],
             gen: ["gen5"]
@@ -6755,7 +6755,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "HITGS Seohee",
-        img: "vUQ8Fsk.jpeg",
+        img: "MP52GzH.jpeg",
         opts: {
             group: ["HITGS"],
             gen: ["gen5"]
@@ -6771,7 +6771,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "HITGS Seojin",
-        img: "aGa2vMc.jpeg",
+        img: "QsVJYgx.jpeg",
         opts: {
             group: ["HITGS"],
             gen: ["gen5"]
@@ -7027,7 +7027,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "HITGS VV",
-        img: "4z0I4M8.jpeg",
+        img: "NnGFV8E.jpeg",
         opts: {
             group: ["HITGS"],
             gen: ["gen5"]
