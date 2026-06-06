@@ -5651,7 +5651,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Meovv Anna",
-        img: "uQI2ig5.jpeg",
+        img: "2b6nmNr.jpeg",
         opts: {
             group: ["Meovv"], Clash: ["Idol Clash S3"],
             gen: ["gen5"]
@@ -5891,7 +5891,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Meovv Ella",
-        img: "9Jrd7RU.jpeg",
+        img: "BUqVHyR.jpeg",
         opts: {
             group: ["Meovv"], Clash: ["Idol Clash S3"],
             gen: ["gen5"]
@@ -6587,7 +6587,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Meovv Narin",
-        img: "yuNuruF.jpeg",
+        img: "HtEA7P4.jpeg",
         opts: {
             group: ["Meovv"], Clash: ["Idol Clash S3"],
             gen: ["gen5"]
@@ -6899,7 +6899,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Meovv Sooin",
-        img: "BtPjWJl.jpeg",
+        img: "kXatYvb.jpeg",
         opts: {
             group: ["Meovv"], Clash: ["Idol Clash S3"],
             gen: ["gen5"]
