@@ -5721,7 +5721,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOVEONE Ayeon",
-        img: "9iZFZ91.jpeg",
+        img: "t0KAcp7.jpeg",
         opts: {
             group: ["LOVEONE"],
             gen: ["gen5"]
@@ -5793,7 +5793,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UDTT Chaehee",
-        img: "9iZFZ91.jpeg",
+        img: "PnLvIjL.jpeg",
         opts: {
             group: ["UDTT"],
             gen: ["gen5"]
@@ -5809,7 +5809,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOVEONE Chaei",
-        img: "9iZFZ91.jpeg",
+        img: "mtL9QoK.jpeg",
         opts: {
             group: ["LOVEONE"],
             gen: ["gen5"]
@@ -6009,7 +6009,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UDTT Hanna",
-        img: "9iZFZ91.jpeg",
+        img: "N6gSuIC.jpeg",
         opts: {
             group: ["UDTT"],
             gen: ["gen5"]
@@ -6745,7 +6745,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UDTT Risako",
-        img: "9iZFZ91.jpeg",
+        img: "GkDj3Fk.jpeg",
         opts: {
             group: ["UDTT"],
             gen: ["gen5"]
@@ -7177,7 +7177,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UDTT Yejin",
-        img: "9iZFZ91.jpeg",
+        img: "iBPbnTg.jpeg",
         opts: {
             group: ["UDTT"],
             gen: ["gen5"]
@@ -7281,7 +7281,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOVEONE Yousom",
-        img: "9iZFZ91.jpeg",
+        img: "XC2avSp.jpeg",
         opts: {
             group: ["LOVEONE"],
             gen: ["gen5"]
@@ -7337,7 +7337,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOVEONE Yume",
-        img: "9iZFZ91.jpeg",
+        img: "60Pevm4.jpeg",
         opts: {
             group: ["LOVEONE"],
             gen: ["gen5"]
@@ -7353,7 +7353,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOVEONE Yuna",
-        img: "9iZFZ91.jpeg",
+        img: "vCSGQT8.jpeg",
         opts: {
             group: ["LOVEONE"],
             gen: ["gen5"]
@@ -7393,7 +7393,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "UDTT Yuting",
-        img: "9iZFZ91.jpeg",
+        img: "pLm5MBv.jpeg",
         opts: {
             group: ["UDTT"],
             gen: ["gen5"]
