@@ -7690,6 +7690,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "eite",
+        img: "GFklF6n.jpeg",
+        opts: {
+            group_label: ["eite"],
+        }
+    },
+    {
         name: "EL7ZUP",
         img: "WMjZZ1R.jpeg",
         opts: {
@@ -8019,6 +8026,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "LOVEONE",
+        img: "59KpMMj.jpeg",
+        opts: {
+            group_label: ["LOVEONE"],
+        }
+    },
+    {
         name: "Madein",
         img: "DU92z7x.jpeg",
         opts: {
@@ -8268,6 +8282,13 @@ dataSet[dataSetVersion].characterData = [
         img: "zrF5oT1.jpeg",
         opts: {
             group_label: ["Twice"],
+        }
+    },
+    {
+        name: "UDTT",
+        img: "AZMCDtJ.jpeg",
+        opts: {
+            group_label: ["UDTT"],
         }
     },
     {
