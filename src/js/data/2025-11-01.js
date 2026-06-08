@@ -96,7 +96,7 @@ dataSet[dataSetVersion].options = [
      { name: "Keyveatz", key: "Keyveatz", gen: ["gen5"], tooltip: "Keyveatz is a 5-member South Korean pre-debut girl crew under AOMG. They released their first pre-debut song, “Key Beats”, on April 29, 2026, followed by a second pre-debut track, “Catch My Breath”, on May 4, 2026.” They are set to debut sometime in 2026." },
      { name: "KiiiKiii", key: "KiiiKiii", gen: ["gen5"], tooltip: "Debuted 2024-05 with first single. Colorful rookies with niche online presence and playful aesthetics." },
      { name: "Kiiras", key: "Kiiras", gen: ["gen5"], tooltip: "Debuted 2024-06 with first digital single. New-gen idols blending modern pop and vibrant styling." },
-     { name: "KISS OF LIFE", key: "KISS OF LIFE", gen: ["gen5"], tooltip: "Debuted 2023-07-05 under S2 Entertainment with 'Shhh.' Retro-tinged R&B-pop, strong vocals, and chic visuals." },
+     { name: "KISS OF LIFE", key: "KISS OF LIFE", gen: ["gen4"], tooltip: "Debuted 2023-07-05 under S2 Entertainment with 'Shhh.' Retro-tinged R&B-pop, strong vocals, and chic visuals." },
      { name: "Laboum", key: "Laboum", gen: ["gen3"], tooltip: "Debuted 2014-08-28 under NH Media with 'Pit-a-Pat.' Melodic mid-tempo pop with soft visuals and steady fan engagement." },
      { name: "Ladies' code", key: "Ladies' code", gen: ["gen3"], tooltip: "Debuted 2013-03-07 under Polaris Entertainment with 'Bad Girl.' Vocal-focused group noted for emotional releases and resilient artistry." },
      { name: "LAPILLUS", key: "LAPILLUS", gen: ["gen4"], tooltip: "Debuted 2022-06-20 under MLD Entertainment with 'Hit Ya!' Upbeat rookies with global members, dynamic concepts, and bright pop." },
@@ -3120,6 +3120,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "KISS OF LIFE Belle",
+        img: "WHf1NTa.jpeg",
+        opts: {
+            group: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "LAPILLUS Bessie",
         img: "jucYqoa.jpeg",
         opts: {
@@ -3656,6 +3664,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "KISS OF LIFE Haneul",
+        img: "dmfrnCg.jpeg",
+        opts: {
+            group: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "X:IN Hannah",
         img: "Ns9NjuE.jpeg",
         opts: {
@@ -3732,6 +3748,14 @@ dataSet[dataSetVersion].characterData = [
         img: "4E4YSVR.jpeg",
         opts: {
             group: ["ARTMS"], Clash: ["Idol Clash S3"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Kandis Hello",
+        img: "sArBwmG.jpeg",
+        opts: {
+            group: ["Kandis"],
             gen: ["gen4"]
         }
     },
@@ -4088,6 +4112,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "KISS OF LIFE Julie",
+        img: "yboszGV.jpeg",
+        opts: {
+            group: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Bvndit Jungwoo",
         img: "v4d2nv4.jpeg",
         opts: {
@@ -4328,6 +4360,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kandis Looky",
+        img: "0s2aNVj.jpeg",
+        opts: {
+            group: ["Kandis"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Nature Lu",
         img: "oRUu9Sd.jpeg",
         opts: {
@@ -4536,6 +4576,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "KISS OF LIFE Natty",
+        img: "x5EbKWu.jpeg",
+        opts: {
+            group: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "Lightsum Nayoung",
         img: "4HbG6fR.jpeg",
         opts: {
@@ -4556,6 +4604,14 @@ dataSet[dataSetVersion].characterData = [
         img: "2P3vt96.jpeg",
         opts: {
             group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+    {
+        name: "Kandis Nine",
+        img: "XDjUq8U.jpeg",
+        opts: {
+            group: ["Kandis"],
             gen: ["gen4"]
         }
     },
@@ -5200,6 +5256,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Kandis Venny",
+        img: "1d8E46h.jpeg",
+        opts: {
+            group: ["Kandis"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "MAJORS Vita",
         img: "hbKgRJ3.jpeg",
         opts: {
@@ -5680,14 +5744,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "KISS OF LIFE Belle",
-        img: "WHf1NTa.jpeg",
-        opts: {
-            group: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
-            gen: ["gen5"]
-        }
-    },
-    {
         name: "Baby DONT Cry Beni",
         img: "OlnkVi3.jpeg",
         opts: {
@@ -5944,14 +6000,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "KISS OF LIFE Haneul",
-        img: "dmfrnCg.jpeg",
-        opts: {
-            group: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
-            gen: ["gen5"]
-        }
-    },
-    {
         name: "Hanhee",
         img: "1nQk77p.jpeg",
         opts: {
@@ -5996,14 +6044,6 @@ dataSet[dataSetVersion].characterData = [
         img: "Rs3ElmW.jpeg",
         opts: {
             group: ["LATENCY"],
-            gen: ["gen5"]
-        }
-    },
-    {
-        name: "Kandis Hello",
-        img: "sArBwmG.jpeg",
-        opts: {
-            group: ["Kandis"],
             gen: ["gen5"]
         }
     },
@@ -6188,14 +6228,6 @@ dataSet[dataSetVersion].characterData = [
         img: "5bzRzG7.jpeg",
         opts: {
             group: ["Candy Shop"],
-            gen: ["gen5"]
-        }
-    },
-    {
-        name: "KISS OF LIFE Julie",
-        img: "yboszGV.jpeg",
-        opts: {
-            group: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
             gen: ["gen5"]
         }
     },
@@ -6396,14 +6428,6 @@ dataSet[dataSetVersion].characterData = [
         img: "xTCC2RI.jpeg",
         opts: {
             group: ["VVS"],
-            gen: ["gen5"]
-        }
-    },
-    {
-        name: "Kandis Looky",
-        img: "0s2aNVj.jpeg",
-        opts: {
-            group: ["Kandis"],
             gen: ["gen5"]
         }
     },
@@ -6616,14 +6640,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "KISS OF LIFE Natty",
-        img: "x5EbKWu.jpeg",
-        opts: {
-            group: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
-            gen: ["gen5"]
-        }
-    },
-    {
         name: "Gavy NJ Naye",
         img: "kfukZ9v.jpeg",
         opts: {
@@ -6652,14 +6668,6 @@ dataSet[dataSetVersion].characterData = [
         img: "foL1hgM.jpeg",
         opts: {
             group: ["H//PE Princess"],
-            gen: ["gen5"]
-        }
-    },
-    {
-        name: "Kandis Nine",
-        img: "XDjUq8U.jpeg",
-        opts: {
-            group: ["Kandis"],
             gen: ["gen5"]
         }
     },
@@ -7084,14 +7092,6 @@ dataSet[dataSetVersion].characterData = [
         img: "VR7pFZ5.jpeg",
         opts: {
             group: ["VIV"],
-            gen: ["gen5"]
-        }
-    },
-    {
-        name: "Kandis Venny",
-        img: "1d8E46h.jpeg",
-        opts: {
-            group: ["Kandis"],
             gen: ["gen5"]
         }
     },
@@ -8397,7 +8397,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
-
 
 
 
