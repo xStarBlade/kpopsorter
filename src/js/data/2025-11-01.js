@@ -58,7 +58,7 @@ dataSet[dataSetVersion].options = [
      { name: "Dreamcatcher", key: "Dreamcatcher", gen: ["gen3"], tooltip: "Debuted 2017-01-13 under Happy Face Entertainment with 'Chase Me.' Rock/metal-influenced idols with dark fantasy lore and intense choreography." },
      { name: "DreamNote", key: "DreamNote", gen: ["gen4"], tooltip: "Debuted 2018-11-07 under iMe Korea with 'Dreamlike.' Cheerful rookies delivering upbeat pop and lively fan engagement." },
      { name: "E11iVYN", key: "E11iVYN", gen: ["gen5"], tooltip: "The group was first introduced on December 23, 2024, as IWU. In late January 2025, the group rebranded to its current name. They officially debuted on October 30, 2025 with their first single “Orbit”." },
-     { name: "Eite", key: "Eite", gen: ["gen5"], tooltip: "eite is a girl group under EVA Entertainment. They made their debut on November 2, 2023 with the single album 'Independent Woman'" },
+     { name: "eite", key: "eite", gen: ["gen5"], tooltip: "eite is a girl group under EVA Entertainment. They made their debut on November 2, 2023 with the single album 'Independent Woman'" },
      { name: "Everglow", key: "Everglow", gen: ["gen4"], tooltip: "Debuted 2019-03-18 under Yuehua Entertainment with 'Bon Bon Chocolat.' Sleek EDM/pop with powerful performances and strong international reach." },
      { name: "EXID", key: "EXID", gen: ["gen3"], tooltip: "Debuted 2012-02-16 under AB Entertainment with 'Whoz That Girl.' Breakout group with viral hits, distinctive timbres, and confident stage energy." },
      { name: "f(x)", key: "f(x)", gen: ["gen2"], tooltip: "Debuted 2009-09-05 under SM Entertainment with 'LA chA TA.' Experimental electropop pioneers with artful concepts and trendsetting sound." },
@@ -253,7 +253,7 @@ dataSet[dataSetVersion].options = [
       {name: "Dreamcatcher", key: "Dreamcatcher"},
       {name: "DreamNote", key: "DreamNote"},
       {name: "E11iVYN", key: "E11iVYN"},
-      {name: "Eite", key: "Eite"},
+      {name: "eite", key: "eite"},
       {name: "Everglow", key: "Everglow"},
       {name: "EXID", key: "EXID"},
       {name: "f(x)", key: "f(x)"},
@@ -5681,7 +5681,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "eite Ari",
-        img: "Iaffem6.jpeg",
+        img: "XKKwYkQ.jpeg",
         opts: {
             group: ["eite"],
             gen: ["gen5"]
@@ -6713,7 +6713,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "eite Rena",
-        img: "Iaffem6.jpeg",
+        img: "yCsc5zh.jpeg",
         opts: {
             group: ["eite"],
             gen: ["gen5"]
@@ -6721,7 +6721,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "eite Reo",
-        img: "Iaffem6.jpeg",
+        img: "r0paLGN.jpeg",
         opts: {
             group: ["eite"],
             gen: ["gen5"]
@@ -6905,7 +6905,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "eite Sia",
-        img: "Iaffem6.jpeg",
+        img: "6e51JzM.jpeg",
         opts: {
             group: ["eite"],
             gen: ["gen5"]
@@ -7313,7 +7313,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "eite Yuisa",
-        img: "Iaffem6.jpeg",
+        img: "ylBRLfo.jpeg",
         opts: {
             group: ["eite"],
             gen: ["gen5"]
@@ -7321,7 +7321,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "eite Yujin",
-        img: "Iaffem6.jpeg",
+        img: "pKZgsxB.jpeg",
         opts: {
             group: ["eite"],
             gen: ["gen5"]
