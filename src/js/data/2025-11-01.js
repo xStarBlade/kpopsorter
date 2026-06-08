@@ -5680,6 +5680,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "eite Ari",
+        img: "Iaffem6.jpeg",
+        opts: {
+            group: ["eite"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "AtHeart Arin",
         img: "Iaffem6.jpeg",
         opts: {
@@ -5708,6 +5716,14 @@ dataSet[dataSetVersion].characterData = [
         img: "02u99DO.jpeg",
         opts: {
             group: ["Heart Of Woman"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "LOVEONE Ayeon",
+        img: "9iZFZ91.jpeg",
+        opts: {
+            group: ["LOVEONE"],
             gen: ["gen5"]
         }
     },
@@ -5776,10 +5792,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "UDTT Chaehee",
+        img: "9iZFZ91.jpeg",
+        opts: {
+            group: ["UDTT"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Heart Of Woman Chaei",
         img: "9iZFZ91.jpeg",
         opts: {
             group: ["Heart Of Woman"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "LOVEONE Chaei",
+        img: "9iZFZ91.jpeg",
+        opts: {
+            group: ["LOVEONE"],
             gen: ["gen5"]
         }
     },
@@ -5972,6 +6004,14 @@ dataSet[dataSetVersion].characterData = [
         img: "1nQk77p.jpeg",
         opts: {
             group: ["Hanhee"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "UDTT Hanna",
+        img: "9iZFZ91.jpeg",
+        opts: {
+            group: ["UDTT"],
             gen: ["gen5"]
         }
     },
@@ -6672,6 +6712,22 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "eite Rena",
+        img: "Iaffem6.jpeg",
+        opts: {
+            group: ["eite"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "eite Reo",
+        img: "Iaffem6.jpeg",
+        opts: {
+            group: ["eite"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Gavy NJ Riel",
         img: "N39FQ8X.jpeg",
         opts: {
@@ -6684,6 +6740,14 @@ dataSet[dataSetVersion].characterData = [
         img: "PIBR4zY.jpeg",
         opts: {
             group: ["H//PE Princess"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "UDTT Risako",
+        img: "9iZFZ91.jpeg",
+        opts: {
+            group: ["UDTT"],
             gen: ["gen5"]
         }
     },
@@ -6836,6 +6900,14 @@ dataSet[dataSetVersion].characterData = [
         img: "x30o891.jpeg",
         opts: {
             group: ["Say My Name"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "eite Sia",
+        img: "Iaffem6.jpeg",
+        opts: {
+            group: ["eite"],
             gen: ["gen5"]
         }
     },
@@ -7104,6 +7176,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "UDTT Yejin",
+        img: "9iZFZ91.jpeg",
+        opts: {
+            group: ["UDTT"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "E11iVYN Yeongeun",
         img: "qj7ZqZ4.jpeg",
         opts: {
@@ -7200,6 +7280,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "LOVEONE Yousom",
+        img: "9iZFZ91.jpeg",
+        opts: {
+            group: ["LOVEONE"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "H//PE Princess YSY",
         img: "rPkaa3Z.jpeg",
         opts: {
@@ -7224,6 +7312,22 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "eite Yuisa",
+        img: "Iaffem6.jpeg",
+        opts: {
+            group: ["eite"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "eite Yujin",
+        img: "Iaffem6.jpeg",
+        opts: {
+            group: ["eite"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "H//PE Princess Yuju",
         img: "iygaslZ.jpeg",
         opts: {
@@ -7232,10 +7336,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "LOVEONE Yume",
+        img: "9iZFZ91.jpeg",
+        opts: {
+            group: ["LOVEONE"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Keyveatz Yuna",
         img: "hQU19I1.jpeg",
         opts: {
             group: ["Keyveatz"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "LOVEONE Yuna",
+        img: "9iZFZ91.jpeg",
+        opts: {
+            group: ["LOVEONE"],
             gen: ["gen5"]
         }
     },
@@ -7268,6 +7388,14 @@ dataSet[dataSetVersion].characterData = [
         img: "3FzP2xc.jpeg",
         opts: {
             group: ["BEWAVE"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "UDTT Yuting",
+        img: "9iZFZ91.jpeg",
+        opts: {
+            group: ["UDTT"],
             gen: ["gen5"]
         }
     },
