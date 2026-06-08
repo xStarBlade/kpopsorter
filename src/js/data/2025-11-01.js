@@ -96,7 +96,7 @@ dataSet[dataSetVersion].options = [
      { name: "Keyveatz", key: "Keyveatz", gen: ["gen5"], tooltip: "Keyveatz is a 5-member South Korean pre-debut girl crew under AOMG. They released their first pre-debut song, “Key Beats”, on April 29, 2026, followed by a second pre-debut track, “Catch My Breath”, on May 4, 2026.” They are set to debut sometime in 2026." },
      { name: "KiiiKiii", key: "KiiiKiii", gen: ["gen5"], tooltip: "Debuted 2024-05 with first single. Colorful rookies with niche online presence and playful aesthetics." },
      { name: "Kiiras", key: "Kiiras", gen: ["gen5"], tooltip: "Debuted 2024-06 with first digital single. New-gen idols blending modern pop and vibrant styling." },
-     { name: "KISS OF LIFE", key: "KISS OF LIFE", gen: ["gen4"], tooltip: "Debuted 2023-07-05 under S2 Entertainment with 'Shhh.' Retro-tinged R&B-pop, strong vocals, and chic visuals." },
+     { name: "KISS OF LIFE", key: "KISS OF LIFE", gen: ["gen5"], tooltip: "Debuted 2023-07-05 under S2 Entertainment with 'Shhh.' Retro-tinged R&B-pop, strong vocals, and chic visuals." },
      { name: "Laboum", key: "Laboum", gen: ["gen3"], tooltip: "Debuted 2014-08-28 under NH Media with 'Pit-a-Pat.' Melodic mid-tempo pop with soft visuals and steady fan engagement." },
      { name: "Ladies' code", key: "Ladies' code", gen: ["gen3"], tooltip: "Debuted 2013-03-07 under Polaris Entertainment with 'Bad Girl.' Vocal-focused group noted for emotional releases and resilient artistry." },
      { name: "LAPILLUS", key: "LAPILLUS", gen: ["gen4"], tooltip: "Debuted 2022-06-20 under MLD Entertainment with 'Hit Ya!' Upbeat rookies with global members, dynamic concepts, and bright pop." },
@@ -3124,7 +3124,7 @@ dataSet[dataSetVersion].characterData = [
         img: "WHf1NTa.jpeg",
         opts: {
             group: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
-            gen: ["gen4"]
+            gen: ["gen5"]
         }
     },
     {
@@ -3668,7 +3668,7 @@ dataSet[dataSetVersion].characterData = [
         img: "dmfrnCg.jpeg",
         opts: {
             group: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
-            gen: ["gen4"]
+            gen: ["gen5"]
         }
     },
     {
@@ -3756,7 +3756,7 @@ dataSet[dataSetVersion].characterData = [
         img: "sArBwmG.jpeg",
         opts: {
             group: ["Kandis"],
-            gen: ["gen4"]
+            gen: ["gen5"]
         }
     },
     {
@@ -4116,7 +4116,7 @@ dataSet[dataSetVersion].characterData = [
         img: "yboszGV.jpeg",
         opts: {
             group: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
-            gen: ["gen4"]
+            gen: ["gen5"]
         }
     },
     {
@@ -4364,7 +4364,7 @@ dataSet[dataSetVersion].characterData = [
         img: "0s2aNVj.jpeg",
         opts: {
             group: ["Kandis"],
-            gen: ["gen4"]
+            gen: ["gen5"]
         }
     },
     {
@@ -4580,7 +4580,7 @@ dataSet[dataSetVersion].characterData = [
         img: "x5EbKWu.jpeg",
         opts: {
             group: ["KISS OF LIFE"], Clash: ["Idol Clash S3"],
-            gen: ["gen4"]
+            gen: ["gen5"]
         }
     },
     {
@@ -4612,7 +4612,7 @@ dataSet[dataSetVersion].characterData = [
         img: "XDjUq8U.jpeg",
         opts: {
             group: ["Kandis"],
-            gen: ["gen4"]
+            gen: ["gen5"]
         }
     },
     {
@@ -5260,7 +5260,7 @@ dataSet[dataSetVersion].characterData = [
         img: "1d8E46h.jpeg",
         opts: {
             group: ["Kandis"],
-            gen: ["gen4"]
+            gen: ["gen5"]
         }
     },
     {
