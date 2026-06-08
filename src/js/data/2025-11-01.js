@@ -58,6 +58,7 @@ dataSet[dataSetVersion].options = [
      { name: "Dreamcatcher", key: "Dreamcatcher", gen: ["gen3"], tooltip: "Debuted 2017-01-13 under Happy Face Entertainment with 'Chase Me.' Rock/metal-influenced idols with dark fantasy lore and intense choreography." },
      { name: "DreamNote", key: "DreamNote", gen: ["gen4"], tooltip: "Debuted 2018-11-07 under iMe Korea with 'Dreamlike.' Cheerful rookies delivering upbeat pop and lively fan engagement." },
      { name: "E11iVYN", key: "E11iVYN", gen: ["gen5"], tooltip: "The group was first introduced on December 23, 2024, as IWU. In late January 2025, the group rebranded to its current name. They officially debuted on October 30, 2025 with their first single “Orbit”." },
+     { name: "Eite", key: "Eite", gen: ["gen5"], tooltip: "eite is a girl group under EVA Entertainment. They made their debut on November 2, 2023 with the single album 'Independent Woman'" },
      { name: "Everglow", key: "Everglow", gen: ["gen4"], tooltip: "Debuted 2019-03-18 under Yuehua Entertainment with 'Bon Bon Chocolat.' Sleek EDM/pop with powerful performances and strong international reach." },
      { name: "EXID", key: "EXID", gen: ["gen3"], tooltip: "Debuted 2012-02-16 under AB Entertainment with 'Whoz That Girl.' Breakout group with viral hits, distinctive timbres, and confident stage energy." },
      { name: "f(x)", key: "f(x)", gen: ["gen2"], tooltip: "Debuted 2009-09-05 under SM Entertainment with 'LA chA TA.' Experimental electropop pioneers with artful concepts and trendsetting sound." },
@@ -105,6 +106,7 @@ dataSet[dataSetVersion].options = [
      { name: "Lightsum", key: "Lightsum", gen: ["gen4"], tooltip: "Debuted 2021-06-10 under Cube Entertainment with 'Vanilla.' Radiant rookies offering crisp choreography and clean, melodic pop." },
      { name: "Loossemble", key: "Loossemble", gen: ["gen4"], tooltip: "Debuted 2023-09-15 under CTDENM with 'Sensitive.' LOONA-lineup spin-off with warm aesthetics and story-rich pop." },
      { name: "Lovelyz", key: "Lovelyz", gen: ["gen3"], tooltip: "Debuted 2014-11-12 under Woollim Entertainment with 'Candy Jelly Love.' Soft, synthy melodies, angelic visuals, and refined vocal blends." },
+     { name: "LOVEONE", key: "LOVEONE", gen: ["gen5"], tooltip: "LOVEONE is a four-member girl group under CMG Stars. Originally as five, they made their debut on November 22, 2024 with the single album 'Funny Honey'." },
      { name: "Madein", key: "Madein", gen: ["gen5"], tooltip: "Debuted 2024-05 with first digital single. New rookies with indie-pop touches and understated, modern styling." },
      { name: "MAJORS", key: "MAJORS", gen: ["gen4"], tooltip: "Debuted 2021-03-09 under ANS Entertainment with 'The Beginning of Legend.' Performance-centric rookies emphasizing sharp choreography and trendy pop." },
      { name: "Mamamoo", key: "Mamamoo", gen: ["gen3"], tooltip: "Debuted 2014-06-18 under RBW with 'Mr. Ambiguous.' Vocal powerhouses with soulful influences, witty concepts, and live prowess." },
@@ -141,6 +143,7 @@ dataSet[dataSetVersion].options = [
      { name: "Tri.be", key: "Tri.be", gen: ["gen4"], tooltip: "Debuted 2021-02-17 under TR Entertainment with 'Doom Doom Ta.' Global rookies delivering assertive dance-pop and dynamic formations." },
      { name: "tripleS", key: "tripleS", gen: ["gen4"], tooltip: "Debuted 2022-10-28 under Modhaus with 'Generation.' Modular concept group with fan participation, subunits, and novel releases." },
      { name: "Twice", key: "Twice", gen: ["gen3"], tooltip: "Debuted 2015-10-20 under JYP Entertainment with 'Like OOH-AHH.' Asia-spanning hitmakers with addictive hooks, synchronized stages, and charm." },
+     { name: "UDTT", key: "UDTT", gen: ["gen5"], tooltip: "UDTT is a five-member girl group under SW Entertainment. They made their debut on April 29, 2025 with the single album 'School Rush'." },
      { name: "UNCHILD", key: "UNCHILD", gen: ["gen5"], tooltip: "UNCHILD, formerly known as HighUp Baby and HighUp Trainees, is a 6-member South Korean girl group under HighUp Entertainment. They debuted on April 21, 2026, with their first single, “We Are UNCHILD”." },
      { name: "UNIS", key: "UNIS", gen: ["gen5"], tooltip: "Debuted 2024-03-27 under F&F Entertainment with 'Superwoman.' Survival-show rookies with diverse members and polished modern pop." },
      { name: "USPEER", key: "USPEER", gen: ["gen5"], tooltip: "Debuted 2024-06 with first digital single. Emerging rookies emphasizing trendy styling and digital-first promotion." },
@@ -250,6 +253,7 @@ dataSet[dataSetVersion].options = [
       {name: "Dreamcatcher", key: "Dreamcatcher"},
       {name: "DreamNote", key: "DreamNote"},
       {name: "E11iVYN", key: "E11iVYN"},
+      {name: "Eite", key: "Eite"},
       {name: "Everglow", key: "Everglow"},
       {name: "EXID", key: "EXID"},
       {name: "f(x)", key: "f(x)"},
@@ -296,6 +300,7 @@ dataSet[dataSetVersion].options = [
       {name: "Lightsum", key: "Lightsum"},
       {name: "Loossemble", key: "Loossemble"},
       {name: "Lovelyz", key: "Lovelyz"},
+      {name: "LOVEONE", key: "LOVEONE"},
       {name: "Madein", key: "Madein"},
       {name: "MAJORS", key: "MAJORS"},
       {name: "Mamamoo", key: "Mamamoo"},
@@ -332,6 +337,7 @@ dataSet[dataSetVersion].options = [
       {name: "Tri.be", key: "Tri.be"},
       {name: "tripleS", key: "tripleS"},
       {name: "Twice", key: "Twice"},
+      {name: "UDTT", key: "UDTT"},
       {name: "UNCHILD", key: "UNCHILD"},
       {name: "UNIS", key: "UNIS"},
       {name: "USPEER", key: "USPEER"},
@@ -7262,14 +7268,6 @@ dataSet[dataSetVersion].characterData = [
         img: "3FzP2xc.jpeg",
         opts: {
             group: ["BEWAVE"],
-            gen: ["gen5"]
-        }
-    },
-    {
-        name: "VIV Yume",
-        img: "8Atm03E.jpeg",
-        opts: {
-            group: ["VIV"],
             gen: ["gen5"]
         }
     },
