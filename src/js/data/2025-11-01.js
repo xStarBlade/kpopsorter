@@ -115,6 +115,7 @@ dataSet[dataSetVersion].options = [
      { name: "Miss A", key: "Miss A", gen: ["gen2"], tooltip: "Debuted 2010-07-01 under JYP Entertainment with 'Bad Girl Good Girl.' Quartet known for bold concepts, chart hits, and strong vocals." },
      { name: "Momoland", key: "Momoland", gen: ["gen3"], tooltip: "Debuted 2016-11-10 under MLD Entertainment with 'Welcome to Momoland.' Viral dance-pop with playful hooks and energetic performances." },
      { name: "Nature", key: "Nature", gen: ["gen4"], tooltip: "Debuted 2018-08-03 under n.CH Entertainment with 'Girls and Flowers.' Bright nature-themed pop with colorful visuals and lively choreography." },
+     { name: "NAVILLERA", key: "NAVILLERA", gen: ["gen5"], tooltip: "NAVILLERA is a 5-member South Korean girl group under Troy Entertainment. They made their official debut on February 3, 2026 with the single “NO LIMIT”." },
      { name: "NeonPunch", key: "NeonPunch", gen: ["gen4"], tooltip: "Debuted 2018-06-27 under A100 Entertainment with 'Moonlight.' Short-lived rookies remembered for energetic tracks and dance focus." },
      { name: "NewJeans", key: "NewJeans", gen: ["gen4"], tooltip: "Debuted 2022-08-01 under ADOR with 'Attention.' Y2K-inspired prodigies with minimalist pop, viral appeal, and cool styling." },
      { name: "Nmixx", key: "Nmixx", gen: ["gen4"], tooltip: "Debuted 2022-02-22 under JYP Entertainment with 'O.O.' Multi-vocalists known for genre-blending ‘MIXX POP’ and complex performance." },
@@ -309,6 +310,7 @@ dataSet[dataSetVersion].options = [
       {name: "Miss A", key: "Miss A"},
       {name: "Momoland", key: "Momoland"},
       {name: "Nature", key: "Nature"},
+      {name: "NAVILLERA", key: "NAVILLERA"},
       {name: "NeonPunch", key: "NeonPunch"},
       {name: "NewJeans", key: "NewJeans"},
       {name: "Nmixx", key: "Nmixx"},
@@ -5864,6 +5866,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "NAVILLERA Dahlia",
+        img: "gBX6dm1.jpeg",
+        opts: {
+            group: ["NAVILLERA"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "VIV Dana",
         img: "x3JZ1d7.jpeg",
         opts: {
@@ -5940,6 +5950,14 @@ dataSet[dataSetVersion].characterData = [
         img: "5fXc7ST.jpeg",
         opts: {
             group: ["BADVILLAIN"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "NAVILLERA Enny",
+        img: "OFFPwMy.jpeg",
+        opts: {
+            group: ["NAVILLERA"],
             gen: ["gen5"]
         }
     },
@@ -6504,6 +6522,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "NAVILLERA Melody",
+        img: "1fCX6Z7.jpeg",
+        opts: {
+            group: ["NAVILLERA"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "Say My Name Mei",
         img: "EFj7ifZ.jpeg",
         opts: {
@@ -6736,6 +6762,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "NAVILLERA Rila",
+        img: "CFZNUpM.jpeg",
+        opts: {
+            group: ["NAVILLERA"],
+            gen: ["gen5"]
+        }
+    },
+    {
         name: "H//PE Princess Rino",
         img: "PIBR4zY.jpeg",
         opts: {
@@ -6812,6 +6846,14 @@ dataSet[dataSetVersion].characterData = [
         img: "eTkT9Pd.jpeg",
         opts: {
             group: ["ifeye"],
+            gen: ["gen5"]
+        }
+    },
+    {
+        name: "NAVILLERA Saya",
+        img: "rOIe4Kk.jpeg",
+        opts: {
+            group: ["NAVILLERA"],
             gen: ["gen5"]
         }
     },
@@ -8086,6 +8128,13 @@ dataSet[dataSetVersion].characterData = [
         img: "BHdZDS9.jpeg",
         opts: {
             group_label: ["Nature"]
+        }
+    },
+    {
+        name: "NAVILLERA",
+        img: "OFCEHwz.jpeg",
+        opts: {
+            group_label: ["NAVILLERA]
         }
     },
     {
