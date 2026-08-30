@@ -364,6 +364,7 @@ dataSet[dataSetVersion].options = [
     sub: [
     { key: "Idol Clash S2", name: "Idol Clash S2", checked: false },
     { key: "Idol Clash S3", name: "Idol Clash S3", checked: false },
+    { key: "Idol Clash Cat Edition", name: "Idol Clash Cat Edition", checked: false },
   ]
   },
 ];
@@ -3381,7 +3382,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Pixy Dajeong",
         img: "8wYPqBh.png",
         opts: {
-            group: ["Pixy"],
+            group: ["Pixy"], Clash: ["Idol Clash Cat Edition"],
             gen: ["gen4"]
         }
     },
@@ -3605,7 +3606,7 @@ dataSet[dataSetVersion].characterData = [
         name: "NewJeans Haerin",
         img: "cWe7xas.jpeg",
         opts: {
-            group: ["NewJeans"],
+            group: ["NewJeans"], Clash: ["Idol Clash Cat Edition"],
             gen: ["gen4"]
         }
     },
@@ -3893,7 +3894,7 @@ dataSet[dataSetVersion].characterData = [
         name: "STAYC Isa",
         img: "jeNxoQX.jpeg",
         opts: {
-            group: ["STAYC"], Clash: ["Idol Clash S3"],
+            group: ["STAYC"], Clash: ["Idol Clash S3"], Clash: ["Idol Clash Cat Edition"],
             gen: ["gen4"]
         }
     },
@@ -4261,7 +4262,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Nmixx Kyujin",
         img: "21GD0tm.jpeg",
         opts: {
-            group: ["Nmixx"], Clash: ["Idol Clash S2"],
+            group: ["Nmixx"], Clash: ["Idol Clash S2"], Clash: ["Idol Clash Cat Edition"],
             gen: ["gen4"]
         }
     },
@@ -4925,7 +4926,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Billlie Sheon",
         img: "ToeXf1I.jpeg",
         opts: {
-            group: ["Billlie"],
+            group: ["Billlie"], Clash: ["Idol Clash Cat Edition"],
             gen: ["gen4"]
         }
     },
@@ -5005,7 +5006,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Billlie Siyoon",
         img: "OW1vMee.jpeg",
         opts: {
-            group: ["Billlie"],
+            group: ["Billlie"], Clash: ["Idol Clash Cat Edition"],
             gen: ["gen4"]
         }
     },
@@ -5349,7 +5350,7 @@ dataSet[dataSetVersion].characterData = [
         name: "ITZY Yeji",
         img: "1h5LNwo.jpeg",
         opts: {
-            group: ["ITZY"], Clash: ["Idol Clash S2"],
+            group: ["ITZY"], Clash: ["Idol Clash S2"], Clash: ["Idol Clash Cat Edition"],
             gen: ["gen4"]
         }
     },
@@ -5853,7 +5854,7 @@ dataSet[dataSetVersion].characterData = [
         name: "izna Choi Jungeun",
         img: "Drlhy47.jpeg",
         opts: {
-            group: ["izna"],
+            group: ["izna"], Clash: ["Idol Clash Cat Edition"],
             gen: ["gen5"]
         }
     },
@@ -6045,7 +6046,7 @@ dataSet[dataSetVersion].characterData = [
         name: "KiiiKiii Haum",
         img: "e6n6aU7.jpeg",
         opts: {
-            group: ["KiiiKiii"],
+            group: ["KiiiKiii"], Clash: ["Idol Clash Cat Edition"],
             gen: ["gen5"]
         }
     },
@@ -6269,7 +6270,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Hearts2Hearts Juun",
         img: "tYJ1qwn.jpeg",
         opts: {
-            group: ["Hearts2Hearts"], Clash: ["Idol Clash S3"],
+            group: ["Hearts2Hearts"], Clash: ["Idol Clash S3"], Clash: ["Idol Clash Cat Edition"],
             gen: ["gen5"]
         }
     },
@@ -6485,7 +6486,7 @@ dataSet[dataSetVersion].characterData = [
         name: "izna Mai",
         img: "UMib8l8.jpeg",
         opts: {
-            group: ["izna"],
+            group: ["izna"], Clash: ["Idol Clash Cat Edition"],
             gen: ["gen5"]
         }
     },
@@ -7021,7 +7022,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Meovv Sooin",
         img: "kXatYvb.jpeg",
         opts: {
-            group: ["Meovv"], Clash: ["Idol Clash S3"],
+            group: ["Meovv"], Clash: ["Idol Clash S3"], Clash: ["Idol Clash Cat Edition"],
             gen: ["gen5"]
         }
     },
